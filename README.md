@@ -82,7 +82,7 @@ Se você gostou do projeto e deseja contribuir:
 **Chave Pix:** `016508d2-3500-4f82-9b67-07a9c7710861`
 
 <p align="center">
-  <img src="../assets/qrcode.jpeg" alt="QR Code Pix" width="150"/>
+  <img src="../assets/qrcode.jpg" alt="QR Code Pix" width="150"/>
 </p>
 
 </details>
