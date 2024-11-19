@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_transmutation_no_recipe_found">
+        <text>%c[d_orange][SYS AVISO]:%c[default] Nenhuma receita com assinatura adequada encontrada no banco de dados.</text>
+    </string>
+
+    <string id="st_transmutation_success">
+        <text>%c[d_green][SYS NOTIF]:%c[default] Transmutação bem sucedida. Resultado: %c[d_orange]$result%c[default].</text>
+    </string>
+
+    <string id="st_transmutation_low_tier">
+        <text>%c[d_red][SYS ERRO]:%c[default] O dispositivo não é de nível alto suficiente para esta transmutação.</text>
+    </string>
+
+    <string id="st_transmutator_recipe_already_installed">
+        <text>%c[d_red][SYS ERRO]:%c[default] Uma receita como esta já está instalada no dispositivo.</text>
+    </string>
+
+    <string id="st_transmutator_condition_failed">
+        <text>%c[d_red][SYS ERROR]:%c[default] A condição para a transmutação não é atendida.</text>
+    </string>
+
+    <string id="st_transmutator_recipe_installed">
+        <text>%c[d_green][SYS NOTIF]:%c[default] Receita instalada com sucesso.</text>
+    </string>
+
+    <string id="st_transmutator_scan_result_success">
+        <text>%c[d_green][SYS NOTIF]:%c[default] Scan bem sucedido: \n</text>
+    </string>
+
+    <string id="st_transmutator_scan_template">
+        <text>• %s \n</text>
+    </string>
+
+	<string id="st_transmutator_scan_unknown">
+		<text>UNKNOWN</text>
+	</string>
+
+    <string id="st_transmutation_scan_result_failed">
+        <text>%c[d_orange][SYS WARN]:%c[default] Nenhuma anomalia foi encontrada perto, abortando.</text>
+    </string>
+
+    <string id="st_transmutator">
+        <text>Módulo de Transmutação</text>
+    </string>
+
+    <string id="st_transmutator_descr">
+        <text>Dispositivo instalado em detectores e usado para fusão de artefatos.</text>
+    </string>
+
+    <string id="st_transmutator_installed">
+        <text>%c[d_green]Módulo de Transmutação instalado. \n\n</text>
+    </string>
+
+    <string id="st_transmutator_not_installed">
+        <text>%c[d_red]Módulo de Transmutação não instalado. \n\n</text>
+    </string>
+
+    <string id="st_transmutation_installed_recipes">
+        <text>\n\nRECEITAS INSTALADAS:</text>
+    </string>
+
+    <string id="st_recipe_hides_all">
+        <text>Receita de Pele I</text>
+    </string>
+    <string id="st_recipe_hides_all_descr">
+        <text>Um chip gasto, contém muitas notas sobre a interação de pele mutante com anomalias encontradas na Zona.
+		/nEm uma inspeção mais cuidadosa e profunda através das notas bagunçadas e desorganizadas, que essas "receitas" foram escritas e coletadas por muitos stalkers, a maioria deles sendo sortudos e não tão sortudos interações com diferentes ameias mutantes que vagam pela Zona quando próximos a ameias elementais.</text>
+    </string>
+
+    <string id="st_recipe_fire">
+        <text>Receita de Fogo I</text>
+    </string>
+    <string id="st_recipe_fire_descr">
+        <text>Um chip pequeno, contém propriedades e interações de artefatos comuns de fogo com os diferentes riscos ambientais encontrados na Zona.
+		/nAo longo de todas as anotações científicas, você encontra uma série de padrões que podem potencialmente levar artefatos a seus máximos níveis de eficiência e sofrer transmutação ao entrar em contato com outros materiais através da exposição de partículas de fogo de alta densidade.</text>
+    </string>
+
+    <string id="st_recipe_advanced_fire">
+        <text>Receita de Fogo II</text>
+    </string>
+    <string id="st_recipe_advanced_fire_descr">
+        <text>Um chip pequeno, contém informações sobre a detecção de fusão interna de artefatos de fogo que podem ser amplificados com uma reação específica causando transformação e mutação.
+		/nOs arquivos científicos e conteúdos deste chip são mais avançados e você não entende muitos dos termos e palavras-chave mencionados no documento, embora, as combinações possíveis e resultados dos experimentos com artefatos sejam fáceis de perceber pelo ênfase usada neles.</text>
+    </string>
+
+    <string id="st_recipe_expert_fire">
+        <text>Receita de Fogo III</text>
+    </string>
+    <string id="st_recipe_expert_fire_descr">
+        <text>Um chip pequeno, consiste em várias pesquisas sobre a descoberta de um núcleo interno em repouso, o processo de ativação, bem como o impacto positivo e negativo que o processo tem em muitos artefatos de fogo.
+		/nOs documentos científicos deste chip falam sobre os muitos fracassos em ativar os núcleos mencionados e os muitos mais????????????????????????????
+		/nNo lado bom dos experimentos, é mencionado como algumas das propriedades positivas desses artefatos ativados manualmente foram levadas para o mundo fora da zona.
+		/nTambém é mencionado que alguns artefatos adquiriram propriedades extras que não estão ligadas ao seu elemento, mas você não parece encontrar nenhum sinal de como causar esses efeitos.</text>
+    </string>
+
+    <string id="st_recipe_electra">
+        <text>Receita de Eletricidade I</text>
+    </string>
+    <string id="st_recipe_electra_descr">
+        <text>Um chip pequeno, contém propriedades e interações de artefatos de eletricidade de baixo nível com os diferentes riscos ambientais encontrados na Zona.
+		/nAo longo de todas as anotações científicas, você encontra uma série de padrões que podem potencialmente levar artefatos a seus máximos níveis de eficiência e sofrer transmutação ao entrar em contato com outros materiais através da exposição de partículas de fogo de alta densidade.</text>
+    </string>
+
+    <string id="st_recipe_advanced_electra">
+        <text>Receita de Eletricidade II</text>
+    </string>
+    <string id="st_recipe_advanced_electra_descr">
+        <text>Um chip pequeno, contém informações sobre a detecção de fusão interna de artefatos de eletricidade que podem ser amplificados com uma reação específica causando transformação e mutação.
+		/nOs arquivos científicos e conteúdos deste chip são mais avançados e você não entende muitos dos termos e palavras-chave mencionados no documento, embora, as combinações possíveis e resultados dos experimentos com artefatos sejam fáceis de perceber pelo ênfase usada neles.</text>
+    </string>
+
+    <string id="st_recipe_expert_electra">
+        <text>Receita de Eletricidade III</text>
+    </string>
+    <string id="st_recipe_expert_electra_descr">
+        <text>Um chip pequeno, consiste em várias pesquisas sobre a descoberta de um núcleo interno em repouso, o processo de ativação, bem como o impacto positivo e negativo que o processo tem em muitos artefatos de eletricidade.
+		/nOs documentos científicos deste chip falam sobre os muitos fracassos em ativar os núcleos mencionados e os muitos mais????????????????????????????
+		/nNo lado bom dos experimentos, é mencionado como algumas das propriedades positivas desses artefatos ativados manualmente foram levadas para o mundo fora da zona.
+		/nTambém é mencionado que alguns artefatos adquiriram propriedades extras que não estão ligadas ao seu elemento, mas você não parece encontrar nenhum sinal de como causar esses efeitos.</text>
+    </string>
+
+    <string id="st_recipe_chemi">
+        <text>Receita de Química I</text>
+    </string>
+    <string id="st_recipe_chemi_descr">
+        <text>Um chip pequeno, contém propriedades e interações de artefatos de química de baixo nível com os diferentes riscos ambientais encontrados na Zona.
+		/nAo longo de todas as anotações científicas, você encontra uma série de padrões que podem potencialmente levar artefatos a seus máximos níveis de eficiência e sofrer transmutação ao entrar em contato com outros materiais através da exposição de partículas de fogo de alta densidade.</text>
+    </string>
+
+    <string id="st_recipe_advanced_chemi">
+        <text>Receita de Química II</text>
+    </string>
+    <string id="st_recipe_advanced_chemi_descr">
+        <text>Um chip pequeno, contém informações sobre a detecção de fusão interna de artefatos de química que podem ser amplificados com uma reação específica causando transformação e mutação.
+		/nOs arquivos científicos e conteúdos deste chip são mais avançados e você não entende muitos dos termos e palavras-chave mencionados no documento, embora, as combinações possíveis e resultados dos experimentos com artefatos sejam fáceis de perceber pelo ênfase usada neles.</text>
+    </string>
+
+    <string id="st_recipe_expert_chemi">
+        <text>Receita de Química III</text>
+    </string>
+    <string id="st_recipe_expert_chemi_descr">
+        <text>A small sized chip, consists of various researches regarding the discovery of an inner dormant core, the process of activation as well as the positive and negative impact that the process has on the many different Chemical artefacts.
+		/nOs documentos científicos deste chip falam sobre os muitos fracassos em ativar os núcleos mencionados e os muitos mais????????????????????????????
+		/nNo lado bom dos experimentos, é mencionado como algumas das propriedades positivas desses artefatos ativados manualmente foram levadas para o mundo fora da zona.
+		/nTambém é mencionado que alguns artefatos adquiriram propriedades extras que não estão ligadas ao seu elemento, mas você não parece encontrar nenhum sinal de como causar esses efeitos.</text>
+    </string>
+
+    <string id="st_recipe_gravi">
+        <text>Receita de Gravidade I</text>
+    </string>
+    <string id="st_recipe_gravi_descr">
+        <text>Um chip pequeno, contém propriedades e interações de artefatos de gravidade de baixo nível com os diferentes riscos ambientais encontrados na Zona.
+		/nAo longo de todas as anotações científicas, você encontra uma série de padrões que podem potencialmente levar artefatos a seus máximos níveis de eficiência e sofrer transmutação ao entrar em contato com outros materiais através da exposição de partículas de fogo de alta densidade.</text>
+    </string>
+
+    <string id="st_recipe_advanced_gravi">
+        <text>Receita de Gravidade II</text>
+    </string>
+    <string id="st_recipe_advanced_gravi_descr">
+        <text>A small sized chip, it contains information about the detection of inner fusion of Gravitational artefacts that can be amplified with an specific reaction causing transformation and mutation.
+		/nThe scientific files and contents of this chip are more advanced and you lack the understanding of a lot of terms and keywords that are mentioned in the document, altho, the possible combinations and results of the artefacts experiments are easy to tell judging by the emphazis used on them.</text>
+    </string>
+
+    <string id="st_recipe_expert_gravi">
+        <text>Receita de Gravidade III</text>
+    </string>
+    <string id="st_recipe_expert_gravi_descr">
+        <text>
+		Um chip pequeno, consiste em várias pesquisas sobre a descoberta de um núcleo dormente interno, o processo de ativação, bem como o impacto positivo e negativo que o processo tem nos diferentes artefatos Gravitacionais.
+		/nOs documentos científicos deste chip falam sobre as muitas tentativas fracassadas de ativar esses núcleos e as muitas mais consequências que esses experimentos trouxeram ao forçar um artefato a alterar seu estado natural.
+		/nNo lado bom dos experimentos, é mencionado como algumas das propriedades positivas desses artefatos ativados manualmente foram levadas para o mundo fora da zona.
+		/nTambém é mencionado que alguns artefatos adquiriram propriedades extras que não estão ligadas ao seu elemento, mas você não parece encontrar nenhum sinal de como causar esses efeitos.
+		</text>
+    </string>
+
+    <string id="st_recipe_compass_guide">
+        <text>
+			Receita Misteriosa
+		</text>
+    </string>
+    <string id="st_recipe_compass_guide_descr">
+        <text>
+			Um chip misterioso, o seu conteúdo é desconhecido, mas corresponde ao tamanho e aparência de qualquer outro chip de transmutação.
+		</text>
+    </string>
+
+    <string id="st_recipe_death_bound">
+        <text>
+			Receita Misteriosa
+		</text>
+    </string>
+    <string id="st_recipe_death_bound_descr">
+        <text>
+			Um chip misterioso, o seu conteúdo é desconhecido, mas corresponde ao tamanho e aparência de qualquer outro chip de transmutação.
+		</text>
+    </string>
+
+    <string id="st_recipe_hope_heart">
+        <text>
+			Receita Misteriosa
+		</text>
+    </string>
+    <string id="st_recipe_hope_heart_descr">
+        <text>
+			Um chip misterioso, o seu conteúdo é desconhecido, mas corresponde ao tamanho e aparência de qualquer outro chip de transmutação.
+		</text>
+    </string>
+
+    <string id="st_recipe_pain_train">
+        <text>
+			Receita Misteriosa
+		</text>
+    </string>
+    <string id="st_recipe_pain_train_descr">
+        <text>
+			Um chip misterioso, o seu conteúdo é desconhecido, mas corresponde ao tamanho e aparência de qualquer outro chip de transmutação.
+		</text>
+    </string>
+
+    <string id="st_transmutation_no_recipes">
+        <text>
+			%c[d_orange]Nenhuma receita instalada neste módulo de transmutação.
+		</text>
+    </string>
+	
+	<string id="st_detach_transmutator">
+		<text>
+			Remover transmutador
+		</text>
+	</string>
+
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_fire_text">
+		<text>
+			%c[pda_white]Transmutação de Fogo Básica
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nInvestigações científicas iniciais sobre as propriedades dos artefatos trouxeram à luz a possibilidade de forçar artefatos a alcançar níveis de eficiência mais altos ao expôr-los a um elemento similar ao seu estado natural.
+			\nA exposição a altas temperaturas e pressão pode potencialmente mutar artefatos em uma variação muito mais forte e aprimorada.
+			\nApós muitas tentativas e recalibrações, os artefatos que consideramos "de baixo nível" agora são mais fáceis de manipular, com uma chance muito baixa de desastre catastrófico.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Eye (Mama's Beads + Dog heart)
+			\n• Fireball (Crystal + Flesh meat)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_fire_text">
+		<text>
+			%c[pda_white]Transmutação de Fogo Avançada
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nExperimentações adicionais com artefatos levaram à possibilidade de fundir artefatos com propriedades semelhantes para expandir suas capacidades.
+			\nA familiaridade dos artefatos mencionados é importante para ser capaz de alcançar uma fusão suave entre eles, usar artefatos de elementos diferentes pode resultar em um completamente diferente ou a destruição de tudo ao seu redor.
+			\nA infraestrutura dos laboratórios científicos é segura o suficiente para ser capaz de realizar esses experimentos, mas recomendamos evitar qualquer outro ambiente por sua própria segurança.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Flame (Eye + Bloodsucker heart + Dog heart)
+			\n• Pin (Fireball + Lurker tail + Flesh meat)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_fire_text">
+		<text>
+			%c[pda_white]Transmutação de Fogo Experiente
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nAs últimas experiências científicas levaram à descoberta de um núcleo dormente encontrado dentro do núcleo do artefato, este núcleo ao ser ativado emite uma quantidade enorme de radiação, com a chance de desestabilizar e destruir o artefato.
+			\nO processo que definimos como "Transmutação" é altamente recomendado para ser realizado em um ambiente seguro e isolado, forçar esta evolução nos artefatos é altamente perigoso.
+			\nAlguns cientistas confirmam ter realizado este procedimento em ambientes com elementos que são familiares ao artefato, este é um teorema ainda não confirmado.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Dragon's eye (Flame + Chimera heart + Bloodsucker heart + Dog heart)
+			\n• Itcher (Pin + Psysucker hand + Lurker tail + Flesh meat)
+			\n• Sun (Lamp + Pseudogiant hide + Chimera Hide + Boar Hide)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_electra_text">
+		<text>
+			%c[pda_white]Transmutação de Eletricidade Básica
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nInvestigações científicas iniciais sobre as propriedades dos artefatos trouxeram à luz a possibilidade de forçar artefatos a alcançar níveis de eficiência mais altos ao expôr-los a um elemento similar ao seu estado natural.
+			\nA exposição a altas voltagens e pressão pode potencialmente mutar artefatos em uma variação muito mais forte e aprimorada.
+			\nApós muitas tentativas e recalibrações, os artefatos que consideramos "de baixo nível" agora são mais fáceis de manipular, com uma chance muito baixa de desastre catastrófico.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Cell (Cocoon + Flesh Hide)
+			\n• Sparkler (Tapeworm + Flesh meat)
+			\n• Snowflake (Medal + Chimera claw)
+			\n• Jellyfish (Moss + Flesh eye)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_electra_text">
+		<text>
+			%c[pda_white]Transmutação de Eletricidade Avançada
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nExperimentações adicionais com artefatos levaram à possibilidade de fundir artefatos com propriedades semelhantes para expandir suas capacidades.
+			\nA familiaridade dos artefatos mencionados é importante para ser capaz de alcançar uma fusão suave entre eles, usar artefatos de elementos diferentes pode resultar em um completamente diferente ou a destruição de tudo ao seu redor.
+			\nA infraestrutura dos laboratórios científicos é segura o suficiente para ser capaz de realizar esses experimentos, mas recomendamos evitar qualquer outro ambiente por sua própria segurança.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Battery (Wrenched + Bloodsucker meat + Psysucker hand)
+			\n• Moonlight (Moon + Burer Skin + Burer hand)
+			\n• Electron (Snowflake + Chimera horn + Chimera claw)
+			\n• Lamp (Gravi + Chimera Hide + Boar Hide)
+			\n• Firefly (Kolobok + Bloodsucker heart + Dog heart)
+			\n• Ring (Sparkler + Lurker tail + Flesh meat)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_electra_text">
+		<text>
+			%c[pda_white]Transmutação de Eletricidade Experiente
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nAs últimas experiências científicas levaram à descoberta de um núcleo dormente encontrado dentro do núcleo do artefato, este núcleo ao ser ativado emite uma quantidade enorme de radiação, com a chance de desestabilizar e destruir o artefato.
+			\nO processo que definimos como "Transmutação" é altamente recomendado para ser realizado em um ambiente seguro e isolado, forçar esta evolução nos artefatos é altamente perigoso.
+			\nAlguns cientistas confirmam ter realizado este procedimento em ambientes com elementos que são familiares ao artefato, este é um teorema ainda não confirmado.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Ball (Stone Flower + Burer brain + Controller hand + Burer hand)
+			\n• Flash (Ring + Psysucker hand + Lurker tail + Flesh meat)
+			\n• Seraphim (Electron + Chimera heart + Chimera horn + Chimera claw)
+			\n• Soul (Firefly + Chimera heart + Bloodsucker heart + Dog heart)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_chemi_text">
+		<text>
+			%c[pda_white]Transmutação Química Básica
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nInvestigações científicas iniciais sobre as propriedades dos artefatos trouxeram à luz a possibilidade de forçar artefatos a alcançar níveis de eficiência mais altos ao expôr-los a um elemento similar ao seu estado natural.
+			\nA exposição a substâncias químicas e radiação pode potencialmente mutar artefatos em uma variação muito mais forte e aprimorada.
+			\nApós muitas tentativas e recalibrações, os artefatos que consideramos "de baixo nível" agora são mais fáceis de manipular, com uma chance muito baixa de desastre catastrófico.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Stone Blood (Knot + Boar Hide)
+			\n• Kolobok (Heart + Dog heart)
+			\n• Sandstone (Bracelet + Flesh eye)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_chemi_text">
+		<text>
+			%c[pda_white]Transmutação Química Avançada
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nExperimentações adicionais com artefatos levaram à possibilidade de fundir artefatos com propriedades semelhantes para expandir suas capacidades.
+			\nA familiaridade dos artefatos mencionados é importante para ser capaz de alcançar uma fusão suave entre eles, usar artefatos de elementos diferentes pode resultar em um completamente diferente ou a destruição de tudo ao seu redor.
+			\nA infraestrutura dos laboratórios científicos é segura o suficiente para ser capaz de realizar esses experimentos, mas recomendamos evitar qualquer outro ambiente por sua própria segurança.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Stone Flower (Claw + Controller hand + Burer hand)
+			\n• Sourpuss (Sandstone + Flesh Hide + Flesh eye)
+			\n• Meat Chunk (Stone Blood + Chimera Hide + Boar Hide)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_chemi_text">
+		<text>
+			%c[pda_white]Transmutação Química Experiente
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nAs últimas experiências científicas levaram à descoberta de um núcleo dormente encontrado dentro do núcleo do artefato, este núcleo ao ser ativado emite uma quantidade enorme de radiação, com a chance de desestabilizar e destruir o artefato.
+			\nO processo que definimos como "Transmutação" é altamente recomendado para ser realizado em um ambiente seguro e isolado, forçar esta evolução nos artefatos é altamente perigoso.
+			\nAlguns cientistas confirmam ter realizado este procedimento em ambientes com elementos que são familiares ao artefato, este é um teorema ainda não confirmado.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Bubble (Thistle + Flesh Hide (Transmutated) + Flesh meat + Flesh eye)
+			\n• Goldfish (Fountain + Pseudogiant eye + Boar Hide + Boar chop)
+			\n• Lobster Eyes (Sourpuss + Flesh meat + Flesh Hide + Flesh eye)
+			\n• Sponge (Meat Chunk + Pseudogiant Hide + Chimera Hide + Boar Hide)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_gravi_text">
+		<text>
+			%c[pda_white]Transmutação Gravitacional Básica
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nInvestigações científicas iniciais sobre as propriedades dos artefatos trouxeram à luz a possibilidade de forçar artefatos a alcançar níveis de eficiência mais altos ao expôr-los a um elemento similar ao seu estado natural.
+			\nA exposição a alta pressão gravitacional pode potencialmente mutar artefatos em uma variação muito mais forte e aprimorada.
+			\nApós muitas tentativas e recalibrações, os artefatos que consideramos "de baixo nível" agora são mais fáceis de manipular, com uma chance muito baixa de desastre catastrófico.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Black Spray (Spike + Flesh Hide)
+			\n• Gravi (Generator + Boar Hide)
+			\n• Claw (Grapes + Burer hand)
+			\n• Beacon (Chain + Boar chop)
+			\n• Moon (Scar + Burer hand)
+			\n• Wrenched (Signet + Psysucker hand)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_gravi_text">
+		<text>
+			%c[pda_white]Transmutação Gravitacional Avançada
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nExperimentações adicionais com artefatos levaram à possibilidade de fundir artefatos com propriedades semelhantes para expandir suas capacidades.
+			\nA familiaridade dos artefatos mencionados é importante para ser capaz de alcançar uma fusão suave entre eles, usar artefatos de elementos diferentes pode resultar em um completamente diferente ou a destruição de tudo ao seu redor.
+			\nA infraestrutura dos laboratórios científicos é segura o suficiente para ser capaz de realizar esses experimentos, mas recomendamos evitar qualquer outro ambiente por sua própria segurança.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Atom (Cell + Boar Hide + Flesh Hide)
+			\n• Fountain (Beacon + Boar Hide + Boar chop)
+			\n• Nightstar (Black Spray + Boar Hide + Flesh Hide)
+			\n• Thistle (Jellyfish + Flesh meat + Flesh eye)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_gravi_text">
+		<text>
+			%c[pda_white]Transmutação Gravitacional Experiente
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nAs últimas experiências científicas levaram à descoberta de um núcleo dormente encontrado dentro do núcleo do artefato, este núcleo ao ser ativado emite uma quantidade enorme de radiação, com a chance de desestabilizar e destruir o artefato.
+			\nO processo que definimos como "Transmutação" é altamente recomendado para ser realizado em um ambiente seguro e isolado, forçar esta evolução nos artefatos é altamente perigoso.
+			\nAlguns cientistas confirmam ter realizado este procedimento em ambientes com elementos que são familiares ao artefato, este é um teorema ainda não confirmado.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Black Angel (Battery + Pseudogiant hand + Bloodsucker meat + Psysucker hand)
+			\n• Shell (Atom + Pseudogiant hand + Boar Hide + Flesh Hide)
+			\n• Miser's skull (Moonlight + Burer brain + Burer Skin + Burer hand)
+			\n• Phantom star (Nightstar + Pseudogiant hand + Boar Hide + Flesh Hide)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_compass_guide_text">
+		<text>
+			A transmutação de uma receita de procedimento desconhecido, não tem muitas explicações nem o resultado final.
+			\nAo julgar pelos materiais usados pela receita, poderia gerar um artefato poderoso.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n \n
+			• Volat Emerald + Chimera heart\n \n
+			• Onde os mares de morte originam\n
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_hope_heart_text">
+		<text>
+			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
+			\nAo julgar pelos materiais usados pela receita, poderia gerar um artefato poderoso.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n \n
+			• Heart + Grapes + Dog heart + Medal\n \n
+			• O único lugar que floresce neste território morto\n
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_pain_train_text">
+		<text>
+			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
+			\nAo julgar pelos materiais usados pela receita, poderia gerar um artefato poderoso.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Pseudogiant Hide + Burer Skin + Psysucker Skin + Nightstar
+			\n• Pseudogiant Hide + Burer Skin + Empty + Phantom star\n \n
+			• Áreas de alta concentração\n
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_death_bound_text">
+		<text>
+			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
+			\nAo julgar pelos materiais usados pela receita, poderia gerar um artefato poderoso.
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Empty + Pseudogiant Hide + Burer Skin + Psysucker Skin
+			\n• Bloodsucker Heart + Heart of the Oasis\n \n
+			• A origem do desastre\n
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_hides_all_text">
+		<text>
+			O vários testes diferentes por que você assume diferentes stalkers têm sido agrupados e colados juntos em nenhum particular ordem.\n
+			\nVocê é capaz de separar as receitas importantes de todo o conteúdo entre as notas.\n
+			\n%c[pda_blue]Potenciais Transmutações%c[ui_gray_1]\n
+			\n• Bloodsucker Skin (Transmutado) - (Bloodsucker Skin + Signet)
+			\n• Boar Hide (Transmutado) - (Boar Hide + Crystal + Generator)
+			\n• Burer Skin (Transmutado) - (Burer Skin + Scar)
+			\n• Chimera Hide (Transmutado) - (Chimera Hide + Medal + Tapeworm)
+			\n• Controller Scalp (Transmutado) - (Controller Scalp + Scar + Grapes)
+			\n• Flesh Hide (Transmutado) - (Flesh Hide + Tapeworm)
+			\n• Lurker Hide (Transmutado) - (Lurker Hide + Signet)
+			\n• Pseudodog Fur (Transmutado) - (Pseudodog Fur + Mama's Beads)
+			\n• Pseudogiant Hide (Transmutado) - (Pseudogiant Hide + Spike, Signet)
+			\n• Psy-dog Fur (Transmutado) - (Psy-dog Fur + Spike)
+			\n• Psysucker Skin (Transmutado) - (Psysucker Skin, Signet)
+		</text>
+	</string>
+
+    <string id="ui_mcm_menu_transmutation">
+        <text>Transmutação de Artefatos</text>
+    </string>
+    <string id="ui_mcm_transmutation_keybind_transmute">
+        <text>Tecla de Transmutação de Artefatos</text>
+    </string>
+    <string id="ui_mcm_transmutation_keybind_scan">
+        <text>Tecla de Escaneamento de Artefatos</text>
+    </string>
+
+    <string id="encyclopedia__notes_transmutator">
+        <text>Transmutação de Artefatos</text>
+    </string>
+    <string id="encyclopedia__notes_transmutator_text">
+        <text>
+			%c[pda_white]Guia do Usuário de Transmutação\n
+			\n%c[pda_green]Informação%c[ui_gray_1]
+			\nO Transmutador de Artefatos é resultado de muitos experimentos com artefatos, criado para facilitar a alteração de suas propriedades através da exposição a partículas de elementos similares.\n
+			\nOs avanços tecnológicos durante a experimentação com propriedades e estrutura interna dos artefatos permitiram criar este protótipo compacto que pode ser acoplado aos seus detectores de artefatos regulares.\n
+			\n%c[pda_blue]Funcionalidade%c[ui_gray_1]\n
+			\nO banco de dados do dispositivo transmutador pode ser atualizado para cobrir mais transmutações com as receitas que você adquirir, ele pode ser acoplado e removido do seu detector por essa razão.\n
+			\n• Escaneamento - analisa e exibe os artefatos que uma anomalia pode potencialmente criar.
+			\n• Transmutação - permite que seu detector emita um pulso de partículas que ativa as propriedades internas dos artefatos, para mutar e aprimorar suas capacidades.\n
+			\nTenha em mente que essas funcionalidades dependem dos artefatos descobertos e das capacidades do detector.
+			\nNa maioria dos casos para uma transmutação bem-sucedida você precisa primeiro escanear uma anomalia, então a lista de artefatos será exibida, esses seriam artefatos que você pode transmutar naquela anomalia se tiver a receita. Algumas receitas são especiais e requerem condições diferentes.
+		</text>
+    </string>
+</string_table>

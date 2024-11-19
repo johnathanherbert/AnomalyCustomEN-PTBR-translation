@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 15
+- @ Description: Shadow Cascades - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+<string_table>
+
+	<!-- Button -->
+	<string id="ui_mcm_ssfx_module_shw_cascades">
+		<text>Cascatas de Sombras</text>
+	</string>
+
+	<!-- Shadow Cascades Settings -->
+	<string id="ui_mcm_ssfx_module_shw_cascades_title">
+		<text>Configurações das Cascatas de Sombras</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm">
+		<text>Tamanho das cascatas próximas</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm_desc">
+		<text>Tente usar um valor menor para melhorar a qualidade das suas sombras solares.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm">
+		<text>Tamanho das cascatas médias</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm_desc">
+		<text>Tente usar um valor menor para melhorar a qualidade das suas sombras solares.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm">
+		<text>Tamanho das cascatas distantes</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm_desc">
+		<text>Esta cascata define a distância final de renderização das suas sombras solares. Valores menores melhorarão o desempenho, valores maiores melhorarão suas sombras distantes ao custo de desempenho.</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm">
+		<text>Qualidade das sombras da vegetação</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm_desc">
+		<text>[ BAIXA ] Sombras da vegetação só são renderizadas na cascata PRÓXIMA. Comportamento padrão do STALKER ANOMALY. [ MÉDIA ] A vegetação projetará sombras nas cascatas PRÓXIMA e MÉDIA. [ ALTA ] Sombras da vegetação serão renderizadas em todas as cascatas e raios volumétricos do sol. [ ULTRA ] Todas as luzes projetarão sombras da vegetação.</text>
+	</string>
+	
+	<string id="ui_mcm_lst_shw_cascades_low">
+		<text>Baixa (Padrão STALKER ANOMALY)</text>
+	</string>
+	
+	<string id="ui_mcm_lst_shw_cascades_medium">
+		<text>Média</text>
+	</string>
+
+	<string id="ui_mcm_lst_shw_cascades_high">
+		<text>Alta</text>
+	</string>
+	
+	<string id="ui_mcm_lst_shw_cascades_ultra">
+		<text>Ultra (Grande impacto no desempenho)</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm">
+		<text>Distância das sombras da vegetação (Sol)</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm_desc">
+		<text>Este valor ajusta a distância de renderização das sombras solares da vegetação. O valor é percentual em relação à sua distância de renderização da vegetação. Valores menores melhorarão o desempenho.</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm">
+		<text>Distância máxima das sombras da vegetação</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
+		<text>[ APENAS QUALIDADE ULTRA ] Este valor ajusta a distância de renderização das sombras da vegetação para luzes não-direcionais. Valores menores melhorarão o desempenho, mas você pode notar quando as sombras param de ser renderizadas.</text>
+	</string>
+	
+</string_table>

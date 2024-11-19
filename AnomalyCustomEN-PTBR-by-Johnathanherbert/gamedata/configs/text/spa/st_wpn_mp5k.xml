@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_mp5k">
+		<text>MP5K</text>
+	</string>
+	<string id="st_wpn_mp5k_descr">
+		<text>A MP5K é uma submetralhadora compacta e muito versátil originada na Alemanha. Fabricada pela Heckler &amp; Koch, é uma versão abreviada do icônico MP5 projetado para combate corpo a corpo e transporte oculto. O "K" em seu nome significa "Kurz", "curto" em alemão, indicando seu tamanho compacto. Com um design leve, a MP5K é conhecida pela sua excepcional precisão, confiabilidade e facilidade de uso. Ela dispara cartuchos Parabellum de 9 x 19 mm e tem uma alta cadência de tiro, o que a torna a favorita das agências militares e policiais em todo o mundo. Seu tamanho compacto e características impressionantes fazem dela a escolha ideal para unidades de operações especiais e forças de segurança que operam em espaços confinados.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Alemanha \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Heckler &amp; Koch \n</text>
+	</string>
+</string_table>

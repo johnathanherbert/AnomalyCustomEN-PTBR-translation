@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_dismemb_title">
+		<text>Desmembramento</text>
+	</string>
+	<string id="ui_mcm_menu_dismemb">
+		<text>Desmembramento</text>
+	</string>
+
+
+	<!-- Main configs -->
+	<string id="ui_mcm_dismemb_enable_stalker">
+		<text>Ativar para stalkers</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_enable_mutant">
+		<text>Ativar para mutantes</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_hit_threshold">
+		<text>Limite de dano</text>
+	</string>
+	<string id="ui_mcm_dismemb_hit_threshold_desc">
+		<text>Poder do golpe necessário para um golpe fatal destacar um membro, por enquanto não verifica armadura etc.</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_wm_lifetime">
+		<text>Duração do sangue no corpo</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_enable_foot">
+		<text>Ativar desmembramento dos pés dos Stalkers (aparência ruim)</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_mutant_muti">
+		<text>Mais desmembramento por mutantes (ver desc.)</text>
+	</string>
+	<string id="ui_mcm_dismemb_mutant_muti_desc">
+		<text>Mutantes geralmente atingem o osso "raiz" que não destaca nada. Esta opção fará destacar um osso aleatório (exceto a cabeça) quando um mutante matar alguém (se passar do limite de dano).</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_max_explosion_limbs">
+		<text>Máximo de membros destacados em explosão</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_max_explosion_limbs_desc">
+		<text>Aleatório de 1 até este valor.</text>
+	</string>
+
+
+	<!-- Meshes -->
+	<string id="ui_mcm_dismemb_enable_meshes">
+		<text>Ativar membros destacados</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_meshes_lifetime">
+		<text>Duração dos membros destacados</text>
+	</string>
+
+
+	<!-- Hit types -->
+	<string id="ui_mcm_dismemb_allow_exp">
+		<text>Permitir tipo explosão</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_allow_wound">
+		<text>Permitir tipo ferimento (corpo a corpo/mutantes)</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_allow_strike">
+		<text>Permitir tipo golpe (alguns mutantes)</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_allow_ball">
+		<text>Permitir tipo balístico</text>
+	</string>
+
+
+	<!-- Debug -->
+	<string id="ui_mcm_dismemb_wm_size">
+		<text>Tamanho das Marcas (Pode prevenir travamento do driver da GPU)</text>
+	</string>
+	<string id="ui_mcm_dismemb_wm_size_desc">
+		<text>Se você estiver tendo congelamentos e depois erros de GPU suspensa, diminuir este valor pode ajudar a prevenir isso.</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_debugx">
+		<text>Informações de Depuração</text>
+	</string>
+	<string id="ui_mcm_dismemb_debugx_desc">
+		<text>Apenas algumas informações no console.</text>
+	</string>
+
+	<string id="ui_mcm_dismemb_debug_hit">
+		<text>Depurar poder_do_golpe*1000</text>
+	</string>
+
+</string_table>

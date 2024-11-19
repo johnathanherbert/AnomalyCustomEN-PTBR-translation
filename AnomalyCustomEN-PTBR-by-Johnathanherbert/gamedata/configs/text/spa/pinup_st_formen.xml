@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_porn_pb">
+		<text>Revista "PLAYBOY"</text>
+	</string>
+	<string id="st_porn_pb_descr">
+		<text>Revista erótica masculina, publicada desde 1953 por Hugh Hefner e seus colaboradores, que se transformou na editora Playboy Enterprises, cujas atividades se estendem a várias áreas do mercado de mídia adulta. Além da revista principal nos EUA, são publicadas revistas em diversos idiomas ao redor do mundo.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+		</text>
+	</string>
+
+	<string id="st_porn_max">
+		<text>Revista "MAXIM"</text>
+	</string>
+	<string id="st_porn_max_descr">
+		<text>Revista masculina internacional (com elementos de erotismo), fundada no Reino Unido em 1995 e hoje é publicada em 42 países ao redor do mundo. A revista lidera com confiança entre as revistas masculinas em termos de público. Em cada edição há um pôster com foto de modelo em forma semi-nudez.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+		</text>
+	</string>
+	
+	<string id="pinup_formen1">
+		<text>Pôster Nº1</text>
+    	</string>
+	<string id="pinup_formen2">
+		<text>Pôster Nº2</text>
+	</string>
+	<string id="pinup_formen3">
+		<text>Pôster Nº3</text>
+	</string>
+	<string id="pinup_formen4">
+		<text>Pôster Nº4</text>
+	</string>
+	<string id="pinup_formen5">
+		<text>Pôster Nº5</text>
+	</string>
+	<string id="pinup_formen6">
+		<text>Pôster Nº6</text>
+	</string>
+	<string id="pinup_formen7">
+		<text>Pôster Nº7</text>
+	</string>
+	<string id="pinup_formen8">
+		<text>Pôster Nº8</text>
+	</string>
+	<string id="pinup_formen9">
+		<text>Pôster Nº9</text>
+	</string>
+	<string id="pinup_formen10">
+		<text>Pôster Nº10</text>
+	</string>
+	<string id="pinup_formen11">
+		<text>Pôster Nº11</text>
+	</string>
+	<string id="pinup_formen12">
+		<text>Pôster Nº12</text>
+	</string>
+	<string id="pinup_formen13">
+		<text>Pôster Nº13</text>
+	</string>
+	<string id="pinup_formen14">
+		<text>Pôster Nº14</text>
+	</string>
+	<string id="pinup_formen15">
+		<text>Pôster Nº15</text>
+	</string>
+	<string id="pinup_formen16">
+		<text>Pôster Nº16</text>
+	</string>
+	<string id="pinup_formen17">
+		<text>Pôster Nº17</text>
+	</string>
+	<string id="pinup_formen18">
+		<text>Pôster Nº18</text>
+	</string>
+	<string id="pinup_formen19">
+		<text>Pôster Nº19</text>
+	</string>
+	<string id="pinup_formen20">
+		<text>Pôster Nº20</text>
+	</string>
+	<string id="pinup_formen21">
+		<text>Pôster Nº21</text>
+	</string>
+	<string id="pinup_formen22">
+		<text>Pôster Nº22</text>
+	</string>
+	<string id="pinup_formen23">
+		<text>Pôster Nº23</text>
+	</string>
+	<string id="pinup_formen24">
+		<text>Pôster Nº24</text>
+	</string>
+	<string id="pinup_formen25">
+		<text>Pôster Nº25</text>
+	</string>
+	<string id="pinup_formen26">
+		<text>Pôster Nº26</text>
+	</string>
+	<string id="pinup_formen27">
+		<text>Pôster Nº27</text>
+	</string>
+	<string id="pinup_formen28">
+		<text>Pôster Nº28</text>
+	</string>
+	<string id="pinup_formen29">
+		<text>Pôster Nº29</text>
+	</string>
+	<string id="pinup_formen30">
+		<text>Pôster Nº30</text>
+	</string>
+	<string id="pinup_formen31">
+		<text>Pôster Nº31</text>
+	</string>
+	<string id="pinup_formen32">
+		<text>Pôster Nº32</text>
+	</string>
+	<string id="pinup_formen33">
+		<text>Pôster Nº33</text>
+	</string>
+	<string id="pinup_formen34">
+		<text>Pôster Nº34</text>
+	</string>
+	<string id="pinup_formen35">
+		<text>Pôster Nº35</text>
+	</string>
+	<string id="pinup_formen36">
+		<text>Pôster Nº36</text>
+	</string>
+	<string id="pinup_formen37">
+		<text>Pôster Nº37</text>
+	</string>
+	<string id="pinup_formen38">
+		<text>Pôster Nº38</text>
+	</string>
+	<string id="pinup_formen39">
+		<text>Pôster Nº39</text>
+	</string>
+	<string id="pinup_formen40">
+		<text>Pôster Nº40</text>
+	</string>
+	<string id="pinup_formen41">
+		<text>Pôster Nº41</text>
+	</string>
+	<string id="pinup_formen42">
+		<text>Pôster Nº42</text>
+	</string>
+	<string id="pinup_formen43">
+		<text>Pôster Nº43</text>
+	</string>
+	<string id="pinup_formen44">
+		<text>Pôster Nº44</text>
+	</string>
+	<string id="pinup_formen45">
+		<text>Pôster Nº45</text>
+	</string>
+	<string id="pinup_formen46">
+		<text>Pôster Nº46</text>
+	</string>
+	<string id="pinup_formen47">
+		<text>Pôster Nº47</text>
+	</string>
+	<string id="pinup_formen48">
+		<text>Pôster Nº48</text>
+	</string>
+	<string id="pinup_formen49">
+		<text>Pôster Nº49</text>
+	</string>
+	<string id="pinup_formen50">
+		<text>Pôster Nº50</text>
+	</string>
+	<string id="pinup_formen51">
+		<text>Pôster Nº51</text>
+	</string>
+	<string id="pinup_formen52">
+		<text>Pôster Nº52</text>
+	</string>
+
+	
+</string_table>

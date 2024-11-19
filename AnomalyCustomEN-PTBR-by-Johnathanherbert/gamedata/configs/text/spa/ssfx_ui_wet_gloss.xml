@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+- @ Versão: SCREEN SPACE SHADERS - ATUALIZAÇÃO 18
+- @ Descrição: Brilho - strings MCM
+- @ Autor: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<string_table>
+
+	<!-- Título do Brilho -->
+	<string id="ui_mcm_ssfx_module_gloss_title">
+		<text>Brilho - Configurações</text>
+	</string>
+
+	<!-- Configurações do Brilho -->
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm">
+		<text>Brilho Mínimo</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm_desc">
+		<text>Valor base de brilho. Se "Auto Brilho" estiver desativado, este valor determina o brilho.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm">
+		<text>Brilho Máximo</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm_desc">
+		<text>Quando "Auto Brilho" estiver ativado, este valor será o valor máximo de brilho quando a umidade estiver em 100%.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm">
+		<text>Auto Brilho</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm_desc">
+		<text>Ativar/Desativar o ajuste automático de brilho baseado na umidade. Se você deseja definir um brilho fixo manualmente, desative esta opção e use a opção "Brilho Mínimo" para definir seu brilho.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm">
+		<text>Percentual de Brilho Máximo</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm_desc">
+		<text>Este valor é usado para controlar o valor máximo de brilho quando a umidade está em 100%. ( 0 = 0% | 1 = 100% )</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm">
+		<text>Intensidade Especular</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm_desc">
+		<text>Define a intensidade da luz especular.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm">
+		<text>Cor Especular</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm_desc">
+		<text>Porcentagem da cor especular. ( 0 = 0% | 1 = 100% )</text>
+	</string>
+
+
+</string_table>

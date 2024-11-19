@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON ZATON MAP
+<	CoC 1.4.22 - DoctorX Questlines 1.25
+<
+<	Modified by: DoctorX
+<	Last revised: April 27, 2017
+<
+<===========================================================-->
+
+<string_table>
+
+
+	
+	<!-- Beard (Loner Trader) Default Storyline Task -->
+
+	<string id="drx_sl_zat_a2_stalker_barmen_default_task_name">
+		<text>Veja a próxima tarefa</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_default_task_text">
+		<text>Receba sua próxima tarefa.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_default_task_about">
+		<text>Ha ha! Estou feliz por você estar aqui, stalker. Conheço um homem que precisa de sua ajuda. Vá até ele e veja o que ele precisa.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_default_task_finish">
+		<text>Boa sorte, stalker.</text>
+	</string>
+
+	
+	<!-- Beard (Loner Trader) Retrieve PDA Storyline Task -->
+
+	<string id="drx_sl_zat_a2_stalker_barmen_task_1_name">
+		<text>Recuperar PDA para Beard</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_1_text">
+		<text>Beard tem um PDA escondido que contém informações sobre Owl.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_1_about">
+		<text>Haha! Veja quem está aqui! Bem, meu amigo, tenho um bom negócio para você! Aquele Owl pensa que pode me enganar, mas sei algumas coisas sobre ele. Há um PDA que tenho escondido que tem tudo o que preciso para colocá-lo em seu devido lugar. Traga-o até mim, stalker. Você será recompensado.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_1_finish">
+		<text>Ha! Você conseguiu! Bom trabalho, stalker! Aqui, tome uma bebida por minha conta!</text>
+	</string>
+
+	
+	<!-- Beard (Loner Trader) Search and Rescue Storyline Task -->
+
+	<string id="drx_sl_zat_a2_stalker_barmen_task_2_name">
+		<text>Busca e Resgate de Stalker</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_2_text">
+		<text>Os Monolith capturaram um stalker. Encontre e resgate.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_2_about">
+		<text>Stalker, os malditos Monolith capturaram um de seus camaradas. Eles foram nessa direção. Salve-o!</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_2_finish">
+		<text>Haha! Olhem para vocês dois, difícil dizer quem perdeu a luta, haha! Venham, venham, bebam! Tomem um pouco de vodka e não sintam mais dor!</text>
+	</string>
+
+	
+	<!-- Noah (Loner Honcho) Default Storyline Task -->
+
+	<string id="drx_sl_zat_b18_noah_default_task_name">
+		<text>Veja a próxima tarefa</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_default_task_text">
+		<text>Receba sua próxima tarefa.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_default_task_about">
+		<text>Se você não me trouxer nenhum mutante morto, não há nada para conversarmos. É melhor continuar andando.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_default_task_finish">
+		<text>Boa sorte, stalker.</text>
+	</string>
+
+	
+	<!-- Noah (Loner Honcho) Dog Food Storyline Task -->
+
+	<string id="drx_sl_zat_b18_noah_task_1_name">
+		<text>Consiga %s para o cão de Noah</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_1_text">
+		<text>O animal de estimação mutante de Noah está faminto, ele precisa de %s. É melhor encontrar logo antes que ele ataque o velho maluco.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_1_about">
+		<text>Onde diabos você foi, garoto? Estou sem comida pra esse cachorro! Esta cadela vai me comer a qualquer momento. Mas ela é bonita, não é? Assim como seu dono.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_1_fetch_about">
+		<text>Raios, por que diabos você está aí parado? Traga alguns malditos %s para alimentar meu cachorro!</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_1_fetch_finish">
+		<text>Já era hora! Aqui está, garota. Coma. Ela é uma moça tão bonita. Veja como esse pelo está brilhante... O quê? Você ainda está aqui? Tome, pegue isto se isso fizer você sair daqui.</text>
+	</string>
+
+	
+	<!-- Noah (Loner Honcho) Exterminate Mutant Infestation Storyline Task -->
+
+	<string id="drx_sl_zat_b18_noah_task_2_name">
+		<text>Exterminar a Infestação Mutante para Noah</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_2_text">
+		<text>O velho Noah está tendo problemas para manter a área livre de mutantes. Ajude o velhote.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_2_about">
+		<text>Você está atrasado! Há mutantes por toda parte por aqui! Você espera que eu continue matando todos sozinho? Vá logo e livre-se deles!</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_2_finish">
+		<text>Você esteve fora o dia todo! Quanto tempo demora para matar alguns mutantes malditos? Pegue seu pagamento e saia do meu barco. E acaricie meu cachorro na saída, pode ser? Ela adora atenção e dedos de stalkers.</text>
+	</string>
+
+
+	
+	<!-- Vector (Mercenary Trader/Guide) Default Storyline Task -->
+
+	<string id="drx_sl_zat_stancia_trader_merc_default_task_name">
+		<text>Veja a próxima tarefa</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_default_task_text">
+		<text>Receba sua próxima tarefa.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_default_task_about">
+		<text>Tenho um cliente para você. Marquei sua localização em seu mapa.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_default_task_finish">
+		<text>Boa sorte.</text>
+	</string>
+	
+
+	<!-- Vector (Mercenary Trader/Guide) Rastrear o sinal de emergência Storyline Task -->
+
+	<string id="drx_sl_zat_stancia_trader_merc_task_1_name">
+		<text>Rastrear o sinal de emergência ($freq MHz)</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_1_text">
+		<text>Vector quer que você rastreie o sinal de emergência enviado por um grupo de mercs</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_1_text_0">
+		<text>Vector quer que você rastreie o sinal de emergência enviado por um grupo de mercs, mas $item_1 é necessário para a busca.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_1_text_1">
+		<text>Vector quer que você rastreie o sinal de emergência enviado por um grupo de mercs.\nDirija-se para $map.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_1_text_2">
+		<text>Vector quer que você rastreie o sinal de emergência enviado por um grupo de mercs.\nUse o $item_1 e configure a frequência para $freq MHz. Procure por um bom sinal ao redor.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_1_text_3">
+		<text>Você deve recuperar o $item_2 que encontrou e mostrá-lo ao Vector.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_1_text_4">
+		<text>Volte até Vector com suas descobertas.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_1_about">
+		<text>Um pouco tarde, mas estou feliz por você estar aqui. Estávamos terminando nossos negócios da última vez, até que recebi um sinal de emergência vindo do sul. Não posso me enganar, vem do PDA que pertence a um dos homens que enviei ontem para nossa base no outro lado da Zona. Algo deu errado, então preciso que você rastreie o sinal deles usando um receptor RF e descubra o que aconteceu. Você deve trazer o PDA também, ele contém informações importantes.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_1_finish">
+		<text>Então eles estão todos mortos? Que pena... Você trouxe o PDA de volta, pelo menos. Aqui está a sua recompensa.</text>
+	</string>
+	
+
+	<!-- Vector (Mercenary Trader/Guide) Secure the Passage to the Outskirts Storyline Task -->
+
+	<string id="drx_sl_zat_stancia_trader_merc_task_2_name">
+		<text>Proteger a passagem para a Periferia de Pripyat</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_2_text">
+		<text>Vector quer que você entre no subsolo de Jupiter e elimine o esquadrão Monolith escondido lá dentro.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_2_about">
+		<text>Más notícias, e desta vez é a merda do Monolith. A rede subterrânea entre Jupiter e a Periferia de Pripyat tem sido utilizada por nossos esquadrões. É assim que realizamos operações dentro da Periferia de Pripyat, evitando o contato com os fanáticos acima. Mas justamente quando se pensava que o negócio estava tranquilo, os últimos mercs que foram lá foram emboscados por um esquadrão Monolith, do nada, como se os mutantes já não fossem suficientes. Preciso de um homem corajoso como você para se livrar deles e assegurar a passagem. Não podemos deixá-los ali escondidos.</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_task_2_finish">
+		<text>Excelente trabalho! Estamos de volta aos negócios. Aqui, pegue.</text>
+	</string>
+
+
+	
+	<!-- Beard (Loner Trader) Clear Mutants from Skadovsk Task -->
+
+	<string id="zat_a2_stalker_barmen_task_1_name">
+		<text>Limpar infestação de mutantes</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_text">
+		<text>Os mutantes estão por perto. Mate-os e limpe a área.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_about">
+		<text>Shh... Ouça, ouviu isso? Alguns mutantes uivando. Ainda me dá arrepios depois de todo este tempo. Que tal você ir lá fora e tomar conta deles? Vou pagar muito bem.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_finish">
+		<text>Haha! Muito bem, stalker! Tome uma bebida no Beard!</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR BEARD TASK -->
+	<string id="zat_a2_stalker_barmen_task_2_name">
+		<text>Encontre o Artefato "%s" para Beard</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_2_text">
+		<text>Beard quer que você encontre o artefato "%s" para ele.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_2_about">
+		<text>Eu lido com artefatos. Normalmente não os compro de stalkers, mas há um em particular no qual eu gostaria de colocar minhas mãos. Você quer tentar consegui-lo para mim?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_2_fetch_about">
+		<text>Estou à procura do artefato "%s". Você já viu algum? Se você puder encontrá-lo, me certificarei de que seja bem pago.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_2_fetch_finish">
+		<text>Boa caçada, stalker! Tome uma bebida por conta da casa!</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR BEARD TASK -->
+	<string id="zat_a2_stalker_barmen_task_3_name">
+		<text>Guarda do meu irmão</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_3_text">
+		<text>Matar o stalker militar</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_3_about">
+		<text>Há um cara; costumava ser um stalker como qualquer outra pessoa neste navio. Um dia, alguns oficiais militares vieram e lhe ofereceram uma comissão. No dia seguinte, ele foi encontrado assassinando seus antigos irmãos a sangue frio! Nós não podemos tolerar isso! Encontre este traidor e vingue os homens que ele atirou pelas costas.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_3_finish">
+		<text>Ah, você o matou? Sirva-se de uma bebida. Tenho certeza que todos nós precisamos de uma...</text>
+	</string>
+
+
+	<!-- zat_a2_stalker_mechanic -->
+	<string id="zat_a2_stalker_mechanic_task_1_name">
+		<text>Consiga %s</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_text">
+		<text>%s são exigidos por Cardan para instalar atualizações de equipamentos básicos. Você deve trazê-los de volta para ele se encontrar algum.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_about">
+		<text>Não só preciso de um pouco mais de bebida, mas eu poderia realmente usar um bom conjunto de ferramentas, stalker. Se você estiver interessado em me ajudar, eu lhe direi do que preciso.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_about">
+		<text>Eu preciso de um conjunto de ferramentas básicas. Ele deve conter o que eu preciso. Se você puder trazer algumas de volta para mim, ficarei grato; até mesmo lhe oferecerei um desconto.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_finish">
+		<text>Ótimo, stalker. Você trouxe exatamente o que eu pedi. Obrigado.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_name">
+		<text>Consiga %s</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_text">
+		<text>%s são exigidos por Cardan para instalar atualizações avançadas de equipamentos. Você deve trazê-los de volta para ele se encontrar algum.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_about">
+		<text>Eu preciso de mais ferramentas e vodka... mas a vodka é fácil de encontrar. O que eu preciso de você é de mais ferramentas; melhores ferramentas. Você pode fazer isso por mim?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_about">
+		<text>Eu preciso de um conjunto de ferramentas avançadas. Ele deve ter o que eu preciso. Se você puder trazer alguma de volta para mim, ficarei grato; até mesmo lhe oferecerei um desconto.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_finish">
+		<text>Fantástico! Sinta-se à vontade para parar a qualquer momento para uma bebida ou se precisar de mim para dar uma olhada em seu equipamento.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_name">
+		<text>Encontre %s</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_text">
+		<text>%s são exigidos por Cardan para instalar atualizações de equipamentos especializados. Você deve trazê-los de volta para ele se encontrar algum.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_about">
+		<text>Eu preciso agora... de mais ferramentas e mais vodka... mas a vodka é bem mais fácil de encontrar. O que eu preciso de você é de mais ferramentas; melhores ferramentas. Você pode fazer isso por mim?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_about">
+		<text>Eu preciso de um conjunto de ferramentas especializadas. Ele deve ter o que eu preciso. Se você puder trazer alguma de volta para mim, ficarei grato; até mesmo lhe oferecerei mais desconto.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_finish">
+		<text>Fantástico! Sinta-se à vontade para parar a qualquer momento para uma bebida ou se precisar de mim para dar uma olhada em seu equipamento.</text>
+	</string>
+	
+	
+<!-- Noah -->
+	<string id="task_noah_2_1">
+		<text>Benfeitor: entrar na anomalia do teletransportador na colina</text>
+	</string>
+	<string id="task_noah_2_2">
+		<text>Benfeitor: limpar o covil mutante</text>
+	</string>
+	<string id="task_noah_2_3">
+		<text>Benfeitor: contar a Noah sobre a missão bem-sucedida</text>
+	</string>
+	<string id="task_noah_2_descr">
+		<text>Os snorks ameaçam Noah há algum tempo. Ele quer que eu limpe um covil no planalto sul.</text>
+	</string>
+	<string id="task_noah_1_1">
+		<text>Benfeitor: ajude Noah a conseguir um novo rifle</text>
+	</string>
+	<string id="task_noah_1_2">
+		<text>Benfeitor: traga até Noah uma Armsel Protecta</text>
+	</string>
+	<string id="task_noah_1_descr">
+		<text>Noah quer minha ajuda para conseguir uma Armsel Protecta para que ele possa descansar melhor à noite.</text>
+	</string>
+
+	
+	<string id="zat_stancia_trader_merc_task_1_name">
+		<text>Colete %s</text>
+	</string>
+	<string id="zat_stancia_trader_merc_task_1_text">
+		<text>Um mercenário me pediu para coletar %s.</text>
+	</string>
+	<string id="zat_stancia_trader_merc_task_1_about">
+		<text>Você tem vontade de organizar um verdadeiro safári? Você vai caçar pessoas e trazer seus emblemas. Estaremos elevando os padrões da facção.</text>
+	</string>
+	<string id="zat_stancia_trader_merc_task_1_fetch_about">
+		<text>Você tem vontade de organizar um verdadeiro safári? Traga-me %s e eu lhe pagarei bem. Estaremos elevando os padrões da facção.</text>
+	</string>
+	<string id="zat_stancia_trader_merc_task_1_fetch_finish">
+		<text>É disso que eu estou falando! Aqui está o seu dinheiro.</text>
+	</string>
+	
+<!-- (Mercenary Mechanic) -->
+	<string id="zat_stancia_mech_merc_task_1_name">
+		<text>Consiga %s</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_1_text">
+		<text>Um técnico mercenário me pediu que lhe trouxesse %s.</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_1_about">
+		<text>Ouça, que tipo de mercenários somos nós sem equipamento bem conservado e personalizado? Sabe, costumávamos ter ferramentas para qualquer coisa, mas alguns desgraçados roubaram elas da oficina da subestação. Portanto, eu preciso de ferramentas, e não de porcarias como estas. Você pode encontrar algumas?</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_1_fetch_about">
+		<text>Ouça, que tipo de mercenários somos nós sem equipamento bem conservado e personalizado? Sabe, costumávamos ter ferramentas para qualquer coisa, mas alguns desgraçados roubaram elas da oficina da subestação. Portanto, eu preciso de ferramentas, e não de porcarias como estas. Você pode encontrar algumas?</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_1_fetch_finish">
+		<text>Droga, você merece um desconto. Obrigado.</text>
+	</string>
+
+	<string id="zat_stancia_mech_merc_task_2_name">
+		<text>Consiga %s</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_text">
+		<text>Um técnico mercenário me pediu que lhe trouxesse %s.</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_about">
+		<text>Ter armas confiáveis é importante, mas até agora estamos sem atualizações suficientes.</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_fetch_about">
+		<text>Ter armas confiáveis é importante, mas até agora estamos sem atualizações suficientes.</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_fetch_finish">
+		<text>Obrigado. Vamos ver o quanto eu posso ajudar você e os outros com isto!</text>
+	</string>
+
+	<string id="zat_stancia_mech_merc_task_3_name">
+		<text>Consiga %s</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_3_text">
+		<text>Um técnico mercenário me pediu que lhe trouxesse %s.</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_3_about">
+		<text>Ouça - vamos terminar nosso trabalho, vamos? Preciso de ferramentas de calibração para ter certeza de que nenhum otário fuja de nós.</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_3_fetch_about">
+		<text>Ouça - vamos terminar nosso trabalho, vamos? Preciso de ferramentas de calibração para ter certeza de que nenhum otário fuja de nós.</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_3_fetch_finish">
+		<text>Oh, caramba... Você é o herói de todo técnico! Muito bem feito, de fato... Vou dobrar seu desconto.</text>
+	</string>
+
+<!-- Axel (Loner Medic) -->
+	<string id="zat_b22_stalker_medic_task_1_name">
+		<text>Consiga %s</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_text">
+		<text>%s é exigido por Axel para trabalhar com suprimentos médicos. Você deve trazê-los de volta para ele se encontrar algum.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_about">
+		<text>Manter o que resta do estoque de suprimentos médicos com este número de ferimentos que tenho que tratar no dia a dia é preocupante. Vou ficar sem curativos e kits médicos mais cedo ou mais tarde. Preciso que você encontre um desses velhos kits de fabricação de medicamentos. Eles me ajudarão.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_fetch_about">
+		<text>Então. Tenho procurado por toda parte por um %s. Deve conter alguns comprimidos e ampolas que eu preciso para trabalhar com suprimentos médicos. Eu lhe pagarei por um desses kits se você puder trazer um conjunto completo de volta para mim.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_fetch_finish">
+		<text>Ótimo trabalho! Sou muito grato.</text>
+	</string>
+</string_table>

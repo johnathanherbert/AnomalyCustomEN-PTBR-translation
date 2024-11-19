@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	Strings do Menu de Configuração de Mods do Anomaly
+	
+-->
+
+<string_table>
+
+
+	<string id="ui_mcm_title_new_item_highlight">
+		<text>Destaque de Itens Novos</text>
+	</string>
+
+	<string id="ui_mcm_menu_new_item_highlight">
+		<text>Destaque de Itens Novos</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_clear_type">
+		<text>Método de Limpeza do Destaque</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_clear_type_desc">
+		<text>Foco com tecla requer que shift esquerdo seja pressionado antes de passar o mouse sobre o item.</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_a">
+		<text>Transparência do Destaque</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_r">
+		<text>Vermelho do Destaque</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_g">
+		<text>Verde do Destaque</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_b">
+		<text>Azul do Destaque</text>
+	</string>
+
+	<string id="ui_mcm_lst_rax_nih_focus">
+		<text>Limpar ao Focar</text>
+	</string>
+	<string id="ui_mcm_lst_rax_nih_key_focus">
+		<text>Limpar ao Focar com tecla</text>
+	</string>
+	<string id="ui_mcm_lst_rax_nih_inv_close">
+		<text>Limpar ao Fechar o Inventário</text>
+	</string>
+
+
+</string_table>

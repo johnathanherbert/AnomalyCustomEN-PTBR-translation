@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_brewed_coffee">
+		<text>Café Coado</text>
+	</string>
+	<string id="st_brewed_coffee_descr">
+		<text>O café deve ser consumido logo após o preparo, enquanto ainda estiver quente.\n \n%c[ui_gray_3]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[ui_gray_2] Consumível \n
+%c[d_green] • %c[ui_gray_2] Efeito Estimulante \n
+%c[d_green] • %c[ui_gray_2] Forte efeito contra intoxicação alcoólica \n</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<!--Traduzido por Johnathanherbert-->
+<string_table>
+	
+	<string id="encyclopedia_world">
+		<text>Mundo Nuclear</text>
+	</string>
+
+	<string id="encyclopedia_world_craft">
+		<text>Artesanato</text>
+	</string>
+	<string id="encyclopedia_world_craft_text">
+		<text>
+			\n O artesanato é um tema muito amplo. Inclui: desmontagem de armas, desmontagem de trajes, criação de itens e peças especiais.	
+			\n A desmontagem é feita arrastando diretamente a ferramenta necessária ou conjunto de ferramentas (para trajes) sobre o item em seu inventário.\n		
+		
+			\n%c[0,215,215,215]• %c[ui_gray_2]Desmontagem de Armas %c[0,215,215,215]•%c[ui_gray_2].
+			\n A desmontagem de armas é realizada usando ferramentas especiais: marreta, pé de cabra e canivete suíço. Cada ferramenta pode ser usada para desmontar determinadas armas.
+			\n Com o pé de cabra você pode desmontar rifles 7.62, rifles 9mm, rifles 5.56, rifles 5.45, submetralhadoras, espingardas serradas e espingardas. Impossível: quaisquer pistolas.
+			\n Com a marreta você pode desmontar rifles 7.62, rifles 9mm, rifles 5.56, rifles 5.45, submetralhadoras, espingardas serradas, espingardas e pistolas.
+			\n Com o canivete suíço você só pode desmontar pistolas, tanto desgastadas quanto enferrujadas.\n
+		
+			\n%c[0,215,215,215]• %c[ui_gray_2]Desmontagem de Trajes %c[0,215,215,215]•%c[ui_gray_2].
+			\n A desmontagem de trajes é feita usando conjuntos de ferramentas: grosseiras, comuns e finas, além do canivete suíço.
+			\n O canivete suíço pode cortar apenas itens puramente têxteis: boinas, gorros, bandanas, balaclavas e outros.
+			\n As ferramentas grosseiras também podem cortar o mesmo que o canivete suíço. São destinadas à desmontagem de itens de baixa tecnologia: todos os tipos de jaquetas, capas de chuva, algumas máscaras de gás.	
+			\n As ferramentas comuns podem desmontar o mesmo que as grosseiras. São destinadas à desmontagem de itens de média tecnologia: macacões Stalker (artesanais), trajes Stalker com 
+			\n elementos de proteção "SEVA" (macacão longo, capas resistentes, "Iolite" dos cientistas), trajes tipo "Amber".
+			\n As ferramentas finas também podem cortar o mesmo que as comuns. São destinadas à desmontagem de itens de alta tecnologia: todos os tipos de SEVA, trajes de ecologistas, trajes pesados de proteção (Bulat, Skat),	
+			\n exoesqueletos, trajes pesados de proteção "Voskhod", bem como capacetes de alta tecnologia (Sphera, capacetes táticos). Não permitem desmontar o capacete "Zaslon", assim como nenhuma outra ferramenta.\n
+			
+			\n%c[0,215,215,215]• %c[ui_gray_2]Criação de Itens %c[0,215,215,215]•%c[ui_gray_2].
+			\n A criação de itens é provavelmente o tema mais amplo. Os artesãos inventam constantemente novas maneiras de obter algo, os comerciantes trazem para a Zona novos itens diversos dos quais algo pode ser feito.
+			\n\n
+			\n Uma das tecnologias mais importantes e utilizadas na Zona é a desativação de itens que podem ser desativados. O líquido de desativação pode ser obtido misturando Aquatabs com qualquer vodka.
+			\n Para misturar Aquatabs e vodka, é necessário arrastar um sobre o outro no inventário. Para desativar um item, é necessário arrastar o item sobre o líquido ou o líquido sobre o item em seu inventário.		
+			\n\n			
+			\n Os artesãos também obtêm itens de primeira necessidade a partir de materiais disponíveis. Por exemplo, bandagens podem ser feitas de trapos e vodka, também arrastando um sobre o outro. 
+			\n Os trapos podem ser obtidos cortando itens têxteis com o canivete suíço (bandanas, gorros, balaclavas, bandanas etc.). Todas essas ações são realizadas arrastando um item sobre outro no inventário.			
+			\n Pedaços de tecido também podem ser obtidos ao desmontar trajes, ou podem ser simplesmente encontrados. Alguns tipos de tecidos são vendidos por comerciantes.
+			\n\n
+			\n Você também pode costurar sua própria mochila ou saco de dormir. Para isso, você precisa comprar um kit de costura do comerciante e os materiais necessários, e então arrastar um sobre o outro no inventário.			
+			\n\n
+			\n Os comerciantes também vendem materiais para fazer cigarros artesanais. Os cigarros artesanais são muito mais eficazes que os cigarros comuns.
+			\n Às vezes, os comerciantes também têm kits para fazer munição, mais frequentemente cartuchos. A munição artesanal é um pouco menos eficaz, mas muito mais barata que a de fábrica.\n
+			
+			\n%c[0,215,215,215]• %c[ui_gray_2]Substituição de Componentes %c[0,215,215,215]•%c[ui_gray_2].
+			\n Entre os reparos de vários itens, a substituição de componentes também é popular.	
+			\n A substituição mais comum é a troca do cano da arma. Para isso, você precisa ter um cano em bom estado, e o calibre do cano deve corresponder ao calibre da arma.
+			\n Se o cano estiver desgastado, pode ser limpo com querosene, gasolina, vodka, produtos de limpeza para armas, kits de limpeza, óleo para armas, kits de reparo.
+			\n Se o cano estiver enferrujado, pode ser restaurado ao estado normal com produtos de limpeza para armas, kits de limpeza, óleo para armas, kits de reparo.
+			\n Em seguida, você precisará de um kit de determinado calibre para substituir o cano do mesmo calibre. Usando o kit e o cano, você pode restaurar até 50% da durabilidade da arma, independentemente de sua condição inicial.
+			\n\n
+			\n Também existe a possibilidade de trocar servomotores em exoesqueletos. Para isso, você precisa de um servomotor, que pode ser obtido desmontando um exoesqueleto, e um kit para substituição de servomotor. 
+			\n Usando o kit e o servomotor, você pode restaurar até 30% da durabilidade do exoesqueleto, independentemente de sua condição inicial.\n
+			\n%c[0,215,215,215]• %c[0,240,140,140]Este artigo pode ser atualizado com o tempo. %c[0,215,215,215]•.			
+		</text>
+	</string>	
+	
+</string_table>

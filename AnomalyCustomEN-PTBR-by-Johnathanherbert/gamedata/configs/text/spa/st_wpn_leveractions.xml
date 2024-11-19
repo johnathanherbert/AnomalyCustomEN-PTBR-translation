@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+			<string id="st_wpn_win1886">
+		<text>Winchester Modelo 1886</text>
+	</string>
+	<string id="st_wpn_win1886_descr">
+		<text>O rifle Winchester 1886 é um símbolo icônico da inovação e confiabilidade das armas de fogo americanas. Projetado por John Browning, esta obra-prima de ação por alavanca personifica a era das armas de fogo do final do século XIX, ostentando uma construção robusta e resistente combinada com funcionalidade excepcional. Construído para lidar com cartuchos potentes como o .45-70 Government e .50-110 Winchester, sua popularidade duradoura reside em seu equilíbrio impecável, ação suave da alavanca e notável resistência capaz de suportar cargas pesadas. Com suas linhas elegantes, coronha de nogueira e design confiável, o Winchester 1886 permanece uma encarnação atemporal do artesanato e utilidade no reino das armas de fogo clássicas. Recalibrado para munição 7.62x51mm por técnicos da Zona para facilitar o acesso à munição.
+		\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: ACOG, Specter, Leupold, March Tac e Mira do Rifle Gauss.\n</text>
+	</string>
+	
+			<string id="st_wpn_marlin_tracker">
+		<text>Rastreador Negro</text>
+	</string>
+	<string id="st_wpn_marlin_tracker_descr">
+		<text>O rifle Marlin Dark Series representa uma versão moderna de uma arma clássica, combinando a herança da Marlin com características contemporâneas. Fabricado para uso tático e confiabilidade robusta, este rifle de ação por alavanca é caracterizado por seu acabamento preto fosco, coronha de madeira pintada de preto e cano rosqueado, proporcionando compatibilidade com silenciadores ou dispositivos de boca. Os rifles Dark Series geralmente vêm com câmara em calibres populares como .30-30 Winchester ou .45-70 Government, oferecendo versatilidade para caça ou aplicações táticas. Sua alavanca de laço grande e miras fantasma melhoram a aquisição rápida do alvo, enquanto o design geral elegante mas robusto incorpora o compromisso da Marlin em misturar tradição com inovação em uma arma que é tanto visualmente impressionante quanto funcionalmente excepcional. Recalibrado para munição 7.62x51mm por técnicos da Zona para facilitar o acesso à munição.
+		\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Todas as miras para o sistema picatinny/weaver.\n
+		%c[d_purple] - %c[ui_gray_2] Silenciador: Silenciador Daniel Defense. \n</text>
+	</string>
+</string_table>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	
+    <string id="ui_mcm_menu_companion_inv">
+        <text>Desbloqueador de inventário de companheiros</text>
+    </string>
+
+	<string id="ui_mcm_companion_inv_show_all">
+		<text>Mostrar todos os itens do inventário dos companheiros.</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_all_desc">
+		<text>[Cheats] Isto irá mostrar todos os objetos, mesmo os técnicos e de animação, que não lhe servem para nada. Esta opção colore de vermelho os objetos revelados.</text>
+	</string>
+	<string id="ui_mcm_companion_inv_show_klep">
+		<text>Mostrar os objetos que o parceiro adquiriu enquanto te acompanhava</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_klep_desc">
+		<text>Esta opção mostra todos os objetos, exceto aqueles com os quais seu parceiro começou. Tudo o que você coletou e que normalmente estaria oculto será revelado. Esta opção colore os objetos e revela ouro.</text>
+	</string>
+
+</string_table>

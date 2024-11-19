@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--Traduzido por Johnathanherbert-->
+
+<string_table>
+  <string id="st_anabiotic_combat">
+      <text>Seria inseguro tomar anabióticos com inimigos por perto</text>
+  </string>
+
+   <string id="st_psy_death_scene">
+      <text>Você escapou de um destino pior que a morte...</text>
+  </string>
+
+  <string id="st_psy_zombification_scene">
+      <text>A Zona lhe concedeu uma segunda chance...</text>
+  </string>
+</string_table>

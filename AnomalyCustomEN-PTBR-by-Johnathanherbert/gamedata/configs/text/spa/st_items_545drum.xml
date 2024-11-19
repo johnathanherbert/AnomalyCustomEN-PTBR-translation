@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--! Traduzido por johnathanherbert -->
+
+<string_table>
+ <!-- 5.45 -->
+	
+       <string id="st_mag_akm_5.45x39_drum">
+		<text>Carregador de tambor com 75 cartuchos</text>
+	</string>
+	<string id="st_mag_akm_5.45x39_drum_descr">
+		<text>Um carregador de tambor metálico com capacidade para 75 cartuchos, projetado para rifles AK no calibre 5,45x39mm. É compatível com qualquer sistema que aceite este padrão.</text>
+	</string>
+	
+</string_table>

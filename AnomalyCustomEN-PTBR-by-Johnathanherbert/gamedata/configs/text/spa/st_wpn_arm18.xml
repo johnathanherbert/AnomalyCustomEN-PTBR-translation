@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+<string id="st_wpn_arm18">
+		<text>Armalite R-18</text>
+	</string>
+	<string id="st_wpn_arm18_descr">
+		<text>O AR-18 é um rifle de tiro seletivo operado a gás projetado por Eugene Stoner e fabricado pela Armalite no final dos anos 1960. Foi desenvolvido como alternativa à plataforma AR-15/M16, optando por um design mais acessível e simplificado. O AR-18 apresenta um receptor leve de aço estampado, distinguindo-o dos receptores de alumínio forjado dos rifles AR-15/M16. Ele utiliza um sistema de pistão a gás em vez do sistema de ação direta do AR-15. Este projeto de pistão a gás reduz falhas e aumenta a confiabilidade. Utilizando munição NATO 5,56 x 45 mm, o AR-18 possui um ferrolho rotativo e um carregador destacável de 20 cartuchos. Seu tamanho compacto e construção leve o tornam ideal para manobrabilidade em combate próximo. Embora o AR-18 não tenha alcançado ampla adoção, influenciou projetos posteriores de armas de fogo. A série britânica de rifles SA80, por exemplo, foi inspirada no sistema de gás do AR-18. O AR-18 continua sendo uma parte notável da história das armas de fogo e uma alternativa interessante à plataforma AR-15/M16, mais difundida.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Armalite \n</text>
+	</string>
+<string id="st_arm_scope">
+		<text>Colt 4x20</text>
+	</string>
+	<string id="st_arm_scope_descr">
+		<text>A mira Colt 4x20 é uma mira compacta de ampliação fixa fabricada pela Colt Defense. Foi projetada para fornecer uma imagem clara e precisa para melhorar a aquisição e a precisão do alvo.\n \n%c[0,255,255,255]COMPATIBILIDADE:\n
+%c[d_cyan] • %c[ui_gray_2]AR-18 \n %c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Aumento: %c[ui_gray_2]4,0x \n
+%c[d_cyan] • %c[0,255,255,255]Retículo: %c[ui_gray_2]Dúplex</text>
+	</string>	
+
+<string id="st_mag_arm18_default">
+		<text>Carregador de 30 cartuchos do AR-18</text>
+	</string>
+	<string id="st_mag_arm18_default_descr">
+		<text>Carregador padrão para o rifle Armalite AR-18, fabricado em metal estampado de forma relativamente simples.\n \n</text>
+	</string>	
+
+<string id="st_mag_arm18_short">
+		<text>Carregador de 20 cartuchos do AR-18</text>
+	</string>
+	<string id="st_mag_arm18_short_descr">
+		<text>Carregador curto para o rifle Armalite AR-18, com capacidade reduzida para simplificar a fabricação e a produção em massa.\n \n</text>
+	</string>		
+</string_table>

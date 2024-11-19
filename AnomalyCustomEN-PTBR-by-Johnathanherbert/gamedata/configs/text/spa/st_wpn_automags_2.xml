@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_auto5_44">
+		<text>AMT Automag V .44</text>
+	</string>
+	<string id="st_wpn_auto5_44_descr">
+		<text>A AMT Automag V é uma excelente pistola semiautomática de ação única criada pela Arcadia Machine &amp; Tool (AMT). A arma foi criada por Harry Sanford, inventor da pistola Automag original. A produção seria limitada a 3.000 unidades, numeradas de 0.001 a 3.000, meta que nunca foi alcançada. O Mk. V utilizou o mesmo quadro do Mk. IV, com algumas pistolas tendo armações Mk. V com corrediças Mk. IV e vice-versa. O AMT Automag V foi projetado originalmente para disparar munição calibre .50, especificamente o .50 Action Express. Possui portas de compensação no cano para ajudar a controlar o recuo em níveis toleráveis. Além disso, foi projetado para utilizar um carregador de 5 cartuchos e era fabricado principalmente em aço inoxidável fundido. Foi recalibrado para .357 por um corajoso técnico da Zona para utilizar um cartucho mais comum na região.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Arcadia Machine &amp; Tool \n</text>
+	</string>
+	<string id="st_wpn_automav_44">
+		<text>AMP AutoMag .44</text>
+	</string>
+	<string id="st_wpn_automav_44_descr">
+		<text>A .44 Auto Mag Pistol (AMP) é uma pistola semiautomática de grande calibre. Foi desenvolvida entre 1966 e 1971 pela Auto Mag Corporation para criar uma pistola semiautomática que disparasse munição .44 AMP. Sua reputação e aparência a tornaram popular em filmes e romances, com várias versões sendo classificadas como "relíquias" pela ATF. A pistola Auto Mag possui um sistema de recuo curto com ferrolho giratório de seis travas de travamento localizadas na parte frontal, similar ao do rifle M16/AR-15. A Auto Mag é uma pistola de peso moderado projetada para oferecer aos usuários o poder de uma .44 Magnum em uma pistola semiautomática. O .44 Auto Mag foi projetado para disparar projéteis de 240 grains com diâmetro de .429 polegadas aproximadamente na mesma velocidade do revólver .44 Magnum. Foi recalibrada para .357 por um corajoso técnico da Zona para utilizar um cartucho mais comum na região.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Auto Mag Corporation \n</text>
+	</string>
+	<string id="st_44_mag_default">
+		<text>Carregador .44 Automag</text>
+	</string>
+	<string id="st_44_mag_default_descr">
+		<text>Carregador de 9 cartuchos calibre .44 Magnum fabricado para pistolas Auto Mag e Automag V.</text>
+	</string>
+</string_table>

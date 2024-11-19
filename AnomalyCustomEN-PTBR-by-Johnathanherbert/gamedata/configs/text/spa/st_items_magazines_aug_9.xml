@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table><!--
+Aug 9mm
+--><string id="st_mag_aug_9x19_fmj">
+		<text>Carregador padrão de 9 x 19 mm para AUG</text>
+	</string>
+	<string id="st_mag_aug_9x19_fmj_descr">
+		<text>Carregador de 32 cartuchos para a versão de 9 mm do AUG. Os stalkers utilizam esta variante do AUG por oferecer maior controle em curtas distâncias.</text>
+	</string>
+	
+</string_table>

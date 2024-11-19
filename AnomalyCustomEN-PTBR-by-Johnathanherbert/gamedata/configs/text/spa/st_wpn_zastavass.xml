@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_zastavam70_j">
+		<text>Zastava M70</text>
+	</string>
+	<string id="st_wpn_zastavam70_j_descr">
+		<text>O Zastava M70 é um rifle de assalto que utiliza munição 7.62x39mm. Desenvolvido na Iugoslávia pela Zastava Arms na década de 1960, o M70 era uma variante não licenciada do AK-47 soviético (especificamente a variante Type 3). Tornou-se a arma de infantaria padrão do Exército Popular Iugoslavo, complementando e posteriormente substituindo o Zastava M59/66. A Zastava continua a produzir o projeto original do M70 e suas variantes comerciais sem capacidade de fogo seletivo, conhecidas como série Zastava PAP, para exportação. O projeto original do M70 foi baseado no primeiro modelo do AK-47 soviético (especificamente o Type 3), que tinha um receptor fresado. Há uma série de diferenças estéticas entre os dois modelos de receptor, principalmente o lado esquerdo liso do receptor, que não possui a seção usinada normalmente encontrada nos AKs soviéticos Type 3 originais e seus derivados.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Iugoslávia \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Zastava Arms \n</text>
+	</string>
+	<string id="st_wpn_zastavam92_j">
+		<text>Zastava M92</text>
+	</string>
+	<string id="st_wpn_zastavam92_j_descr">
+		<text>A M92 é uma carabina desenvolvida e fabricada pela Zastava Arms desde 1992. É quase idêntica à carabina M85; as únicas diferenças entre as duas são o calibre e, consequentemente, o design do carregador. A M92 é uma versão compacta do rifle de assalto Zastava M70, que é uma versão modificada do rifle de assalto soviético AKM. O Zastava M92 utiliza munição soviética 7.62x39mm. É uma arma de fogo seletiva operada a gás, resfriada a ar, com carregador removível e coronha de metal dobrável. Em geral, é um híbrido modificado das carabinas soviéticas AKMSU e AKS-74U, mas se distingue facilmente pelo design do punho e principalmente pelo guarda-mão mais longo, que é feito de um tipo diferente de madeira e possui três grades de resfriamento em vez das duas típicas. Esse recurso faz com que a M92 superaqueça menos no modo automático.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Iugoslávia/Sérvia \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Zastava Arms \n</text>
+	</string>
+</string_table>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_exo_servo_sounds_title">
+		<text>Sons do Servo Exo</text>
+	</string>
+	<string id="ui_mcm_menu_exo_servo_sounds">
+		<text>Sons do Servo Exo</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_walk">
+		<text>Volume (caminhada)</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_walk_desc">
+		<text>Volume ao caminhar</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_land">
+		<text>Volume (aterrissagem)</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_land_desc">
+		<text>Volume ao aterrissar</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_jump">
+		<text>Volume (pulo)</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_jump_desc">
+		<text>Volume ao pular</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_discharge">
+		<text>Descarga</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_discharge_desc">
+		<text>Quantidade de carga perdida após ser atingido por anomalia elétrica</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_scale_freq">
+		<text>Escala de frequência</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_scale_freq_desc">
+		<text>Escala da frequência do som baseada no estado (caminhando, rastejando, correndo etc.)</text>
+	</string>
+</string_table>

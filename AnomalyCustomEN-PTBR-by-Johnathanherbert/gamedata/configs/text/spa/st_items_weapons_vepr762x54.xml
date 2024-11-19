@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_wpn_vepr762x54">
+		<text>Vepr 54R Tático</text>
+	</string>
+	<string id="st_wpn_vepr762x54_descr">
+		<text>O Vepr 54R é um rifle semiautomático no padrão AK, com câmara em 7.62x54r. É capaz de aceitar carregadores do SVD e, graças à melhor ergonomia do AK, é mais fácil de manusear. No entanto, possui um cano mais curto que um SVD e, portanto, sofre com recuo aumentado e perda de precisão a longa distância. Esta versão foi equipada com peças do mercado de reposição para maior ergonomia.\n \n </text>
+	</string>
+	
+		<string id="st_up_zatp_c10_name">
+		<text>Modo Rajada de Dois Tiros</text>
+	</string>
+	<string id="st_up_zatp_c10_descr">
+		<text>Aprimoramento do mecanismo do gatilho do rifle permite rajada de dois tiros.\n </text>
+	</string>
+	
+	<string id="st_burst_fire">
+		<text>Modo rajada de 2 tiros</text>
+	</string>
+
+
+</string_table>

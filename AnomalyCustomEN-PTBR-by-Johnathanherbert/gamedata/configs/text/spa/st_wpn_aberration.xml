@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="st_wpn_aberration">
+		<text>E «Aberração»</text>
+	</string>
+	<string id="st_wpn_aberration_descr">
+		<text>A Aberração foi um projeto experimental desenvolvido pela unidade de pesquisa e desenvolvimento do Corpo de Fuzileiros Navais dos EUA. No entanto, o experimento nunca foi concluído, exceto por um número limitado de unidades destinadas a testes. O projeto foi abandonado depois que o microcomputador do receptor do rifle falhou, resultando em uma cadência de tiro excepcionalmente alta e um seletor de tiro travado. Apesar dessas falhas, o rifle era muito popular entre os poucos que conseguiram testá-lo. Foi então que começou a "escapar" dos laboratórios de pesquisa. Sua cadência extremamente alta, grande calibre e confiabilidade fazem dele uma peça altamente valorizada na Zona.</text>
+	</string>
+
+</string_table>

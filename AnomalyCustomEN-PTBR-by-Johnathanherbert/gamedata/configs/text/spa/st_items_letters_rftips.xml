@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<!-- ====================================================================
+	Sinais RF Anômalos (incluído com Novas Fontes RF Extensíveis)
+    Autor: Catspaw
+    Fonte: https://www.moddb.com/members/catspawmods/addons
+    Versão: 1.2
+
+    Permissão concedida para traduzir livremente para qualquer idioma.
+===================================================================== -->
+<string_table>
+	<string id="st_note_rf_tip_name">
+		<text>Sinal RF Anômalo</text>
+	</string>
+	<string id="st_note_rf_tip_desc">
+		<text>Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] pertences pessoais\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_controller_name">
+		<text>Sinal RF Anômalo: Controlador</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_controller">
+		<text>Sinal RF Anômalo: Controlador</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_controller_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_controller_text2">
+		<text>
+			\n \n"...ele disse que o esconderijo estaria emitindo em 145 MHz, mas não havia nada. A coisa mais estranha aconteceu, porém. Comecei a captar interferência no receptor RF--uma vez até pareceu uma voz, ou tons, mas nada claro.\n \n
+			Não muito depois, comecei a ter dores de cabeça, visão embaçada, sussurros, perda de cor--todos os sinais usuais de que um controlador está bem próximo. E, pela primeira vez, consegui ver aquele desgraçado antes que ele me visse.\n \n
+			E aquele ruído RF? Essa parte eu não alucinei, parou assim que a cabeça dele explodiu."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_poltergeist_name">
+		<text>Sinal RF Anômalo: Poltergeist</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_poltergeist">
+		<text>Sinal RF Anômalo: Poltergeist</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_poltergeist_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_poltergeist_text2">
+		<text>
+			\n \n"...nos disseram que pegaríamos o sinal em 219 MHz, mas não havia nada. Então, de repente, comecei a captar interferência no receptor RF--uma vez até pareceu uma voz, ou tons, mas nada ficou claro.\n \n
+			Não muito depois, comecei a ouvir esse zumbido estranho na minha cabeça e uma tonalidade azul na minha visão, coisas começaram a flutuar--lembra da última vez que isso aconteceu? Era outro poltergeist, e eu saí correndo dali assim que o vi.\n \n
+			E aquele ruído RF? Assim que me afastei uns duzentos metros do prédio, simplesmente parou."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_burer_name">
+		<text>Sinal RF Anômalo: Burer</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_burer">
+		<text>Sinal RF Anômalo: Burer</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_burer_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_burer_text2">
+		<text>
+			\n \n"...e não havia nada como disseram em 106 MHz. Em vez disso, comecei a pegar todo tipo de interferência no meu receptor RF--uma vez até pareceu uma voz, ou tons, mas nada que eu pudesse entender.\n \n
+			Mas olha só, lembra quando encontramos aquele burer no norte? Foi a mesma coisa, com a tonalidade estranha na visão e alucinações, coisas voando pelo ar. Só vi ele uma vez, mas saímos correndo dali antes que pudesse nos ver.\n \n
+			Mas aquele ruído RF? Sumiu quando nos afastamos o suficiente, talvez uns trezentos metros. Nunca tinha ouvido nada parecido no scanner antes, mas o aviso antecipado provavelmente nos salvou."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_psydog_name">
+		<text>Sinal RF Anômalo: Cão Psy</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_psydog">
+		<text>Sinal RF Anômalo: Cão Psy</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_psydog_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_psydog_text2">
+		<text>
+			\n \n"...você sabe como o Vanya é, eu disse que o esconderijo estava em 197 MHz mas o idiota jurou que era 190, então nós dois pegamos nossos receptores RF para ver quem estava certo. Isso provavelmente salvou minha vida, cara.\n \n
+			Tinha um maldito cão psy, tão perto do acampamento--pode acreditar nisso? Logo começamos a ter dores de cabeça, visão embaçada, e começamos a atirar em cães fantasmas que não existiam.\n \n
+			Mas olha só--toda vez que um dos fantasmas se aproximava, meu receptor RF começava a pirar com interferência. O do Vanya? Só apitou uma vez, quando o verdadeiro pulou nele. Pobre Vanya."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_af_ring_name">
+		<text>Sinal RF Anômalo: Anel (Artefato)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_ring">
+		<text>Sinal RF Anômalo: Anel (Artefato)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_ring_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_ring_text2">
+		<text>
+			\n \n"...Achei que a área já tinha sido completamente vasculhada, tanto tempo depois de uma emissão, então decidi tentar localizar o esconderijo que aquele novato mencionou.\n \n
+			Talvez 23 MHz fosse a frequência errada, mas não havia esconderijo algum nas proximidades. Minha sorte deve ter estado comigo, porque peguei outra coisa--uma interferência EM estranha de algum tipo.\n \n
+			Era bem localizada, talvez quarenta-cinquenta metros ou algo assim, mas essa interferência me levou direto a um artefato Anel! Ainda tive que usar meu Bear quando cheguei perto o suficiente, mas fiquei muito feliz por ter o receptor RF comigo."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_af_electra_flash_name">
+		<text>Sinal RF Anômalo: Flash (Artefato)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_flash">
+		<text>Sinal RF Anômalo: Flash (Artefato)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_flash_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_flash_text2">
+		<text>
+			\n \n"...Achei que a área já tinha sido completamente vasculhada, tanto tempo depois de uma emissão, então decidi tentar localizar aquele esconderijo que meu amigo me falou.\n \n
+			Talvez 124 MHz fosse a frequência errada, mas não havia esconderijo algum nas proximidades. Minha sorte deve ter estado comigo, porque peguei outra coisa--uma interferência EM estranha de algum tipo.\n \n
+			Era bem localizada, talvez quarenta-cinquenta metros ou algo assim, mas essa interferência me levou direto a um artefato Flash! Ainda tive que usar meu detector quando cheguei perto o suficiente, mas fiquei muito feliz por ter o receptor RF comigo."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_electra_moonlight_name">
+		<text>Sinal RF Anômalo: Luz da Lua (Artefato)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_moonlight">
+		<text>Sinal RF Anômalo: Luz da Lua (Artefato)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_moonlight_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_moonlight_text2">
+		<text>
+			\n \n"...Achei que não havia nada para encontrar depois de tudo aquilo, então decidi tentar escanear na antiga frequência do ponto morto.\n \n
+			Talvez 57 MHz não estivesse certo, porque não peguei sinais de esconderijo em lugar nenhum por perto. Minha sorte deve ter estado comigo, porque peguei outra coisa--uma interferência EM estranha de algum tipo.\n \n
+			Era bem localizada, talvez quarenta-cinquenta metros ou algo assim, mas essa interferência me levou direto a um artefato Luz da Lua! Ainda tive que usar meu detector quando cheguei perto o suficiente, mas fiquei muito feliz por ter o receptor RF comigo."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_black_spray_name">
+		<text>Sinal RF Anômalo: Spray Negro (Artefato)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_black_spray">
+		<text>Sinal RF Anômalo: Spray Negro (Artefato)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_black_spray_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_black_spray_text2">
+		<text>
+			\n \n"...Achei que a área já tinha sido completamente vasculhada, tanto tempo depois de uma emissão, então decidi ver se a mochila perdida do velho ainda estava transmitindo.\n \n
+			Talvez 89 MHz fosse a frequência errada, mas não havia esconderijo algum nas proximidades. Minha sorte deve ter estado comigo, porque peguei outra coisa--uma interferência EM estranha de algum tipo.\n \n
+			Era bem localizada, talvez quarenta-cinquenta metros ou algo assim, mas essa interferência me levou direto a um artefato Spray Negro! Ainda tive que usar meu detector quando cheguei perto o suficiente, mas fiquei muito feliz por ter o receptor RF comigo."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_full_empty_name">
+		<text>Sinal RF Anômalo: Vazio Cheio (Artefato)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_full_empty">
+		<text>Sinal RF Anômalo: Vazio Cheio (Artefato)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_full_empty_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_full_empty_text2">
+		<text>
+			\n \n"...Achei que a área já tinha sido completamente vasculhada, tanto tempo depois de uma emissão, então decidi ver se conseguia encontrar aquele esconderijo perdido que ouvimos falar.\n \n
+			Talvez 236 MHz fosse a frequência errada, mas não havia esconderijo algum nas proximidades. Minha sorte deve ter estado comigo, porque peguei uma interferência EM pesada de algum tipo.\n \n
+			Era bem localizada, talvez quarenta-cinquenta metros ou algo assim, mas essa interferência me levou direto a um artefato Vazio Cheio! Ainda tive que usar meu detector quando cheguei perto o suficiente, mas fiquei muito feliz por ter o receptor RF comigo."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_ice_name">
+		<text>Sinal RF Anômalo: Gelo (Artefato)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_ice">
+		<text>Sinal RF Anômalo: Gelo (Artefato)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_ice_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_ice_text2">
+		<text>
+			\n \n"...Achei que a área já tinha sido completamente vasculhada, tanto tempo depois de uma emissão, então fui procurar aquela dica de esconderijo que recebi do médico.\n \n
+			Talvez 178 MHz fosse a frequência errada, mas não havia esconderijo algum nas proximidades. Minha sorte deve ter estado comigo, porque peguei outra coisa--interferência EM de algum tipo, não sei o quê.\n \n
+			Era bem localizada, talvez quarenta-cinquenta metros ou algo assim, mas essa interferência me levou direto a um artefato Gelo! Ainda tive que usar meu detector quando cheguei perto o suficiente, mas fiquei muito feliz por ter o receptor RF comigo."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_soul_name">
+		<text>Sinal RF Anômalo: Alma (Artefato)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_soul">
+		<text>Sinal RF Anômalo: Alma (Artefato)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_soul_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_soul_text2">
+		<text>
+			\n \n"...Achei que a área já tinha sido completamente vasculhada, tanto tempo depois de uma emissão, então decidi tentar encontrar aquele esconderijo que o comerciante me falou.\n \n
+			Talvez 302 MHz fosse a frequência errada, mas não havia esconderijo algum nas proximidades. Minha sorte deve ter estado comigo, porque peguei outra coisa--interferência EM de algum tipo, só ruído mesmo.\n \n
+			Era bem localizada, talvez quarenta-cinquenta metros ou algo assim, mas essa interferência me levou direto a um artefato Alma! Ainda tive que usar meu detector quando cheguei perto o suficiente, mas fiquei muito feliz por ter o receptor RF comigo."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_compass_name">
+		<text>Sinal RF Anômalo: Bússola (Artefato)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_compass">
+		<text>Sinal RF Anômalo: Bússola (Artefato)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_compass_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_compass_text2">
+		<text>
+			\n \n"...Achei que a área já tinha sido completamente vasculhada, tanto tempo depois de uma emissão, então decidi tentar localizar aquele sinal de esconderijo que deixei da última vez.\n \n
+			Talvez 285 MHz fosse a frequência errada, mas não havia esconderijo algum nas proximidades. Minha sorte deve ter estado comigo, porque peguei outra coisa--uma interferência EM séria, não conseguia explicar.\n \n
+			Demorou um tempo para localizar, mas essa interferência me levou direto a um artefato Bússola! Ainda tive que usar meu detector quando cheguei perto o suficiente, mas o receptor RF deve ter captado a uns cem metros de distância."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_death_lamp_name">
+		<text>Sinal RF Anômalo: Lâmpada da Morte (Artefato)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_death_lamp">
+		<text>Sinal RF Anômalo: Lâmpada da Morte (Artefato)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_death_lamp_text">
+		<text>
+			Um pedaço de papel que parece ser um trecho de uma carta ou entrada de diário, descrevendo uma frequência RF que o autor achou útil.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_death_lamp_text2">
+		<text>
+			\n \n"...Achei que a área já tinha sido completamente vasculhada, tanto tempo depois de uma emissão, então decidi tentar localizar aquele esconderijo que você me falou.\n \n
+			Talvez 321 MHz fosse a frequência errada, mas não consegui captar nada por causa da interferência--era como se alguém estivesse bloqueando o sinal num raio de cem metros ao redor de algum ponto.\n \n
+			Tenho quase certeza que a fonte era um artefato Lâmpada da Morte--nada mais tem aquele brilho doentio. Vi a coisa amaldiçoada no meio de um grupo perigoso de anomalias, e meu receptor RF enlouqueceu quanto mais perto eu chegava. Não tinha o equipamento de proteção para me aventurar lá dentro, mas pelo menos agora sei o que procurar."\n
+		</text>
+	</string> 
+
+<!-- Adicionado por NERFS -->
+
+</string_table>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_fast_travel_limiter_title">
+		<text>Limitar Viagem Rápida</text>
+	</string>
+	<string id="ui_mcm_menu_fast_travel_limiter">
+		<text>Limitar Viagem Rápida</text>
+	</string>
+	<string id="ui_mcm_fast_travel_limiter_next_travel_inc">
+		<text>Disponibilidade de viagem rápida em horas</text>
+	</string>
+	<string id="ui_mcm_fast_travel_limiter_tax_multipler">
+		<text>Multiplicador de taxa</text>
+	</string>
+	
+	
+</string_table>

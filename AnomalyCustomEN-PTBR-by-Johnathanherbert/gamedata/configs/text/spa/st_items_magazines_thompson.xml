@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--
+ traduzido por johnathanherbert
+-->
+
+<string_table>
+
+   
+    <string id="st_mag_thompson_11.43x23">
+		<text>Carregador padrão Thompson M1A1 .45 ACP</text>
+	</string>
+	<string id="st_mag_thompson_11.43x23_descr">
+		<text>Carregador padrão de 30 cartuchos calibre .45 ACP usado em submetralhadoras Thompson M1A1 modernizadas.</text>
+	</string>
+	
+	
+
+</string_table>

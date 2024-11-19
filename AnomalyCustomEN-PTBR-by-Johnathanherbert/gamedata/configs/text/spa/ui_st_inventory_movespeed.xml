@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="ui_inv_outfit_speed">
+		<text>Multiplicador de velocidade de movimento</text>
+	</string>
+
+	
+	<!-- MCM -->
+	
+	<string id="ui_mcm_menu_speed">
+		<text>Velocidade</text>
+	</string>
+	<string id="ui_mcm_menu_speed_title">
+		<text>Trajes/armas afetam velocidade de movimento</text>
+	</string>
+	<string id="ui_mcm_speed_title">
+		<text>Trajes/armas afetam velocidade de movimento</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance">
+		<text>Sobrecarga afeta velocidade</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance_desc">
+		<text>O sistema de sobrecarga oferece bônus quando levemente sobrecarregado (menos de 25% da sobrecarga total) e penalidades quando muito sobrecarregado (mais de 70%).\n \n Atenção: ativar esta opção resultará em velocidade absurda se você viajar levemente equipado.</text>
+	</string>
+	<string id="ui_mcm_speed_weapon">
+		<text>Arma afeta velocidade de corrida</text>
+	</string>
+	<string id="ui_mcm_speed_weapon_desc">
+		<text>Se ativado, as armas aplicam um modificador na velocidade de corrida dependendo do tipo e peso.</text>
+	</string>
+	<string id="ui_mcm_speed_debug">
+		<text>(Desenvolvedor) Registro adicional no console</text>
+	</string>
+	<string id="ui_mcm_speed_debug_desc">
+		<text>Imprime algumas informações úteis no console.</text>
+	</string>
+</string_table>

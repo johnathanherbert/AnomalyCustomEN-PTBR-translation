@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+  
+    <!-- MCM -->
+    <string id="ui_mcm_arszi_radiation_title">
+      <text>Arszi Radiation Overhaul Edição Demonizada</text>
+    </string>
+    <string id="ui_mcm_menu_arszi_radiation">
+      <text>Radiação Arszi</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_ENABLE_DYNAMIC_RADIATION_ZONES">
+      <text>Ativar Zonas de Radiação Dinâmicas</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_ENABLE_DYNAMIC_RADIATION_ZONES_desc">
+      <text>Ativa a geração de zonas de radiação dinâmicas no Novo Jogo</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_ENABLE_DYNAMIC_RADIATION_ZONES_NPP">
+      <text>Ativar Zonas de Radiação Dinâmicas no interior da CNPP</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_ENABLE_DYNAMIC_RADIATION_ZONES_NPP_desc">
+      <text>Ativa a geração de zonas de radiação dinâmicas no Novo Jogo para o interior da Usina Nuclear</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_MAX_WIND_VELOCITY">
+      <text>Velocidade Máxima do Vento</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_MAX_WIND_VELOCITY_desc">
+      <text>Valor máximo para velocidade do vento, que afeta a força e tamanho da zona de radiação. Ajuste para seu mod de clima para funcionamento correto (Exemplos: vanilla - 800, clima Michiko - 1000)</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_POWER_REDUCTION_BY_RAIN">
+      <text>Redução de Poder pela Chuva</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_POWER_REDUCTION_BY_RAIN_desc">
+      <text>Zonas de radiação causarão esta porcentagem de dano em caso de chuva ou tempestade</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_MAX_SIZE_INCREASEMENT_BY_WIND">
+      <text>Aumento Máximo de Tamanho pelo Vento</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_MAX_SIZE_INCREASEMENT_BY_WIND_desc">
+      <text>Com poder máximo do vento, zonas de radiação aumentarão seu tamanho por este fator</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_MAX_POWER_INCREASEMENT_BY_WIND">
+      <text>Aumento Máximo de Poder pelo Vento</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_MAX_POWER_INCREASEMENT_BY_WIND_desc">
+      <text>Com poder máximo do vento, zonas de radiação multiplicarão seu poder por este fator</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_ENABLE_WEATHER_REPORTS">
+      <text>Ativar Relatórios de Clima</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_ENABLE_WEATHER_REPORTS_desc">
+      <text>Ativa relatórios nas transições de mapa e quando o clima muda</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_displayRadIcon">
+      <text>Exibir Ícone de Radiação</text>
+    </string>
+    <string id="ui_mcm_lst_ui_mcm_arszi_radiation_rad_icon_disabled">
+      <text>Desativado</text>
+    </string>
+    <string id="ui_mcm_lst_ui_mcm_arszi_radiation_rad_icon_enabled_above_damage_threshold">
+      <text>Ativado Se Radiação Acima do Limite de Dano</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_fastTravelWithRads">
+      <text>Viagem Rápida com Radiação</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_sleepWithRads">
+      <text>Dormir com Radiação</text>
+    </string>
+    <string id="ui_mcm_lst_ui_mcm_arszi_radiation_fast_travel_disabled">
+      <text>Desativado</text>
+    </string>
+    <string id="ui_mcm_lst_ui_mcm_arszi_radiation_fast_travel_enabled_below_grace">
+      <text>Ativado Se Radiação Abaixo do Limite de Grace</text>
+    </string>
+    <string id="ui_mcm_lst_ui_mcm_arszi_radiation_fast_travel_enabled">
+      <text>Ativado</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_WEATHER_INFO_KEY">
+      <text>Tecla de Informação do Clima</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_RADIATION_THRESHOLD_HELP">
+      <text>Em jogo vanilla, 0.01 = 38.7 msv</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_RADIATION_THRESHOLD">
+      <text>Limite de Grace da Radiação</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_RADIATION_THRESHOLD_desc">
+      <text>Abaixo desta radiação você não receberá efeitos negativos ou dano. A partir desta radiação, você começará a receber efeitos negativos até atingir o máximo de radiação. Você ainda não poderá dormir sem curar a radiação completamente</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_RADIATION_DAMAGE_THRESHOLD">
+      <text>Limite de Dano da Radiação</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_RADIATION_DAMAGE_THRESHOLD_desc">
+      <text>Acima desta radiação você começará a receber dano</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_RADIATION_MAX_DAMAGE">
+      <text>Dano Máximo da Radiação</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_RADIATION_MAX_DAMAGE_desc">
+      <text>Dano máximo em um segundo ao atingir o máximo de radiação</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_medDigestibilityHelp">
+      <text>Abaixo você pode configurar a mecânica de Digestibilidade de Medicamentos. Com isso, quanto menor a radiação que você tem atualmente, menos eficiente será o medicamento. Se suas condições estiverem majoritariamente boas, a maior parte do medicamento não será digerida pelo seu corpo e será desperdiçada. A menor eficiência é alcançada quando o nível de radiação está abaixo do Limite de Grace da Radiação. Para os medicamentos serem totalmente efetivos, você precisa ter um nível de radiação excedendo o Limite de Dano da Radiação. Os medicamentos com efeito baixo mas prolongado não são afetados por esta mecânica</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_medDigestibility">
+      <text>Ativar</text>
+    </string>
+    
+    <string id="ui_mcm_arszi_radiation_minMedEfficiency">
+      <text>Eficiência Mínima da Medicação</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_minMedEfficiency_desc">
+      <text>Eficiência mínima das medicações quando a radiação está abaixo do Limite de Grace da Radiação</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_ARSZI_POWER_REGENERATION_REDUCTION_RATIO">
+      <text>Redução de Regeneração de Poder</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_ARSZI_POWER_REGENERATION_REDUCTION_RATIO_desc">
+      <text>Poder regenerará x vezes mais lentamente com a radiação máxima</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_ARSZI_POWER_CAP_REDUCTION_RATIO">
+      <text>Redução de Capacidade de Poder</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_ARSZI_POWER_CAP_REDUCTION_RATIO_desc">
+      <text>Máximo de poder será x vezes menor com a radiação máxima</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_powerReduceCurve">
+      <text>Curva de Redução de Poder</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_powerReduceCurve_desc">
+      <text>Menos que 1 significa efeitos mais agressivos, mais que 1 significa efeitos mais calmantes que vão se manifestar mais tarde</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_ARSZI_SATIETY_REDUCTION_RATIO">
+      <text>Redução de Satiety</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_ARSZI_SATIETY_REDUCTION_RATIO_desc">
+      <text>Calorias consumidas serão x vezes menores</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_satietyReduceCurve">
+      <text>Curva de Redução de Satiety</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_satietyReduceCurve_desc">
+      <text>Menos que 1 significa efeitos mais agressivos, mais que 1 significa efeitos mais calmantes que vão se manifestar mais tarde</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_ARSZI_INTEGRATED_SUIT_BONUS_ENABLED">
+      <text>Bônus de Proteção Integrada Ativado</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_ARSZI_INTEGRATED_SUIT_BONUS_ENABLED_desc">
+      <text>Ativa o bônus de 20% de proteção contra radiação da Proteção Integrada</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_OUTFIT_WITH_HELMET_RADIATION_PROTECTION_REDUCTION_RATIO">
+      <text>(Água Radioativa) Redução de Proteção da Proteção Integrada com Capacete</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_OUTFIT_WITH_HELMET_RADIATION_PROTECTION_REDUCTION_RATIO_desc">
+      <text>Reduz a proteção contra radiação das roupas com Proteção Integrada com Capacete ao estar em água radioativa. Roupas com capacete separado têm cálculo separado de dano de água radioativa. Emula a proteção da roupa sem capacete</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_DOSIMETER_VOLUME_UP_KEY">
+      <text>Tecla de Aumento do Volume do Dosímetro</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_DOSIMETER_VOLUME_DOWN">
+      <text>Tecla de Redução do Volume do Dosímetro</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_giveDosimeterOnStart">
+      <text>(CHEAT) Dar Dosímetro ao Iniciar</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_radiationPenetrationHelp">
+      <text>Este controle a mecânica de Penetração da Radiação. Quando ativado, não importa qual proteção você tenha, alguma radiação sempre atravessará?</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_radiationPenetration">
+      <text>Ativar</text>
+    </string>
+    
+    <string id="ui_mcm_arszi_radiation_radiationPenetrationAmount">
+      <text>Quantidade de Penetração da Radiação</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_radiationPenetrationAmount_desc">
+      <text>Este controle a força do efeito. !ATENÇÃO! Este parâmetro aumenta a força das zonas de radiação</text>
+    </string>
+
+    <string id="ui_mcm_arszi_radiation_radiationPenetrationDefense">
+      <text>Defesa Contra Penetração da Radiação</text>
+    </string>
+    <string id="ui_mcm_arszi_radiation_radiationPenetrationDefense_desc">
+      <text>Este controla a defesa contra penetração. O maior valor resultará em defesa mais eficaz</text>
+    </string>
+
+</string_table>

@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<!--Traduzido por Johnathanherbert-->
+<string_table>
+	
+	<string id="encyclopedia_locations">
+		<text>Localizações</text>
+	</string>
+	
+	<string id="encyclopedia_locations_agroprom">
+		<text>Agroprom</text>
+	</string>
+	<string id="encyclopedia_locations_agroprom_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Uma área estranha e altamente contaminada. Embora os militares tenham redirecionado o complexo sul para seu QG operacional, o resto da área é frequentemente assombrada por mutantes perigosos, guardando segredos inexplorados.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Great Swamps
+			\n• Garbage
+			\n• Yantar
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Este local foi ocupado pela Duty como sua sede durante as Faction Wars em 2011. Durante este tempo, parte do complexo sul foi transformada em um museu de taxidermia dedicado à vida selvagem da Zone.
+			\n• A fábrica e o instituto de pesquisa foram oficialmente fundados após o incidente de 1986 para testar a viabilidade da agricultura em solo irradiado.
+			\n• Conspirações entre stalkers dizem que as instalações foram realmente utilizadas para um propósito muito mais subliminar antes da First Emission, em 2006.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_agroprom_underground">
+		<text>Subterrâneo de Agroprom</text>
+	</string>
+	<string id="encyclopedia_locations_agroprom_underground_text">
+		<text>
+			%c[pda_white]O Subterrâneo de Agroprom%c[ui_gray_1] é uma rede subterrânea de túneis.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nNinguém está muito certo de qual era o propósito dessas catacumbas, pois enquanto alguns túneis eram claramente usados para necessidades como canalização, outros parecem ser de natureza distintamente científica.\n
+			\nAtualmente, seu único uso restante é como esconderijo para os desesperados... e como campo de caça para os mutantes que se aproveitam de qualquer stalker desavisado que ousa se aventurar dentro.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Durante a ocupação da Agroprom pela Duty, eles organizaram extermínios brutais dos mutantes que moravam nesta área subterrânea.
+			\n• Está implícito que o principal interesse dos militares em Agroprom é investigar estas catacumbas por sinais de uma conspiração. Até agora, eles não encontraram nada.
+			\n• Sabe-se que figuras escuras e sombrias moram nesses túneis. Fique atento.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_army_warehouses">
+		<text>Army Warehouses</text>
+	</string>
+	<string id="encyclopedia_locations_army_warehouses_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Uma base militar deserta ao lado de um vilarejo abandonado e um pequeno pântano. O vilarejo, uma vez infestado por uma legião de sanguessugas, ganhou uma reputação sombria que mantém a maioria dos stalkers afastados. Enquanto isso, a base do exército tem sido usada como sede principal da Freedom por anos. É a partir desta base que eles defendem a Barrier ao norte do Monolith, e de onde muitos stalkers corajosos e tolos tentam entrar mais profundamente na Zone.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Rostok
+			\n• Dead City
+			\n• Red Forest
+			\n• Radar
+			\n• Truck Cemetery
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Este local era o quartel-general militar antes da Second Great Emission em 2011, que zumbificou a maioria dos soldados presentes.
+			\n• Diz-se que as vozes daqueles soldados agora mortos são ouvidas em frequências de rádio selecionadas de quase todos os pontos da Zone.
+			\n• Ao contrário da crença popular, nem todos os Freedomers aqui estacionados ficam drogados por razões recreativas. Alguns o fazem para evitar o pavor do ambiente causado pelo Brain Scorcher, que pode causar efeitos subliminares até vários quilômetros de distância.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_chernobyl_npp">
+		<text>Chernobyl NPP</text>
+	</string>
+	<string id="encyclopedia_locations_chernobyl_npp_text">
+		<text>
+			A %c[pda_white]Chernobyl NPP%c[ui_gray_1], chamada de %c[pda_green]V.I. Lenin NPP%c[ui_gray_1] durante a época soviética, é considerada o marco mais emblemático da Zone.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nFoi aqui no dia 26 de abril de 1986 que ocorreu o primeiro desastre, depois que o reator 4 explodiu após um pico de energia assim que o desligamento de emergência falhou, vastas nuvens de materiais radioativos foram lançadas na atmosfera.\n
+			\nNum raio de 30 quilômetros da central, foi realizada uma evacuação total da população e foi formada uma zona de exclusão - separando tudo do resto do mundo por meio de um perímetro protegido.\n
+			\nApesar do território ser protegido pelo Monolith, os stalkers têm tentado alcançar este lugar por anos - acreditando que lá pode ser encontrado um dispositivo com o poder de conceder a um deles seus desejos mais sinceros.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• O solo mais sagrado do Monolith. Os stalkers supersticiosos acreditam que este local é guardado pelas almas dos mortos.
+			\n• Strelok, Fang e Ghost foram os primeiros stalkers a chegar à Chernobyl NPP e retornarem com vida. A Second Great Emission foi liberada pela Zone como retaliação.
+			\n• A Clear Sky sofreu uma derrota esmagadora aqui em 2011, quando a Third Great Emission fez com que muitos de seus membros e líderes (juntamente com Strelok) fossem capturados, mortos ou convertidos.  
+			\n• Strelok voltou mais tarde aqui em 2012, sua mente parcialmente restaurada, para enfrentar algo embaixo da NPP. A Zone nunca mais foi a mesma desde então.
+			\n• Os militares lançaram várias expedições para recuperar a NPP, todas elas terminando em fracasso.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_cordon">
+		<text>Cordon</text>
+	</string>
+	<string id="encyclopedia_locations_cordon_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Pense nisso como a "antecâmara" da Zone - é um bom lugar para os novatos se concentrarem. Há uma vila de stalkers no sudoeste - não perca a chance de falar com o trader de lá! A ponta mais ao sul de Cordon, no entanto, é uma base militar, e os soldados frequentemente patrulham as estradas próximas. Atacar os soldados não é recomendado, a menos que eles representem uma ameaça direta.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Garbage
+			\n• Great Swamps
+			\n• Darkscape
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Os militares costumavam ter uma presença mais extensa em todo o Cordon, com fortes guarnições junto à ponte ferroviária agora negligenciada, e um posto de controle no norte.
+			\n• Os mercenaries tentaram ultrapassar a Rookie Village em 2012, mas foram repelidos por Strelok e Fanatic.
+			\n• Uma grande parte do contrabando da Zone ocorre através desta área.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_dark_valley">
+		<text>Dark Valley</text>
+	</string>
+	<string id="encyclopedia_locations_dark_valley_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Um lugar sombrio que deve sua reputação a duas coisas: a fortaleza de Bandits ao norte e o laboratório subterrâneo ao leste. Os bandits locais fazem seu melhor para manter o laboratório selado, e por uma boa razão - quase ninguém sai vivo, e ninguém pode realmente dizer por quê.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Garbage
+			\n• Darkscape
+			\n• Truck Cemetery
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Este local foi a sede da Freedom durante a Faction War de 2011.
+			\n• Os militares raramente enviam unidades Spetsnaz leves para esta área, geralmente com o objetivo de proteger ou reforçar o laboratório.
+			\n• Antes de seus incidentes além da Barrier, a Duty estava quase conseguindo eliminar de uma vez por todas a ameaça dos Bandits deste local.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_darkscape">
+		<text>Darkscape</text>
+	</string>
+	<string id="encyclopedia_locations_darkscape_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Um vale estreito, em forma de lua crescente, liga a borda sul do Dark Valley ao túnel abandonado no Cordon. As estradas levam para fora da área ao sul e leste, embora não se saiba exatamente onde elas levam. É uma área densamente arborizada com poucos pontos de referência, porém, vários deles se destacam. No final da parte mais estreita do vale encontra-se uma ponte de trem desmoronada, parte da ferrovia que passa através do Cordon e dos Great Swamps.
+			\nMais para o sul, a estrada se separa antes de uma colina. Para o sudoeste, no meio do deserto, encontra-se uma casa agrícola abandonada, despojada de tudo. A estrada principal continua até um cruzamento, ao lado do qual se encontra um posto de gasolina abandonado. De lá, uma estrada leva ao oeste, diretamente para o Cordon.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Cordon
+			\n• Dark Valley
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Devido a sua natureza remota e atrevida, este local é excelente para os stalkers que desejam se esconder de caçadores de recompensas ou se fugir da política de facções no resto da Zone.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_dead_city">
+		<text>Dead City</text>
+	</string>
+	<string id="encyclopedia_locations_dead_city_text">
+		<text>
+			A %c[pda_white]Dead City%c[ui_gray_1], uma vez cheia de energia, agora não é mais do que uma ruína desmoronada.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nAnteriormente habitada por aqueles que não conseguiam encontrar um lar dentro de Limansk ou Pripyat, grande parte da história do local já foi esquecida.\n
+			\nO nome dado por stalkers pode ser considerado um nome preciso, comparando a cidade a um cadáver por causa de sua condição - decadente e morta.\n
+			\nApesar de estar sob constante cerco de invasores Monolith e mutantes, a facção Mercenary estabeleceu aqui sua sede, mantendo uma presença pequena, mas muito poderosa.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Limansk
+			\n• Army Warehouses
+			\n• Yantar
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Até algum tempo depois de 2012, a maioria dos stalkers não acreditava que este local existisse. Tendo descoberto esse segredo, os Mercs, ao invés disso, usavam sua reputação para deter visitantes indesejados.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_deserted_hospital">
+		<text>Deserted Hospital</text>
+	</string>
+	<string id="encyclopedia_locations_deserted_hospital_text">
+		<text>
+			O %c[pda_white]Deserted Hospital%c[ui_gray_1], ou %c[pda_green]Limansk Hospital%c[ui_gray_1], é um edifício grande e abandonado quase inteiramente afundado na terra.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEmbora nada seja conhecido publicamente sobre a história deste hospital, é seguro dizer que seu propósito era servir aos residentes de Limansk.\n
+			\nUma das características mais interessantes do local é o fato de ter sido "enterrada" no chão, já que os terremotos nesta parte do mundo são extremamente incomuns e geralmente são tão pequenos que passam despercebidos.\n
+			\nÉ também a única área principal dentro da Zone conhecida por não ter qualquer atividade radioativa ou anômala - no entanto, ainda é perigosa para a maioria dos stalkers devido a ser um ponto de encontro comum para todos os tipos de cultistas de adoração da Zone.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Este é um dos poucos locais na Zone que as Emissions e Psi Storms não podem tocar.
+			\n• Este local costumava ser um dos lugares mais fortificados da Zone, com metralhadoras e helicópteros montando zonas mortíferas ao longo das estreitas passarelas do hospital.
+			\n• Enquanto quase nenhuma das fortificações fica em pé, especula-se que o hospital se tornou desde então um templo auxiliar para as forças Monolith.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_garbage">
+		<text>Garbage</text>
+	</string>
+	<string id="encyclopedia_locations_garbage_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Um vasto cemitério de máquinas. Logo após o primeiro acidente, montes inteiros de resíduos radioativos foram despejados ali. Principalmente ruínas de velhos edifícios infestados de mutantes. Como nos arredores da Zone, o lugar se aglomera com stalkers novatos, com vários bandits vagabundos, sempre à procura de fugas livres. Ali você pode encontrar um hangar de trem abandonado no meio da área, juntamente com um Flea Market ao norte.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Cordon
+			\n• Dark Valley
+			\n• Agroprom
+			\n• Rostok
+			\n• Wild Territory
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Há rumores de que o hangar do trem é um ponto de encontro para os dedicados caçadores mutantes da Zone.
+			\n• Este local foi antes a sede dos Bandits sob o domínio de Yoga, que capturariam e escravizariam os stalkers para trabalhar em campos de caça de artefatos.
+			\n• As inúmeras pilhas de sucata existem aqui desde o acidente original, em 1986.
+			\n• Como a encruzilhada entre os territórios da Duty, Stalkers, Military e Bandits, este local pode muitas vezes virar um território de guerra.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_generators">
+		<text>Generators</text>
+	</string>
+	<string id="encyclopedia_locations_generators_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1] é o local de nascimento da Zone.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+	        \n• Chernobyl NPP
+	        \n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Este local é onde a C-Consciousness direcionaria o fluxo de energia da noosfera enquanto tenta reformular o pensamento humano.
+			\n• De longe, é o local mais estranho da Zone, seria sábio ficar alerta o máximo possível.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_great_swamp">
+		<text>Great Swamps</text>
+	</string>
+	<string id="encyclopedia_locations_great_swamp_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Os pântanos consistem principalmente de água turva irradiada e canaviais altos, com passagens finas de terra segura que se estendem como pontes labirínticas por toda parte. Alguns prédios e assentamentos abandonados embelezam a paisagem.
+			\nAo norte fica o Instituto de Pesquisa Agroprom, logo após o Hunter's Backwoods. Ao leste, fica o Cordon. E a oeste, o misterioso túnel de Tuzla.
+			\nOs Great Swamps são uma excelente localização para qualquer um que queira ficar a sós, e ao mesmo tempo manter a "civilização" por perto.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Cordon
+			\n• Agroprom
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Há lendas sobre um médico bondoso que perambula por estes pântanos, embora ninguém o vê há anos.
+			\n• Há também lendas sobre figuras fantasmagóricas que andam pelos pântanos à noite, especialmente perto da estrada para Agroprom.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_jupiter">
+		<text>Jupiter</text>
+	</string>
+	<string id="encyclopedia_locations_jupiter_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Jupiter, localizada a oeste de Pripyat, é uma grande área com a Yanov Station perto do centro. A antiga estação de trem funciona como um acampamento para muitos stalkers, pois abriga um trader, um technician e um medic. Os scientists estabeleceram um bunker próximo à estação, pesquisando anomalias e artefatos da Zone, e alguns stalkers também instalaram um acampamento em uma antiga fábrica de cimento a nordeste. Outros lugares, como a pedreira, a vila de Kopachy e o Volkhov AA Complex estão há muito tempo desertas, agora habitadas apenas por mutantes e pelos "mortos-vivos".
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Red Forest
+			\n• Zaton
+			\n• Pripyat
+			\n• Jupiter Underground
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Segundo a lenda, um lugar chamado Oasis está escondido dentro desta área.
+			\n• Várias aeronaves derrubadas podem ser encontradas aqui, graças a anormalidades aéreas locais.
+			\n• A Yanov Station já foi compartilhada tanto pela Freedom quanto Duty, que estava envolvida numa guerra fria além da Barrier. Esta relação tensa foi interrompida, no entanto, pelo retorno do Monolith e pela confusão que se seguiu.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_jupiter_underground">
+		<text>Jupiter Underground</text>
+	</string>
+	<string id="encyclopedia_locations_jupiter_underground_text">
+		<text>
+			O %c[pda_white]Jupiter Underground%c[ui_gray_1], também conhecido como %c[pda_green]Pripyat Underground%c[ui_gray_1] e %c[pda_green]Pripyat-1%c[ui_gray_1], é uma série de túneis que existem sob a superfície.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nUma vez usados para transportar mercadorias e materiais sem serem vistos, como evidenciado pelos numerosos transportes enferrujados, estes túneis secretos foram abandonados e preenchidos com gases venenosos após o segundo desastre.\n
+			\nRecentemente um grupo de stalkers conseguiu reabrir os túneis do lado de Jupiter, os tornando ventilados e então, seguros para serem acessados novamente.\n
+			\nClaro que "seguro" é um termo relativo na Zone, já que aqueles que se aventuraram abaixo relatam encontrar inúmeros snorks e stalkers zumbificados.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• O elevador da fábrica de Jupiter foi avariado há muito tempo. Por sorte, as escadas funcionam muito bem.
+			\n• Os Monoliths também utilizam esse túnel.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_lab_x16">
+		<text>Lab X-16</text>
+	</string>
+	<string id="encyclopedia_locations_lab_x16_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Este laboratório é a localização de um emissor psíquico conhecido como Miracle Machine. Qualquer pessoa que se aproxime demais sem a proteção adequada será transformada em um zumbi.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• A Miracle Machine é um dispositivo wetware (mente física), incorporando um cérebro humano não natural em seu projeto.
+			\n• Para desligá-lo é necessário virar várias alavancas em sequência, começando com a mais baixa.
+			\n• Ghost, o lendário stalker e membro da tripulação original de Strelok, morreu ao tentar estudar este laboratório para os Ecologists. Quando Strelok mais tarde conseguiu desativar completamente o laboratório (pelo menos por enquanto), é provável que ele tenha voltado para enterrar seu amigo.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_lab_x18">
+		<text>Lab X-18</text>
+	</string>
+	<string id="encyclopedia_locations_lab_x18_text">
+		<text>
+			\n%c[pda_green]Informações\n%c[ui_gray_1]Diz-se que este laboratório contém informações valiosas sobre os emissores psíquicos, bem como uma grande quantidade de artefatos. Mesmo assim, os locais tendem a se afastar deste lugar, e por uma boa razão.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Este laboratório é o local onde um número significativo dos mutantes foi idealizado pela primeira vez, particularmente aqueles com poderes psíquicos.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_lab_x19">
+		<text>Lab X-19</text>
+	</string>
+	<string id="encyclopedia_locations_lab_x19_text">
+		<text>
+			%c[pda_white]Lab X-19%c[ui_gray_1], também conhecido como %c[pda_green]Lab X-10%c[ui_gray_1].\n
+			\n%c[pda_green]Informações\n%c[ui_gray_1]Este é o laboratório que contém o mecanismo que controla o Brain Scorcher, também conhecido como o "Rainbow Emitter" entre os stalkers mais conhecedores. O laboratório é de grande importância para o Monolith, que o considera quase tão importante quanto a própria Chernobyl NPP.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• A desativação do Brain Scorcher facilitará muito as viagens entre os dois lados da Barrier. As chances de sair vivo dali, no entanto, não são grandes.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_lab_x8">
+		<text>Lab X-8</text>
+	</string>
+	<string id="encyclopedia_locations_lab_x8_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]A pesquisa aqui realizada concentrou-se em muitas áreas diferentes, incluindo campos psíquicos e a noosfera, e o chamado "item 62", um protótipo de arma que usa fragmentos de artefatos para fornecer um poder espantoso. Também é muito provável que os estudos iniciais que levaram ao Brain Scorcher tenham sido conduzidos aqui. Apenas um punhado de documentos permanece, e são muito procurados pelos mercenaries locais.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Os estudos sobre o item 62 continuaram mais tarde em uma instalação em Zaton.
+			\n• De acordo com rumores, uma das equipes de pesquisa que trabalhava aqui antes de 2006 era composta por três membros: N.A. Lebedev, E.F. Kalancha e V.I. Suslov. Se há alguma evidência, ela ainda não foi revelada.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_limansk">
+		<text>Limansk</text>
+	</string>
+	<string id="encyclopedia_locations_limansk_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Uma cidade de pesquisa secreta, Limansk é um lugar vazio, embora não tenha havido evacuação oficial após o First Disaster em 1986. Após a verdadeira formação da Zone em 2006, ela se tornou um lugar ainda mais inóspito, pois as anomalias encheram a cidade e seus arredores, isolando-a do mundo. 
+			\nQuando a Second Great Emission ocorreu em setembro de 2011, as anomalias desapareceram e os stalkers entraram na cidade, procurando um caminho fácil para passar pelo Brain Scorcher e assim se chocaram com os Bandits e o Monolith. Atualmente, algumas das anomalias ainda funcionam, os edifícios e veículos abandonados que jazem pela cidade geralmente testemunham apenas a passagem da patrulha ocidental Mercenary ou Monolith. 
+			\nEla fica ao norte da Dead City.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Dead City
+			\n• Red Forest
+			\n• Deserted Hospital
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Forester lembra-se dos antigos habitantes soviéticos da cidade, e diz que eles eram fanaticamente leais, mesmo sob circunstâncias verdadeiramente adversas.
+			\n• Limansk foi possivelmente o primeiro local em que uma antena psíquica foi construída, embora este protótipo tenha se tornado há muito tempo disfuncional além do uso ou reparo.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_monolith_control_center">
+		<text>Monolith Control Center</text>
+	</string>
+	<string id="encyclopedia_locations_monolith_control_center_text">
+		<text>
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nUma parte do sarcófago cheia de máquinas de computação. Seu propósito exato é desconhecido, mas foram claramente deixados para trás por equipes de pesquisa anteriores. O Monolith desde então tem zelado das máquinas com bastante cuidado.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Este pode ter sido o lugar onde o maior dos anciãos Monolith comungou com sua divindade.
+			\n• Para acessar esse local, era necessário um decodificador especial, feito por Fang.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_monolith_war_lab">
+		<text>Laboratório de Guerra do Monolith</text>
+	</string>
+	<string id="encyclopedia_locations_monolith_war_lab_text">
+		<text>
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nAntigamente a C-Consciousness era mantida aqui. Desde sua aparente morte, este lugar sagrado tem sido guardado pelo Monolith com propósito vingativo.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Alguns membros do Group, percebendo que seus intelectos individuais não eram suficientemente poderosos para afetar diretamente a noosphere, criaram uma máquina que se transformaria em uma colmeia.
+			\n• Desde então, eles se referiam a si mesmos como a Common Consciousness, e imediatamente subordinaram o restante do Group ao seu redor. 
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_outskirts">
+		<text>Outskirts</text>
+	</string>
+	<string id="encyclopedia_locations_outskirts_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Também chamada de Periferia de Pripyat, é a parte mais remota de Pripyat. A população mutante aqui é forte e mortal. A presença humana é mínima, consistindo principalmente de Monolith e zumbificados, juntamente com dois pequenos postos avançados de stalkers e mercenaries, ambos dispostos a disputar o conteúdo do Laboratório-X local.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Pripyat
+			\n• Jupiter Underground
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• O nome "Outskirts" é tecnicamente um nome errado, mas descreve bem este distrito de Pripyat, pois está fora do que os stalkers consideram ser o verdadeiro coração da cidade.
+			\n• Este distrito foi o local de uma grande evacuação militar, após sua falha em garantir a NPP em 2012. Agora é um ponto de encontro apenas para os mais experientes e imprudentes stalkers.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_pripyat">
+		<text>Pripyat</text>
+	</string>
+	<string id="encyclopedia_locations_pripyat_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Esta cidade já abrigou os engenheiros que trabalhavam na Chernobyl NPP. Antigamente uma cidade magnífica por direito próprio, agora é uma cidade fantasma com o Monolith sendo seus principais habitantes.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Radar
+			\n• Jupiter
+			\n• Outskirts
+			\n• CNPP
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• O lendário stalker, Fang, tem uma sepultura em Pripyat. Ele também tem uma sepultura em Military Warehouses.
+			\n• Esta cidade é o ponto médio de onde o Monolith organiza a defesa de todos os seus outros grandes territórios.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_red_forest">
+		<text>Red Forest</text>
+	</string>
+	<string id="encyclopedia_locations_red_forest_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]A área mais acessível nessa Floresta é a oeste, e também indiscutivelmente a mais segura. Ainda assim, é amplamente considerada uma das áreas mais perigosas de toda a Zone, devido à alta atividade de mutantes.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Military Warehouses
+			\n• Jupiter
+			\n• Limansk
+			\n• Radar
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• O nome "Red Forest" veio das folhas de pinheiro da região, que se tornaram de cor gengibre brilhante após absorver os níveis fatais de radiação do desastre de Chernobyl de 1986.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_radar">
+		<text>Radar</text>
+	</string>
+	<string id="encyclopedia_locations_radar_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]A metade oriental da Red Forest. Um lugar horrível. Fácil de desaparecer sem deixar rastros aqui, não importa a sorte que você tenha tido na vida até agora. Este pedaço da floresta é o lar do Brain Scorcher, e quem se aproxima imediatamente fica louco, transforma-se em um zumbi e começa a andar pela Zone incansavelmente. Poucos voltam com a mente sã.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Military Warehouses
+			\n• Red Forest
+			\n• Pripyat
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Apesar da reputação sombria da área, seria o melhor caminho para o norte da Zone se ela, junto com Pripyat, fosse tirada das mãos do Monolith.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_rostok">
+		<text>Rostok</text>
+	</string>
+	<string id="encyclopedia_locations_rostok_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Rostok é uma área industrial anteriormente abandonada que foi parcialmente restaurada e reestruturada para as próprias necessidades da Duty. É um porto seguro para stalkers regulares e cientistas, que a utilizam regularmente para se encontrarem uns com os outros de toda a Zone. Sob a vigilância da Duty, duas empresas independentes floresceram - a 100 Rads Bar e a Arnie's Arena; não deixe de conferir estes lugares.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Wild Territory
+			\n• Garbage
+			\n• Military Warehouses
+			\n• Truck Cemetery
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• A Duty tem colocado uma regra de "sem armas" em Rostok. Atirar publicamente uma arma seria punido com a pena de morte. Esta regra foi revogada desde então.
+			\n• A Duty costumava ser muito seletiva sobre quem poderia entrar em Rostok, tributando os stalkers medíocres e recusando a entrada à maioria dos novatos. Esta regra foi revogada desde então.
+			\n• Rostok uma vez foi isolado do resto da Zone por campos de anomalias impenetráveis após a Second Great Emission em 2011. Este isolamento forçado persistiu até depois da Third Great Emission, mais tarde naquele ano, e efetivamente permitiu que a Freedom entrasse em Military Warehouses com pouca resistência. 
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_sarcophagus">
+		<text>Sarcophagus</text>
+	</string>
+	<string id="encyclopedia_locations_sarcophagus_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]O Sarcophagus consiste na estrutura interna do lendário Reator 4 da Chernobyl NPP.
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• A maioria das lendas ao redor do Wish Granter apontam para que ele esteja aqui.
+			\n• Consequentemente, espera-se que o Monolith esteja defendendo esta área ferozmente.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_truck_cemetery">
+		<text>Truck Cemetery</text>
+	</string>
+	<string id="encyclopedia_locations_truck_cemetery_text">
+		<text>
+			%c[ui_gray_1]O %c[pda_white]Truck Cemetery%c[ui_gray_1], oficialmente chamado de %c[pda_green]Rasshoka Equipment Cemetery%c[ui_gray_1], é um ferro-velho gigante cheio de veículos irradiados.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nUm eco escuro da menor e mais segura área "Garbage" ao sudoeste, o Truck Cemetery é um local de despejo de veículos que foram usados em extensas operações de limpeza radiológica após o desastre de 1986.\n
+			\nEmbora a maioria do equipamento que apodrecia aqui estivesse em perfeito estado de funcionamento todas aquelas décadas atrás, ele não tinha nenhuma maneira prática de ser descontaminado. Outros equipamentos tinham simplesmente se avariado por completo. De qualquer forma, as máquinas heróicas que mitigaram o desastre de Chernobyl foram todas deixadas aqui para morrer.\n
+			\nDesde o início da Zone em 2006, no entanto, esta área tem se tornado uma realidade. Às vezes, é o local de conflitos entre facções. Normalmente, é um local de reprodução para mutantes.\n
+			\nApesar de tão isolados e difíceis de chegar, muitos stalkers têm notado que os veículos aqui estão sendo gradualmente desmantelados - com muitos acreditando que alguém, talvez os militares, está tentando salvar os metais e vendê-los ilegalmente em forma de sucata.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Military Warehouses
+			\n• Rostok
+			\n• Dark Valley
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Apesar dos riscos, os bandits estabeleceram uma base na parte norte desta área, possivelmente para se situar entre a Freedom e Dark Valley.
+			\n• Muitos dos veículos aqui começaram a perder sua radioatividade, implicando que logo estarão seguros para serem removidos e legalmente sucateados caso o governo venha a ganhar o controle desta área.
+			\n• Este lugar é um ponto de esconderijo popular para stalkers paranóicos, já que poucos outros estão dispostos a enfrentar mutantes corajosos e anomalias apenas para encontrar uma agulha em um palheiro.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_wild_territory">
+		<text>Wild Territory</text>
+	</string>
+	<string id="encyclopedia_locations_wild_territory_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]Se você já tinha se perguntado como era Rostok antes da chegada da Duty, esta área lhe daria uma ideia bastante precisa. Os stalkers regulares odeiam viajar por aqui, pois esta área é tipicamente infestada de mutantes ou controlada por Bandits e Mercenaries. Ainda assim, dentro deste caos está a oportunidade - não é incomum que os oficiais da Duty ou o Barman de Rostok paguem generosamente pelos inúmeros perigos que espreitam aqui.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Rostok
+			\n• Garbage
+			\n• Yantar
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• A Duty tem dito em incluir o Wild Territory como parte de Rostok há muito tempo, mas parece sempre faltar a mão-de-obra necessária para fazê-lo.
+			\n• Este local marca o local de um massacre horrível que ocorreu em 2012. Mercenaries, sob o comando de Wolfhound, eliminaram um grande grupo de Ecologists e seus guardas quando estavam de passagem, deixando apenas dois sobreviventes. Wolfhound, juntamente com toda sua equipe, foram logo exterminados em retaliação. Hoje em dia, os mercenaries deixam os Ecologists em paz, com apenas poucas e raras exceções.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_yantar">
+		<text>Yantar</text>
+	</string>
+	<string id="encyclopedia_locations_yantar_text">
+		<text>
+			%c[pda_green]Informações\n%c[ui_gray_1]O lendário lago Yantar secou há muito tempo, deixando apenas um pântano raso em seu lugar. Este lugar é mórbido e encharcado de morte, assombrado por coisas que já não são mais humanas. Stalkers que se aventuram muito perto do complexo no norte muitas vezes ouvem vozes, às vezes enlouquecendo ou juntando-se às fileiras dos mortos-vivos. A maioria das pessoas sãs que vêm aqui só chegam para negociar com os ecologists locais, almas bondosas que pagam generosamente por amostras de mutantes e de artefatos, entre outros trabalhos.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Dead City
+			\n• Wild Territory
+			\n• Agroprom
+			\n \n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Este local contém a famigerada Miracle Machine, uma instalação psíquica que tem levado muitos homens à loucura.
+			\n• O bunker dos Ecologists é dirigido por uma pessoa excepcionalmente qualificada, que se diz ser o maior especialista da Zone em dispositivos de proteção psíquica.
+			\n• O bunker dos Ecologists costumava ser protegido pela Duty antes das perdas de mão-de-obra. Agora, os Ecologists recrutam membros de quase todas as facções para servirem como guardas. 
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_zaton">
+		<text>Zaton</text>
+	</string>
+	<string id="encyclopedia_locations_zaton_text">
+		<text>
+			%c[pda_white]Zaton%c[ui_gray_1], ou %c[pda_white]Backwater%c[ui_gray_1], é um canal seco que uma vez alimentou o rio Pripyat\n
+			\n%c[0,100,255,150]Informações%c[ui_gray_1]
+			\nCheio de destroços de inúmeros barcos, barcaças e navios de carga, este local se assemelha mais fortemente a um pântano do que o antigo local industrial que costumava ser.\n
+			\nA radiação aqui é mínima, mas muitas partes são frequentemente encontradas invadidas por Monolith, mutantes ou stalkers zumbificados.\n
+			\nApesar de estar localizada no centro da Zone e estar cercada por territórios Monolith, existem inúmeros assentamentos amigáveis, como Skadovsk e Shevchenko.
+			\n \n%c[pda_blue]Localizações interligadas%c[ui_gray_1]
+			\n• Jupiter
+			\n• Chernobyl NPP
+			\n \n%c[0,100,255,150]Curiosidades%c[ui_gray_1]
+			\n• Uma vez, Bandits e stalkers compartilharam esta área em relativa paz, com Beard muitas vezes tentando apelar para naturezas opostas. Não durou muito, e a paz foi por água abaixo em 2012.
+			\n• Dizem que um stalker louco vive em um dos navios encalhados. Se você for explorar naufrágios desconhecidos, seria sábio se afastar antes de abrir qualquer porta.
+		</text>
+	</string>
+	
+</string_table>

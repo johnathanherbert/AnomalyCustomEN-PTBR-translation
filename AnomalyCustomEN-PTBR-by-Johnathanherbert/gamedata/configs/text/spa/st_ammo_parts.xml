@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<!-- Jammin -->
+	<string id="st_casing_pistol">
+		<text>Estojo, pistola</text>
+	</string>
+	<string id="st_casing_pistol_desc">
+		<text>Pequenos estojos de latão com espoletas usados para produzir munição de pistola.\n \n</text>
+	</string>
+	<string id="st_casing_shotgun">
+		<text>Estojo, espingarda</text>
+	</string>
+	<string id="st_casing_shotgun_desc">
+		<text>Cartuchos de plástico com espoletas de latão usados para fazer munição de espingarda.\n \n</text>
+	</string>
+	<string id="st_casing_r5">
+		<text>Estojo, rifle pequeno</text>
+	</string>
+	<string id="st_casing_r5_desc">
+		<text>Estojos de latão de tamanho médio com espoletas para cartuchos de rifle intermediário.\n \n</text>
+	</string>
+	<string id="st_casing_r7">
+		<text>Estojo, rifle grande</text>
+	</string>
+	<string id="st_casing_r7_desc">
+		<text>Grandes estojos de latão com espoletas para cartuchos de rifle de tamanho completo.\n \n</text>
+	</string>
+	<string id="st_powder_pistol">
+		<text>Propelente, pistola/espingarda</text>
+	</string>
+	<string id="st_powder_pistol_desc">
+		<text>Propelente de base dupla de queima rápida para uso em espingardas e munições pequenas de pistola. Esta variante de pólvora sem fumaça produz menos energia total que pólvoras mais lentas, mas queima de forma mais limpa e rápida.\n \n</text>
+	</string>
+	<string id="st_powder_rifle">
+		<text>Propelente, rifle pequeno</text>
+	</string>
+	<string id="st_powder_rifle_desc">
+		<text>Propelente IMR para cartuchos de rifle leve e alguns cartuchos pesados de pistola. Esta pólvora queima a uma taxa média e produz uma boa quantidade de energia. Não pode ser usada em pistolas blowback e espingardas, pois pressões insuficientes levarão a queima incompleta, causando incrustação.\n \n</text>
+	</string>
+	<string id="st_powder_mag">
+		<text>Propelente, rifle grande</text>
+	</string>
+	<string id="st_powder_mag_desc">
+		<text>Propelente de alta performance e queima lenta para munições de rifle grande. Esta pólvora produz a maior quantidade de energia e queima mais lentamente, o que a torna adequada apenas para uso em munições de rifle de grande calibre disparadas de canos longos.\n \n</text>
+	</string>
+	<string id="st_handgun_rounds">
+		<text>Bala, pistola</text>
+	</string>
+	<string id="st_handgun_rounds_desc">
+		<text>Balas de pistola de diversos tamanhos recuperadas de munições. Estas serão úteis na confecção de novas munições.\n \n</text>
+	</string>
+	<string id="st_handgun_ap_rounds">
+		<text>Bala, penetração</text>
+	</string>
+	<string id="st_handgun_ap_rounds_desc">
+		<text>Balas de pistola de diversos tamanhos recuperadas de munições. Estas têm penetradores de metal incrustados na bala. As balas de pistola são geralmente muito lentas para penetrar armadura, mesmo com penetradores, a menos que cargas de sobrepressão sejam usadas.\n \n</text>
+	</string>
+	<string id="st_shotgun_rounds">
+		<text>Chumbo</text>
+	</string>
+	<string id="st_shotgun_rounds_desc">
+		<text>Chumbos #00 usados em espingardas de caça. Estes também podem ser derretidos e moldados em balas maiores.</text>
+	</string>
+	<string id="st_shotgun_ap_rounds">
+		<text>Dardos</text>
+	</string>
+	<string id="st_shotgun_ap_rounds_desc">
+		<text>Projéteis de aço endurecido encaixados em um sabot. Estes são projetados para serem disparados de espingardas policiais para desabilitar blocos de motor, mas funcionam bem contra armadura corporal.\n \n</text>
+	</string>
+	<string id="st_rifle5_rounds">
+		<text>Bala, rifle pequeno</text>
+	</string>
+	<string id="st_rifle5_rounds_desc">
+		<text>Balas de rifle pequeno de diversos tamanhos usadas em fuzis de assalto. Fabricadas pela indústria militar e cobertas com uma capa metálica completa, otimizadas para precisão.</text>
+	</string>
+	<string id="st_rifle5_ap_rounds">
+		<text>Bala, penetração</text>
+	</string>
+	<string id="st_rifle5_ap_rounds_desc">
+		<text>Balas de rifle pequeno de diversos tamanhos com penetradores de metal usadas em fuzis de assalto. Estas são munições especiais projetadas para vencer armaduras em distâncias de engajamento padrão, mas não giram ou fragmentam no corpo como resultado.\n \n</text>
+	</string>
+
+	<string id="st_rifle7_rounds">
+		<text>Bala, rifle grande</text>
+	</string>
+	<string id="st_rifle7_rounds_desc">
+		<text>Bala completa de rifle coberta com uma capa metálica. Estas são comumente usadas para carregar munições para caça e uso militar de precisão.\n \n</text>
+	</string>
+	<string id="st_rifle7_ap_rounds">
+		<text>Bala, penetração</text>
+	</string>
+	<string id="st_rifle7_ap_rounds_desc">
+		<text>Bala completa de rifle com penetradores de metal incrustados. Estas são encontradas em munições especiais usadas por forças militares e forças especiais para vencer armadura de veículos leves a longa distância.\n \n</text>
+	</string>
+
+	<string id="ui_mcm_menu_ammomaker">
+		<text>Fabricante de Munição</text>
+	</string>
+	<string id="ui_mcm_ammomaker_title">
+		<text>Fabricante de Munição</text>
+	</string>
+	<string id="ui_mcm_ammomaker_old_salvage">
+		<text>Chance de Recuperação de Munição</text>
+	</string>
+	<string id="ui_mcm_ammomaker_old_salvage_desc">
+		<text>Multiplicador de recuperação para munição padrão. Este multiplicador é aplicado sobre as chances individuais de recuperação de componentes. Por exemplo, se você tem 50% de chance de recuperar estojos e este controle está definido para 60%, sua chance final é (0.5 * 0.6) = 0.3, ou 30% de chance de recuperar estojos.</text>
+	</string>
+	<string id="ui_mcm_ammomaker_new_salvage">
+		<text>Multiplicador de Recuperação de Munição</text>
+	</string>
+	<string id="ui_mcm_ammomaker_new_salvage_desc">
+		<text>Multiplicador de recuperação para munição especial (assumindo uso do Framework Anomaly Ballistic). Este multiplicador é aplicado sobre as chances individuais de recuperação de componentes. Por exemplo, se você tem 50% de chance de recuperar estojos e este controle está definido para 60%, sua chance final é (0.5 * 0.6) = 0.3, ou 30% de chance de recuperar estojos.</text>
+	</string>
+	<string id="ui_mcm_ammomaker_powder">
+		<text>Chance de Recuperação de Propelente</text>
+	</string>
+	<string id="ui_mcm_ammomaker_powder_desc">
+		<text>Chance de recuperar propelente/pólvora ao desmontar munições.</text>
+	</string>
+	<string id="ui_mcm_ammomaker_casing">
+		<text>Chance de Recuperação de Estojos</text>
+	</string>
+	<string id="ui_mcm_ammomaker_casing_desc">
+		<text>Chance de recuperar estojos ao desmontar munições.</text>
+	</string>
+	<string id="ui_mcm_ammomaker_bullet">
+		<text>Chance de Recuperação de Bala</text>
+	</string>
+	<string id="ui_mcm_ammomaker_bullet_desc">
+		<text>Chance de recuperar balas ao desmontar munições.</text>
+	</string>
+
+	<!-- new mats -->
+	<string id="st_powder_fireball">
+		<text>Fragmentos de Artefato Térmico</text>
+	</string>
+	<string id="st_powder_fireball_desc">
+		<text>Pó de restos de artefatos termicamente ativos, para uso na confecção de munições de tipos específicos. Pode ser misturado em pólvoras lentas para aumentar sua eficácia, ou usado na confecção de munições incendiárias. O recipiente é agradável ao toque.\n \n</text>
+	</string>
+	<string id="st_powder_nightstar">
+		<text>Fragmentos de Artefato Volátil</text>
+	</string>
+	<string id="st_powder_nightstar_desc">
+		<text>Pó de restos de artefatos voláteis, para uso na confecção de munições de tipos específicos. Emite uma luz fraca e vibra no recipiente.\n \n</text>
+	</string>
+	<string id="st_powder_blood">
+		<text>Fragmentos de Artefato Químico</text>
+	</string>
+	<string id="st_powder_blood_desc">
+		<text>Pó de restos de artefatos quimicamente ativos, para uso na confecção de munições de tipos específicos. Os químicos tóxicos dentro foram liberados, exigindo cuidado ao manusear.\n \n</text>
+	</string>
+	<string id="st_powder_gravi">
+		<text>Fragmentos de Artefato Gravitacional</text>
+	</string>
+	<string id="st_powder_gravi_desc">
+		<text>Pó de restos de artefatos que exercem campos gravitacionais, para uso na confecção de munições de tipos específicos. Chacoalha constantemente no recipiente.\n \n</text>
+	</string>
+	<string id="st_powder_medusa">
+		<text>Fragmentos de Medusa</text>
+	</string>
+	<string id="st_powder_medusa_desc">
+		<text>Este item foi descontinuado. Se você o possui, desculpe! Por favor, venda-o.</text>
+	</string>
+	<string id="st_powder_battery">
+		<text>Fragmentos de Artefato Elétrico</text>
+	</string>
+	<string id="st_powder_battery_desc">
+		<text>Pó de restos de artefatos eletricamente ativos. Tocar o recipiente faz seus cabelos arrepiarem.\n \n</text>
+	</string>
+
+	<string id="st_powder_fire">
+		<text>Pólvora Incendiária</text>
+	</string>
+	<string id="st_powder_fire_desc">
+		<text>Lata de pólvora contendo uma mistura incendiária composta de magnésio, alumínio e nitrato de bário. Geralmente comprada em grandes quantidades, esta pólvora é encontrada em pequenas quantidades em certos tipos de munições de penetração de armadura. Também pode ser sintetizada a partir de fragmentos de artefato.\n \n</text>
+	</string>
+
+	<string id="st_crush">
+		<text>esmagar em fragmentos</text>
+	</string>
+	
+	<string id="st_batch_breakdown">
+		<text>desmontagem em lote [!]</text>
+	</string>
+</string_table>

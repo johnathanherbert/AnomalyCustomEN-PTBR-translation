@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    <string id="igi_task_text_bs_assault_monster_online_title">
+        <text>Caça ao Mutante</text>
+    </string>
+    
+    <string id="igi_task_text_bs_assault_stalker_online_title">
+        <text>Assalto</text>
+    </string>
+    
+    <string id="igi_task_text_bs_kill_stalker_nearby_title">
+        <text>Matar Stalker</text>
+    </string>
+    
+    <string id="igi_task_text_bs_fetch_drugkit_title">
+        <text>Buscar Kit de Drogas</text>
+    </string>
+    
+    <string id="igi_task_text_bs_fetch_patches_title">
+        <text>Buscar Patchs</text>
+    </string>
+    
+    <string id="igi_task_text_bs_return_box_from_stash_title">
+        <text>Devolver Caixa</text>
+    </string>
+
+    <string id="igi_task_text_bs_return_document_from_stash_title">
+        <text>Devolver Documentos</text>
+    </string>
+
+    <string id="igi_task_text_bs_return_pda_from_stash_title">
+        <text>Devolver PDA</text>
+    </string>
+
+    <string id="igi_task_text_bs_kill_all_mutants_on_map_title">
+        <text>Matar todos os Mutantes</text>
+    </string>
+</string_table>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!--Traduzido por johnathanherbert-->
+<string_table>
+
+	<string id="st_wpn_adar2_15">
+		<text>ADAR 2-15</text>
+	</string>
+	<string id="st_wpn_adar2_15_descr">
+		<text>A ADAR 2-15 é uma carabina civil russa desenvolvida a partir da plataforma AR-15. É fabricada com componentes israelenses e o cano é produzido pela Molot Arms.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Rússia \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Molot Oruzhie \n</text>
+	</string>
+
+	<string id="st_wpn_pkp_siber">
+		<text>PKP Pecheneg</text>
+	</string>
+	<string id="st_wpn_pkp_siber_descr">
+		<text>A PKP Pecheneg é uma metralhadora média russa que utiliza munição 7,62 x 54 mmR. É uma metralhadora PKM modernizada. Diz-se que a Pecheneg é mais precisa do que todos os seus antecessores graças a um cano mais pesado, não removível e refrigerado a ar através de perfurações ovais. Possui uma alça que elimina o efeito de névoa dos gases quentes e mantém o cano frio por mais tempo, tornando a arma mais confiável.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Rússia \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]TsNIITochMash \n</text>
+	</string>
+	
+	<string id="st_wpn_pkm_siber">
+		<text>PKM</text>
+	</string>
+	<string id="st_wpn_pkm_siber_descr">
+		<text>O PKM é uma versão modernizada e melhorada do PK. As melhorias tiveram como objetivo reduzir o peso, simplificar a produção e facilitar a operação. A parte traseira da coronha abriga um kit de limpeza e uma haste de limpeza desmontável é armazenada na perna direita do bipé. Uma metralhadora extremamente confiável.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]União Soviética \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Planta Degtyaryov \n</text>
+	</string>
+
+	<string id="st_wpn_pkm_zenit_siber">
+		<text>PKM "Zenit"</text>
+	</string>
+	<string id="st_wpn_pkm_zenit_siber_descr">
+		<text>O PKM é uma versão modernizada e melhorada do PK. As melhorias tiveram como objetivo reduzir o peso, simplificar a produção e facilitar a operação. A parte traseira da coronha abriga um kit de limpeza e uma haste de limpeza desmontável é armazenada na perna direita do bipé. Uma metralhadora extremamente confiável. Este modelo foi fortemente modificado com trilho Picatinny, empunhadura vertical, freio de boca e designador laser, além de modificações internas para aumentar a cadência de tiro da arma.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]União Soviética \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Planta Degtyaryov \n</text>
+	</string>
+
+
+</string_table>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_dynamic_tonemap_extended_title">
+		<text>Mapeamento de Tom Dinâmico Baseado em Tempo Expandido</text>
+	</string>
+	<string id="ui_mcm_menu_dynamic_tonemap_extended">
+		<text>Mapeamento de Tom Dinâmico</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_enable_dynamic_tonemap">
+		<text>Ativar Mapeamento de Tom Dinâmico</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_adaptation">
+		<text>Adaptação de Mapeamento de Tons</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_amount">
+		<text>Taxa de Mudança da Quantidade de Mapeamento de Tons</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_amount">
+		<text>Quantidade Mínima Permitida de Mapeamento de Tons</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_amount">
+		<text>Quantidade Máxima Permitida de Mapeamento de Tons</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_amount_addition">
+		<text>Quantidade a Adicionar com Chuva</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_amount_addition_desc">
+		<text>O valor resultante pode exceder o máximo permitido, mas nunca mais que 1.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_amount_addition">
+		<text>Quantidade a Adicionar com Tempestade</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_amount_addition_desc">
+		<text>O valor resultante pode exceder o máximo permitido, mas nunca mais que 1.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lowlum">
+		<text>Taxa de Alteração de Baixo Brilho no Mapeamento de Tons</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_clear_lowlum">
+		<text>Baixa Luminosidade Mínima Permitida com Céu Limpo</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_not_clear_lowlum">
+		<text>Baixa Luminosidade Mínima Permitida com Céu Nublado</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_lowlum">
+		<text>Baixa Luminosidade Máxima Permitida</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_lowlum_reduction_coeff">
+		<text>Coeficiente Mínimo de Redução de Baixa Luminosidade com Chuva</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_lowlum_reduction_coeff_desc">
+		<text>A baixa luminosidade resultante será o produto de min_not_clear_lowlum * rain_lowlum_reduction_coeff.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_lowlum_reduction_coeff">
+		<text>Coeficiente Mínimo de Redução de Baixa Luminosidade com Tempestade</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_lowlum_reduction_coeff_desc">
+		<text>A baixa luminosidade resultante será o produto de min_not_clear_lowlum * storm_lowlum_reduction_coeff.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_middle">
+		<text>Taxa de Alteração do Mapeamento de Tons de Cinza Médio</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_middle_gray">
+		<text>Cinza Médio Mínimo Permitido</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_middle_gray">
+		<text>Cinza Médio Máximo Permitido</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_amb">
+		<text>Taxa de Escala de Luminosidade Ambiente</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_amb_addition">
+		<text>Taxa Adicional de Escala de Brilho Ambiente</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_amb_addition_desc">
+		<text>A taxa adicional é aplicada entre 09h00 e 13h00 para aumento e entre 19h00 e 00h00 para diminuição.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_lumscale_amb">
+		<text>Escala de Luminosidade Ambiente Mínima Permitida</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_lumscale_amb">
+		<text>Escala de Luminosidade Ambiente Máxima Permitida</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_not_clear_amb_reduction_coeff">
+		<text>Modificador Ambiental com Céu Nublado</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_not_clear_amb_reduction_coeff_desc">
+		<text>O resultado será o produto de lumscale_amb * not_clear_amb_reduction_coeff.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_amb_reduction_coeff">
+		<text>Modificador Ambiental com Chuva</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_amb_reduction_coeff_desc">
+		<text>O resultado será o produto de lumscale_amb * rain_amb_reduction_coeff.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_amb_reduction_coeff">
+		<text>Modificador Ambiental com Tempestade</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_amb_reduction_coeff_desc">
+		<text>O resultado será o produto de lumscale_amb * storm_amb_reduction_coeff.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_hemi">
+		<text>Taxa de Escala de Luminosidade Hemisférica</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_hemi_addition">
+		<text>Taxa Adicional de Escala de Luminosidade Hemisférica</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_hemi_addition_desc">
+		<text>A taxa adicional é aplicada a partir das 19h para compensar o piso excessivamente escuro à noite.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_lumscale_hemi">
+		<text>Escala de Luminosidade Hemisférica Mínima Permitida</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_lumscale_hemi">
+		<text>Escala de Luminosidade Hemisférica Máxima Permitida</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_not_clear_hemi_reduction_coeff">
+		<text>Modificador Hemisférico com Céu Nublado</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_not_clear_hemi_reduction_coeff_desc">
+		<text>O resultado será o produto de lumscale_hemi * not_clear_hemi_reduction_coeff.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_hemi_reduction_coeff">
+		<text>Modificador Hemisférico com Chuva</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_hemi_reduction_coeff_desc">
+		<text>O resultado será o produto de lumscale_hemi * rain_hemi_reduction_coeff.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_hemi_reduction_coeff">
+		<text>Modificador Hemisférico com Tempestade</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_hemi_reduction_coeff_desc">
+		<text>O resultado será o produto de lumscale_hemi * storm_hemi_reduction_coeff.</text>
+	</string>
+</string_table>

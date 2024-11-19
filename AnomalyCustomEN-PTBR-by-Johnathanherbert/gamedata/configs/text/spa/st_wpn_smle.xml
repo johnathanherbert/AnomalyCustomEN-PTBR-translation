@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+			<string id="st_wpn_smle">
+		<text>SMLE No.1 Mk. III</text>
+	</string>
+	<string id="st_wpn_smle_descr">
+		<text>O rifle Lee-Enfield Mark III, equipado com um carregador de 10 tiros, é um rifle de ferrolho formidável e confiável. Reconhecido pela sua precisão excepcional e construção robusta, este rifle icônico serviu como arma padrão da infantaria britânica durante a Primeira e a Segunda Guerras Mundiais. Com seu ferrolho suave e poderosos cartuchos de 7,62x54mm, o Lee-Enfield Mark III é um símbolo atemporal de excelência militar e uma escolha adorada tanto por entusiastas quanto por colecionadores.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Reino Unido \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]RSAF Enfield \n</text>
+	</string>
+</string_table>

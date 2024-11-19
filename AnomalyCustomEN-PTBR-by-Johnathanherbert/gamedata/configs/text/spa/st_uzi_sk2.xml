@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_uzi_sk2">
+		<text>UZI Tambor com Coronha de Madeira</text>
+	</string>
+	<string id="st_wpn_uzi_sk2_descr">
+		<text>A Uzi é uma família de submetralhadoras e pistolas-metralhadoras israelenses de ferrolho aberto e operação por blowback, projetada inicialmente pelo Major Uziel "Uzi" Gal no final dos anos 1940, logo após o estabelecimento do Estado de Israel. É uma das primeiras armas a incorporar um design de ferrolho telescópico, que permite que o carregador seja alojado na empunhadura para uma arma mais compacta.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] NENHUM\n</text>
+	</string>
+</string_table>

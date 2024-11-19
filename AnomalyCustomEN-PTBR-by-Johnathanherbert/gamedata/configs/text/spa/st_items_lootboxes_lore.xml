@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+	<string id="st_lootbox_note_dad">
+		<text>Nota em uma caixa trancada</text>
+	</string>
+	<string id="st_lootbox_note_dad_descr">
+		<text>Mischa,\n \n
+			Não vou conseguir voltar para casa. Pegue este artefato e entregue ao Sakharov mencionando meu nome; ele providenciará o tratamento para a mamãe. A gangue do Finch me encurralou - de um jeito ou de outro, preciso acabar com isso.\n \nMe desculpe, irmão. Dê meu amor à Zlata quando a vir.\n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_tarkov">
+		<text>Nota em uma maleta segura</text>
+	</string>
+	<string id="st_lootbox_note_tarkov_descr">
+		<text>Maldito seja este lugar! Hoje o Eagle tropeçou em uma dessas malditas anomalias quando estávamos lutando contra uma matilha de cães, um pedaço da coxa dele acertou bem na minha cara! Não conseguimos encontrar sua identificação, partes dele estavam espalhadas num raio de pelo menos vinte metros. Jackal também está começando a perder a cabeça, tenho ouvido ele delirar durante o sono. Espero que aqueles bastardos da TerraGroup que estamos perseguindo estejam apodrecendo em alguma vala radioativa por aí, me inscrevi para atirar em saqueadores e capitalistas, não para lidar com essa merda bizarra. Vamos torcer para que eu saia logo daqui. \n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_bandit">
+		<text>Nota em uma pasta</text>
+	</string>
+	<string id="st_lootbox_note_bandit_descr">
+		<text>Pulga, se você está lendo isso, não leve o habar para os homens do Chefe como planejamos, ele tentou nos matar! Apenas Vor e eu conseguimos escapar - ele acha que porque Borov deu a ele o controle do Cemitério, agora ele é o chefão e pode apunhalar seus irmãos pelas costas! Pegue este saque e vá até o Sultan, contrate alguns atiradores para que possamos ensinar àquele filho da puta o seu lugar. Te encontro na ponte. \n \n- Worm\n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_sniper">
+		<text>Nota em uma caixa de rifle</text>
+	</string>
+	<string id="st_lootbox_note_sniper_descr">
+		<text>Voron,\n \nQuando você encontrar isso, se posicione na torre d'água. O dedo-duro está atualmente escondido com a Freedom; às 2200 vamos expulsar o rato e ele tentará passar escondido pelo posto de controle. Elimine-o antes que ele consiga e certifique-se de pegar o pen drive do corpo dele; não me importo com o que acontece com o resto.\n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_digger">
+		<text>Nota em uma caixa</text>
+	</string>
+	<string id="st_lootbox_note_digger_descr">
+		<text>Yuri, finalmente achei ouro! Recebi sua dica sobre o esconderijo nos Pântanos, peguei o que pude e consegui voltar em segurança. Ainda tem um monte de coisas lá, então vou fazer outra viagem - vi alguns bandidos bisbilhotando por aí, então vou levar o SVT. Aqui está sua parte por enquanto. Espero que traga sorte! \n \n Viktor\n \n
+		</text>
+	</string>
+	
+	<string id="st_lootbox_note_birthday">
+		<text>Nota em uma caixa de rifle</text>
+	</string>
+	<string id="st_lootbox_note_birthday_descr">
+		<text>E aí, irmão!\n \n Os rapazes e eu queríamos agradecer por salvar nossa pele tantas vezes. Ouvimos que seu aniversário estava chegando, então fizemos alguns favores e puxamos alguns contatos para conseguir este novo brinquedo chique. Sei que você vive reclamando que seu SVU antigo é uma porcaria, impreciso e tal, então conseguimos uma arma de verdade para um atirador. Aproveite, irmão! Estaremos de volta aos Armazéns quando quiser passar para tomar uma bebida.\n \n- Pasha\n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_mikhail">
+		<text>Nota em uma caixa de ferramentas</text>
+	</string>
+	<string id="st_lootbox_note_mikhail_descr">
+		<text>Konstantin,\n \n Pegue estas ferramentas e leve-as ao Mangun. A maldita Zona corrói tudo com ferrugem e há um limite do que um homem pode fazer com fita adesiva e linha de pesca.\n \n - Mikhail\n \n
+		</text>
+	</string>
+	
+	<string id="st_lootbox_note_orders">
+		<text>Nota em um esconderijo de sobrevivência</text>
+	</string>
+	<string id="st_lootbox_note_orders_descr">
+		<text>
+			Patriot,\n \nSuas ordens são as seguintes:\n \nEncontre-se com Shinobi no ponto de encontro Beta Rho Niner Two Five.\nUse os disfarces fornecidos para se infiltrar no Ponto de Interesse Kappa Oscar. Geralmente há um oficial de garantia posicionado do lado de fora para controlar o acesso; use o dinheiro fornecido para subornar sua passagem.\nEntregue um pacote ao Shinobi. Pegue o outro pacote e entregue-o aos tanques de combustível localizados na Posição Charlie. Configure o temporizador para 22 horas.\nQuando terminar, encontre-se com Shinobi e retire-se para o ponto de encontro Alpha 4 para debriefing.\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_vodka">
+		<text>Nota em um esconderijo de sobrevivência</text>
+	</string>
+	<string id="st_lootbox_note_vodka_descr">
+		<text>
+			\nVodka! Você está se sentindo mais forte!
+			\nVodka! Chega de sentir-se mal!
+			\nVodka! Seus olhos estão brilhando!
+			\nVodka! Você é um homem de verdade!
+			\nVodka! Limpa suas lágrimas!
+			\nVodka! Remove seus medos!
+			\nVodka! Todo mundo é lindo!
+			\nSim, Vodka!\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_transmute">
+		<text>Nota em uma caixa de artefatos</text>
+	</string>
+	<string id="st_lootbox_note_transmute_descr">
+		<text>Pesquisador Sênior Pavel,\n \nTivemos algum sucesso limitado com a transmutação do artefato 'Ampulheta'. Enquanto a aplicação de artefatos na anomalia Fruit Punch reagiu como esperado, a subsequente adição do artefato Flash no campo causou um surto inesperado e drástico de energia. O estagiário Andreychuk foi derrubado e um dos computadores de campo sofreu danos por líquido, mas felizmente pouco dano ocorreu ao nosso pessoal ou equipamento em geral. No entanto, lamentavelmente, nossos trajes e equipamentos de campo foram atingidos por um cheiro horrível que se recusa a ir embora! Vamos requisitar novos equipamentos e vender nossos trajes antigos no mercado negro. Estou guardando um ingrediente para transmutação aqui; até aperfeiçoarmos a receita, não quero arriscar outro incidente. \n \nPesquisador Nikolai \n \n
+		</text>
+	</string>
+	<string id="st_lootbox_note_spooky">
+		<text>Nota em uma caixa de artefatos</text>
+	</string>
+	<string id="st_lootbox_note_spooky_descr">
+		<text>Professor Chefe Sakharov,\n\nOntem um stalker chamado Windy visitou o Laboratório Móvel e nos vendeu este artefato muito estranho. Ele afirma que é a 'essência de um poltergeist'. Não temos certeza da origem deste artefato - quando pressionamos o vendedor com perguntas, ele se recusou a falar. A composição se assemelha a um pedaço de quartzo, mas é tão amorfa quanto areia molhada. A amostra flutua em repouso e exibe leves anomalias gravitacionais em pequenos objetos próximos, como pedras. Como não temos o equipamento adequado em nosso laboratório, estamos enviando esta amostra para análise posterior.\n \nPesquisador Nikolai \n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_spankbank">
+		<text>Nota em uma pasta</text>
+	</string>
+	<string id="st_lootbox_note_spankbank_descr">
+		<text>Ei, quando terminar seus 'negócios', por favor feche a maldita pasta e limpe sua bagunça! Se eu encontrar as páginas grudadas, vou enfiar uma Bola de Fogo no seu traseiro!\n \n 
+		</text>
+	</string>
+	
+	<string id="st_lootbox_note_grenade">
+		<text>Nota em uma caixa de munições</text>
+	</string>
+	<string id="st_lootbox_note_grenade_descr">
+		<text>Andrey,\n \nRoubei esta caixa da loja do Spooner. Do jeito que ele está sempre fumando em serviço, é inevitável que o depósito de munições se torne um show de fogos de artifício. Leve estes limões para o túnel em Cordon a oeste de onde Kuznetsov está postado: você encontrará alguns Loners lá com uma caixa de artefatos. Leve Lyontsov e Romanenko com você - eles são confiáveis. Depois de concluir a transação, deixe os artefatos onde você encontrou esta caixa.\n \nSargento Kovalenko\n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_deathlamp">
+		<text>Nota em um Esconderijo do Monolith</text>
+	</string>
+	<string id="st_lootbox_note_deathlamp_descr">
+		<text>IRMÃOS, EU VI A LUZ E ELA QUEIMA A ALMA, QUEIMA E DÓI E EU POSSO OUVI-LA E ELA DEVE SER SELADA E NÓS ESTAMOS AMALDIÇOADOS NÃO HÁ LUZ NÃO HÁ ESPERANÇA SÓ EXISTE A DOR E O SOFRIMENTO AH OH DEUS DÓI NÃO GUARDE ISSO TIRE ISSO AJUDA EU NÃO POSSO AJUDAR NÃO POR FAVOR ME AJUDE
+		</text>
+	</string>
+	<string id="st_lootbox_note_tourist">
+		<text>Nota em um armário de espingarda</text>
+	</string>
+	<string id="st_lootbox_note_tourist_descr">
+		<text>
+			8 de Setembro de 2018
+			\n \nPorra cara, estou morto!
+			\nAquele idiota do Marko tinha que abrir a boca perto daquela vadia da Hip na vila! Se gabando de como ele tinha a espingarda Bizon e podia atirar nas bolas de um Javali a 100 metros de distância! Bem, ela nos ouviu e fez uma boa oferta, mas aquele idiota tinha que falar merda e dizer que só negociaria com ela se ela melhorasse a oferta com um boquete! Naquela noite estávamos acampando perto da entrada do túnel do trem, aquela vadia nos encontrou com um esquadrão de uns caras com cara de muito sérios! Ela colocou a pistola nas partes do Marko e atirou, arrancou os ovos dele! Ela me mandou trazer aquela espingarda ou então atiraria nas minhas bolas também! Bem, Artem decidiu fugir, e meu Marko está agora dormindo no acampamento enquanto eu estou sabe Deus onde garantindo que esta arma ainda esteja aqui. Que se foda isso, vou cair fora daqui! Vou deixar esta espingarda onde está e espero que ela a encontre antes de me encontrar! Espero que essa arma exploda na cara do cliente dela.
+		</text>
+	</string>
+	
+	<string id="st_lootbox_note_mechanic">
+		<text>Nota em uma caixa de ferramentas</text>
+	</string>
+	<string id="st_lootbox_note_mechanic_descr">
+		<text>
+			\n \n Diário pessoal de Andrei Petrenko
+			\n \n Ontem foi meu aniversário. Tenho vivido na Zona por quase um ano agora, considerando as ocasionais idas ao mundo exterior para buscar suprimentos. Estou começando a gostar daqui - o mundo exterior nunca me deu muito respeito, mas aqui faço um trabalho honesto e desfruto do respeito dos meus companheiros. Há algo estranho neste lugar, ele odeia tecnologia e violência. Limpei e mantive mais armas aqui apenas no último ano do que em dez anos como armeiro.  
+		</text>
+	</string>
+	
+
+	<string id="st_lootbox_note_chuckecheese">
+		<text>Nota em uma caixa estranha</text>
+	</string>
+	<string id="st_lootbox_note_chuckecheese_descr">
+		<text>
+			Obrigado por passar seu dia na Zona Divertida do Dr. Arti (TM)! Aproveite* uma seleção complementar de nossas melhores lembranças! Esperamos vê-lo novamente em breve! \n \n \n \n \n
+			* Dr. Arti e associados do Dr. Arti não são responsáveis por quaisquer lesões, efeitos colaterais, consequências ou alterações permanentes na realidade resultantes do uso inadequado ou exposição às nossas lembranças, incluindo mas não limitado a: sangramentos nasais, lacerações, contusões, envenenamento por radiação, envenenamento químico, queimaduras, congelamento, substituição celular, contração de varíola, Ebola, parasitas, doença do sono, disenteria, Solanum, COVID-19, COVID-99, câncer retal, perda, ganho ou mutação de partes do corpo, perda ou aquisição de sentidos adicionais, indigestão, constipação, apoteose, alcoolismo, vício em drogas, feminização ou masculinização involuntária, terrores noturnos, terrores diurnos, manifestação de entidades Abraâmicas ou outras, transporte involuntário para dimensões paralelas, introdução involuntária de entidades de dimensões paralelas, sentimentos repentinos de pavor ou euforia, ansiedade induzida pela consciência de viver em uma simulação, ou diarreia. Entre em contato com nossa linha de suporte ao cliente em 0x12182fa31-51249 ou envie consultas para Caixa Postal 25251, Ganymede NJ para mais informações.
+		</text>
+	</string>
+
+	<string id="st_lootbox_docs_sheet">
+		<text>Documento Solto</text>
+	</string>
+	
+	<string id="st_lootbox_docs_sheets">
+		<text>Documentos Antigos</text>
+	</string>
+
+	<string id="st_lootbox_docs_notebook">
+		<text>Caderno</text>
+	</string>
+	
+	<string id="st_lootbox_docs_folder">
+		<text>Pasta com Documentos</text>
+	</string>
+	
+	<string id="st_lootbox_docs_usb">
+		<text>Pen Drive</text>
+	</string>
+
+	
+	<string id="st_lootbox_docs_sheet1_descr">
+		<text>Um documento solto digitado da inteligência militar. A informação está criptografada, como é procedimento padrão para o Exército, que transporta esses documentos na ausência de alternativas sem fio e os descriptografa manualmente ou com um dispositivo especial. Como tal, não é muito útil para o leigo, embora haja rumores de que certos grupos organizados têm acesso aos códigos que o exército usa. O SSU provavelmente adoraria recuperar isso, mas outros grupos podem tirar muito proveito disso.</text>
+	</string>
+	
+	<string id="st_lootbox_docs_sheet2_descr">
+		<text>Uma página solta antiga de um caderno de laboratório. Pode ser interessante para algumas partes, mas não muito útil sem o resto. A caligrafia está confusa e manchada, e ser mantida em condições menos que adequadas não fez nenhum favor à sua legibilidade. Potencialmente interessante para grupos científicos.</text>
+	</string>
+
+	<string id="st_lootbox_docs_sheet3_descr">
+		<text>Um documento solto em péssimo estado. Há algum diagrama nele, que parece ser um dispositivo laboratorial complexo. Manchas de líquido tornaram a maior parte do texto digitado indecifrável, mas ainda pode valer uma ninharia.</text>
+	</string>
+
+	<string id="st_lootbox_docs_sheet4_descr">
+		<text>Uma nota fiscal de transporte solta detalhando quais itens em que quantidade foram enviados para qual local. Parece nova, mas você não sabe se é porque foi produzida recentemente ou por acaso foi armazenada em um ambiente agradavelmente seco. Infelizmente os itens são referidos apenas por um código, embora os preços ao lado desses itens sejam bastante interessantes.</text>
+	</string>
+
+	<string id="st_lootbox_docs_sheet5_descr">
+		<text>Alguma forma de comunicação digitada entre duas partes codificadas. Nenhuma marca identificadora de qualquer das partes está presente, além de dois codinomes cifrados. Grupos mercenários tendem a passar informações desta maneira via blocos de uso único e pontos mortos para garantir sigilo e anonimato absolutos para todas as partes envolvidas.</text>
+	</string>
+
+	<string id="st_lootbox_docs_notebook1_descr">
+		<text>Um caderno de campo com observações científicas e desenhos recuperados de uma equipe de Ecologistas. Várias páginas estão codificadas. As informações dentro provavelmente são de interesse para certas partes. Os Ecologistas vão querer isso de volta, mas outros grupos certamente estariam interessados nisso também.</text>
+	</string>
+
+	<string id="st_lootbox_docs_notebook2_descr">
+		<text>Grosso maço de papéis antigos de algum prédio administrativo. A maior parte da informação aqui é bastante rotineira, como contracheques, relatórios mundanos e impressões. Definitivamente há algumas informações úteis ou padrões que podem ser descobertos aqui, mas vai levar muito tempo e paciência.</text>
+	</string>
+	<string id="st_lootbox_docs_notebook3_descr">
+		<text>Este caderno tem algumas informações contábeis, mas as entradas estão codificadas por razões de segurança. Isso provavelmente pertence ao exército ou outros grupos independentes operando na área, o que torna tal documento bastante perigoso nas mãos erradas.</text>
+	</string>
+	<string id="st_lootbox_docs_notebook4_descr">
+		<text>Caderno antigo recuperado de um dos X-Labs ou de um local adjacente. Grupos científicos pagarão caro por isso, já que qualquer informação dentro pode lançar luz sobre a verdadeira natureza das atividades que aconteciam antes do Segundo Incidente.</text>
+	</string>
+
+
+	<string id="st_lootbox_docs_folder_descr">
+		<text>Pasta grossa com documentos recuperados de um laboratório. Contém um tesouro de informações sobre experimentos, observações, resultados e comentários, bem como documentos administrativos como documentação técnica, faturas, comunicados e relatórios. Informação extremamente valiosa para qualquer parte.</text>
+	</string>
+
+	<string id="st_lootbox_docs_usb_descr">
+		<text>Pen drive encontrado em uma pasta. Forma comum de armazenar e transportar grandes quantidades de informação de maneira compacta, embora seja necessário um computador para acessar os dados.</text>
+	</string>
+</string_table>

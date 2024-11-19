@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_menu_tmmr">
+		<text>Repositório Mini Mods Tosox</text>
+	</string>
+
+	<string id="ui_mcm_menu_outfits_gives_patches">
+		<text>Desmontagem de Trajes Fornece Patches</text>
+	</string>
+	<string id="ui_mcm_tmmr_outfits_gives_patches_title">
+		<text>Desmontagem de Trajes Fornece Patches</text>
+	</string>
+	<string id="ui_mcm_tmmr_outfits_gives_patches_patch_chance">
+		<text>Chance de obter um patch</text>
+	</string>
+</string_table>

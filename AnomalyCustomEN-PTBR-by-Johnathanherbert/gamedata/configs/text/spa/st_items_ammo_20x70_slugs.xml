@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--! Traduzido por johnathanherbert -->
+<!--
+	Ammunition
+-->
+
+<string_table>
+	
+	<string id="ammo_20x70_devastator">
+		<text>Munição 20 x 70 «Devastator»</text>
+	</string>
+	<string id="ammo_20x70_devastator_descr">
+		<text>Munição de chumbo sólido calibre 20 projetada para armas de cano liso. Apelidada de "Devastator" por seu peso e poder de impacto excepcionais.\n \n
+%c[ui_gray_2] • %c[ui_gray_2] Penetração de Armadura: %c[ui_gray_1]BR2 (25) \n
+%c[ui_gray_2] • %c[ui_gray_2] Poder de Impacto: %c[ui_gray_1]Muito Alto</text>
+	</string>
+	<string id="ammo_20x70_devastator_s">
+		<text>Munição 20 x 70</text>
+	</string>
+	
+	<string id="ammo_20x70_star">
+		<text>Munição Perfurante 20 x 70 «Star»</text>
+	</string>
+	<string id="ammo_20x70_star_descr">
+		<text>Munição calibre 20 especialmente projetada para penetrar as armaduras mais resistentes, mantendo um custo de produção e comercialização acessível.\n \n
+%c[ui_gray_2] • %c[ui_gray_2] Penetração de Armadura: %c[ui_gray_1]BR5 (50) \n
+%c[ui_gray_2] • %c[ui_gray_2] Poder de Impacto: %c[ui_gray_1]Muito Alto</text>
+	</string>
+	<string id="ammo_20x70_star_s">
+		<text>Munição Perf. 20 x 70</text>
+	</string>
+
+</string_table>

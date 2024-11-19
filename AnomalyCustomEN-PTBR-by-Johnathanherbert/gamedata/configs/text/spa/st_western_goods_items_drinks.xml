@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor Original : NLTP_ASHES                                                                                  -->
+<!--    Editado : N/A                                                                                                -->
+<!--    Data : 11/11/2023                                                                                            -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)          -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para os itens de bebidas do Western Goods.                                               -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <string id="st_wg_cola_bottle">
+        <text>Garrafa de Coca-Cola</text>
+    </string>
+
+    <string id="st_wg_cola_bottle_s">
+        <text>Garrafa de Coca</text>
+    </string>
+
+    <string id="st_wg_cola_bottle_descr">
+        <text>
+            Coca-Cola, informalmente conhecida como Coca, é um refrigerante gaseificado. Originalmente comercializada como uma bebida de temperança e destinada a ser um medicamento patenteado. Alguns comerciantes pela Zona ocasionalmente importam algumas garrafas. Embora a maioria dos stalkers a aprecie como bebida, também pode ser usada para remover ferrugem de armas antigas.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+        </text>
+    </string>
+
+    <string id="st_wg_gorbatschow_bottle">
+        <text>Garrafa de Vodka Gorbatschow</text>
+    </string>
+
+    <string id="st_wg_gorbatschow_bottle_s">
+        <text>Garrafa de Gorbatschow</text>
+    </string>
+
+    <string id="st_wg_gorbatschow_bottle_descr">
+        <text>
+            A vodka Gorbatschow é uma das variedades mais famosas de sua categoria, produzida e engarrafada na Alemanha. É apreciada por seu sabor decente por um custo relativamente baixo.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_blue] • %c[ui_gray_2] estimulante\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+            %c[d_red] • %c[ui_gray_2] álcool forte\n
+        </text>
+    </string>
+
+    <string id="st_wg_wine_chateau_latour">
+        <text>Grand Vin de Chateau Latour</text>
+    </string>
+
+    <string id="st_wg_wine_chateau_latour_s">
+        <text>Vinho Chateau Latour</text>
+    </string>
+
+    <string id="st_wg_wine_chateau_latour_descr">
+        <text>
+            Chateau Latour é uma das mais antigas propriedades produtoras contínuas de vinho de Bordeaux. É reconhecida por ser um "Premier Grand Cru Classe". A composição das variedades de uva é 80% Cabernet Sauvignon, 18% Merlot e 2% de Cabernet Franc e Petit Verdot. Garrafas deste vinho são bastante caras, é uma verdadeira raridade encontrar uma na Zona.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_blue] • %c[ui_gray_2] estimulante\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+            %c[d_red] • %c[ui_gray_2] álcool forte\n
+        </text>
+    </string>
+
+    <string id="st_wg_yoohoo_bottle">
+        <text>Bebida de Chocolate Yoo-hoo</text>
+    </string>
+
+    <string id="st_wg_yoohoo_bottle_s">
+        <text>Bebida de Chocolate Yoo-hoo</text>
+    </string>
+
+    <string id="st_wg_yoohoo_bottle_descr">
+        <text>
+            Introduzida pela primeira vez na década de 1920 por Natalie Olivieri, Yoo-hoo é uma bebida fria com sabor de chocolate. É 99% livre de gordura, 100% livre de cafeína e rica em cálcio e vitamina D.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_mountain_dew_bottle">
+        <text>Garrafa de Mountain Dew</text>
+    </string>
+
+    <string id="st_wg_mountain_dew_bottle_s">
+        <text>Garrafa de Mountain Dew</text>
+    </string>
+
+    <string id="st_wg_mountain_dew_bottle_descr">
+        <text>
+            Mountain Dew, frequentemente abreviado como Mtn Dew, é um refrigerante com sabor cítrico e cafeína comercializado pelo Grupo PepsiCo. É uma bebida com sabor de frutas inicialmente comercializada como bebida "energética", mas desde então evoluiu para ser mais um refrigerante.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_nestea_icetea_bottle">
+        <text>Garrafa de Chá Gelado Nestea</text>
+    </string>
+
+    <string id="st_wg_nestea_icetea_bottle_s">
+        <text>Garrafa de Chá Gelado Nestea</text>
+    </string>
+
+    <string id="st_wg_nestea_icetea_bottle_descr">
+        <text>
+            Nestea é uma bebida refrescante de chá gelado com sabor de limão não gaseificada. É melhor apreciada bem gelada, mesmo que seja difícil de conseguir na Zona. É ideal para os meses quentes de verão.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_cola_can">
+        <text>Lata de Coca-Cola</text>
+    </string>
+
+    <string id="st_wg_cola_can_s">
+        <text>Lata de Coca</text>
+    </string>
+
+    <string id="st_wg_cola_can_descr">
+        <text>
+            Coca-Cola, informalmente conhecida como Coca, é um refrigerante gaseificado. Originalmente comercializada como uma bebida de temperança e destinada a ser um medicamento patenteado. Alguns comerciantes pela Zona ocasionalmente importam algumas garrafas. Embora a maioria dos stalkers a aprecie como bebida, também pode ser usada para remover ferrugem de armas antigas.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+        </text>
+    </string>
+
+    <string id="st_wg_sprite_can">
+        <text>Lata de Sprite</text>
+    </string>
+
+    <string id="st_wg_sprite_can_s">
+        <text>Lata de Sprite</text>
+    </string>
+
+    <string id="st_wg_sprite_can_descr">
+        <text>
+            Sprite é um refrigerante feito de extratos de limão e lima. Seu sabor é similar à limonada.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_redbull_can">
+        <text>Lata de RedBull</text>
+    </string>
+
+    <string id="st_wg_redbull_can_s">
+        <text>Lata de RedBull</text>
+    </string>
+
+    <string id="st_wg_redbull_can_descr">
+        <text>
+            Red Bull é uma bebida energética para ser tomada contra o cansaço mental ou físico ou exaustão. Red Bull combina duas substâncias naturais e importantes transmissores metabólicos - o aminoácido taurina e o glucuronolactona - com cafeína estimulante, vitaminas e a energia fornecida por carboidratos.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_blue] • %c[ui_gray_2] estimulante\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_fanta_can">
+        <text>Lata de Fanta</text>
+    </string>
+
+    <string id="st_wg_fanta_can_s">
+        <text>Lata de Fanta</text>
+    </string>
+
+    <string id="st_wg_fanta_can_descr">
+        <text>
+            Brilhante, borbulhante e popular, Fanta é um refrigerante introduzido pela primeira vez em 1940. Fanta é a segunda marca mais antiga da The Coca-Cola Company.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_pepsi_can">
+        <text>Lata de Pepsi</text>
+    </string>
+
+    <string id="st_wg_pepsi_can_s">
+        <text>Lata de Pepsi</text>
+    </string>
+
+    <string id="st_wg_pepsi_can_descr">
+        <text>
+            Pepsi é um refrigerante carbonatado fabricado pela PepsiCo. É o principal concorrente da Coca-Cola. É frequentemente descrito como suave e doce, com um sabor moderado de cola e bolhas moderadas.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_mountain_dew_can">
+        <text>Lata de Mountain Dew</text>
+    </string>
+
+    <string id="st_wg_mountain_dew_can_s">
+        <text>Lata de Mountain Dew</text>
+    </string>
+
+    <string id="st_wg_mountain_dew_can_descr">
+        <text>
+            Mountain Dew, frequentemente abreviado como Mtn Dew, é um refrigerante com sabor cítrico e cafeína comercializado pelo Grupo PepsiCo. É um refrigerante com sabor de frutas inicialmente comercializado como uma bebida "energética", mas desde então evoluiu para ser mais um refrigerante comum.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_perrier_can">
+        <text>Lata de Perrier</text>
+    </string>
+
+    <string id="st_wg_perrier_can_s">
+        <text>Lata de Perrier</text>
+    </string>
+
+    <string id="st_wg_perrier_can_descr">
+        <text>
+            Perrier é uma água mineral carbonatada saborosa, sem açúcar e sem calorias. A fonte da qual a água Perrier é extraída é naturalmente carbonatada, mas a água e o gás carbônico natural são obtidos independentemente. A água é então purificada e, durante o engarrafamento, o gás carbônico é readicionado para que o nível de carbonatação na Perrier engarrafada corresponda ao da fonte de Vergeze.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_rockstar_energy_can">
+        <text>Lata de Rockstar Energy</text>
+    </string>
+
+    <string id="st_wg_rockstar_energy_can_s">
+        <text>Lata de Rockstar Energy</text>
+    </string>
+
+    <string id="st_wg_rockstar_energy_can_descr">
+        <text>
+            Rockstar Energy Drink Original contém 160 mg de cafeína por lata de 473 ml. Além de cafeína e açúcar, Rockstar Energy Drink contém uma variedade de ervas, incluindo ginseng panax, ginkgo biloba, extrato de cardo-mariano e semente de guaraná.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_blue] • %c[ui_gray_2] estimulante\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_monster_energy_can">
+        <text>Lata de Monster Energy</text>
+    </string>
+
+    <string id="st_wg_monster_energy_can_s">
+        <text>Lata de Monster Energy</text>
+    </string>
+
+    <string id="st_wg_monster_energy_can_descr">
+        <text>
+            Bebida Energética Carbonatada com Taurina, Ginseng, L-Carnitina, Cafeína e Vitaminas B com Açúcares e Edulcorante. É uma das bebidas energéticas mais populares do mundo. Embora algumas pessoas não gostem devido ao seu sabor artificial.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_blue] • %c[ui_gray_2] estimulante\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_beer_86_can">
+        <text>Lata de cerveja Bavaria 86 loira</text>
+    </string>
+
+    <string id="st_wg_beer_86_can_s">
+        <text>Lata de Bavaria 86</text>
+    </string>
+
+    <string id="st_wg_beer_86_can_descr">
+        <text>
+            Bavaria 8.6 é uma cerveja loira especial com seu próprio caráter distintivo. Uma cerveja poderosa e forte com um tom dourado, agradavelmente doce e viscosa no seu sabor residual.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_blue] • %c[ui_gray_2] estimulante\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+            %c[d_orange] • %c[ui_gray_2] álcool leve\n
+        </text>
+    </string>
+
+    <string id="st_wg_sevenup_can">
+        <text>Lata de Seven-UP</text>
+    </string>
+
+    <string id="st_wg_sevenup_can_s">
+        <text>Lata de 7UP</text>
+    </string>
+
+    <string id="st_wg_sevenup_can_descr">
+        <text>
+            Seven-UP (também chamado de 7UP) é um refrigerante carbonatado com sabor de limão-lima. É o principal concorrente da Sprite, outro refrigerante. Mais agradável quando bebido gelado.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_dr_bob_can">
+        <text>Lata de Dr. Bob</text>
+    </string>
+
+    <string id="st_wg_dr_bob_can_s">
+        <text>Lata de Dr. Bob</text>
+    </string>
+
+    <string id="st_wg_dr_bob_can_descr">
+        <text>
+            Dr. Bob é um refrigerante gaseificado frequentemente descrito como uma imitação do Dr. Pepper. Embora tente imitar, seu sabor não é exatamente como o Dr. Pepper. O sabor é mais amargo e seco.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+    <string id="st_wg_lipton_icetea_can">
+        <text>Lata de Lipton Ice Tea</text>
+    </string>
+
+    <string id="st_wg_lipton_icetea_can_s">
+        <text>Lata de Lipton Ice Tea</text>
+    </string>
+
+    <string id="st_wg_lipton_icetea_can_descr">
+        <text>
+            Lipton Ice Tea é um refrigerante não gaseificado com extrato de chá e suco de pêssego, misturado com açúcar e adoçante. É baixo em calorias e não contém conservantes, tornando-o uma bebida bastante saudável.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] bebida\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte limpa de nutrição\n
+        </text>
+    </string>
+
+</string_table>

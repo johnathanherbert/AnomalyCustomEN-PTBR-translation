@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_spleen_wastelander">
+        <text>Legal seu traje, irmão. Não é muito difícil fazer alguns upgrades nele - tenho tudo que preciso para o traje, mas me mostre que está falando sério. Me traga um artefato raro e vou melhorar seu traje.</text>
+    </string>
+
+    <string id="st_beard_binocs">
+        <text>Um dos meus caçadores de artefatos teve um pouco de azar ontem. Subiu o Carvalho e conseguiu alguns bons artefatos, mas deixou cair o binóculo no buraco. Coitado! Você tem algum sobressalente?</text>
+    </string>
+</string_table>

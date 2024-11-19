@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="ui_mcm_menu_targetID">
+		<text>Identificação de Facção</text>
+	</string>
+
+	<string id="ui_mcm_targetID_deadID">
+		<text>Identificar stalkers mortos</text>
+	</string>
+
+	<string id="ui_mcm_targetID_nameID">
+		<text>Identificar nomes dos stalkers</text>
+	</string>
+
+	<string id="ui_mcm_targetID_timeID">
+		<text>Atrasar identificação por distância</text>
+	</string>
+	<string id="ui_mcm_targetID_timeID_desc">
+		<text>Se ativado, a identificação exigirá que você olhe para um stalker por um período de tempo baseado na distância para identificá-lo.</text>
+	</string>
+
+	<string id="ui_mcm_targetID_rankID">
+		<text>Identificar patente do stalker</text>
+	</string>
+
+	<string id="ui_mcm_targetID_talkName">
+		<text>Precisa aprender o nome</text>
+	</string>
+	<string id="ui_mcm_targetID_talkName_desc">
+		<text>Se ativado, o jogador deve falar ou saquear um stalker antes de conhecer seu nome e patente.</text>
+	</string>
+
+	<string id="ui_mcm_targetID_speedID">
+		<text>Velocidade de identificação</text>
+	</string>
+	
+	<string id="ui_mcm_targetID_xo">
+		<text>Posição X</text>
+	</string>
+	<string id="ui_mcm_targetID_yo">
+		<text>Posição Y</text>
+	</string>
+	
+	<string id="ui_mcm_targetID_xp">
+		<text>Deslocamento do Emblema X</text>
+	</string>
+	<string id="ui_mcm_targetID_yp">
+		<text>Deslocamento do Emblema Y</text>
+	</string>
+	
+	<string id="ui_mcm_targetID_xn">
+		<text>Deslocamento do Nome X</text>
+	</string>
+	<string id="ui_mcm_targetID_yn">
+		<text>Deslocamento do Nome Y</text>
+	</string>
+	
+	<string id="ui_mcm_targetID_xr">
+		<text>Deslocamento da Patente X</text>
+	</string>
+	<string id="ui_mcm_targetID_yr">
+		<text>Deslocamento da Patente Y</text>
+	</string>
+	
+	<string id="ui_mcm_targetID_flipAlign">
+		<text>Inverter alinhamento do texto</text>
+	</string>
+	<string id="ui_mcm_targetID_flipAlign_desc">
+		<text>Nome e patente serão alinhados à direita para que a HUD possa ser colocada no lado direito da tela.</text>
+	</string>
+	
+	<string id="ui_mcm_targetID_colorR">
+		<text>Cor do Texto do Nome R</text>
+	</string>
+	<string id="ui_mcm_targetID_colorG">
+		<text>Cor do Texto do Nome G</text>
+	</string>
+	<string id="ui_mcm_targetID_colorB">
+		<text>Cor do Texto do Nome B</text>
+	</string>
+	
+	<string id="ui_mcm_targetID_RcolorR">
+		<text>Cor do Texto da Patente R</text>
+	</string>
+	<string id="ui_mcm_targetID_RcolorG">
+		<text>Cor do Texto da Patente G</text>
+	</string>
+	<string id="ui_mcm_targetID_RcolorB">
+		<text>Cor do Texto da Patente B</text>
+	</string>
+	
+	<string id="ui_mcm_targetID_targL">
+		<text>Tolerância de Mira</text>
+	</string>
+	<string id="ui_mcm_targetID_targL_desc">
+		<text>Quão longe o alvo pode estar do centro da tela e ainda ser identificado. Um valor mais alto é menos tolerante, valores mais baixos tornam muito mais fácil rastrear um alvo sem ampliação. Um valor de 1.0 significa que você deve estar olhando diretamente para o alvo.</text>
+	</string>
+	
+	<string id="ui_mcm_targetID_unknown">
+		<text>Desconhecido</text>
+	</string>
+	<string id="ui_mcm_targetID_scan">
+		<text>Identificando...</text>
+	</string>
+	
+	
+</string_table>

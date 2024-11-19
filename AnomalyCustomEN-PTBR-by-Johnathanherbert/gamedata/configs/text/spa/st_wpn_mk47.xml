@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_mk47">
+		<text>CMMG MK47 MUTANT</text>
+	</string>
+	<string id="st_wpn_mk47_descr">
+		<text>O CMMG Mk47 Mutant é um rifle semiautomático fabricado nos Estados Unidos, com câmara para calibre 7.62×39mm, produzido pela CMMG Inc. Ele aceita todos os tipos de carregadores do padrão Kalashnikov, incluindo carregadores de aço, polímero e tipo tambor. Em 2015, a CMMG lançou suas primeiras unidades do Mk47 para lojas em todo os EUA. De acordo com o Gerente de Produção da CMMG, Tyson Bradshaw, ele mencionou que a CMMG fabricou o rifle devido à necessidade dos "consumidores terem um rifle confiável, fabricado nos EUA, que pudesse lidar adequadamente com as dimensões do cartucho 7.62x39 mm. Para fazer isso adequadamente, foi necessário que a CMMG construísse o rifle em torno do calibre. O uso de carregadores AK foi decidido por serem os carregadores mais confiáveis. O Mk47 Mutant possui um transportador de ferrolho do tamanho do AR-10, que foi ampliado, com um guarda-mão CMMG RKM KeyMod e um receptor superior/inferior fabricado em alumínio usinado 7075-T6. O rifle possui empunhadura de pistola baseada no AR-15, seletor de segurança, grupo do gatilho e tubo do buffer. Foi influenciado pelos rifles de assalto CMMG Mk3. O Mk47 utiliza um sistema de gás de impacto direto.
+		\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Maioria das miras para o sistema picatinny/weaver.\n
+		%c[d_purple] - %c[ui_gray_2] Silenciador: Silenciador NATO multicalibre compatível. \n</text>
+	</string>
+</string_table>

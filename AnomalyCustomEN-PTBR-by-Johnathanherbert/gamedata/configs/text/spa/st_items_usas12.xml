@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+	
+	<string id="st_wpn_us12">
+		<text>USAS-12</text>
+	</string>
+	<string id="st_wpn_us12_descr">
+		<text>A Daewoo Precision Industries USAS-12 (Espingarda Automática Universal Esportiva calibre 12) é uma espingarda automática projetada para combate, fabricada na Coreia do Sul pela Daewoo Precision Industries na década de 1980. Como uma arma coreana chegou à Ucrânia é algo que os stalkers gostariam muito de saber. Talvez exista um rifle K2 por aí.\n \n
+			%c[ui_gray_2]ACESSÓRIOS: \n
+            %c[d_purple] • %c[ui_gray_2] Miras:%c[ui_yellow] Algumas miras com trilho picatinny\n \n
+		</text>
+	</string>
+	
+</string_table>

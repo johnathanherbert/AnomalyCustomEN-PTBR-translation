@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+
+	<string id="ui_mcm_gggf_title">
+		<text>Configurações de velocidade do jogador</text>
+	</string>
+	<string id="ui_mcm_menu_gggf">
+		<text>Grok tem que ir rápido</text>
+	</string>
+	<string id="ui_mcm_gggf_gotta_go_fast_run">
+		<text>Multiplicador de velocidade de corrida</text>
+	</string>
+	<string id="ui_mcm_gggf_gotta_go_fast_run_desc">
+		<text>Multiplica a velocidade de corrida do jogador (ao se mover sem pressionar outra tecla) pelo fator definido.</text>
+	</string>
+	<string id="ui_mcm_gggf_gotta_go_fast_sprint">
+		<text>Multiplicador de velocidade de sprint</text>
+	</string>
+	<string id="ui_mcm_gggf_gotta_go_fast_sprint_desc">
+		<text>Multiplica a velocidade de sprint do jogador (quando você pressiona a tecla de sprint) pelo fator definido.</text>
+	</string>
+
+
+</string_table>

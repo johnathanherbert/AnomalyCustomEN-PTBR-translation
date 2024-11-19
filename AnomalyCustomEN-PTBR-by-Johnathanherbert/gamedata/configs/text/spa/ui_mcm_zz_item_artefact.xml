@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_item_artefact_title">
+		<text>Condição do Artefato (NÃO ALTERE)</text>
+	</string>
+	<string id="ui_mcm_menu_item_artefact">
+		<text>Condição do Artefato (NÃO ALTERE)</text>
+	</string>
+	<string id="ui_mcm_item_artefact_enable_condition_bar">
+		<text>Ativar barra de condição (MANTENHA ATIVADO)</text>
+	</string>
+	<string id="ui_mcm_item_artefact_enable_degraded_drops">
+		<text>Ativar drops de saque de artefatos/acessórios/peles degradados (MANTENHA ATIVADO)</text>
+	</string>
+	<string id="ui_mcm_item_artefact_mutant_part_condition_min">
+		<text>Condição mínima de partes de mutantes saqueadas</text>
+	</string>
+	<string id="ui_mcm_item_artefact_mutant_part_condition_max">
+		<text>Condição máxima de partes de mutantes saqueadas</text>
+	</string>
+	
+	
+</string_table>

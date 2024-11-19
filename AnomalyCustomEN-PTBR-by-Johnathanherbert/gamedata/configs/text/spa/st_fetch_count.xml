@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    <string id="st_fetch_count_have">
+        <text>%$clr_txtVocê tem %$clr_numberx$count %$clr_txtno seu inventário</text>
+    </string>
+	<string id="st_fetch_count_in_stashes">
+        <text>%$clr_txtVocê tem %$clr_numberx$count %$clr_txtnas stashes próximas</text>
+    </string>
+</string_table>

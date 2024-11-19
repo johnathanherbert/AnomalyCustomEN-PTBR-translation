@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+<string id="st_wpn_norinco_m311">
+		<text>CQ M311-1</text>
+	</string>
+	<string id="st_wpn_norinco_m311_descr">
+		<text>O rifle Norinco CQ M311-1 é uma arma de fogo moderna conhecida por seu excepcional desempenho e versatilidade. Fabricado pela China North Industries Corporation (Norinco), este rifle apresenta design robusto e engenharia impecável. Compartimentado em vários calibres populares, possui operação semiautomática confiável, tornando-o adequado para uma ampla gama de aplicações, incluindo tiro esportivo, aplicação da lei e uso civil. Com foco na precisão, durabilidade e recursos ergonômicos, o rifle Norinco CQ M311-1 é uma prova do compromisso da Norinco em oferecer uma solução de arma de fogo adaptável e de alta qualidade.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]China \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Norinco \n</text>
+	</string>	
+</string_table>

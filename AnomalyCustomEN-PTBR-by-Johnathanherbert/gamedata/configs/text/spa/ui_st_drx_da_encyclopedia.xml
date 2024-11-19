@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="zone_mine_cdf_section_name">
+		<text>Campo de Dissonância Cognitiva</text>
+	</string>
+	
+	<string id="zone_mine_umbra_section_name">
+		<text>Aglomerado Umbral</text>
+	</string>
+	
+	<string id="zone_mine_flash_section_name">
+		<text>Flash</text>
+	</string>
+	
+	<string id="zone_mine_ghost_section_name">
+		<text>Fantasma</text>
+	</string>
+	
+	<string id="zone_mine_gold_section_name">
+		<text>Ouro Líquido</text>
+	</string>
+	
+	<string id="zone_mine_thorn_section_name">
+		<text>Espinho</text>
+	</string>
+	
+	<string id="zone_mine_seed_section_name">
+		<text>Semente</text>
+	</string>
+	
+	<string id="zone_mine_shatterpoint_section_name">
+		<text>Ponto de Ruptura</text>
+	</string>
+	
+	<string id="zone_mine_sloth_section_name">
+		<text>Preguiça</text>
+	</string>
+	
+	<string id="zone_mine_mefistotel_section_name">
+		<text>Mefistotel</text>
+	</string>
+	
+	<string id="zone_mine_net_section_name">
+		<text>Rede</text>
+	</string>
+	
+	<string id="zone_mine_point_section_name">
+		<text>Ponto</text>
+	</string>
+	
+	<string id="zone_mine_sphere_section_name">
+		<text>Rebatedor</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_cdf">
+		<text>Campo de Dissonância Cognitiva</text>
+	</string>
+	<string id="encyclopedia_anomalies_cdf_text">
+		<text>
+			• Nome: %c[d_cyan]Campo de Dissonância Cognitiva%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Psiônico
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nO "Campo de Dissonância Cognitiva", também conhecido como "anomalia CDF", é uma ruptura altamente localizada no tecido da Noosfera. Emite uma fraca aura psiônica que pode ter efeitos graves na saúde mental de qualquer pessoa em suas proximidades. Esta anomalia é particularmente insidiosa porque embaralha as frequências cerebrais daqueles que afeta, levando à confusão, desorientação e outros efeitos cognitivos negativos. Diferentemente dos campos psi comuns, a anomalia "CDF" ignora qualquer meio convencional de proteção psiônica, afetando diretamente a mente da vítima. O Campo de Dissonância Cognitiva é difícil de detectar durante o dia porque a cor que emite é semelhante ao céu da Zona. No entanto, seu som distintivo pode ser facilmente distinguido do ambiente ao redor, tornando essencial que os stalkers se concentrem nesse som para permanecerem vivos e sãos. Durante a noite, a anomalia é mais perceptível devido ao contraste com o céu noturno negro, emitindo luzes azuis pulsantes tênues que podem ajudar a identificar sua localização. A exposição ao Campo de Dissonância Cognitiva deve ser evitada a todo custo, pois pode ter efeitos graves e duradouros na saúde mental. Mesmo uma breve exposição pode levar à confusão, perda de memória e outros prejuízos cognitivos. Os stalkers devem ter cautela ao navegar em áreas onde esta anomalia está presente e tomar as precauções necessárias para proteger seu bem-estar mental.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_umbra">
+		<text>Aglomerado Umbral</text>
+	</string>
+	<string id="encyclopedia_anomalies_umbra_text">
+		<text>
+			• Nome: %c[d_cyan]Aglomerado Umbral%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Psiônico
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nO "Aglomerado Umbral" ou mais comumente referido apenas como "Umbra" é uma formação altamente incomum e perigosa que parece perturbar o próprio tecido da realidade. Acredita-se que seja de origem extraterrestre e é capaz de alterar as leis fundamentais da física em suas proximidades. A anomalia se manifesta como um enxame de entidades semelhantes a sombras que se movem em uníssono, criando uma atmosfera sinistra e perturbadora. A anomalia Umbra tem um efeito único na psique humana, induzindo sentimentos de pavor, paranoia e terror naqueles que se aventuram muito perto. Pesquisas recentes sugerem que o Aglomerado Umbral pode ser uma forma de matéria não-newtoniana que opera sob princípios que não são totalmente compreendidos. Os padrões de movimento e comportamento do enxame parecem ser governados por algoritmos complexos que desafiam a física convencional. Além disso, a influência da anomalia no cérebro humano pode estar relacionada à sua interação com o campo eletromagnético do corpo, resultando na produção de padrões anormais de ondas cerebrais. Esta anomalia também é conhecida por atrair poltergeists, que acredita-se encontrarem refúgio dentro do enxame. As razões por trás dessa atração não são claras, mas alguns pesquisadores especulam que os poltergeists podem ser atraídos pelo campo eletromagnético único da anomalia. O Aglomerado Umbral é uma das anomalias mais perigosas já registradas na Zona, e a exposição aos seus efeitos deve ser evitada a todo custo. Mesmo uma breve exposição pode levar a traumas psicológicos duradouros, e aqueles que passam períodos prolongados nas proximidades da anomalia podem sofrer danos permanentes à sua saúde mental. Os stalkers devem ter extrema cautela ao se aproximar desta anomalia e tomar todas as precauções necessárias para proteger seu bem-estar.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_flash">
+		<text>Flash</text>
+	</string>
+	<string id="encyclopedia_anomalies_flash_text">
+		<text>
+			• Nome: %c[d_cyan]Flash%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Temporal
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nA anomalia "Flash" cria uma ruptura no continuum espaço-tempo que perturba o próprio tecido do universo, ou assim parece. Ao passar pelo ponto onde o efeito começa, você experimenta um movimento temporal rápido de extensão temporal desconhecida, em apenas um único momento. Os efeitos da anomalia "Flash" em organismos vivos são complexos e ainda não totalmente compreendidos. Algumas teorias sugerem que a fenda pode causar perturbações em nível quântico na estrutura molecular do indivíduo, levando a danos físicos e mentais. Outras propõem que o efeito de viagem no tempo da anomalia pode causar uma perda de sincronicidade entre o relógio biológico interno do indivíduo e o ambiente externo, levando à desorientação e confusão. Apesar dos perigos potenciais da anomalia "Flash", alguns stalkers encontraram maneiras de usar essas fendas a seu favor. Cronometrando cuidadosamente seus pontos de entrada e saída, eles podem usar a anomalia para escapar de perseguições ou esperar o momento perfeito para recuperar um artefato. Navegar pela anomalia "Flash" requer cautela e habilidade, pois seus efeitos podem ser imprevisíveis e potencialmente mortais. Os stalkers devem ter extrema cautela ao entrar nesta fenda e estar cientes de seus arredores em todos os momentos para evitar se perder ou ficar desorientado. Além disso, aqueles que usam a anomalia "Flash" para seus próprios propósitos devem estar cientes dos riscos e tomar as precauções necessárias para garantir sua segurança, pois alguns que se aventuraram nela nunca mais retornaram.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_ghost">
+		<text>Fantasma</text>
+	</string>
+	<string id="encyclopedia_anomalies_ghost_text">
+		<text>
+			• Nome: %c[d_cyan]Fantasma%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Elétrica/Química
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nA anomalia "Fantasma", como é coloquialmente conhecida entre os Stalkers experientes, é uma verdadeira ocorrência misteriosa, que aparece como uma nuvem de substância etérea e fumacenta que se move com propósito. O comportamento do Fantasma é único entre todas as anomalias conhecidas, pois parece possuir algum nível de consciência que desafia toda explicação científica. Alguns Stalkers acreditam que é uma entidade antiga e malévola que existe desde a criação da Zona, enquanto outros postulam que é uma manifestação da consciência coletiva de todos aqueles que pereceram na Zona. Seu som assombroso e sobrenatural causa arrepios nos ossos de todos que o ouvem. Existem muitas teorias sobre a fonte desses sons que emite, com alguns acreditando que são os gritos de almas perdidas presas no abraço da anomalia, enquanto outros sustentam que são as vozes da própria Zona, gritando em agonia pelo sofrimento e tormento infinitos que testemunhou. O Fantasma tornou-se objeto de numerosos mitos e lendas, com alguns até alegando que possui o poder de realizar desejos para aqueles que conseguem capturá-lo. Outros contam histórias de Stalkers infelizes que foram atraídos para a morte por seu chamado de sereia, perdidos para sempre nas profundezas da Zona. Apesar de sua natureza enigmática, o Fantasma não deve ser subestimado, pois é uma força mortal e imprevisível que pode atacar sem aviso. Aqueles que se aventuram muito perto de seu caminho correm o risco de serem eletrocutados ou desintegrados por suas energias potentes. Esta anomalia é um verdadeiro enigma da Zona, possuindo um nível de consciência e propósito que desafia toda explicação científica. Seus sons sinistros e presença fantasmagórica a tornaram objeto de muitos mitos e lendas, aumentando seu mistério e terror. Aproxime-se com cautela, pois a anomalia Fantasma é uma força mortal que não deve ser tratada levianamente nem mesmo pelos Stalkers mais experientes.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_gold">
+		<text>Ouro Líquido</text>
+	</string>
+	<string id="encyclopedia_anomalies_gold_text">
+		<text>
+			• Nome: %c[d_cyan]Ouro Líquido%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Química
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nA anomalia "Ouro Líquido" é uma anomalia altamente perigosa e potente que emite uma nuvem de substância química tóxica de cor laranja/dourada. É frequentemente considerada a irmã gêmea da anomalia "Ácida" devido à sua aparência similar, mas com efeitos muito mais graves. Ao entrar em contato com a substância, as vítimas experimentam um rápido aumento na temperatura corporal, superando até mesmo níveis febris. A velocidade e intensidade desta reação variam dependendo da potência da anomalia. Os sintomas variam desde desidratação severa até uma morte excruciante causada pelo sangue da vítima atingir seu ponto de ebulição. As substâncias químicas tóxicas também afetam a pele da vítima, causando queimaduras graves que podem ser pequenas e difíceis de notar inicialmente. No entanto, essas queimaduras podem piorar e levar a complicações adicionais, exacerbando os sintomas já potencialmente fatais da anomalia. As substâncias químicas das queimaduras também podem entrar na corrente sanguínea, afetando os órgãos internos do corpo e potencialmente causando danos permanentes. Devido à natureza altamente tóxica e mortal da anomalia, extrema cautela deve ser exercida ao encontrá-la ou manipulá-la. Equipamentos de proteção devem ser usados em todos os momentos, e atenção médica imediata deve ser procurada em caso de exposição. A anomalia "Ouro Líquido" é uma ameaça formidável que deve ser abordada com o máximo cuidado e cautela.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_thorn">
+		<text>Espinho</text>
+	</string>
+	<string id="encyclopedia_anomalies_thorn_text">
+		<text>
+			• Nome: %c[d_cyan]Espinho%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Física\Química
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nEspinho é uma anomalia mortal que pode se ativar a qualquer momento. Aparece como uma pequena mancha insignificante no chão, mas quando ativada, expande-se rapidamente, revelando sua verdadeira natureza. Seus espinhos irregulares e pontiagudos se projetam ameaçadoramente da superfície, dando-lhe uma aparência de beleza mortal. O maior perigo do Espinho não está apenas em seus espinhos mortais, mas em sua natureza imprevisível. Pode ser acionado por vários estímulos, incluindo som, vibração ou até mesmo a presença de criaturas vivas nas proximidades. Isso o torna uma ameaça constante para qualquer Stalker que se aventure muito perto. O que o torna ainda mais letal é que os espinhos são cobertos por uma substância tóxica que pode causar ferimentos graves ou até mesmo a morte. Uma vez perturbado, libera uma rajada de espinhos afiados e farpados que disparam em todas as direções, perfurando qualquer coisa em seu caminho com força brutal. A natureza tóxica dos espinhos torna ainda mais desafiador para os Stalkers tentarem coletar seus valiosos artefatos. Sem proteção adequada ou antídotos, um único roçar nos espinhos pode ser fatal. Apesar do perigo, alguns Stalkers corajosos arriscam tudo para adquirir os artefatos, movidos pela promessa de riqueza e fama. Mas fazer isso requer nervos de aço, reflexos rápidos como um raio e um conhecimento íntimo do comportamento da anomalia. Mesmo assim, não há garantias de sobrevivência. Na Zona, o Espinho é um símbolo dos perigos que espreitam em cada esquina. Serve como um lembrete de que, não importa o quão bem preparado um Stalker possa estar, eles nunca podem realmente saber quais perigos enfrentarão na paisagem sempre mutável da Zona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_seed">
+		<text>Semente</text>
+	</string>
+	<string id="encyclopedia_anomalies_seed_text">
+		<text>
+			• Nome: %c[d_cyan]Semente%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Química
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nA Anomalia Semente, uma ocorrência enigmática e traiçoeira, possui um perigo inerente que supera o da maioria das anomalias, pois tem a capacidade de se multiplicar. Sua natureza elusiva e habilidade de multiplicação aumentam o nível de perigo associado a este fenômeno, exigindo extrema cautela de qualquer um que ouse se aventurar perto dela. Esta entidade anômala se manifesta como uma massa turbilhonante de partículas luminescentes, lembrando incontáveis formas de vida diminutas que exibem coordenação e colaboração perfeitas. Os movimentos orquestrados das formas de vida constituintes da Anomalia Semente sugerem um notável nível de organização e inteligência que, quando ativados, culminam em um efeito catastrófico. Em certos círculos científicos, prevalece a noção de que a Anomalia Semente pode significar uma manifestação sem precedentes de interações subatômicas, uma partícula elusiva ou uma força da natureza inexplorada que ainda não foi completamente compreendida. Alternativamente, especula-se que esta anomalia possa manifestar uma nova fase da matéria, até então não vista no mundo natural. Stalkers astutos relataram ter testemunhado padrões e configurações formados por essas partículas, semelhantes a estruturas complexas encontradas na natureza, incluindo bandos de pássaros ou cardumes de peixes. O comportamento e propósito das formas de vida dentro da Anomalia Semente permanecem envoltos em mistério, sua coordenação intrincada sugerindo uma inteligência que supera a norma observada em outras anomalias. Quando ativada, a anomalia libera instantaneamente suas partículas em uma explosão súbita e forçosa, propelindo-as em todas as direções com vigor extraordinário. Estas partículas possuem um intenso nível de radioatividade, sua emissão acompanhada por um som agudo penetrante que reverbera por grandes distâncias. O perigo associado à Anomalia Semente é ainda amplificado por sua capacidade incomum de se misturar perfeitamente com seu ambiente, tornando sua detecção uma tarefa árdua até que seja tarde demais. Aqueles infelizes o suficiente para encontrar sua fúria sofrem consequências terríveis. As partículas altamente radioativas causam queimaduras graves e doença por radiação, enquanto a pura força da explosão pode violentamente derrubar indivíduos, infligindo ferimentos graves. O efeito desorientador da emissão estridente das partículas complica as coisas, dificultando a fuga daqueles nas proximidades. Independentemente de suas origens ou aplicações potenciais, a Anomalia Semente permanece um enigma atraente que cativa a imaginação tanto de mentes científicas quanto de indivíduos comuns. Suas propriedades extraordinárias e utilidades potenciais perpetuam fascínação e debate infinitos, garantindo que pesquisa e exploração relacionadas a esta anomalia persistirão por anos vindouros. Em vista de seus perigos inerentes, a Anomalia Semente nunca deve ser tratada levianamente, e apenas aqueles que possuem ampla preparação, equipamento apropriado e conhecimento abrangente devem ousar se aproximar dela.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_shatterpoint">
+		<text>Ponto de Ruptura</text>
+	</string>
+	<string id="encyclopedia_anomalies_shatterpoint_text">
+		<text>
+			• Nome: %c[d_cyan]Ponto de Ruptura%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Gravitacional altamente instável
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nUm fenômeno perigoso e imprevisível que pode ser encontrado em certas áreas da Zona. Aparece como um aglomerado de fragmentos de vidro afiados e transparentes ligados a um ponto central. É altamente aconselhável evitar a anomalia Ponto de Ruptura, pois traz morte certa. Os fragmentos que compõem a anomalia Ponto de Ruptura não são vidro de ocorrência natural, mas são criados pelo comportamento único da anomalia. Ela possui um campo gravitacional poderoso que atrai pequenos elementos do ambiente em direção ao seu ponto central, e conforme são atraídos, são submetidos a temperaturas extremas que os fazem aquecer rapidamente. Restos do acionamento anterior orbitam ao seu redor e quando perturbados, explodirão em uma explosão de energia que, devido ao seu campo gravitacional instável, os suspenderá no ar por um breve momento antes que sejam todos subitamente puxados para o centro da anomalia, fundindo-se todos juntos. O calor intenso derretendo os fragmentos os envolverá em um único ponto seguido por um resfriamento súbito e rápido que faz com que esse ponto se estilhace em milhões de pequenos pedaços antes que o campo gravitacional da anomalia flutue novamente e finalmente exploda, enviando os fragmentos voando em todas as direções. Os stalkers devem ter extrema cautela ao se aproximar do Ponto de Ruptura, pois é extremamente afiado e perigoso e pode causar danos significativos a qualquer um que entre em contato com ele. É importante tomar medidas para se proteger do vidro voador se você precisar entrar em suas proximidades.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_sloth">
+		<text>Preguiça</text>
+	</string>
+	<string id="encyclopedia_anomalies_sloth_text">
+		<text>
+			• Nome: %c[d_cyan]Preguiça%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Química
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nA chamada anomalia "Preguiça" é um fenômeno altamente incomum e enigmático que representa uma ameaça significativa para quaisquer organismos que entrem em contato com ela. Após análise de suas propriedades observadas, é possível sugerir que é uma nuvem complexa e altamente reativa de composição química desconhecida. Uma possibilidade é que a anomalia Preguiça seja uma forma altamente reativa de poluição atmosférica da Zona, consistindo em uma mistura complexa de compostos orgânicos e inorgânicos. Isso poderia explicar a natureza venenosa da anomalia, bem como sua capacidade de afetar adversamente as funções biológicas dos organismos que entram em contato com ela. Alternativamente, há sugestões de que a Preguiça pode ser uma forma de arma bio-engenheirada que entrou em contato com os campos anômalos da Zona, e foi distorcida à sua própria vontade. Provavelmente criada por alguma organização desconhecida para uso em combate ou espionagem, pois isso poderia explicar os efeitos altamente específicos e direcionados da anomalia, bem como sua aparente capacidade de persistir no ambiente por longos períodos de tempo. Outra possibilidade é que seja um subproduto natural do ambiente incomum e frequentemente imprevisível da Zona. A Zona é conhecida por produzir uma ampla variedade de fenômenos incomuns e potencialmente perigosos, incluindo anomalias que afetam as funções físicas e biológicas dos organismos que entram em contato com elas. É possível que a anomalia Preguiça seja simplesmente outro exemplo deste fenômeno, uma expressão natural das forças estranhas e frequentemente imprevisíveis que compõem este lugar misterioso. Independentemente de sua natureza subjacente, a Preguiça é claramente um fenômeno altamente perigoso e potencialmente letal que exige cautela e respeito de todos que entram na Zona. Sua capacidade de prejudicar as habilidades motoras dos organismos que entram em contato com ela é um testemunho da natureza complexa e frequentemente imprevisível das forças que moldam nosso mundo, e serve como um lembrete dos perigos que espreitam nos confins desconhecidos da Zona.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_mefistotel">
+		<text>Mefistotel</text>
+	</string>
+	<string id="encyclopedia_anomalies_mefistotel_text">
+		<text>
+			• Nome: %c[d_cyan]Mefistotel%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Elétrica/Química
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nMefistotel é uma anomalia rara e misteriosa que tira seu nome do demônio trapaceiro do folclore medieval. A anomalia aparece como uma formação estranha semelhante a uma flor, com tentáculos delicados que emitem um som sinistro quando qualquer organismo vivo se aproxima. Apesar de sua aparência atraente, Mefistotel é extremamente perigosa para qualquer criatura viva que se aventure muito perto. Um dos aspectos mais insidiosos do Mefistotel é que sua aparência às vezes pode ser confundida com um artefato, um item altamente valioso e procurado na Zona. Muitos stalkers novatos caíram vítimas deste engano, acreditando terem encontrado um artefato raro, apenas para serem atraídos para o centro mortal da anomalia e encontrarem seu fim. Assim que a vítima entra no raio ativo do Mefistotel, é quase instantaneamente atraída para seu centro, como se por alguma força invisível. Uma vez atraída, a vítima é despedaçada pelos tentáculos da anomalia, que agem como lâminas afiadas como navalhas. O processo é rápido e brutal, não deixando chance de escape ou sobrevivência. Muitos stalkers que encontraram o Mefistotel relatam sentir uma sensação avassaladora de pavor e desconforto quando se depararam com ele, mas também falam de sua aparência bonita e som sinistro que parecem quase hipnóticos, atraindo presas desavisadas que rapidamente encontram seu fim. Rumores e lendas sobre a anomalia se espalharam entre os stalkers, com alguns acreditando que o Mefistotel, de acordo com a história que foi passada entre os stalkers, só aparece para aqueles que são movidos pela ganância e pelo desejo de ganho material. Diz-se que aqueles que nunca desejaram nada da Zona nunca viram a anomalia e, portanto, estão seguros de sua atração mortal. Alguns até acreditam que o Mefistotel pode ler os pensamentos e desejos de uma pessoa, e só se revelará para aqueles que são considerados indignos, atraindo-os para a morte. Esta crença fez com que muitos stalkers que a viram se aproximassem da anomalia com cautela e respeito, temendo que sua própria ganância possa ser sua ruína.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_net">
+		<text>Rede</text>
+	</string>
+	<string id="encyclopedia_anomalies_net_text">
+		<text>
+			• Nome: %c[d_cyan]Rede%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Gravitacional\Química
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nA anomalia "rede" é caracterizada por um fluxo altamente carregado de partículas que são aceleradas através de forças gravitacionais. As partículas carregadas criam um campo eletromagnético que prende qualquer objeto dentro de seu raio efetivo, muito como uma rede invisível. As partículas aderem à superfície do objeto preso, formando uma malha firmemente tecida que pode ser difícil de se libertar. Este fenômeno é causado pela interação entre as partículas carregadas e as forças eletromagnéticas dentro da anomalia. A anomalia "rede" é considerada altamente perigosa, pois pode aprisionar organismos vivos e causar graves danos físicos ou morte. De acordo com os rumores e lendas entre os stalkers, a anomalia "Rede" foi descoberta pela primeira vez por um grupo de veteranos experientes da Zona que exploravam a área há anos. Enquanto vagavam pela Zona, notaram uma estranha perturbação elétrica no ar, e conforme se aproximaram, foram repentinamente envolvidos pelas partículas carregadas da anomalia. Diz-se que os stalkers lutaram para escapar do aperto da "Rede", mas se encontraram presos em seu domínio, incapazes de se libertar. Enquanto lutavam, viram as figuras fantasmagóricas de outros stalkers que haviam sido capturados na anomalia antes deles, seus corpos sendo lentamente consumidos pelas partículas carregadas. A anomalia Rede é temida e respeitada por todos os stalkers que se aventuram na Zona, e histórias de seu aperto mortal continuam a se espalhar entre aqueles que ousam explorar seus limites.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_point">
+		<text>Ponto</text>
+	</string>
+	<string id="encyclopedia_anomalies_point_text">
+		<text>
+			• Nome: %c[d_cyan]Ponto%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Elétrica
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nPonto é um fenômeno elétrico caracterizado por um orbe transparente e cristalino que exibe controle sobre uma região esférica de energia eletricamente carregada. O orbe parece rastrear o movimento de objetos ou indivíduos próximos, sugerindo um nível de consciência e intencionalidade. A fonte da energia elétrica dentro da esfera não é totalmente compreendida, mas foi observado que ela exibe uma interação com objetos elétricos, como baterias e capacitores, que parecem ser carregados em sua proximidade. No entanto, devido à natureza desconhecida desta interação, é fortemente recomendado abordar a anomalia com cautela e medidas de proteção adequadas. Apesar de seu perigo potencial, alguns stalkers ousados procuram a anomalia Ponto na esperança de aproveitar seu poder. Rumores circularam sobre um grupo de stalkers que conseguiu extrair a energia carregada da anomalia para alimentar seus dispositivos, mas não terminou bem. A história de um incidente trágico aconteceu quando um grupo de stalkers se perdeu em algum lugar na Zona, era meio da noite e suas lanternas e PDAs estavam completamente descarregados, então eles decidiram tentar a sorte com as alegações sobre a capacidade desta anomalia para poder escapar daquela parte da zona antes que fossem despedaçados por mutantes. Conforme o grupo de stalkers se aproximava da anomalia, eles ansiosamente sacaram seus PDAs e outros dispositivos elétricos, esperando carregá-los usando a energia supostamente emitida pela anomalia. Mas conforme se aproximavam, começaram a sentir uma sensação de desconforto. O orbe cristalizado parecia estar observando-os, e a bola de energia pulsava com um brilho sinistro. De repente, com um flash cegante de luz, a bola de energia descarregou uma enorme sobrecarga de eletricidade. Os stalkers foram violentamente arremessados para trás, seus corpos contorcidos e se debatendo em agonia enquanto a eletricidade percorria sua carne. Seus gritos ecoaram pela Zona, enquanto a eletricidade fritava suas terminações nervosas e cozinhava seus órgãos internos. Dias depois, outros stalkers encontraram seus corpos sem vida espalhados ao redor da anomalia, sua carne carbonizada e enegrecida pela sobrecarga elétrica, e seus dispositivos totalmente carregados. Foi um lembrete macabro do poder mortal da anomalia Ponto, e um aviso para todos que ousassem se aproximar dela. A maioria dos stalkers atende ao aviso para ficar longe da anomalia, sabendo muito bem as consequências mortais de tentar a sorte na Zona.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_sphere">
+		<text>Rebatedor</text>
+	</string>
+	<string id="encyclopedia_anomalies_sphere_text">
+		<text>
+			• Nome: %c[d_cyan]Rebatedor%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Gravitacional
+			\n \n%c[pda_green]Informação%c[ui_gray_1]
+			\nO "Rebatedor" é uma anomalia gravitacional rara e enigmática que se manifesta como uma concentração densa de múltiplos campos de força, formando uma forma esférica. Esses campos de força interagem de maneiras complexas para criar uma distorção gravitacional, então quando um objeto em movimento se aproxima da esfera do Rebatedor, ele encontra um campo de força que o desacelera e altera sua trajetória. Este efeito é causado pela distorção do tecido espaço-tempo local, que cria uma curvatura que se opõe ao movimento do objeto. Além de suas capacidades defensivas, o Rebatedor também pode ser usado ofensivamente por stalkers habilidosos. Ao se posicionarem estrategicamente perto da anomalia, stalkers experientes podem usar o campo de distorção para se proteger de balas ou até mesmo desviar projéteis em direção aos seus inimigos. Esta técnica requer tempo e mira precisos, mas pode ser uma ferramenta devastadora nas mãos de um lutador habilidoso. No entanto, os efeitos do Rebatedor nem sempre são previsíveis, e stalkers inexperientes que tentam usá-lo podem se encontrar à mercê de suas forças gravitacionais imprevisíveis. Além disso, a exposição prolongada ao campo de distorção do Rebatedor pode ter efeitos adversos na saúde e bem-estar do stalker, causando desorientação e náusea. No geral, o Rebatedor é uma anomalia muito procurada entre os Stalkers devido às suas capacidades defensivas e ofensivas únicas. No entanto, sua natureza imprevisível e riscos potenciais à saúde tornam-na uma anomalia perigosa para se aproximar e usar sem a devida preparação e cautela.
+		</text>
+	</string>
+
+</string_table>

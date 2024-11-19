@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_shovel_sharp">
+		<text>Pá Afiada</text>
+	</string>
+
+	<string id="st_shovel_sharp_descr">
+		<text>Uma pá de metal preta afiada. Não parece muito durável, mas certamente está afiada. \n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Item corpo a corpo pesado\n</text>
+	</string>
+
+	<string id="st_sledge_hammer">
+		<text>Marreta</text>
+	</string>
+
+	<string id="st_sledge_hammer_descr">
+		<text>Uma marreta industrial pesada e contundente. Antes uma ferramenta usada para construir os prédios ao nosso redor, agora usada para esmagar as cabeças daqueles que se abrigam dentro deles. \n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Item corpo a corpo pesado\n</text>
+	</string>
+
+	<string id="st_sharpen_shovel">
+		<text>Afiar Pá</text>
+	</string>
+
+</string_table>

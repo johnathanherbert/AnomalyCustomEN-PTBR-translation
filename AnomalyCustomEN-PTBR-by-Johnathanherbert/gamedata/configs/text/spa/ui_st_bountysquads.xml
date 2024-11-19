@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	Strings do Menu de Configuração do Anomaly
+-->
+
+<string_table>
+
+	<string id="ui_mcm_menu_bountysquads">
+		<text>Expansão de Esquadrões de Caçadores</text>
+	</string>
+	<string id="ui_mcm_title_bountysquads">
+		<text>Expansão de Esquadrões de Caçadores</text>
+	</string>
+
+	<string id="ui_mcm_bountysquads_delay">
+		<text>Atraso entre possíveis spawns</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_desc">
+		<text>Este é o tempo mínimo (em horas do jogo) que deve passar antes mesmo de considerar gerar um esquadrão de caçadores. Se um esquadrão será gerado depende da chance de cada facção gerar um esquadrão.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn">
+		<text>Tempo entre atualizações de spawn</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn_desc">
+		<text>Este é o tempo (em segundos reais) entre atualizações da facção do jogador, reputação e verificação de spawn. Este tempo é contado após o carregamento do jogo, então o jogador deve estar dentro do alcance de níveis conectados de uma posição hostil por este tempo antes que um esquadrão tenha chance de aparecer.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state">
+		<text>Tempo entre atualizações de localização do jogador</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state_desc">
+		<text>Este é o tempo (em segundos reais) entre atualizações da localização do jogador. Os esquadrões de caçadores redirecionarão para a posição atual do jogador após esse tempo. Eles também recuarão se o jogador estiver em um local 'seguro' com aliados próximos.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance">
+		<text>Chance base de spawn em %</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance_desc">
+		<text>Esta é a chance base de spawn: a porcentagem de chance de um esquadrão aparecer em uma determinada atualização quando o jogador não matou nenhum membro daquela facção. A chance total de spawn é calculada como (chance_base_spawn * multiplicador_facção), onde o multiplicador da facção depende de quantos membros da facção morreram pelo jogador. Recomendado manter este valor baixo, pois o multiplicador da facção garantirá que os esquadrões eventualmente tenham uma alta chance de aparecer.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment">
+		<text>Incremento do multiplicador por morte</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment_desc">
+		<text>Se o jogador for especialmente hostil a uma facção específica, eles terão uma chance maior de enviar esquadrões atrás dele. Cada vez que o jogador mata um STALKER, a facção da vítima aumentará seu multiplicador para gerar um esquadrão, multiplicador_facção, por esta quantidade. Por exemplo, se este valor for definido como 0.5, a primeira vez que o jogador matar um membro de uma facção aumentará o multiplicador para 1.5. A próxima vítima o aumentará para 2.0, e assim por diante. Este valor é então multiplicado pela chance base de spawn sempre que aquela facção considerar gerar um esquadrão.</text>
+	</string>
+
+
+</string_table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_delisle">
+		<text>Carabina De Lisle Silenciada</text>
+	</string>
+	
+	<string id="st_wpn_delisle_descr">
+		<text>A carabina De Lisle silenciada é uma arma de fogo única e renomada, conhecida por suas excepcionais capacidades furtivas. Desenvolvida durante a Segunda Guerra Mundial pelo tenente-coronel britânico William Godfray de Lisle, esta carabina foi projetada especificamente para operações secretas. Seu diferencial é o silenciador integrado, que reduz efetivamente o ruído e o flash, permitindo disparos discretos. A carabina De Lisle silenciada dispara munição .45 ACP, usa um carregador removível e possui um mecanismo de ferrolho. Com seu tamanho compacto, ação silenciosa e desempenho confiável, a carabina De Lisle é uma arma icônica no campo da guerra silenciosa.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Reino Unido \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Sterling Armaments Company \n</text>
+	</string>	
+	
+</string_table>

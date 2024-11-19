@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->	
+<string_table>
+	
+	<string id="st_ui_dbg_help">
+		<text>
+		%c[ui_gray_2]Teclas do menu principal disponíveis no modo de depuração:
+		\n \n%c[d_orange]Apenas no jogo carregado:
+		\n%c[pda_blue]• %c[ui_gray_3]F7:%c[ui_gray_2] Iniciar Anomaly debugger
+		\n%c[pda_blue]• %c[ui_gray_3]1:%c[ui_gray_2] Debug HUD - Alternar feedback informativo do painel esquerdo
+		\n%c[pda_blue]• %c[ui_gray_3]2:%c[ui_gray_2] Debug HUD - Alternar feedback informativo do painel central
+		\n%c[pda_blue]• %c[ui_gray_3]3:%c[ui_gray_2] Debug HUD - Alternar feedback informativo do painel direito
+		\n \n%c[d_orange]Sem um jogo carregado:
+		\n%c[pda_blue]• %c[ui_gray_3]F2:%c[ui_gray_2] Iniciar mapa de testes
+		\n \n%c[d_orange]Ambos os casos:
+		\n%c[pda_blue]• %c[ui_gray_3]Teclado numérico 0:%c[ui_gray_2] Recarregar system_ini()
+		</text>
+	</string>
+
+	<!-- Debuggers -->
+	<string id="st_ui_dbg_weather_about">
+		<text>
+			%c[ui_gray_1]Tronex / Rezy
+			\n2019/6/1
+			\nEditor meteorológico Anomaly
+			\nAnomaly Weather Editor 2.0
+			\n \n%c[pda_green]Informações%c[ui_gray_2]
+			\nO editor de clima permite que você altere os valores do clima em tempo real. Precisão de minuto.
+			\nA interface é interativa e fácil de usar, com capacidade de modificar ou criar arquivos meteorológicos em tempo real.
+			\nOs valores modificados são temporariamente armazenados em cache para os tempos e horas em que você estava trabalhando.
+			\nVocê pode retornar a eles caso tenha desligado o editor (Evite sair ou recarregar quando tiver valores não salvos).
+			\nNo modo Visualizador, você pode testemunhar as mudanças climáticas pelo controle deslizante de tempo.
+			\n \n%c[pda_blue]Teclas%c[ui_gray_2]\n
+			\n%c[d_purple]• %c[ui_gray_3]Teclas de setas: %c[ui_gray_2]parâmetros de navegação.
+			\n%c[d_purple]• %c[ui_gray_3]LShift (segurar): %c[ui_gray_2]Tamanho do passo de valor x10 / salto 2 parâmetros.
+			\n%c[d_purple]• %c[ui_gray_3]LAlt (segurar): %c[ui_gray_2]tamanho do passo do valor x50 / salto 3 parâmetros.\n
+			\n%c[d_purple]• %c[ui_gray_3]R/F: %c[ui_gray_2]aumentar / reduzir o valor selecionado.
+			\n%c[d_purple]• %c[ui_gray_3]T/G: %c[ui_gray_2]aumentar / reduzir todos os valores do parâmetro selecionado.
+			\n%c[d_purple]• %c[ui_gray_3]Q/A: %c[ui_gray_2]selecione a hora seguinte / anterior.
+			\n%c[d_purple]• %c[ui_gray_3]W/S: %c[ui_gray_2]selecione o minuto seguinte / anterior.
+			\n%c[d_purple]• %c[ui_gray_3]E/D: %c[ui_gray_2]selecione o próximo / anterior momento salvo.\n
+			\n%c[d_purple]• %c[ui_gray_3]Z: %c[ui_gray_2]iniciar modo visualizador.\n
+			\n%c[d_purple]• %c[ui_gray_3]C: %c[ui_gray_2]copiar o valor do parâmetro selecionado.
+			\n%c[d_purple]• %c[ui_gray_3]C + CTRL: %c[ui_gray_2]copiar as configurações atuais.
+			\n%c[d_purple]• %c[ui_gray_3]V: %c[ui_gray_2]colar / aplicar o valor do parâmetro copiado.
+			\n%c[d_purple]• %c[ui_gray_3]V + CTRL: %c[ui_gray_2]colar / aplicar às configurações atuais.\n
+			\n%c[d_purple]• %c[ui_gray_3]Delete: %c[ui_gray_2]redefinir o momento modificado atual.
+			\n%c[d_purple]• %c[ui_gray_3]Delete + CTRL: %c[ui_gray_2]redefinir todos os momentos modificados.
+			\n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]alternar janela de ajuda.
+			\n%c[d_purple]• %c[ui_gray_3]Esc ou Home: %c[ui_gray_2]desligar o editor.
+		</text>
+	</string>
+	<string id="st_ui_dbg_weather_title">
+		<text>Editor Meteorológico 2.0</text>
+	</string>
+	<string id="st_ui_dbg_weather_file">
+		<text>Selecionar o arquivo meteorológico</text>
+	</string>
+	<string id="st_ui_dbg_weather_time">
+		<text>Selecione o tempo</text>
+	</string>
+	<string id="st_ui_dbg_weather_copy">
+		<text>Copiar configurações</text>
+	</string>
+	<string id="st_ui_dbg_weather_paste">
+		<text>Colar configurações</text>
+	</string>
+	<string id="st_ui_dbg_weather_viewer">
+		<text>Modo de visualização</text>
+	</string>
+	<string id="st_ui_dbg_weather_save">
+		<text>Salvar em novo arquivo se você indicou o nome na caixa abaixo, caso contrário, salvar no arquivo atual.
+		\nO nome dos arquivos personalizados deve começar com "w_".
+		</text>
+	</string>
+	<string id="st_ui_dbg_weather_resume">
+		<text>Retomar o clima e sair</text>
+	</string>
+	<string id="st_ui_dbg_weather_clear">
+		<text>Limpar valores em cache</text>
+	</string>
+	<string id="st_ui_dbg_weather_help">
+		<text>Sobre</text>
+	</string>
+	<string id="st_ui_dbg_weather_exit">
+		<text>Sair (o tempo ainda ficará pausado no motor)</text>
+	</string>
+	<string id="st_ui_dbg_weather_save_msg_error">
+		<text>O arquivo novo (%s) não é válido.
+		\nO nome do arquivo deve começar com "w_".
+		\nDica: o nome vazio salvará no arquivo atual
+		</text>
+	</string>
+	<string id="st_ui_dbg_weather_save_msg_old">
+		<text>Salvando para arquivo existente (%s), continuar?</text>
+	</string>
+	<string id="st_ui_dbg_weather_save_msg_new">
+		<text>Salvando para novo arquivo (%s), continuar?</text>
+	</string>
+	<string id="st_ui_dbg_weather_playing">
+		<text>Reprodução automática</text>
+	</string>
+	
+	<string id="st_ui_dbg_lighting_title">
+		<text>Editor de Iluminação</text>
+	</string>
+	
+	<string id="st_ui_dbg_hud_title">
+		<text>Editor de HUD de armas</text>
+	</string>
+	<string id="st_ui_dbg_hud_alignment">
+		<text>Alternar mira</text>
+	</string>
+	<string id="st_ui_dbg_hud_ratio">
+		<text>Aplicar nos parâmetros 4:3 e 16:9</text>
+	</string>
+	<string id="st_ui_dbg_hud_copy">
+		<text>Copiar configurações</text>
+	</string>
+	<string id="st_ui_dbg_hud_paste">
+		<text>Colar configurações</text>
+	</string>
+	<string id="st_ui_dbg_hud_current_file">
+		<text>Salvar em arquivo</text>
+	</string>
+	<string id="st_ui_dbg_hud_resume">
+		<text>Retomar</text>
+	</string>
+	<string id="st_ui_dbg_hud_about">
+		<text>
+			%c[ui_gray_1]Tronex/Rezy
+			\n2019/9/15
+			\nEditor de HUD de Armas
+			\n \n%c[pda_green]Sobre%c[ui_gray_2]
+			\nO Editor de HUD de Armas permite que você altere a posição e orientação do HUD de armas em tempo real.
+			\nA interface é interativa e fácil de usar, com capacidade de salvar posições ajustadas em um arquivo temporário "temp_hud.ltx".
+			\nOs valores editados são armazenados temporariamente em cache para as armas nas quais você trabalhou. Você pode retornar a eles caso tenha fechado o editor (Evite sair ou recarregar quando tiver valores não salvos).
+			\n \n%c[pda_red]Atenção%c[ui_gray_2]
+			\nAs configurações de armas devem estar descompactadas antes de trabalhar com o editor, elas devem estar em (%c[ui_gray_3]gamedata/configs/items/weapons%c[ui_gray_2]).
+			\nAs alterações salvas nos parâmetros do HUD não terão efeito direto até que você reinicie o jogo.
+			\nPara os parâmetros que afetam o posicionamento da mira, primeiro ative as opções de mira e mire com a arma, depois use o editor para ver suas alterações.
+			\n(%c[ui_gray_3]gamedata/configs/cache_dbg.ltx%c[ui_gray_2]) manterá o registro dos parâmetros originais ao alterar, para que você possa redefini-los novamente com o botão Redefinir.
+			\nNão se esqueça de fazer um backup das configurações para referência.
+			\n \n%c[pda_blue]Teclas%c[ui_gray_2]\n
+			\n%c[d_purple]• %c[ui_gray_3]Teclas direcionais: %c[ui_gray_2]navegação entre parâmetros.
+			\n%c[d_purple]• %c[ui_gray_3]Teclado numérico 8/2: %c[ui_gray_2]aumentar/diminuir o valor selecionado.
+			\n%c[d_purple]• %c[ui_gray_3]Teclado numérico 9/3: %c[ui_gray_2]aumentar/diminuir todos os valores do parâmetro selecionado.
+			\n%c[d_purple]• %c[ui_gray_3]LShift (segurar): %c[ui_gray_2]Tamanho do passo de valor x10 / pular 2 parâmetros.
+			\n%c[d_purple]• %c[ui_gray_3]LAlt (segurar): %c[ui_gray_2]Tamanho do passo de valor x50 / pular 3 parâmetros.
+			\n%c[d_purple]• %c[ui_gray_3]Teclado numérico 5: %c[ui_gray_2]copiar estatísticas atuais.
+			\n%c[d_purple]• %c[ui_gray_3]Teclado numérico 6: %c[ui_gray_2]colar estatísticas armazenadas.
+			\n%c[d_purple]• %c[ui_gray_3]G: %c[ui_gray_2]Alternar mira.\n
+			\n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]Mostrar janela de ajuda.
+			\n%c[d_purple]• %c[ui_gray_3]Esc: %c[ui_gray_2]fechar o editor.
+		</text>
+	</string>
+	
+	<string id="st_ui_dbg_launcher_console">
+		<text>Console</text>
+	</string>
+	<string id="st_ui_dbg_launcher_target">
+		<text>Executar no alvo</text>
+	</string>
+	<string id="st_ui_dbg_launcher_action">
+		<text>Executar ação</text>
+	</string>
+	<string id="st_ui_dbg_launcher_toggle">
+		<text>Comando de alternância</text>
+	</string>
+	<string id="st_ui_dbg_launcher_editor">
+		<text>Lista de Editores</text>
+	</string>
+	
+	<string id="st_ui_dbg_spawn_type">
+		<text>Tipo de item</text>
+	</string>
+	<string id="st_ui_dbg_spawn_list">
+		<text>Por lista</text>
+	</string>
+	<string id="st_ui_dbg_spawn_icon">
+		<text>Por ícone</text>
+	</string>
+	<string id="st_ui_dbg_spawn_btn">
+		<text>Spawn</text>
+	</string>
+	<string id="st_ui_dbg_spawn_name">
+		<text>Spawn por seção</text>
+	</string>
+	<string id="st_ui_dbg_spawn_smart">
+		<text>Spawn em terreno smart</text>
+	</string>
+	<string id="st_ui_dbg_spawn_smart_lvl">
+		<text>Selecione o nível</text>
+	</string>
+	<string id="st_ui_dbg_spawn_smart_list">
+		<text>Selecionar smart</text>
+	</string>
+	<string id="st_ui_dbg_spawn_point">
+		<text>Spawn no cursor</text>
+	</string>
+	<string id="st_ui_dbg_spawn_nearby">
+		<text>Spawn no jogador</text>
+	</string>
+	<string id="st_ui_dbg_spawn_inv">
+		<text>Spawn no inventário</text>
+	</string>
+	<string id="st_ui_dbg_spawn_log">
+		<text>Log</text>
+	</string>
+
+	<string id="st_ui_dbg_logic">
+		<text>NPC Logic</text>
+	</string>
+	<string id="st_ui_dbg_logic_section">
+		<text>Seção Ativa</text>
+	</string>
+	<string id="st_ui_dbg_logic_logic">
+		<text>Lógica Ativa</text>
+	</string>
+	<string id="st_ui_dbg_logic_file">
+		<text>Nome do arquivo INI</text>
+	</string>
+	<string id="st_ui_dbg_logic_set">
+		<text>Definir lógica</text>
+	</string>
+	<string id="st_ui_dbg_logic_revert">
+		<text>Reverter lógica</text>
+	</string>
+
+	<string id="st_ui_dbg_exec">
+		<text>Executor de função</text>
+	</string>
+	<string id="st_ui_dbg_exec_btn">
+		<text>Executar</text>
+	</string>
+	
+	<string id="st_ui_dbg_item_stats">
+		<text>Estatísticas</text>
+	</string>
+	<string id="st_ui_dbg_item_list">
+		<text>Lista</text>
+	</string>
+	<string id="st_ui_dbg_item_compare">
+		<text>Comparação</text>
+	</string>
+	<string id="st_ui_dbg_item_btn_copy">
+		<text>Copiar</text>
+	</string>
+	<string id="st_ui_dbg_item_btn_paste">
+		<text>Colar</text>
+	</string>
+	<string id="st_ui_dbg_item_btn_apply">
+		<text>Aplicar</text>
+	</string>
+	<string id="st_ui_dbg_item_btn_Reset">
+		<text>Resetar</text>
+	</string>
+	<string id="st_ui_dbg_item_about">
+		<text>
+			%c[ui_gray_1]Tronex
+			\n2019/10/8
+			\nItem Editor
+			\n \n%c[pda_green]Sobre%c[ui_gray_2]
+			\nO editor de itens permite que você edite as configurações dos itens e salve/teste suas alterações diretamente no jogo.
+			\nA interface é interativa e fácil de usar, com suporte para edição de armas, roupas e artefatos.
+			\nVocê pode selecionar um item da lista para comparar suas estatísticas com o seu item ativo.
+			\nOs valores modificados são armazenados temporariamente em cache para o item em que você está trabalhando; você pode retornar a ele se desligar o editor.
+			\n \n%c[pda_red]Atenção%c[ui_gray_2]
+			\nOs arquivos de configuração devem ser descompactados antes de trabalhar com o editor, eles devem estar em (%c[ui_gray_3]gamedata/configs/items%c[ui_gray_2]).
+			\n(%c[ui_gray_3]gamedata/configs/cache_dbg.ltx%c[ui_gray_2]) manterá o registro dos parâmetros originais ao alterar, para que você possa redefini-los novamente com o botão Redefinir.
+			\nNão se esqueça de fazer um backup das configurações para referência.
+			\n \n%c[pda_blue]Teclas%c[ui_gray_2]\n
+			\n%c[d_purple]• %c[ui_gray_3]Teclas de setas: %c[ui_gray_2]navegação entre parâmetros.
+			\n%c[d_purple]• %c[ui_gray_3]Teclado numérico 8/2: %c[ui_gray_2]aumentar/reduzir o valor selecionado.
+			\n%c[d_purple]• %c[ui_gray_3]Teclado numérico 9/3: %c[ui_gray_2]aumentar/reduzir todos os valores do parâmetro selecionado.
+			\n%c[d_purple]• %c[ui_gray_3]LShift (segurar): %c[ui_gray_2]Tamanho do passo de valor x10 / salto 2 parâmetros.
+			\n%c[d_purple]• %c[ui_gray_3]LAlt (segurar): %c[ui_gray_2]Tamanho do passo de valor x50 / salto 3 parâmetros.
+			\n%c[d_purple]• %c[ui_gray_3]Teclado numérico 5: %c[ui_gray_2]copiar estatísticas atuais.
+			\n%c[d_purple]• %c[ui_gray_3]Teclado numérico 6: %c[ui_gray_2]colar estatísticas armazenadas.\n
+			\n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]mostrar janela de ajuda.
+			\n%c[d_purple]• %c[ui_gray_3]Esc: %c[ui_gray_2]desligar o editor.
+		</text>
+	</string>
+
+	<string id="st_desc_hit_power">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A quantidade de dano causado pela bala.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[d_cyan](!)%c[ui_gray_2] Este é um parâmetro estatístico.
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]Cada valor para este parâmetro é usado para uma dificuldade diferente:
+		\nMaster -> Veteran -> Stalker -> Rookie
+		\nA dificuldade Vanilla não é usada no Anomaly, use o mesmo valor para todos.
+		</text>
+	</string>
+	<string id="st_desc_hit_impulse">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A força física do projétil. Valores mais altos causam mortes com ragdoll mais dramáticas.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_fire_distance">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A distância em metros antes que a bala 'morra' - qualquer coisa além deste alcance não será atingida.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_bullet_speed">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A velocidade, em metros por segundo.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_rpm">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A taxa de disparo, em tiros por minuto.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_rpm_empty_click">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A taxa na qual o som de 'vazio' será reproduzido, se alguém tentar disparar sem munição.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<!--string id="st_desc_time_to_aim">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string-->
+	<string id="st_desc_zoom_dof">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Modificador de profundidade de campo ao usar miras de ferro.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_reload_dof">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Profundidade de campo durante a recarga.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_control_inertion_factor">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A quantidade de 'peso' aplicado à arma - quão difícil é virar de forma rápida e precisa. Notável no PKM e SVD. Afeta a estatística de manuseio.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[d_cyan](!)%c[ui_gray_2] Este é um parâmetro estatístico.
+		</text>
+	</string>
+	<string id="st_desc_crosshair_inertion">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A quantidade de inércia ao movimentar a câmera - a probabilidade de sua mira se desviar do alvo se você se movimentar. Afeta a estatística de manuseio.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_fire_dispersion_base">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]O cone de disparo básico em graus - a precisão do primeiro tiro da arma. Afeta a precisão básica e estatística de precisão exibida.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[d_cyan](!)%c[ui_gray_2] Este é um parâmetro estatístico.
+		</text>
+	</string>
+	<string id="st_desc_misfire_probability">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A probabilidade de uma falha de disparo ocorrer a QUALQUER momento (este parâmetro não é usado).
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_misfire_start_condition">
+		<text>
+		\n \n%c[pda_green]Descrição
+			\n%c[ui_gray_2]Condição da arma na qual a chance de falha no disparo começa a aumentar.
+			\nFalha no disparo não acontecerá em condições superiores.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Cálculo de chance de falha%c[ui_gray_2]
+		\n%c[ui_gray_3]Chance de falha de disparo = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )
+		
+		\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] condição atual da arma
+		\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] valor de "misfire_start_prob"
+		\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] valor de "misfire_end_prob"
+		\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] valor de "misfire_start_condition"
+		\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] valor de "misfire_end_condition"
+		\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) quando esses valores são diferentes, ou (start_con) apenas se forem idênticos.
+		</text>
+	</string>
+	<string id="st_desc_misfire_end_condition">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Condição da arma onde a chance de falha no disparo para de aumentar.
+		\nA chance de falha será limitada a "misfire_end_prob" em condição inferior.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Cálculo de chance de falha%c[ui_gray_2]
+		\n%c[ui_gray_3]Chance de falha de disparo = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )
+		
+		\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] condição atual da arma
+		\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] valor de "misfire_start_prob"
+		\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] valor de "misfire_end_prob"
+		\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] valor de "misfire_start_condition"
+		\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] valor de "misfire_end_condition"
+		\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) quando esses valores são diferentes, ou (start_con) apenas se forem idênticos.
+		</text>
+	</string>
+	<string id="st_desc_misfire_start_prob">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A chance inicial de falha no disparo.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Cálculo de chance de falha%c[ui_gray_2]
+		\n%c[ui_gray_3]Chance de falha de disparo = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )
+		
+		\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] condição atual da arma
+		\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] valor de "misfire_start_prob"
+		\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] valor de "misfire_end_prob"
+		\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] valor de "misfire_start_condition"
+		\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] valor de "misfire_end_condition"
+		\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) quando esses valores são diferentes, ou (start_con) apenas se forem idênticos.
+		</text>
+	</string>
+	<string id="st_desc_misfire_end_prob">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A chance final de falha no disparo.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Cálculo de chance de falha%c[ui_gray_2]
+		\n%c[ui_gray_3]Chance de falha de disparo = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )
+		
+		\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] condição atual da arma
+		\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] valor de "misfire_start_prob"
+		\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] valor de "misfire_end_prob"
+		\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] valor de "misfire_start_condition"
+		\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] valor de "misfire_end_condition"
+		\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) quando esses valores são diferentes, ou (start_con) apenas se forem idênticos.
+		</text>
+	</string>
+	<string id="st_desc_condition_shot_dec">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Quanto de condição é perdido por disparo.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Cálculo
+		\n%c[ui_gray_3]perda de condição por disparo = (condition_shot_dec) x (weapon_degradation) x (impair) x (condition_shot_dec_k)
+		\n \n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] é definido na seção da arma. Configure "condition_queue_shot_dec" com o mesmo valor
+		\n%c[d_purple]• %c[ui_gray_3]"weapon_degradation"%c[ui_gray_2] é um comando de console, permitindo controle da degradação geral (padrão 1)
+		\n%c[d_purple]• %c[ui_gray_3]"impair"%c[ui_gray_2] é um parâmetro definido na seção da munição que a arma está usando
+		\n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] é um parâmetro definido na seção do silenciador anexado à arma (padrão 1 se ausente)
+		</text>
+	</string>
+	<string id="st_desc_condition_queue_shot_dec">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Quanto de condição é perdido por disparo em modo automático.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Cálculo
+		\n%c[ui_gray_3]perda de condição por disparo = (condition_shot_dec) x (weapon_degradation) x (impair) x (condition_shot_dec_k)
+		\n \n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] é definido na seção da arma. Configure "condition_queue_shot_dec" com o mesmo valor
+		\n%c[d_purple]• %c[ui_gray_3]"weapon_degradation"%c[ui_gray_2] é um comando de console, permitindo controle da degradação geral (padrão 1)
+		\n%c[d_purple]• %c[ui_gray_3]"impair"%c[ui_gray_2] é um parâmetro definido na seção da munição que a arma está usando
+		\n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] é um parâmetro definido na seção do silenciador anexado à arma (padrão 1 se ausente)
+		</text>
+	</string>
+	<string id="st_desc_cam_return">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A câmera retorna ao seu alvo depois?
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_cam_relax_speed">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A velocidade com que sua mira retorna à posição neutra
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance (graus)
+		</text>
+	</string>
+	<string id="st_desc_cam_dispersion">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Dispersão ao atirar (sem mira).
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance (graus)
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]Este valor não é limitado no motor; valores negativos causarão recuo negativo.
+		</text>
+	</string>
+	<string id="st_desc_cam_dispersion_inc">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Quanto é adicionado à dispersão em cada disparo.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance (graus)
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]Este valor não é limitado no motor; valores negativos causarão recuo negativo.
+		</text>
+	</string>
+	<string id="st_desc_cam_dispersion_frac">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Outro fator de dispersão.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_cam_max_angle">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]O ângulo máximo de recuo que pode mover sua mira desde a origem - neste caso, 50 graus para cima.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_cam_max_angle_horz">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Deslocamento horizontal máximo
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_cam_step_angle_horz">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Recuo horizontal causado pelo disparo. 0 causará um recuo vertical, o negativo recuará para a esquerda.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_zoom_cam_relax_speed">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A velocidade na qual suas miras de ferro/lunetas retornam à posição neutra.
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance (graus)
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]Se este parâmetro não for definido na seção da arma, o motor usará o valor "cam_relax_speed" em seu lugar.
+		</text>
+	</string>
+	<string id="st_desc_zoom_cam_dispersion">
+		<text>
+		\n \n%c[pda_green]Descriçäo
+		\n%c[ui_gray_2]Dispersäo (afetando apenas visöes de ferro / scopes).
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance (grau)
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]se este parâmetro näo for definido na seçäo de armas, o mecanismo usará o valor "cam_dispersion" ao invés.
+		\nEste valor näo é limitado no motor; valores negativos causaräo recuo negativo.
+		</text>
+	</string>
+	<string id="st_desc_zoom_cam_dispersion_inc">
+		<text>
+		\n \n%c[pda_green]Descriçäo
+		\n%c[ui_gray_2]Quanto é adicionado à dispersäo com cada tiro (afetando apenas visores de ferro / lunetas).
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance (grau)
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]se este parâmetro näo for definido na seçäo de armas, o mecanismo usará o valor "cam_dispersion_inc" ao invés.
+		\nEste valor näo é limitado no motor; valores negativos causaräo recuo negativo.
+		</text>
+	</string>
+	<string id="st_desc_zoom_cam_dispersion_frac">
+		<text>
+		\n \n%c[pda_green]Descriçäo
+		\n%c[ui_gray_2]Outro fator de dispersäo (afetando apenas visöes de ferro / escopos).
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]se este parâmetro näo for definido na seçäo de armas, o mecanismo usará o valor "cam_dispersion_frac" ao invés.
+		</text>
+	</string>
+	<string id="st_desc_zoom_cam_max_angle">
+		<text>
+		\n \n%c[pda_green]Descriçäo
+		\n%c[ui_gray_2]O recuo máximo do ângulo pode carregar sua mira desde a origem - neste caso, 50 graus para cima (afetando apenas as miras de ferro / escopos).
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]se este parâmetro näo for definido na seçäo de armas, o motor usará o valor "cam_max_angle" ao invés.
+		</text>
+	</string>
+	<string id="st_desc_zoom_cam_max_angle_horz">
+		<text>
+		\n \n%c[pda_green]Descriçäo
+		\n%c[ui_gray_2]Deslocamento horizontal máximo (afetando apenas viseiras / escopos).
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]se este parâmetro näo for definido na seçäo de armas, o motor usará o valor "cam_max_angle_horz" ao invés.
+		</text>
+	</string>
+	<string id="st_desc_zoom_cam_step_angle_horz">
+		<text>
+		\n \n%c[pda_green]Descriçäo
+		\n%c[ui_gray_2]Recuo horizontal causado pelo disparo. 0 causará um recuo vertical, o negativo recuará para a esquerda (afetando apenas as miras de ferro / escopos).
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[pda_blue]Notas
+		\n%c[ui_gray_2]se este parâmetro näo for definido na seçäo de armas, o mecanismo usará o valor "cam_step_angle_horz" ao invés.
+		</text>
+	</string>
+	<string id="st_desc_PDM_disp_base">
+		<text>
+		\n \n%c[pda_green]Descriçäo
+		\n%c[ui_gray_2]Base "PDM". Isso afeta a precisäo de maneira semelhante a fire_dispersion_base. O valor mais baixo torna mais preciso. Também afeta a estatística de manuseio da arma, junto com control_inertion_factor
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		\n \n%c[d_cyan](!)%c[ui_gray_2] Este é um parâmetro estatístico.
+		</text>
+	</string>
+	<string id="st_desc_PDM_disp_vel_factor">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Um multiplicador que aumenta a dispersão da bala com base na velocidade do jogador
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_PDM_disp_accel_factor">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Um multiplicador que aumenta a dispersão da bala conforme o jogador acelera
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_PDM_disp_crouch">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Multiplicador que afeta a dispersão enquanto o jogador está agachado
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_PDM_disp_crouch_no_acc">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Multiplicador que afeta a dispersão enquanto o jogador está agachado e parado (na posição mais precisa possível)
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_fire_dispersion_condition_factor">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]O quanto a condição afeta a dispersão - números mais altos resultam em degradação mais acentuada
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_cam_relax_speed_ai">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A velocidade com que a mira da IA retorna após um disparo
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_zoom_cam_relax_speed_ai">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]A velocidade com que a IA retorna a mira após disparar usando miras de ferro/escopo
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_holder_range_modifier">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Alcance efetivo de visão da IA ao portar a arma
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_holder_fov_modifier">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]O campo de visão da IA ao portar a arma. 1.0 proporciona um campo de visão de aproximadamente 180°
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_min_radius">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Raio mínimo em que você pode ser visto, em metros. Pode causar comportamentos interessantes
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_max_radius">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Raio máximo no qual a IA pode distinguir entre amigo ou inimigo
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_zoom_enabled">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Habilitar ou não as miras de ferro
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_zoom_rotate_time">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Tempo necessário para mirar
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_scope_zoom_factor">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]O quanto o FOV "amplia" ao mirar com a mira. 1 é o padrão
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_ammo_elapsed">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]O tamanho do carregador
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_ammo_mag_size">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Este número deve ser igual à variável 'ammo_elapsed' - caso contrário, o valor também não funcionará!
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+	<string id="st_desc_cost">
+		<text>
+		\n \n%c[pda_green]Descrição
+		\n%c[ui_gray_2]Custo base da arma (tenha em mente que é afetado por diversos aspectos econômicos)
+		\n \n%c[pda_red]Alcance
+		\n%c[ui_gray_2]$alcance
+		</text>
+	</string>
+</string_table>

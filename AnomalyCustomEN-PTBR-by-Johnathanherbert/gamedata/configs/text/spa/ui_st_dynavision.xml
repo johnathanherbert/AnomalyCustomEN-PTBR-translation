@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_menu_dynavision">
+		<text>Dynavision</text>
+	</string>
+
+	<!-- Menu de Configuração -->
+
+	<string id="ui_mcm_dynavision_menu_configuration">
+		<text>Configuração</text>
+	</string>
+	<string id="ui_mcm_dynavision_menu_configuration_general">
+		<text>Geral</text>
+	</string>
+	<string id="ui_mcm_dynavision_menu_configuration_general_title">
+		<text>Geral</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_help1">
+		<text>O Dynavision fornece uma nova janela de visualização para ajustes em tempo real dos parâmetros de iluminação da imagem. Acesse este novo widget no menu Configurações/Visuais clicando no botão Controles do Dynavision</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_help2">
+		<text>Cada ajuste que você faz com a interface dos Controles do Dynavision é registrado (por hora e tipo de clima) em um arquivo de programa personalizado que persiste entre as sessões do jogo</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_help3">
+		<text>O Dynavision em tempo real (enquanto você joga), pode controlar e aplicar os parâmetros de iluminação da imagem com base nos ajustes que você definiu e registrou anteriormente</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_enable_desc">
+		<text>Marque para ativar o Motor Dynavision e processar a imagem com os valores dos parâmetros dos Controles do Dynavision, seja do Global ou do Programa</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_use_program">
+		<text>Usar Programa</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_use_program_desc">
+		<text>Marque para permitir que o Motor Dynavision corrija a imagem usando seus dados de programa gravados, se disponíveis. Se esta opção estiver desmarcada, o Motor Dynavision usará apenas valores globais onde disponíveis (Predefinições de Clima ou Geral)</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_use_weather">
+		<text>Usar Clima Global</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_use_weather_desc">
+		<text>Marque para permitir que o Motor Dynavision corrija a imagem usando seus dados de Clima Global gravados, se disponíveis. Se esta opção estiver desmarcada, o Motor Dynavision usará apenas valores Gerais Globais</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_use_es">
+		<text>Usar Shaders Aprimorados</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_use_es_desc">
+		<text>Marque para permitir que o Motor Dynavision corrija a imagem usando parâmetros de shaders aprimorados salvos em seus dados de programa gravados</text>
+	</string>	
+	<string id="ui_mcm_dynavision_configuration_general_frequency">
+		<text>Frequência</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_frequency_desc">
+		<text>Determina o intervalo em segundos em que o Motor Dynavision atualiza a imagem</text>
+	</string>
+	<string id="ui_mcm_dynavision_menu_configuration_presets">
+		<text>Predefinições</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_timestop_on_open_ctrl">
+		<text>Parar Tempo</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_timestop_on_open_ctrl_desc">
+		<text>Para o tempo do jogo automaticamente sempre que você abrir os Controles do Dynavision. Normalmente você usaria a tecla T para alternar o tempo. Se você tiver problemas com o movimento da câmera no Modo Foto, mantenha isso desmarcado</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_use_lut">
+		<text>Usar SSS LUT</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_use_lut_desc">
+		<text>Marque isso se você estiver usando SSS LUT ou seu pacote de clima estiver configurado para usar LUT e o Dynavision estiver ativado. REQUER RECARREGAMENTO DO JOGO SALVO</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_camera_boundary">
+		<text>Limite da câmera no Modo Foto</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_general_camera_boundary_desc">
+		<text>Define a distância máxima que a câmera pode ser movida para longe do ator enquanto estiver no Modo Foto</text>
+	</string>		
+	<string id="ui_mcm_dynavision_menu_configuration_presets_requirements">
+		<text>Um jogo deve estar carregado para ver ou alterar predefinições</text>
+	</string>
+	<string id="ui_mcm_dynavision_menu_configuration_presets_title">
+		<text>Predefinições</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_presets_help1">
+		<text>O Dynavision usa arquivos predefinidos para ler ou salvar os dados dos Controles do Dynavision para os grupos Global e Programa</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_presets_help2">
+		<text>Você precisa de um jogo carregado para ver todas as predefinições disponíveis e selecionar a predefinição a ser usada pelo Motor Dynavision</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_presets_help3">
+		<text>As predefinições podem ser importadas de outras fontes ou compartilhadas entre usuários. Para adicionar novas predefinições, consulte a documentação</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_presets_preset">
+		<text>Predefinição</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_presets_preset_desc">
+		<text>A predefinição atualmente ativa</text>
+	</string>
+	<string id="ui_mcm_dynavision_menu_configuration_keybinds">
+		<text>Teclas de Atalho</text>
+	</string>
+	<string id="ui_mcm_dynavision_menu_configuration_keybinds_title">
+		<text>Teclas de Atalho</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_keybinds_help1">
+		<text>Você pode configurar e usar uma tecla de atalho para abrir a visualização dos Controles do Dynavision diretamente do jogo, alternativamente você pode ir ao menu Configurações em Visuais</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_keybinds_hotkey">
+		<text>Tecla de atalho para Visualização dos Controles do Dynavision</text>
+	</string>	
+	<string id="ui_mcm_dynavision/configuration/keybinds_hotkey">
+		<text>Tecla de atalho para Visualização dos Controles do Dynavision</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_keybinds_hotkey_desc">
+		<text>Uma tecla de atalho para abrir a janela de Visualização dos Controles do Dynavision</text>
+	</string>
+	<string id="ui_mcm_dynavision_menu_configuration_notifications">
+		<text>Notificações</text>
+	</string>
+	<string id="ui_mcm_dynavision_menu_configuration_notifications_title">
+		<text>Notificações</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_help1">
+		<text>Você pode configurar o Dynavision para enviar notificações de notícias do jogo quando ele executa certas tarefas (por exemplo, atualizar imagem ou salvar um programa, etc)</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_enable_desc">
+		<text>Ative para permitir que o Dynavision envie notificações</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_notify_update">
+		<text>Notificar Atualização</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_notify_update_desc">
+		<text>Envia uma notificação quando o Dynavision atualiza a imagem com quaisquer configurações</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_notify_saveprogram">
+		<text>Notificar Carregamento de Predefinição</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_notify_saveprogram_desc">
+		<text>Envia uma notificação quando você carrega uma nova predefinição dos Controles do Dynavision</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_notify_loadpreset">
+		<text>Notificar Salvamento do Programa</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_notify_loadpreset_desc">
+		<text>Envia uma notificação quando você salva uma configuração de programa com a janela de visualização dos Controles do Dynavision</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_debug">
+		<text>Depuração</text>
+	</string>
+	<string id="ui_mcm_dynavision_configuration_notifications_debug_desc">
+		<text>Permite que mensagens de registro sejam escritas no console do jogo (tecla til padrão para abrir o console)</text>
+	</string>
+
+
+	<!-- Menu Global -->
+
+	<string id="ui_mcm_dynavision_menu_globals">
+		<text>Controles Globais</text>
+	</string>
+
+	<!-- Submenu de Informações Globais -->
+
+	<string id="ui_mcm_dynavision_menu_globals_info">
+		<text>Informações</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_menu_globals_info_title">
+		<text>Informações</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_info_help0">
+		<text>Os Controles do Dynavision são os parâmetros de iluminação da imagem e seus valores que podem ser aplicados à imagem na tela (ou quadro) a cada "ciclo de atualização do Motor Dynavision" (padrão 5 segundos). Os valores dos Controles do Dynavision podem vir de diferentes fontes e são aplicados, dependendo de sua disponibilidade, em uma base de |Primeiro Encontrado Primeiro Usado|, com a seguinte ordem: Programa, Clima Global, Geral Global</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_info_help1">
+		<text>Os valores de controle do grupo Programa são os mais precisos, pois dependem tanto do tempo quanto da condição climática (o tipo de clima atualmente em execução). Por exemplo, você pode ter valores de controle salvos para um tipo de clima limpo às 10h, e assim por diante</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_info_help2">
+		<text>Os valores de controle do grupo Clima Global também dependem do clima, mas de forma mais ampla. Por exemplo, você pode ter valores de controle salvos para um tipo de clima limpo durante todo o dia e assim por diante</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_info_help3">
+		<text>Geral Global são os valores de controle que, em vez disso, se aplicam independentemente do tempo e do clima. Estes são o último recurso, se nada estiver disponível do Clima ou Programa, o Motor Dynavision usará estes. Por exemplo, se os controles do Programa para clima limpo às 2h não puderem ser encontrados, e nem os controles Globais do Clima para a noite, então os controles Gerais Globais são usados</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_info_help4">
+		<text>Você só pode definir o grupo de controles Geral Global através do menu mcm, enquanto Programa e Clima Global só podem ser definidos usando a janela de visualização dos Controles do Dynavision e de lá serem salvos também</text>
+	</string>
+
+	<!-- Submenu Geral Global -->
+
+	<string id="ui_mcm_dynavision_menu_globals_general">
+		<text>Geral</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_menu_globals_general_requirement">
+		<text>Um jogo deve estar carregado para ver os valores de controle Gerais Globais</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_menu_globals_general_title">
+		<text>Controles Gerais Globais</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_general_help1">
+		<text>Aqui você pode definir os valores de controle Gerais Globais. O Motor Dynavision aplicará à Imagem estes valores de controle dependendo de três condições separadas, enquanto subterrâneo, durante o dia e durante a noite. Você pode definir os valores de controle para estas três condições separadas</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_help2">
+		<text>O dia é entre 7h e 19h, enquanto a noite é entre 22h e 4h. Os valores de controle das horas do crepúsculo e da aurora são calculados automaticamente interpolando os valores do dia e da noite com base no tempo. Por exemplo, à medida que nos aproximamos da noite, os valores de controle noturno terão mais peso na fórmula e vice-versa</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_help3">
+		<text>O Motor Dynavision aplicará estes valores à imagem na tela se nenhuma outra fonte estiver disponível para estes, veja Clima ou Programa</text>
+	</string>
+	<!-- Subterrâneos -->
+	<string id="ui_mcm_dynavision_menu_globals_general_indoor">
+		<text>Subterrâneos</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_indoor_help">
+		<text>O Motor Dynavision usará estes valores em mapas subterrâneos ou edifícios fechados</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_general_indoor_lumscale">
+		<text>Luminosidade</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_indoor_hemi">
+		<text>Luminosidade do Hemisfério</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_indoor_amb">
+		<text>Luminosidade Ambiente</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_indoor_amnt">
+		<text>Quantidade de Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_indoor_low">
+		<text>Luminosidade Baixa do Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_indoor_middlegray">
+		<text>Cinza Médio do Tonemap</text>
+	</string>
+
+	<!-- Tempo Diurno -->
+	<string id="ui_mcm_dynavision_menu_globals_general_day">
+		<text>Tempo Diurno</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_day_help">
+		<text>O Motor Dynavision usará estes valores em mapas externos durante o dia (7 - 19) apenas</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_general_day_lumscale">
+		<text>Luminosidade</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_day_hemi">
+		<text>Luminosidade do Hemisfério</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_day_amb">
+		<text>Luminosidade Ambiente</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_day_amnt">
+		<text>Quantidade de Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_day_low">
+		<text>Luminosidade Baixa do Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_day_middlegray">
+		<text>Cinza Médio do Tonemap</text>
+	</string>
+
+	<!-- Tempo Noturno -->
+	<string id="ui_mcm_dynavision_menu_globals_general_night">
+		<text>Tempo Noturno</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_night_help">
+		<text>O Motor Dynavision usará estes valores em mapas externos durante a noite (22 - 4)</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_general_night_lumscale">
+		<text>Luminosidade</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_night_hemi">
+		<text>Luminosidade do Hemisfério</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_night_amb">
+		<text>Luminosidade Ambiente</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_night_amnt">
+		<text>Quantidade de Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_night_low">
+		<text>Luminosidade Baixa do Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_general_night_middlegray">
+		<text>Cinza Médio do Tonemap</text>
+	</string>
+
+	<!-- Submenu Clima Global -->
+
+	<string id="ui_mcm_dynavision_menu_globals_weathers">
+		<text>Clima</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_menu_globals_weathers_title">
+		<text>Controles Globais de Clima</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_weathers_help1">
+		<text>O Clima Global é um grupo de valores dos Controles do Dynavision que se refere a tipos de clima, divididos por período do dia (dia ou noite)</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_help2">
+		<text>O dia é entre 7h e 19h, enquanto a noite é entre 22h e 4h. Os valores de controle das horas do crepúsculo e da aurora são calculados automaticamente interpolando os valores do dia e da noite com base no tempo. Por exemplo, à medida que nos aproximamos da noite, os valores de controle noturno terão mais peso na fórmula e vice-versa</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_help3">
+		<text>O Motor Dynavision aplicará estes valores à imagem se nenhuma fonte equivalente estiver disponível para estes do Programa</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_help4">
+		<text>Você não pode definir estes valores de controle através deste menu mcm, em vez disso, você precisa usar a interface de visualização dos Controles do Dynavision e salvar suas alterações de lá</text>
+	</string>
+
+	<!-- Tempo Diurno -->
+	<string id="ui_mcm_dynavision_menu_globals_weathers_day">
+		<text>Tempo Diurno</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_day_help">
+		<text>O Motor Dynavision usará estes valores em mapas externos durante o dia (7 - 19) apenas</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_weathers_day_lumscale">
+		<text>Luminosidade</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_day_hemi">
+		<text>Luminosidade do Hemisfério</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_day_amb">
+		<text>Luminosidade Ambiente</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_day_amnt">
+		<text>Quantidade de Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_day_low">
+		<text>Luminosidade Baixa do Tonemap</text>
+	</string>
+
+	<!-- Tempo Noturno -->
+	<string id="ui_mcm_dynavision_menu_globals_weathers_night">
+		<text>Tempo Noturno</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_night_help">
+		<text>O Motor Dynavision usará estes valores em mapas externos durante a noite (22 - 4)</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_globals_weathers_night_lumscale">
+		<text>Luminosidade</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_night_hemi">
+		<text>Luminosidade do Hemisfério</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_night_amb">
+		<text>Luminosidade Ambiente</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_night_amnt">
+		<text>Quantidade de Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynavision_globals_weathers_night_low">
+		<text>Luminosidade Baixa do Tonemap</text>
+	</string>
+	<!-- Menu Programa -->
+
+	<string id="ui_mcm_dynavision_menu_programs">
+		<text>Programa</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_menu_programs_title">
+		<text>Programa</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_programs_help1">
+		<text>Programe o Motor Dynavision para usar valores de controle salvos com base na hora do dia e no clima</text>
+	</string>
+
+	<string id="ui_mcm_dynavision_programs_help2">
+		<text>Você não pode definir estes valores de controle através deste menu mcm, em vez disso, você precisa usar a interface de visualização dos Controles do Dynavision e salvar suas alterações de lá</text>
+	</string>
+
+	<!-- Notificações -->
+
+	<string id="ui_mcm_dynavision_image_controls_recorded">
+		<text>Suas alterações na imagem com os Controles do Dynavision foram salvas nos dados do programa</text>
+	</string>
+	<string id="ui_mcm_dynavision_image_controls_recorded_both">
+		<text>Suas alterações na imagem com os Controles do Dynavision foram salvas no programa e nos globais do clima</text>
+	</string>
+	<string id="ui_mcm_dynavision_image_controls_indoors">
+		<text>Em níveis subterrâneos, você pode alterar os valores dos parâmetros de iluminação no menu mcm Dynavision/Global/Geral</text>
+	</string>
+	<string id="ui_mcm_dynavision_image_engine_update">
+		<text>O Dynavision atualizou a imagem</text>
+	</string>
+	<string id="ui_mcm_dynavision_image_engine_update_general">
+		<text>O Dynavision atualizou a imagem com os valores de controle Gerais Globais</text>
+	</string>
+	<string id="ui_mcm_dynavision_image_engine_update_weathers">
+		<text>O Dynavision atualizou a imagem com os valores de controle do Clima Global</text>
+	</string>
+	<string id="ui_mcm_dynavision_image_engine_update_program">
+		<text>O Dynavision atualizou a imagem com os valores de controle do Programa</text>
+	</string>
+	<string id="ui_mcm_dynavision_preset_loaded">
+		<text>O Dynavision carregou uma nova predefinição %s</text>
+	</string>
+	<string id="ui_mcm_dynavision_photomode_on">
+		<text>Você entrou no Modo Foto. A câmera é controlada usando as teclas W, A, S e D junto com CTRL. Botão esquerdo/direito do mouse para mover a câmera para frente/trás. Z,C para inclinar para esquerda e direita.</text>
+	</string>
+	<string id="ui_mcm_dynavision_photomode_off">
+		<text>Para sair do Modo Foto, pressione a tecla ESC.</text>
+	</string>
+	<string id="ui_mcm_dynavision_photomode_switchcontrols">
+		<text>Pressione (TAB) para voltar os controles para a interface do Dynahud. Pressione H para ocultar/mostrar a interface do Dynahud</text>
+	</string>		
+	<string id="ui_mcm_dynavision_welcome">
+		<text>Bem-vindo ao Dynavision.</text>
+	</string>
+	<string id="ui_mcm_dynavision_kb_hide">
+		<text>Pressione H para Ocultar/Mostrar controles da interface.</text>
+	</string>	
+	<string id="ui_mcm_dynavision_kb_photomode">
+		<text>Pressione P para iniciar o Modo Foto.</text>
+	</string>	
+	<string id="ui_mcm_dynavision_kb_exit">
+		<text>Para sair, pressione a tecla ESC.</text>
+	</string>						
+	<!-- Interface dos Controles do Dynavision -->
+	<string id="ui_mm_video_basic_dynavision_cap">
+		<text>Dynavision</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision">
+		<text>Controles do Dynavision: (H) Ocultar/Mostrar Interface - (G) Ocultar/Mostrar Adesivos - (TAB) Modo Foto - (T) para pausar/retomar tempo - (ESC) sair</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_photomode">
+		<text>Controles do Modo Foto: (TAB) para alternar controles - (H) Ocultar/Mostrar Interface - (G) Ocultar/Mostrar Adesivos - (T) para pausar/retomar tempo - (ESC) sair do Modo Foto</text>
+	</string>	
+	<string id="ui_mm_video_basic_dynavision_help">
+		<text>Controla e registra os valores dos parâmetros de iluminação da imagem</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_saveto_weather_globals">
+		<text>Salvar como Global para clima</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_saveto_weather_globals_desc">
+		<text>Marque isso se você quiser salvar estes valores de controle para todas as horas neste programa de clima</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_save_program">
+		<text>Save to current Program data</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_save_program_desc">
+		<text>The control values on the right will be saved according to the program data below (weather
+			and hour) </text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_save_program_weather">
+		<text>Weather type</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_save_program_preset">
+		<text>Preset</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_save_program_hour">
+		<text>Time of the day (0-23)</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_save_program_map">
+		<text>Map</text>
+	</string>	
+	<string id="ui_mm_video_basic_dynavision_save_program_saved">
+		<text>Has program hour saved</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_save_program_weather_exists">
+		<text>Has weather global saved</text>
+	</string>		
+	<string id="ui_mm_video_basic_dynavision_btn_save">
+		<text>Save</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_btn_reset">
+		<text>Reset</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_btn_ctrl_basic">
+		<text>Basic</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_btn_ctrl_advanced">
+		<text>Advanced</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_btn_ctrl_sss">
+		<text>Effects</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_btn_ctrl_fun">
+		<text>Fun</text>
+	</string>	
+	<string id="ui_mm_video_basic_dynavision_btn_ctrl_es_grading">
+		<text>Color Grading</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_btn_ctrl_es_mixer">
+		<text>Color Mixer</text>
+	</string>					
+	<string id="ui_mm_video_basic_dynavision_list_time">
+		<text>Load values from a saved program (hour)</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_list_lut">
+		<text>LUT</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_list_poses">
+		<text>Poses</text>
+	</string>	
+	<string id="ui_mm_video_basic_dynavision_list_stickers">
+		<text>Stickers</text>
+	</string>
+	<string id="ui_mm_video_basic_dynavision_enable_stickers">
+		<text>Enable</text>
+	</string>
+	<string id="ui_mm_video_basic_stickers_scale">
+		<text>Scale</text>
+	</string>	
+	<string id="ui_mm_video_basic_dynavision_stickers_help">
+		<text>WSAD to move the sticker - L_SHIFT/L_CTRL increase/decrease move step</text>
+	</string>				
+	<string id="ui_mm_video_basic_dynavision_btn_save_desc">
+		<text>Save these control values according to the program data. If the checkbox is enabled it will
+			also save the control values to the Global Weather group</text>
+	</string>
+	<string id="ui_mm_video_basic_sun_lumscale">
+		<text>Luminosity</text>
+	</string>
+	<string id="ui_mm_video_basic_sun_lumscale_amb">
+		<text>Ambient luminosity</text>
+	</string>
+	<string id="ui_mm_video_basic_sun_lumscale_hemi">
+		<text>Hemisphere luminosity</text>
+	</string>
+	<string id="ui_mm_video_basic_tonemap_amnt">
+		<text>Tonemap amount</text>
+	</string>
+	<string id="ui_mm_video_basic_tonemap_low">
+		<text>Tonemap lowlum</text>
+	</string>
+	<string id="ui_mm_video_basic_tonemap_middlegray">
+		<text>Tonemap middlegray</text>
+	</string>
+	<string id="ui_mm_video_basic_ssfx_dof2_edge_blur">
+		<text>DoF Edge blur</text>
+	</string>	
+	<string id="ui_mm_video_basic_ssfx_volumetric_intensity">
+		<text>Volumetric intensity</text>
+	</string>
+	<string id="ui_mm_video_basic_ssfx_shadows_volumetric_res">
+		<text>Volumetric resolution</text>
+	</string>
+	<string id="ui_mm_video_basic_ssfx_volumetric_intensity">
+		<text>Volumetric intensity</text>
+	</string>
+	<string id="ui_mm_video_basic_es_slope">
+		<text>Slope</text>
+	</string>
+	<string id="ui_mm_video_basic_es_offset">
+		<text>Offset</text>
+	</string>
+	<string id="ui_mm_video_basic_es_power">
+		<text>Power</text>
+	</string>
+	<string id="ui_mm_video_basic_es_contrast">
+		<text>Contrast</text>
+	</string>
+	<string id="ui_mm_video_basic_es_red">
+		<text>Red</text>
+	</string>
+	<string id="ui_mm_video_basic_es_green">
+		<text>Green</text>
+	</string>									
+	<string id="ui_mm_video_basic_es_blue">
+		<text>Blue</text>
+	</string>
+	<string id="ui_mm_video_basic_lut_intensity">
+		<text>LUT Intensity</text>
+	</string>
+
+</string_table>

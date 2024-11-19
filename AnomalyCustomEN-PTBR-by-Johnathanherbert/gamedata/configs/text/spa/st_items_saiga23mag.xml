@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_mag_saiga23">
+		<text>Carregador Modificado Saiga-23 23x75</text>
+	</string>
+	<string id="st_mag_saiga23_descr">
+		<text>
+		Carregador Saiga-12S modificado com capacidade para 8 cartuchos. Este carregador foi reajustado para cartuchos de espingarda 23x75mm.
+		</text>
+	</string>
+
+	<string id="st_mag_saiga23_ext">
+		<text>Carregador Estendido Saiga-23 23x75</text>
+	</string>
+	<string id="st_mag_saiga23_ext_descr">
+		<text>
+		Carregador Saiga-12S estendido com capacidade para 12 cartuchos. Este carregador foi reajustado para cartuchos de espingarda 23x75mm. Mais cartuchos significa mais mutantes que você pode matar a cada carregador.
+		</text>
+	</string>
+	
+</string_table>	

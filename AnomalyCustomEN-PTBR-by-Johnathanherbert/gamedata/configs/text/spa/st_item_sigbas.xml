@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_sig550t">
+		<text>SIG SG550</text>
+	</string>
+	<string id="st_wpn_sig550_camot">
+		<text>SIG SG550 (Modificada)</text>
+	</string>
+	<string id="st_wpn_sig550_customt">
+		<text>SIG SG550 (Personalizada)</text>
+	</string>
+	<string id="st_wpn_sig550t_descr">
+		<text>Reconhecida por sua alta qualidade de produção e bom desempenho, a SG 550 é frequentemente referida como o melhor rifle de 5.56 mm já fabricado. Possui uma coronha esqueletizada dobrável lateralmente e um bipé leve de alumínio que se dobra em ranhuras no guarda-mão inferior.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Supressor compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] ELCAN SpecterDR, Acog, Barsca AC10632, Cobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, miras Kemper\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas M203\n \n</text>
+	</string>
+	<string id="st_wpn_sig550_rusty">
+		<text>SIG SG550 (Enferrujada)</text>
+	</string>
+	<string id="st_wpn_sig550_rusty_descr">
+		<text>Reconhecida por sua alta qualidade de produção e bom desempenho, a SG 550 é frequentemente referida como o melhor rifle de 5.56 mm já fabricado. Possui uma coronha esqueletizada dobrável lateralmente e um bipé leve de alumínio que se dobra em ranhuras no guarda-mão inferior. Este modelo está coberto de ferrugem, resultando em menor eficácia em combate.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n%c[d_red] • %c[d_red] montagem de supressor não é possível\n
+		%c[d_purple] • %c[ui_gray_2] ELCAN SpecterDR, Acog, Barsca AC10632, Cobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, miras Kemper\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas M203\n \n</text>
+	</string>
+	<string id="st_wpn_sig550_sniper">
+		<text>SIG SG550-1 Sniper</text>
+	</string>
+	<string id="st_wpn_sig550_sniper_descr">
+		<text>Uma variante de atirador de precisão do popular fuzil de assalto suíço, o SG 550-S constitui um meio-termo perfeito entre rifles sniper e de assalto, mantendo os pontos fortes de ambos os tipos de armamento. Por outro lado, sofre de certas desvantagens, como ter poder de parada e precisão um pouco inferiores para um rifle sniper e falta de tiro automático. Ainda assim, continua sendo um dos melhores sistemas de armas de alto nível disponíveis na Zona de Exclusão.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Supressor compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Mira Kahles ZF95 (integrada)\n \n</text>
+	</string>
+	<string id="st_wpn_sig550_strelokt">
+		<text>SIG SG550 Arrow</text>
+	</string>
+	<string id="st_wpn_sig550_strelokt_descr">
+		<text>Um fuzil de assalto SIG SG-550 fabricado na Suíça. Embora não seja novo, é claro que o proprietário anterior cuidou bem dele: a arma foi desmontada e remontada com cada componente ajustado para desempenho ideal, aumentando o poder de parada. A letra "S" foi gravada na coronha, junto com 16 pequenos entalhes.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Supressor compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] ELCAN SpecterDR, Acog, Barsca AC10632, Cobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, Kemper\n</text>
+	</string>
+	<string id="st_wpn_sig550_worn">
+		<text>SIG SG550 (Desgastada)</text>
+	</string>
+	
+	<string id="st_wpn_sig552t">
+		<text>SIG SG552 Commando</text>
+	</string>
+	<string id="st_wpn_sig552t_descr">
+		<text>O SG 552 Commando é projetado para combate urbano, sendo o membro mais compacto da renomada família SG 550 da SIG, o que melhora suas capacidades CQC.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Supressor compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] ELCAN SpecterDR, Acog, Barsca AC10632, Cobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, miras Kemper\n \n</text>
+	</string>
+	<string id="st_wpn_sig552_worn">
+		<text>SIG SG552 Commando (Desgastada)</text>
+	</string>
+</string_table>

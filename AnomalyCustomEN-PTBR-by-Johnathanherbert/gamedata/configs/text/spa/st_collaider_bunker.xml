@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por Johnathanherbert -->
+ 
+<string_table>
+	<!-- Level name -->
+	<string id="collaider">
+		<text>Collider</text>
+	</string>
+
+	
+	<string id="st_space_restrictor_to_collider_descr">
+		<text>para o Collider</text>
+	</string>
+
+	<!-- Purchase routes -->
+	<string id="st_route_col">
+		<text>Collider</text>
+	</string>
+
+	<!-- Dynamic news -->
+	<string id="st_dyn_news_collaider">
+		<text>Collider</text>
+	</string>
+
+
+	<!-- Level name -->
+	<string id="bunker_a1">
+		<text>Bunker A1</text>
+	</string>
+
+	<string id="st_space_restrictor_to_bunker_descr">
+		<text>para o Bunker A1</text>
+	</string>
+
+	<!-- Purchase routes -->
+	<string id="st_route_bunk">
+		<text>Bunker A1</text>
+	</string>
+
+	<!-- Dynamic news -->
+	<string id="st_dyn_news_bunker_a1">
+		<text>Bunker A1</text>
+	</string>
+
+</string_table>

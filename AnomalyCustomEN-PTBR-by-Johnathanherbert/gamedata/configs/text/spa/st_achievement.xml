@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+
+<!-- Traduzido por Johnathanherbert -->
+
+<string_table>
+	
+	<string id="st_achievement_1_name">
+		<text>Nariz de ouro</text>
+	</string>
+	<string id="st_achievement_1_hint">
+		<text>Os comerciantes estão mais dispostos a vender equipamentos de melhor qualidade, mesmo que você não atenda aos critérios de boa vontade de suas facções.</text>
+	</string>
+	<string id="st_achievement_1_descr">
+		<text>Sua riqueza se tornou lendária entre os comerciantes da região. Preocupados com a clientela, é mais provável que eles ofereçam seus melhores produtos, independentemente da sua posição na facção deles.</text>
+	</string>
+	<string id="st_achievement_1_unlock">
+		<text>Você desbloqueou a conquista "Nariz de ouro".</text>
+	</string>
+	
+	<string id="st_achievement_2_name">
+		<text>Radioterapia</text>
+	</string>
+	<string id="st_achievement_2_hint">
+		<text>Quando começa uma tempestade ou emissão, há uma chance de você não precisar de abrigo para esperar terminar o evento.</text>
+	</string>
+	<string id="st_achievement_2_descr">
+		<text>Estranhamente, parte de sua mente caiu repentinamente em silêncio, e você não tem mais medo da aproximação de emissões ou de tempestades psíquicas. Na verdade, você agora sente um tipo estranho de paz quando elas chegam.</text>
+	</string>
+	<string id="st_achievement_2_unlock">
+		<text>Você desbloqueou a conquista "Radioterapia".</text>
+	</string>
+	
+	<string id="st_achievement_3_name">
+		<text>Fofoqueiro</text>
+	</string>
+	<string id="st_achievement_3_hint">
+		<text>Os agentes agora lhe pagarão um pequeno bônus adicional por qualquer PDA futuro que você entregar a eles.</text>
+	</string>
+	<string id="st_achievement_3_descr">
+		<text>Seja vendendo ou comprando, para muitas pessoas as informações são tão valiosas quanto os artefatos. Tendo aprendido isto através da experiência, você é capaz de cobrar mais pelos segredos que vende.</text>
+	</string>
+	<string id="st_achievement_3_unlock">
+		<text>Você desbloqueou a conquista "Fofoqueiro".</text>
+	</string>
+	
+	<string id="st_achievement_4_name">
+		<text>Abre-alas</text>
+	</string>
+	<string id="st_achievement_4_hint">
+		<text>Os stalkers são mais propensos a viajar por Yantar e Radar, possivelmente aumentando sua população nas áreas do norte</text>
+	</string>
+	<string id="st_achievement_4_descr">
+		<text>Depois de ver o que as experiências imprudentes haviam trazido à Zona, você escolheu encerrar alguns de seus projetos científicos em decadência. Com dois grandes campos psíquicos desativados, os caminhos através de Yantar e Radar estão agora mais acessíveis do que nunca.</text>
+	</string>
+	<string id="st_achievement_4_unlock">
+		<text>Você desbloqueou a conquista "Abre-alas".</text>
+	</string>
+	
+	<string id="st_achievement_5_name">
+		<text>Caçador</text>
+	</string>
+	<string id="st_achievement_5_hint">
+		<text>Você é capaz de eliminar mutantes muito mais rapidamente do que o normal.</text>
+	</string>
+	<string id="st_achievement_5_descr">
+		<text>Com razão, a vida selvagem da região teme você - uma boa proporção morreu em suas mãos. Seus dedos ágeis permitem um trabalho rápido, você é um especialista.</text>
+	</string>
+	<string id="st_achievement_5_unlock">
+		<text>Você desbloqueou a conquista "Caçador".</text>
+	</string>
+	
+	<string id="st_achievement_6_name">
+		<text>Plata ou Plomo</text>
+	</string>
+	<string id="st_achievement_6_hint">
+		<text>Os stalkers mortos às vezes podem revelar a localização de um segundo esconderijo.</text>
+	</string>
+	<string id="st_achievement_6_descr">
+		<text>Corpos e invólucros de balas detonam os trilhos atrás de você. Você tem sido cruel com seus inimigos, e através de sua crueldade eles sabem quem você é. Aqueles que sobrevivem a seus horripilantes ataques estão agora muito mais dispostos a se separar de seus bens se isso significa viver para ver outro dia.</text>
+	</string>
+	<string id="st_achievement_6_unlock">
+		<text>Você desbloqueou a conquista "Plata ou Plomo".</text>
+	</string>
+	
+	<string id="st_achievement_7_name">
+		<text>Técnico Papaléguas</text>
+	</string>
+	<string id="st_achievement_7_hint">
+		<text>Os itens de bônus usados durante os reparos são mais eficazes.</text>
+	</string>
+	<string id="st_achievement_7_descr">
+		<text>Agradecido por seu trabalho árduo, o técnico que você ajudou decidiu ensinar algumas habilidades de manutenção em campo, permitindo que você faça reparos mais eficientes.</text>
+	</string>
+	<string id="st_achievement_7_unlock">
+		<text>Você desbloqueou a conquista "Técnico Papaléguas".</text>
+	</string>
+	
+	<string id="st_achievement_8_name">
+		<text>Turista</text>
+	</string>
+	<string id="st_achievement_8_hint">
+		<text>Seu profundo conhecimento da área permitiu deduzir onde estão localizados alguns de seus melhores esconderijos.</text>
+	</string>
+	<string id="st_achievement_8_descr">
+		<text>Apesar dos perigos, você explorou todas as partes acessíveis da Zona. Das profundezas escuras do Grand Marais ao labirinto do cemitério de caminhões, você conhece a Zona como a palma das mãos.</text>
+	</string>
+	<string id="st_achievement_8_unlock">
+		<text>Você desbloqueou a conquista "Turista".</text>
+	</string>
+	
+	<string id="st_achievement_9_name">
+		<text>Ladrão</text>
+	</string>
+	<string id="st_achievement_9_hint">
+		<text>Talvez você encontre mais saques ao procurar em esconderijos.</text>
+	</string>
+	<string id="st_achievement_9_descr">
+		<text>Depois de ganhar vasta experiência fuçando nos esconderijos de outros stalkers, você se acostumou com fundos falsos e bolsas secretas onde coisas adicionais podem ser guardadas.</text>
+	</string>
+	<string id="st_achievement_9_unlock">
+		<text>Você desbloqueou a conquista "Ladrão".</text>
+	</string>
+	
+	<string id="st_achievement_10_name">
+		<text>Grande Homem</text>
+	</string>
+	<string id="st_achievement_10_hint">
+		<text>Todas as conquistas disponíveis foram desbloqueadas.</text>
+	</string>
+	<string id="st_achievement_10_descr">
+		<text>Tudo o que há para alcançar foi alcançado. A estrada foi longa, mas você chegou ao final triunfante.</text>
+	</string>
+	<string id="st_achievement_10_unlock">
+		<text>Você desbloqueou a conquista "Grande Homem".</text>
+	</string>
+	
+	<string id="st_achievement_11_name">
+		<text>Vanguarda</text>
+	</string>
+	<string id="st_achievement_11_hint">
+		<text>Você desbloqueou "Renegades" como uma facção jogável.</text>
+	</string>
+	<string id="st_achievement_11_descr">
+		<text>Você fez todo o possível para obter conhecimento secreto de um dos stalkers mais antigos da região. Embora você seja cético, ela revelou toda a verdade, você não pode negar o que realizou na busca pelo conhecimento.</text>
+	</string>
+	<string id="st_achievement_11_unlock">
+		<text>Você desbloqueou a conquista "Vanguarda".</text>
+	</string>
+	
+	<string id="st_achievement_12_name">
+		<text>Davi e Golias</text>
+	</string>
+	<string id="st_achievement_12_hint">
+		<text>Helicópteros Mi-2 aparecerão em vez do Mi-24.</text>
+	</string>
+	<string id="st_achievement_12_descr">
+		<text>Quanto mais alto eles voam, mais violentamente eles caem. Não querendo desperdiçar equipamentos caros, os helicópteros da Zona agora parecem muito mais fracos. Mas não é menos tentador destruí-los.</text>
+	</string>
+	<string id="st_achievement_12_unlock">
+		<text>Você desbloqueou a conquista "Davi e Golias".</text>
+	</string>
+	
+	<string id="st_achievement_13_name">
+		<text>Geólogo</text>
+	</string>
+	<string id="st_achievement_13_hint">
+		<text>Você tem uma chance maior de encontrar artefatos após uma emissão.</text>
+	</string>
+	<string id="st_achievement_13_descr">
+		<text>Cantarolar, zumbir e cuspir - as anomalias da Zona não o assustam mais. Além disso, sua ampla experiência com detectores torna os artefatos mais fáceis de encontrar.</text>
+	</string>
+	<string id="st_achievement_13_unlock">
+		<text>Você desbloqueou a conquista "Geólogo".</text>
+	</string>
+	
+	<string id="st_achievement_14_name">
+		<text>Renomado</text>
+	</string>
+	<string id="st_achievement_14_hint">
+		<text>Você pode recrutar mais stalkers como companheiros.</text>
+	</string>
+	<string id="st_achievement_14_descr">
+		<text>Suas façanhas começaram a defini-lo como uma lenda local, e você se carrega com uma confiança clara que só a experiência pode trazer. Grupos maiores de stalkers estão mais dispostos a te seguir, acreditando que você os levará ao sucesso.</text>
+	</string>
+	<string id="st_achievement_14_unlock">
+		<text>Você desbloqueou a conquista "Renomado".</text>
+	</string>
+	
+	<string id="st_achievement_15_name">
+		<text>Leitor Ávido</text>
+	</string>
+	<string id="st_achievement_15_hint">
+		<text>Os Memory sticks serão substituídos por PDAs raros quando gerados.</text>
+	</string>
+	<string id="st_achievement_15_descr">
+		<text>Com seus próprios esforços ou lendo as façanhas de outras pessoas, você aprendeu muito sobre a Zona e seus muitos habitantes. Talvez você deva considerar compartilhar um pouco desse conhecimento?</text>
+	</string>
+	<string id="st_achievement_15_unlock">
+		<text>Você desbloqueou a conquista "Leitor Ávido".</text>
+	</string>
+	
+	<string id="st_achievement_16_name">
+		<text>Sedex</text>
+	</string>
+	<string id="st_achievement_16_hint">
+		<text>É provável que você consiga mais saques das caixas que destrói.</text>
+	</string>
+	<string id="st_achievement_16_descr">
+		<text>As caixas de armazenamento agora tremem quando você se aproxima, pois centenas de seus irmãos quadradinhos foram quebrados em suas mãos. Desde então, você elevou a quebra da caixa a uma forma de arte, abrindo-as com o mínimo de danos ao conteúdo.</text>
+	</string>
+	<string id="st_achievement_16_unlock">
+		<text>Você desbloqueou a conquista "Sedex".</text>
+	</string>
+	
+	<string id="st_achievement_17_name">
+		<text>Sucateiro</text>
+	</string>
+	<string id="st_achievement_17_hint">
+		<text>Você tem uma pequena chance de recuperar material adicional durante a desmontagem.</text>
+	</string>
+	<string id="st_achievement_17_descr">
+		<text>Acreditando que cada parte conta, você não pode deixar de desmontar o que não deseja usar em seus componentes básicos. Depois de muita experiência, você se tornou mais preciso. Desmontar nunca foi tão fácil.</text>
+	</string>
+	<string id="st_achievement_17_unlock">
+		<text>Você desbloqueou a conquista "Sucateiro".</text>
+	</string>
+	
+	<string id="st_achievement_18_name">
+		<text>Rei da Gambiarra</text>
+	</string>
+	<string id="st_achievement_18_hint">
+		<text>A produção de objetos requer um ou dois componentes a menos.</text>
+	</string>
+	<string id="st_achievement_18_descr">
+		<text>Fabricar seu próprio equipamento sempre foi um processo desafiador, mas sua experiência ampliada permitiu que você usasse seus componentes com maior eficiência.</text>
+	</string>
+	<string id="st_achievement_18_unlock">
+		<text>Você desbloqueou a conquista "Rei da Gambiarra".</text>
+	</string>
+	
+	<string id="st_achievement_19_name">
+		<text>Convidado Inesperado</text>
+	</string>
+	<string id="st_achievement_19_hint">
+		<text>É menos provável que você pareça suspeito ou seja descoberto enquanto estiver disfarçado.</text>
+	</string>
+	<string id="st_achievement_19_descr">
+		<text>Você se familiarizou mais com os costumes sutis de seus inimigos e, como resultado, seus disfarces são mais convincentes. Por causa disso, é mais provável que seus vários deslizes passem despercebidos, vistos como nada mais do que as peculiaridades de um hóspede calmo e bem intencionado.</text>
+	</string>
+	<string id="st_achievement_19_unlock">
+		<text>Você desbloqueou a conquista "Convidado Inesperado".</text>
+	</string>
+	
+	<string id="st_achievement_20_name">
+		<text>Absoluto</text>
+	</string>
+	<string id="st_achievement_20_hint">
+		<text>Você desbloqueou "Sin" como uma facção jogável.</text>
+	</string>
+	<string id="st_achievement_20_descr">
+		<text>Quando os stalkers sombrios do Sin vieram trazer sua visão ao mundo, você se opôs a eles, dando ao mundo a chance de sobreviver sem manipular a noosfera.</text>
+	</string>
+	<string id="st_achievement_20_unlock">
+		<text>Você desbloqueou a conquista "Absoluto".</text>
+	</string>
+	
+	<string id="st_achievement_21_name">
+		<text>Colaborador</text>
+	</string>
+	<string id="st_achievement_21_hint">
+		<text>Você desbloqueou "UNISG" como uma facção jogável.</text>
+	</string>
+	<string id="st_achievement_21_descr">
+		<text>Para o bem ou para o mal, você escolheu seu lado e tomou sua decisão. É difícil dizer se você estava certo ou errado... mas você fez. E achamos que você deveria agradecer por isso.</text>
+	</string>
+	<string id="st_achievement_21_unlock">
+		<text>Você desbloqueou a conquista "Colaborador".</text>
+	</string>
+	
+	<string id="st_achievement_22_name">
+		<text>Senhor da Guerra</text>
+	</string>
+	<string id="st_achievement_22_hint">
+		<text>Você recebeu um bônus de 50.000 RU por sua contribuição ao esforço na guerra da facção.</text>
+	</string>
+	<string id="st_achievement_22_descr">
+		<text>Sua facção se tornou uma força indiscutível na Zona, com alguns grupos menores até mesmo considerando-a uma superpotência local. Alguns dos vastos recursos que agora estão disponíveis para sua facção certamente chegarão até você em breve.</text>
+	</string>
+	<string id="st_achievement_22_unlock">
+		<text>Você desbloqueou a conquista "Senhor da Guerra".</text>
+	</string>
+	
+	<string id="st_achievement_23_name">
+		<text>Espírito Obscuro</text>
+	</string>
+	<string id="st_achievement_23_hint">
+		<text>Sua classificação foi aumentada consideravelmente.</text>
+	</string>
+	<string id="st_achievement_23_descr">
+		<text>Você sobreviveu a eventos que mataram muitos stalkers. Alguns stalkers estão começando a se perguntar se você é um ser mortal.</text>
+	</string>
+	<string id="st_achievement_23_unlock">
+		<text>Você desbloqueou a conquista "Espírito Obscuro".</text>
+	</string>
+	
+	<string id="st_achievement_24_name">
+		<text>Fodão</text>
+	</string>
+	<string id="st_achievement_24_hint">
+		<text>Agora você pode tirar uma captura de tela e se gabar com seus colegas stalkers.</text>
+	</string>
+	<string id="st_achievement_24_descr">
+		<text>Apesar dos desafios, provações e aventuras que você enfrentou, você provou seu sucesso. É claro que não tem mais nada na Zona que lhe intimide, e que talvez seja hora - talvez com uma pontada no coração - para seguir em frente.</text>
+	</string>
+	<string id="st_achievement_24_unlock">
+		<text>Você desbloqueou a conquista "Fodão".</text>
+	</string>
+	
+</string_table>

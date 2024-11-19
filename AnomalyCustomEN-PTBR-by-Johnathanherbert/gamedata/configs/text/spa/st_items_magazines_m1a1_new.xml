@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--
+ traduzido por johnathanherbert
+-->
+
+<string_table><!--
+M1A1
+--><string id="st_mag_m1a1_11.43x23_fmj">
+		<text>Carregador padrão M1A1 .45 ACP</text>
+	</string>
+	<string id="st_mag_m1a1_11.43x23_fmj_descr">
+		<text>Carregador de 30 cartuchos para o M1A1.\n \n%c[d_purple] • %c[ui_gray_2] Também compatível com a variante M1921.</text>
+	</string>
+
+	
+	<string id="st_mag_1921_11.43x23_fmj">
+		<text>Carregador de tambor M1921 .45 ACP</text>
+	</string>
+	<string id="st_mag_1921_11.43x23_fmj_descr">
+		<text>Carregador de tambor de 50 cartuchos para o modelo Thompson de 1921.\n \n%c[d_purple] • %c[ui_gray_2] Não compatível com a variante M1A1, devido à diferença no encaixe do carregador.</text>
+	</string>
+	
+</string_table>

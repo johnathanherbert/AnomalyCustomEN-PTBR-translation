@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!-- Observação: antes comentado -->
+<string_table>
+	
+	<!-- Dushman (Comerciante Mercenário) - Missão Dinâmica de Assassinato Contratado -->
+
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_bs_kill_stalker_nearby_title">
+		<text>Assassino Contratado</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_bs_kill_stalker_nearby_descr">
+		<text>Fui contratado para localizar e eliminar um alvo. Devo retornar para receber o pagamento quando terminar.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_bs_kill_stalker_nearby_job_descr">
+		<text>Nosso contratante tem uma lista de recompensas pendentes. Precisamos de voluntários para executar essas eliminações discretamente, o que nos permitirá cumprir nossas obrigações. Está interessado?</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_bs_kill_stalker_nearby_finish">
+		<text>Está feito? Ótimo. Aqui está sua porcentagem.</text>
+	</string>
+
+
+	<!-- MISSÃO DE ASSALTO AO TERRITÓRIO PARA MERCENÁRIOS -->
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_2_title">
+		<text>Assalto ao território</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_2_descr">
+		<text>Fui contratado para limpar uma área de quaisquer forças hostis presentes.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_2_job_descr">
+		<text>Preciso que você lidere um assalto. Limpe a área-alvo de todas as forças hostis.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_2_finish">
+		<text>Excelente trabalho. Aqui está seu pagamento.</text>
+	</string>
+
+	<!-- Dushman (Comerciante Mercenário) - Missão Dinâmica de Captura de Documentos Inimigos -->
+
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_bs_return_document_from_stash_title">
+		<text>Capturar documentos inimigos</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_bs_return_document_from_stash_descr">
+		<text>Capture os documentos inimigos e retorne-os para Dushman.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_bs_return_document_from_stash_job_descr">
+		<text>Nosso empregador nos informou sobre um documento que precisamos capturar do inimigo. Traga-o aqui e entregarei seu pagamento.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_bs_return_document_from_stash_finish">
+		<text>Bom trabalho.</text>
+	</string>
+
+
+	<!-- TEXTOS DAS MISSÕES DO MECÂNICO -->
+
+	<!-- Hog (Mecânico Mercenário) - Missão de Encontrar Kit de Ferramentas Nível 1 -->
+
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_title">
+		<text>Encontrar ferramentas básicas para Hog</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_descr">
+		<text>Ferramentas básicas são necessárias para Hog instalar melhorias básicas de equipamento. Devo levá-las para ele se encontrar alguma.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_job_descr">
+		<text>Tenho uma proposta para você. Se puder me trazer algumas ferramentas novas, receberá um pagamento. Está interessado?</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_fetch_job_descr">
+		<text>Tenho procurado por um conjunto de ferramentas básicas. Deve conter óleo e ferramentas que preciso para trabalhar em armas de fogo. Pagarei por um desses kits se você puder trazer um conjunto completo.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_fetch_finish">
+		<text>Brilhante! É exatamente isso que eu procurava. Obrigado!</text>
+	</string>
+
+
+
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_title">
+		<text>Encontrar ferramentas avançadas para Hog</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_descr">
+		<text>Ferramentas avançadas são necessárias para Hog instalar melhorias avançadas de equipamento. Devo levá-las para ele se encontrar alguma.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_job_descr">
+		<text>Tenho outra proposta. O kit de ferramentas que você trouxe está funcionando bem, mas não tem tudo que preciso. Acha que pode encontrar um conjunto melhor?</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_fetch_job_descr">
+		<text>Preciso de ferramentas avançadas. Não tenho certeza onde você pode conseguir um desses, mas se encontrar, preciso dele.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_fetch_finish">
+		<text>Tem tudo que preciso. Obrigado.</text>
+	</string>
+
+
+
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_title">
+		<text>Encontrar ferramentas especializadas para Hog</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_descr">
+		<text>Ferramentas especializadas são necessárias para Hog instalar melhorias especializadas de equipamento. Devo levá-las para ele se encontrar alguma.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_job_descr">
+		<text>Tenho outra proposta. O kit de ferramentas que você trouxe está funcionando bem, mas não tem tudo que preciso. Acha que pode encontrar um conjunto melhor?</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_fetch_job_descr">
+		<text>Preciso de ferramentas especializadas. Não tenho certeza onde você pode conseguir um desses, mas se encontrar, preciso dele.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_fetch_finish">
+		<text>Tem tudo que preciso. Obrigado.</text>
+	</string>
+	
+	
+<!-- Aslan (Barman) -->
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_stalker_nearby_title">
+		<text>Eliminar o alvo</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_stalker_nearby_descr">
+		<text>Aslan me pagará para eliminar um alvo.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_stalker_nearby_job_descr">
+		<text>Sim, sempre temos trabalho. Vou te dar as coordenadas, você elimina o alvo.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_stalker_nearby_finish">
+		<text>Bem feito, aqui está o dinheiro.</text>
+	</string>
+	
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_fetch_patches_title">
+		<text>Alvos incentivados</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_fetch_patches_descr">
+		<text>Aslan me pediu para trazer insígnias em troca de recompensa.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_fetch_patches_job_descr">
+		<text>Quer caçar algumas pessoas? Vou te dizer quantas insígnias você precisa coletar, você as traz para mim e recebe uma recompensa.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_fetch_patches_finish">
+		<text>Bem feito. Aqui está seu dinheiro.</text>
+	</string>
+	
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_3_title">
+		<text>Caçador</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_3_descr">
+		<text>Há demanda por uma parte de mutante.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_3_job_descr">
+		<text>Sim, sempre tenho trabalho para você. Um cliente rico está interessado em uma parte rara de mutante. Traga para mim e farei valer seu esforço.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_3_fetch_job_descr">
+		<text>Sim, sempre tenho trabalho para você. Um cliente rico está interessado em uma parte rara de mutante. Traga esta parte para mim e farei valer seu esforço.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_3_fetch_finish">
+		<text>Bem feito, aqui está sua recompensa.</text>
+	</string>
+	
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_4_title">
+		<text>O Pai do Medo</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_4_descr">
+		<text>Aslan quer que eu elimine um mutante perigoso que assombra a Floresta Vermelha.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_4_job_descr">
+		<text>Escute. Há rumores de que um espécime particularmente desagradável de quimera assombra a Floresta Vermelha. Nem mesmo equipes inteiras de stalkers estão seguras. Sobreviventes dizem que ela se mistura com a noite, com pele negra como breu. Sobreviventes de nossas equipes de reconhecimento disseram o mesmo.\n \nOs negócios não podem continuar assim. Então, quero ela morta, entendeu? Não me importa quem faça ou como. A primeira pessoa que fizer esse desgraçado desaparecer ganha um bônus meu.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_4_finish">
+		<text>Trabalho excelente. Você realizou algo que eu teria que contratar equipes inteiras para fazer. Se algum dia deixar a Zona, mantenha contato. Conheço alguns empregadores que poderiam usar alguém como você.</text>
+	</string>
+
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_all_mutants_on_map_title">
+		<text>Proteger a base</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_all_mutants_on_map_descr">
+		<text>Aslan me pediu para eliminar todos os mutantes na área próxima à base.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_all_mutants_on_map_job_descr">
+		<text>É hora de fazer uma boa limpeza na base. Os mutantes estão ficando muito à vontade nas ruínas locais. Estão começando a dar noites inquietas aos nossos contratantes. Preciso de alguém para varrer a área - para afastar essas criaturas viciosas deste lugar. É um trabalho sujo, mas alguém tem que fazer. E esse alguém será bem recompensado. Então, temos um acordo?</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_all_mutants_on_map_finish">
+		<text>Aqui está o pagamento, continue o bom trabalho.</text>
+	</string>
+	
+<!-- Surgeon (Médico Mercenário) -->
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_bs_fetch_drugkit_title">
+		<text>Encontrar um kit de produção de medicamentos para Surgeon</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_bs_fetch_drugkit_descr">
+		<text>Um kit de produção de medicamentos é necessário para Surgeon trabalhar com suprimentos médicos. Se eu encontrar um, ele certamente pagará bem por isso.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_bs_fetch_drugkit_job_descr">
+		<text>Manter o que resta do estoque de suprimentos médicos com essa quantidade de ferimentos que tenho que tratar diariamente é preocupante. Vou ficar sem bandagens e kits médicos mais cedo ou mais tarde. Preciso que você encontre um daqueles antigos kits de produção de medicamentos. Eles serão muito úteis com certeza.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_bs_fetch_drugkit_finish">
+		<text>Deixe-me ver... ok, isso deve servir. Muito obrigado pelos seus serviços. Aqui está sua compensação.</text>
+	</string>
+
+</string_table>

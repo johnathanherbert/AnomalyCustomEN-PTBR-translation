@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_steppe_eagle">
+		<text>Steppe Eagle</text>
+	</string>
+	<string id="st_wpn_steppe_eagle_descr">
+		<text>Desenvolvida pela empresa americana Magnum Research, a Desert Eagle usa um mecanismo operado a gás comumente encontrado em rifles. Isso permite que a pistola use munições de calibre muito maior do que as pistolas semiautomáticas tradicionais. As desvantagens desta arma incluem um tamanho considerável e peso elevado. Neste cano, todos os componentes são perfeitamente ajustados para alcançar a maior precisão para pistolas deste tipo, graças ao compensador de boca integrado, foi possível reduzir significativamente o recuo. Possui um trilho picatinny fortemente redesenhado, graças ao qual uma ampla gama de miras pode ser montada. Esta arma foi trazida para a Zona pelo stalker Logan Williams. Sob o disfarce de um jornalista-fotógrafo, ele conseguiu chegar sozinho ao centro de Pripyat. Atualmente, seu destino é desconhecido, mas há rumores de que ele trabalha como informante para muitos departamentos secretos na Zona de Exclusão.\n \n
+		%c[0,140,140,140]ACESSÓRIOS: \n
+		%c[0,93,0,116] • %c[0,140,140,140] Miras: March Tactical 3-24x42 FFP, ??-23, ELCAN SpecterDR, ???-2, AC10632, ACOG, Aimpoint Micro T1 (montagem baixa), Aimpoint Micro T1 (montagem alta), C-MORE, Aimpoint CompM4s, Docter Sight III, Deltapoint PRO, EOTech XPS3-0, ????? ???-8-18, Firefield Kemper XL-M, Meprolight M21, ???-77, Aimpoint PRO, 1?76 "???????-?", Trijicon RMR. \n</text>
+	</string>
+	<string id="st_wpn_deagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="st_wpn_deagle_descr">
+		<text>Desenvolvida pela empresa americana Magnum Research, a Desert Eagle usa um mecanismo operado a gás comumente encontrado em rifles. Isso permite que a pistola use munições de calibre muito maior do que as pistolas semiautomáticas tradicionais. As desvantagens desta arma incluem um tamanho considerável e peso elevado.\n \n
+		%c[0,140,140,140]ACESSÓRIOS: \n
+		%c[0,93,0,116] • %c[0,140,140,140] Miras: Docter Sight, Aimpoint T1 em montagem baixa, Trijicon RMR, Leupold DeltaPoint PRO. \n</text>
+	</string>
+</string_table>

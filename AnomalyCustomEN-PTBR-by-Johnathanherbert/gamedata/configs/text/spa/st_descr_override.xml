@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="desc_over_prop">
+		<text>PROPRIEDADES:</text>
+	</string>
+
+	<string id="desc_over_timed">
+		<text>TEMPORIZADO:</text>
+	</string>
+
+	<string id="desc_over_bhs">
+		<text>MEMBROS:</text>
+	</string>
+
+	<string id="desc_over_hp">
+		<text>saúde:</text>
+	</string>
+
+	<string id="desc_over_rad">
+		<text>radiação:</text>
+	</string>
+
+	<string id="desc_over_bleed">
+		<text>sangramento:</text>
+	</string>
+
+	<string id="desc_over_over">
+		<text>acima</text>
+	</string>
+
+	<string id="desc_over_sec">
+		<text>seg</text>
+	</string>
+
+	<string id="desc_over_sat">
+		<text>saciedade:</text>
+	</string>
+
+	<string id="desc_over_sleep">
+		<text>sono:</text>
+	</string>
+
+	<string id="desc_over_thirst">
+		<text>sede:</text>
+	</string>
+
+	<string id="desc_over_alcohol">
+		<text>álcool:</text>
+	</string>
+
+</string_table>

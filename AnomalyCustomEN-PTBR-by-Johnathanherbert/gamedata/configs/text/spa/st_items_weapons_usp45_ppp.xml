@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_usp_compact">
+		<text>USP45 Compact</text>
+	</string>
+	<string id="st_wpn_usp_compact_descr">
+		<text>O clássico favorito definitivo de todo veterano na Zona, independente de sua facção. Usando um calibre adequado para combate a curta distância, fácil de ocultar, muito confiável e com peso mínimo para 8 cartuchos, pode-se facilmente usar esta em vez da USP padrão.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador .45 ACP (após modificação)</text>
+	</string>
+
+	<string id="st_wpn_usp_tactical">
+		<text>USP45 Tactical</text>
+	</string>
+	<string id="st_wpn_usp_tactical_descr">
+		<text>Considerada uma melhoria da MK23 e USP, na verdade é mais uma evolução da própria USP em um formato mais compacto. Incorpora um cano estendido e rosqueado com O-ring, que aumenta a precisão e reduz o recuo, além de permitir a integração de um silenciador por padrão, alça de mira micrométrica ajustável, com miras de trítio traseira e frontal. Com todos estes aprimoramentos, é claro que esta não é uma USP Tactical "recém-saída da fábrica", já que o plástico está bastante desgastado e o gatilho foi adulterado. Estas podem ser modificações feitas no mercado negro, de qualquer forma, ainda é uma pistola .45 ACP (ou 9mm se você mudar o calibre) confiável e valiosa.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_mk23">
+		<text>HK MK 23</text>
+	</string>
+	<string id="st_wpn_mk23_descr">
+		<text>Desenvolvida durante os anos 90 para substituir a 1911A1 em serviço nas Forças de Operações Especiais. A pistola Mk.23 SOCOM foi a vencedora dos testes do Sistema de Arma de Mão Ofensiva (OHWS), superando a pistola da Colt apropriadamente chamada "OHWS". Com seu próprio orçamento, o USSOCOM pôde financiar seus próprios programas para adoção de armas e adaptar os requisitos para atender às suas expectativas. O projeto dependia da capacidade de usar um silenciador de forma confiável para operações prolongadas em campo e usar o calibre .45 ACP. Como tal, foi apelidada de "pistola de serviço pesado" pelos operadores do SOCOM devido ao seu tamanho. Com os testes provando sem sombra de dúvida que era mais do que boa o suficiente para as Forças de Operações Especiais, esta pistola pode ser confiável para uso prolongado na Zona, não importa o que ela possa enfrentar.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador .45 ACP</text>
+	</string>
+	
+</string_table>

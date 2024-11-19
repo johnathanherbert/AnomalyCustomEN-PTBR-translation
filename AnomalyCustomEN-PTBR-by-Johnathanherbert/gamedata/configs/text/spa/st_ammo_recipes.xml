@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+	<string id="st_ammo_recipe_ru1">
+		<text>Relatório GRAU de Armas Leves, Volume 1</text>
+	</string>
+	<string id="st_ammo_recipe_ru1_desc">
+		<text>Documentos classificados roubados de um centro de pesquisa russo e movidos temporariamente para a Zona para ocultação. Contém especificações sobre munições russas atuais e experimentais, bem como dados empíricos sobre o desempenho das munições. O Volume 1 considera apenas munições padrão e de uso especial para trabalhos militares e policiais, incluindo controle de multidões. Por questões de segurança da informação, os esquemas de munição perfurante foram movidos para um documento de maior segurança.</text>
+	</string>
+    
+	<string id="st_ammo_recipe_ru2">
+		<text>Relatório GRAU de Armas Leves, Volume 2</text>
+	</string>
+	<string id="st_ammo_recipe_ru2_desc">
+		<text>Documentos classificados roubados de um centro de pesquisa russo e movidos temporariamente para a Zona para ocultação. Contém especificações sobre munições perfurantes russas experimentais de diversos calibres, bem como dados empíricos sobre o desempenho das munições. Este volume é dedicado a munições perfurantes, incluindo análise de materiais dos núcleos penetrantes e detalhes sobre diferentes mecanismos para maximizar o dano após penetrar a blindagem. As páginas referentes às munições perfurantes incendiárias foram misteriosamente arrancadas.</text>
+	</string>
+    
+	<string id="st_ammo_recipe_pistol">
+		<text>Pistolas para Autodefesa</text>
+	</string>
+	<string id="st_ammo_recipe_pistol_desc">
+		<text>Livro produzido nos Estados Unidos detalhando os vários aspectos do uso de pistolas para proteção pessoal. Várias pistolas comuns e seus tipos de munição são abordados, desde o modesto .32 ACP até as cada vez mais impraticáveis cargas magnum. Espalhados pelo livro estão 'relatos em primeira mão' extremamente duvidosos, provavelmente escritos por pessoas que nunca precisaram sacar suas armas contra alvos que atirariam de volta ou morderiam.</text>
+	</string>
+    
+	<string id="st_ammo_recipe_shotgun">
+		<text>A Maior Caça: Derrubando Grandes Animais Terrestres</text>
+	</string>
+	<string id="st_ammo_recipe_shotgun_desc">
+		<text>Um livro detalhado sobre os esportes de tiro competitivo e caça de grandes animais. Vários tipos de munição e seus propósitos são detalhados, junto com gráficos detalhados de desempenho e balística terminal em várias condições. A anatomia de vários animais de caça grande também está presente, com notas sobre onde fazer tiros letais eficientes - infelizmente, nenhuma dessas criaturas normais está presente na Zona.</text>
+	</string>
+
+	<string id="st_ammo_recipe_nato">
+		<text>Manual MIL-STD-1168C M-5</text>
+	</string>
+	<string id="st_ammo_recipe_nato_desc">
+		<text>Documento técnico abrangente que cobre todas as especificações e dimensões de munições modernas de armas leves sob o conjunto de padrões da OTAN. Vários calibres esotéricos são cobertos por questão de completude, assim como breves menções sobre sua história e comentários de intendentes e operadores das forças especiais.</text>
+	</string>
+    
+	<string id="st_ammo_recipe_arty1">
+		<text>Aplicações de Artefatos em Armas Leves, Rev. 3</text>
+	</string>
+	<string id="st_ammo_recipe_arty1_desc">
+		<text>Artigo de pesquisa produzido pelo Ministério da Ciência com a ajuda de vários grupos de stalkers. Mais de vinte tipos diferentes de experimentos são listados, a maioria dos quais terminou em falhas de níveis catastroficamente variados.</text>
+	</string>
+
+	<string id="st_ammo_recipe_arty2">
+		<text>Livro Ritual do Pecado</text>
+	</string>
+	<string id="st_ammo_recipe_arty2_desc">
+		<text>Livro misterioso que parece ser construído a partir de várias folhas de papel manuscritas, sem autores ou marcas de identificação. As informações contidas são surpreendentemente completas e úteis, quase como ler um guia de vida selvagem. Dados consideráveis estão presentes sobre os muitos 'presentes' da Zona - divididos entre anatomia de mutantes, estrutura de anomalias e propriedades de artefatos. Dispersas entre as informações estão várias aplicações úteis das dádivas da Zona: que partes do Flesh podem ser extraídas para um soro restaurador de sangue, por exemplo, ou como uma anomalia Fruit Punch pode ser usada para remover manchas de roupas com muito cuidado.</text>
+	</string>
+    
+	<string id="st_ammo_recipe_fire">
+		<text>Manual do Piromaníaco</text>
+	</string>
+	<string id="st_ammo_recipe_fire_desc">
+		<text>Caderno chamuscado coberto com finos traços de cinza. As informações dentro dizem respeito apenas a coisas relacionadas ao fogo - anomalias Burner, artefatos Fireball, munições e granadas incendiárias. Reunido de várias fontes, algumas impressas, outras manuscritas.</text>
+	</string>
+
+	<string id="st_ammo_recipe_powder">
+		<text>Testes de Experimentação com Artefatos #22, "Prometeu"</text>
+	</string>
+	<string id="st_ammo_recipe_powder_desc">
+		<text>Caderno científico detalhando experimentos com artefatos. Em particular, existem vários testes usando pequenos fragmentos de artefatos quebrados para alterar as propriedades de materiais combustíveis. Os registros dos experimentos detalham uma técnica que permite o ajuste fino confiável e repetível da combustão da pólvora sem fumaça usando pedaços de fragmentos de artefatos térmicos que seriam inúteis, bem como reações caóticas e instáveis com combustível líquido.</text>
+	</string>
+	<string id="st_ammo_recipe_bullet">
+		<text>Testes de Experimentação com Artefatos #67, "Pedra Filosofal"</text>
+	</string>
+	<string id="st_ammo_recipe_bullet_desc">
+		<text>Caderno científico detalhando experimentos com artefatos. Um documento muito extenso focado em tentativas de transmutar metais em ouro e prata. Na maior parte, esses experimentos terminaram em várias formas de falha, mas há sucesso documentado na transmutação de chumbo em metais significativamente mais duros, como tungstênio.</text>
+	</string>
+</string_table>

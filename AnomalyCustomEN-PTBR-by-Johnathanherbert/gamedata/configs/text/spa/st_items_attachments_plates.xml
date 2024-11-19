@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_af_kevlar_name">
+		<text>Placas de Kevlar</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>As placas de Kevlar são amplamente conhecidas por suas capacidades protetivas e são altamente valorizadas devido à sua incrível proporção força-peso. Elas desempenham uma ampla variedade de funções, sendo a mais importante a absorção do impacto de projéteis de armas de fogo na frente e nas costas do torso. Embora sejam incrivelmente leves e eficazes contra munições de pequeno calibre, são facilmente derrotadas por qualquer munição de rifle.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] fornece proteção Classe II / BR3\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma placa de proteção\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>Placas de Aço</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>Estas placas de aço são especialmente fabricadas, tratadas termicamente e moldadas para propriedades balísticas, adequando-se a uma ampla variedade de aplicações protetivas. São projetadas para resistir a impactos balísticos na frente e nas costas do torso. Esta proteção, no entanto, tem um preço, pois as grossas placas de aço são incrivelmente pesadas.\n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]O aço é um condutor e sua proximidade com a pele torna o corpo mais vulnerável à eletricidade. Por esta razão, é sugerido proceder com cautela quando próximo a anomalias elétricas ou outras fontes de eletricidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] fornece proteção Classe III+ / BR4\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma placa de proteção\n
+		</text>
+	</string>
+	<string id="st_af_ceramic_name">
+		<text>Placas de Cerâmica</text>
+	</string>
+	<string id="st_af_ceramic_descr">
+		<text>Feitas de cerâmica de carbeto dura, este tipo de placa de proteção é usado por forças armadas em todo o mundo devido à sua capacidade de proteger contra ameaças de alto calibre. Conhecida como ESAPI no ocidente, ela dissipa a energia dos projéteis entrantes quebrando a cerâmica em pedaços, protegendo o usuário. No entanto, este mecanismo também torna sua proteção contra múltiplos impactos fraca. As placas cerâmicas também tendem a ser bastante grossas, restringindo o movimento.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] fornece proteção Classe IV / BR5\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma placa de proteção\n
+		</text>
+	</string>
+	<string id="st_af_polymer_name">
+		<text>Placas de UHMWPE</text>
+	</string>
+	<string id="st_af_polymer_descr">
+		<text>O Polietileno (PE) é amplamente utilizado em uma variedade de produtos industriais e comerciais devido à sua estrutura química simples não reativa e propriedades versáteis. O polietileno de ultra-alto peso molecular (UHMWPE), que compõe estas placas de proteção, fornece incrível força protetiva para seu baixo peso. Os projéteis entrantes derretem localmente o polímero através da fricção, prendendo a bala dentro da placa. Este mecanismo dá às placas de PE uma capacidade incomparável de proteção contra múltiplos impactos. No entanto, o UHMWPE é muito caro e não pode parar completamente projéteis de maior calibre por conta própria.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] fornece proteção Classe III / BR4\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma placa de proteção\n
+		</text>
+	</string>
+	
+	<string id="st_af_new_kevlar_up_name">
+		<text>Placas de Kevlar Aprimoradas</text>
+	</string>
+	<string id="st_af_new_kevlar_up_descr">
+		<text>As placas de Kevlar são amplamente conhecidas por suas capacidades protetivas e são altamente valorizadas devido à sua incrível proporção força-peso. Elas desempenham uma ampla variedade de funções, sendo a mais importante a absorção do impacto de projéteis de armas de fogo na frente e nas costas do torso. Embora sejam incrivelmente leves e eficazes contra munições de pequeno calibre, são facilmente derrotadas por qualquer munição de rifle.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] fornece proteção Classe II / BR3\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma placa de proteção\n
+		</text>
+	</string>
+	<string id="st_af_plates_up_name">
+		<text>Placas de Aço Aprimoradas</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>Um conjunto de placas de aço endurecido extremamente pesadas. Embora protejam contra algumas munições de alto calibre, tenham boa capacidade contra múltiplos impactos e sejam razoavelmente baratas, estes benefícios vêm ao custo de alto peso. Por esta razão, soldados de exércitos optaram por placas cerâmicas mais leves, enquanto placas de aço como estas são principalmente compradas por civis. Na Zona, placas de aço são frequentemente usadas por STALKERs em exoesqueletos, permitindo que carreguem facilmente o peso extra.\n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]O aço é um condutor e sua proximidade com a pele torna o corpo mais vulnerável à eletricidade. Por esta razão, é sugerido proceder com cautela quando próximo a anomalias elétricas ou outras fontes de eletricidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] fornece proteção Classe IV / BR5\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma placa de proteção\n
+		</text>
+	</string>
+	<string id="st_af_ceramic_up_name">
+		<text>Placas de Cerâmica Aprimoradas</text>
+	</string>
+	<string id="st_af_ceramic_up_descr">
+		<text>Um conjunto de placas cerâmicas de próxima geração. Tais placas foram desenvolvidas tanto pelas forças armadas dos EUA quanto da Rússia para enfrentar ameaças fortemente armadas. Apesar de sua capacidade de absorver impactos de munições perfurantes de alto calibre, nunca foi amplamente adotada devido ao peso extra e falta de ameaças utilizando tal poder de fogo.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] fornece proteção Classe IV / BR6\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma placa de proteção\n
+		</text>
+	</string>
+	<string id="st_af_polymer_up_name">
+		<text>Placas de UHMWPE/Cerâmica</text>
+	</string>
+	<string id="st_af_polymer_up_descr">
+		<text>Um dos avanços mais recentes em proteção pessoal vem na forma de uma placa de proteção composta feita de uma camada de impacto cerâmica dura reforçada com uma camada de polietileno de ultra-alto peso molecular (UHMWPE) para prevenir penetração. Embora não seja tão protetiva contra altos calibres quanto placas cerâmicas mais grossas, nem tão capaz contra múltiplos impactos quanto placas puramente de UHMWPE, consegue proteger contra a maioria das ameaças enquanto ainda é mais leve que a maioria das placas. No entanto, seu alto custo atrasou a adoção em massa pelas forças armadas do mundo.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] fornece proteção Classe IV / BR5\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma placa de proteção\n
+		</text>
+	</string>
+	
+</string_table>

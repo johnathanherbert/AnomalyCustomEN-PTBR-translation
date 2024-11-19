@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="st_porn_an1">
+		<text>Revista "Young Ace"</text>
+	</string>
+	<string id="st_porn_an1_descr">
+		<text>É uma revista japonesa de mangá publicada pela Kadokawa Shoten, fundada em 2009. Diferente das grandes revistas semanais, que têm circulação de milhões, a Young Ace é voltada para um público menos massivo.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+		</text>
+	</string>
+	
+	<string id="st_porn_an2">
+		<text>Revista "Megami"</text>
+	</string>
+	<string id="st_porn_an2_descr">
+		<text>Uma revista mensal japonesa dedicada a personagens bishojo de anime e jogos japoneses de computador e console. É conhecida por ter muitos pôsteres, pinups e imagens grandes entre seus artigos.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+		</text>
+	</string>
+
+	<string id="pinup_anime1">
+		<text>Pôster Nº1</text>
+    	</string>
+	<string id="pinup_anime2">
+		<text>Pôster Nº2</text>
+	</string>
+	<string id="pinup_anime3">
+		<text>Pôster Nº3</text>
+	</string>
+	<string id="pinup_anime4">
+		<text>Pôster Nº4</text>
+	</string>
+	<string id="pinup_anime5">
+		<text>Pôster Nº5</text>
+	</string>
+	<string id="pinup_anime6">
+		<text>Pôster Nº6</text>
+	</string>
+	<string id="pinup_anime7">
+		<text>Pôster Nº7</text>
+	</string>
+	<string id="pinup_anime8">
+		<text>Pôster Nº8</text>
+	</string>
+	<string id="pinup_anime9">
+		<text>Pôster Nº9</text>
+	</string>
+	<string id="pinup_anime10">
+		<text>Pôster Nº10</text>
+	</string>
+	<string id="pinup_anime11">
+		<text>Pôster Nº11</text>
+	</string>
+	<string id="pinup_anime12">
+		<text>Pôster Nº12</text>
+	</string>
+	<string id="pinup_anime13">
+		<text>Pôster Nº13</text>
+	</string>
+	<string id="pinup_anime14">
+		<text>Pôster Nº14</text>
+	</string>
+	<string id="pinup_anime15">
+		<text>Pôster Nº15</text>
+	</string>
+	<string id="pinup_anime16">
+		<text>Pôster Nº16</text>
+	</string>
+	<string id="pinup_anime17">
+		<text>Pôster Nº17</text>
+	</string>
+	<string id="pinup_anime18">
+		<text>Pôster Nº18</text>
+	</string>
+	<string id="pinup_anime19">
+		<text>Pôster Nº19</text>
+	</string>
+	<string id="pinup_anime20">
+		<text>Pôster Nº20</text>
+	</string>
+	<string id="pinup_anime21">
+		<text>Pôster Nº21</text>
+	</string>
+	<string id="pinup_anime22">
+		<text>Pôster Nº22</text>
+	</string>
+	<string id="pinup_anime23">
+		<text>Pôster Nº23</text>
+	</string>
+	<string id="pinup_anime24">
+		<text>Pôster Nº24</text>
+	</string>
+	<string id="pinup_anime25">
+		<text>Pôster Nº25</text>
+	</string>
+	<string id="pinup_anime26">
+		<text>Pôster Nº26</text>
+	</string>
+	<string id="pinup_anime27">
+		<text>Pôster Nº27</text>
+	</string>
+	<string id="pinup_anime28">
+		<text>Pôster Nº28</text>
+	</string>
+	<string id="pinup_anime29">
+		<text>Pôster Nº29</text>
+	</string>
+	<string id="pinup_anime30">
+		<text>Pôster Nº30</text>
+	</string>
+	<string id="pinup_anime31">
+		<text>Pôster Nº31</text>
+	</string>
+	<string id="pinup_anime32">
+		<text>Pôster Nº32</text>
+	</string>
+	<string id="pinup_anime33">
+		<text>Pôster Nº33</text>
+	</string>
+	<string id="pinup_anime34">
+		<text>Pôster Nº34</text>
+	</string>
+	<string id="pinup_anime35">
+		<text>Pôster Nº35</text>
+	</string>
+	<string id="pinup_anime36">
+		<text>Pôster Nº36</text>
+	</string>
+	<string id="pinup_anime37">
+		<text>Pôster Nº37</text>
+	</string>
+	<string id="pinup_anime38">
+		<text>Pôster Nº38</text>
+	</string>
+	<string id="pinup_anime39">
+		<text>Pôster Nº39</text>
+	</string>
+	<string id="pinup_anime40">
+		<text>Pôster Nº40</text>
+	</string>
+	<string id="pinup_anime41">
+		<text>Pôster Nº41</text>
+	</string>
+	<string id="pinup_anime42">
+		<text>Pôster Nº42</text>
+	</string>
+	<string id="pinup_anime43">
+		<text>Pôster Nº43</text>
+	</string>
+	<string id="pinup_anime44">
+		<text>Pôster Nº44</text>
+	</string>
+	<string id="pinup_anime45">
+		<text>Pôster Nº45</text>
+	</string>
+	<string id="pinup_anime46">
+		<text>Pôster Nº46</text>
+	</string>
+	<string id="pinup_anime47">
+		<text>Pôster Nº47</text>
+	</string>
+	<string id="pinup_anime48">
+		<text>Pôster Nº48</text>
+	</string>
+	<string id="pinup_anime49">
+		<text>Pôster Nº49</text>
+	</string>
+	<string id="pinup_anime50">
+		<text>Pôster Nº50</text>
+	</string>
+	<string id="pinup_anime51">
+		<text>Pôster Nº51</text>
+	</string>
+	<string id="pinup_anime52">
+		<text>Pôster Nº52</text>
+	</string>
+
+	
+</string_table>

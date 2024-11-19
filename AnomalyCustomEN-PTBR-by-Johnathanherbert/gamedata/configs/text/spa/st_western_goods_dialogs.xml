@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor Original : NLTP_ASHES                                                                                  -->
+<!--    Editado : N/A                                                                                                -->
+<!--    Data : 11/11/2023                                                                                            -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)          -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para diálogos do Western Goods.                                                          -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <!--=============================================================================================================-->
+    <!--    Strings do Gerenciador de Diálogos                                                                       -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_dm_message_header">
+        <text>Mensagem:</text>
+    </string>
+
+    <string id="st_wg_dm_default_name">
+        <text>Anônimo</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Comerciante Western Goods (na Livraria)                                                                  -->
+    <!--=============================================================================================================-->
+
+    <!-- Linha de diálogo de troca -->
+    <string id="western_goods_trader_dialog_init">
+        <text>Gostaria de trocar algumas moedas. %c[d_orange][Trocar]</text>
+    </string>
+
+    <!-- Diálogo de apresentação -->
+    <string id="western_goods_trader_meet_0">
+        <text>Quem é você?</text>
+    </string>
+
+    <string id="western_goods_trader_meet_1">
+        <text>Você sai por aí perguntando quem são as pessoas? Bem, já que insiste, sou Williams Heades, as pessoas me chamam de "Ashes". Supervisiono importações de países ocidentais para os Mercenários. Estou na Zona há um tempo, e os negócios nunca estiveram tão bons.</text>
+    </string>
+
+    <string id="western_goods_trader_meet_2">
+        <text>Então você é quem importa todos esses produtos para a Zona? Vi outros comerciantes na Zona com produtos importados, eles também importam?</text>
+    </string>
+
+    <string id="western_goods_trader_meet_3">
+        <text>Não, a maioria consegue através de mim. É muito trabalhoso trazer tantos produtos para a Zona, mas como Mercenários, temos os recursos necessários para fazer isso.</text>
+    </string>
+
+    <string id="western_goods_trader_meet_4">
+        <text>Entendo. Então você faz negócios com qualquer um?</text>
+    </string>
+
+    <string id="western_goods_trader_meet_5">
+        <text>Bem, você sabe como somos. Se pagar bem, sempre podemos chegar a um acordo. Não acredito muito nas besteiras da Zona de qualquer forma. Não me envolvo nessas guerras que as facções travam entre si. Desde que você não seja um completo idiota, podemos fazer negócios juntos.</text>
+    </string>
+
+    <string id="western_goods_trader_meet_6">
+        <text>Certo.</text>
+    </string>
+
+    <!-- Diálogo do guia -->
+    <string id="western_goods_trader_guide_ask">
+        <text>Um dos seus helicópteros poderia me levar a algum lugar?</text>
+    </string>
+
+    <string id="western_goods_trader_guide_dest">
+        <text>Claro, é o mínimo que posso fazer por você! Para onde gostaria de ir?</text>
+    </string>
+
+    <string id="western_goods_trader_guide_back">
+        <text>Na verdade, deixa pra lá.</text>
+    </string>
+
+    <string id="western_goods_trader_guide_limansk">
+        <text>Limansk, ao sul do canteiro de obras. %c[d_orange][Grátis]</text>
+    </string>
+
+    <string id="western_goods_trader_guide_swamps">
+        <text>Grandes Pântanos, no posto de observação. %c[d_orange][Grátis]</text>
+    </string>
+
+    <string id="western_goods_trader_guide_cordon">
+        <text>Cordão, sudeste da ponte ferroviária. %c[d_orange][Grátis]</text>
+    </string>
+
+    <string id="western_goods_trader_guide_darkscape">
+        <text>Darkscape, no planalto. %c[d_orange][Grátis]</text>
+    </string>
+
+    <string id="western_goods_trader_guide_deadcity">
+        <text>Cidade Morta, na base dos mercenários. %c[d_orange][Grátis]</text>
+    </string>
+
+    <string id="western_goods_trader_guide_red_forest">
+        <text>Floresta Vermelha, próximo à cabana do Guarda Florestal. %c[d_orange][Grátis]</text>
+    </string>
+
+    <string id="western_goods_trader_guide_jupiter">
+        <text>Júpiter, na torre de resfriamento. %c[d_orange][Grátis]</text>
+    </string>
+
+    <string id="western_goods_trader_guide_zaton">
+        <text>Zaton, perto da antiga barcaça. %c[d_orange][Grátis]</text>
+    </string>
+
+    <string id="western_goods_trader_guide_deserted_hospital">
+        <text>Hospital Abandonado, pela entrada desmoronada. %c[d_orange][Grátis]</text>
+    </string>
+
+    <!-- Strings de comércio do Western Goods Trader -->
+    <string id="st_wg_trader_empty_sell">
+        <text>Você precisa pagar pelos itens selecionados (com Euros ou Dólares).</text>
+    </string>
+
+    <string id="st_wg_trader_empty_buy">
+        <text>Você não selecionou nada para comprar.</text>
+    </string>
+
+    <string id="st_wg_trader_uneven_value">
+        <text>Você precisa dar, em dinheiro, um valor igual ou maior ao que está comprando.</text>
+    </string>
+
+    <!-- Trocas de gravador de voo -->
+    <string id="st_wg_barter_blackbox_to_eur_desc">
+        <text>Trocar um %c[d_orange]Gravador de voo%c[ui_gray_2] por %c[d_orange]300 EUR%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_blackbox_to_eur_desc_done">
+        <text>O comerciante não está interessado em comprar este item agora. Volte mais tarde.</text>
+    </string>
+
+    <string id="st_wg_barter_blackbox_to_rpg7_desc">
+        <text>Trocar um %c[d_orange]Gravador de voo%c[ui_gray_2] por um %c[d_orange]RPG-7%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_blackbox_to_rpg7_desc_done">
+        <text>O comerciante só tinha um RPG-7 para trocar.</text>
+    </string>
+
+    <string id="st_wg_barter_blackbox_to_og7v_desc">
+        <text>Trocar um %c[d_orange]Gravador de voo%c[ui_gray_2] por três %c[d_orange]ogivas OG-7V%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_blackbox_to_og7v_desc_done">
+        <text>O comerciante está sem ogivas no momento, volte mais tarde.</text>
+    </string>
+
+    <!-- Sem mais trocas de dinheiro disponíveis -->
+    <string id="st_wg_barter_money_desc_done">
+        <text>O comerciante quer guardar algum troco para outros clientes, volte mais tarde.</text>
+    </string>
+
+    <!-- Trocas de Dólares por Dólares -->
+    <string id="st_wg_barter_dollars_10_to_50_desc">
+        <text>Trocar cinco notas de %c[d_orange]10 USD%c[ui_gray_2] por uma nota de %c[d_orange]50 USD%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_dollars_50_to_10_desc">
+        <text>Trocar uma nota de %c[d_orange]50 USD%c[ui_gray_2] por cinco notas de %c[d_orange]10 USD%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_dollars_50_to_100_desc">
+        <text>Trocar duas notas de %c[d_orange]50 USD%c[ui_gray_2] por uma nota de %c[d_orange]100 USD%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_dollars_100_to_50_desc">
+        <text>Trocar uma nota de %c[d_orange]100 USD%c[ui_gray_2] por duas notas de %c[d_orange]50 USD%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_dollars_100_to_10_desc">
+        <text>Trocar uma nota de %c[d_orange]100 USD%c[ui_gray_2] por dez notas de %c[d_orange]10 USD%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_dollars_10_to_100_desc">
+        <text>Trocar dez notas de %c[d_orange]10 USD%c[ui_gray_2] por uma nota de %c[d_orange]100 USD%c[ui_gray_2].</text>
+    </string>
+
+    <!-- Euros to Euros barters -->
+    <!-- Trocas de Euros por Euros -->
+    <string id="st_wg_barter_euros_10_to_50_desc">
+        <text>Trocar cinco notas de %c[d_orange]10 EUR%c[ui_gray_2] por uma nota de %c[d_orange]50 EUR%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_euros_50_to_10_desc">
+        <text>Trocar uma nota de %c[d_orange]50 EUR%c[ui_gray_2] por cinco notas de %c[d_orange]10 EUR%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_euros_50_to_100_desc">
+        <text>Trocar duas notas de %c[d_orange]50 EUR%c[ui_gray_2] por uma nota de %c[d_orange]100 EUR%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_euros_100_to_50_desc">
+        <text>Trocar uma nota de %c[d_orange]100 EUR%c[ui_gray_2] por duas notas de %c[d_orange]50 EUR%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_euros_100_to_10_desc">
+        <text>Trocar uma nota de %c[d_orange]100 EUR%c[ui_gray_2] por dez notas de %c[d_orange]10 EUR%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_euros_10_to_100_desc">
+        <text>Trocar dez notas de %c[d_orange]10 EUR%c[ui_gray_2] por uma nota de %c[d_orange]100 EUR%c[ui_gray_2].</text>
+    </string>
+
+    <!-- Trocas de Dólares por Rublos -->
+    <string id="st_wg_barter_dollars_rouble_10_to_700_desc">
+        <text>Trocar %c[d_orange]10 USD%c[ui_gray_2] por %c[d_orange]700 RU%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_dollars_rouble_50_to_3500_desc">
+        <text>Trocar %c[d_orange]50 USD%c[ui_gray_2] por %c[d_orange]3500 RU%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_dollars_rouble_100_to_7000_desc">
+        <text>Trocar %c[d_orange]100 USD%c[ui_gray_2] por %c[d_orange]7000 RU%c[ui_gray_2].</text>
+    </string>
+
+    <!-- Trocas de Euros por Rublos -->
+    <string id="st_wg_barter_euros_rouble_10_to_680_desc">
+        <text>Trocar %c[d_orange]10 EUR%c[ui_gray_2] por %c[d_orange]680 RU%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_euros_rouble_50_to_3400_desc">
+        <text>Trocar %c[d_orange]50 EUR%c[ui_gray_2] por %c[d_orange]3400 RU%c[ui_gray_2].</text>
+    </string>
+
+    <string id="st_wg_barter_euros_rouble_100_to_6800_desc">
+        <text>Trocar %c[d_orange]100 EUR%c[ui_gray_2] por %c[d_orange]6800 RU%c[ui_gray_2].</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Diálogos do Informante de Jupiter                                                                        -->
+    <!--=============================================================================================================-->
+
+    <!-- Strings de diálogo -->
+    <string id="western_goods_jupiter_informant_meet_0">
+        <text>Oi. Estou procurando informações.</text>
+    </string>
+
+    <string id="western_goods_jupiter_informant_meet_1">
+        <text>É? Que tipo exatamente?</text>
+    </string>
+
+    <string id="western_goods_jupiter_informant_meet_2">
+        <text>Ouvi alguns rumores circulando por aí sobre "luzes estranhas"? Você sabe algo sobre isso?</text>
+    </string>
+
+    <string id="western_goods_jupiter_informant_meet_3">
+        <text>Ah sim, todo mundo aqui sabe. Conhece o Armazém de Contêineres, ao sul daqui? Não sei o que está acontecendo lá, mas algumas noites atrás foi uma verdadeira queima de fogos.</text>
+    </string>
+
+    <string id="western_goods_jupiter_informant_meet_4">
+        <text>Você sabe o que essas luzes podem ser? Talvez uma anomalia?</text>
+    </string>
+
+    <string id="western_goods_jupiter_informant_meet_5">
+        <text>Não tenho certeza. E para ser sincero, não sei se quero saber também.</text>
+    </string>
+
+    <string id="western_goods_jupiter_informant_meet_6">
+        <text>Certo. Obrigado.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Diálogos do Membro da Tripulação do Helicóptero                                                         -->
+    <!--=============================================================================================================-->
+
+    <!-- Strings de diálogo inicial -->
+    <string id="st_stalker_crew_member_start_0">
+        <text>Como você está falando comigo agora?! Devíamos nos encontrar no ato 1, tarefa 3. Vou te mandar pro Brasil, cuidado!</text>
+    </string>
+
+    <string id="st_stalker_crew_member_start_1">
+        <text>Uhh... O-o que...</text>
+    </string>
+
+    <string id="st_stalker_crew_member_start_2">
+        <text>O-o que... está acontecendo?</text>
+    </string>
+
+    <string id="st_stalker_crew_member_start_3">
+        <text>Para onde você... está me levando?</text>
+    </string>
+
+    <string id="st_stalker_crew_member_start_4">
+        <text>Precisamos nos mover, não gosto de ficar aqui...</text>
+    </string>
+
+    <string id="st_stalker_crew_member_start_5">
+        <text>Bom te ver novamente.</text>
+    </string>
+
+    <string id="st_stalker_crew_member_start_6">
+        <text>Ei amigo, feliz em te ver!</text>
+    </string>
+
+    <!-- Strings de diálogo de resgate -->
+    <string id="stalker_crew_member_rescue_0">
+        <text>Ei, você ainda está conosco? Se recomponha e venha comigo, rápido!</text>
+    </string>
+
+    <string id="stalker_crew_member_rescue_1">
+        <text>Hmm. Q-quem é você?</text>
+    </string>
+
+    <string id="stalker_crew_member_rescue_2">
+        <text>Uma equipe de reconhecimento te avistou há algum tempo, vim te tirar daqui.</text>
+    </string>
+
+    <string id="stalker_crew_member_rescue_3">
+        <text>Minha cabeça...</text>
+    </string>
+
+    <string id="stalker_crew_member_rescue_4">
+        <text>Vamos! Não temos muito tempo antes que os esquadrões do Monolith aqui perto chamem reforços. Venha!</text>
+    </string>
+
+    <!-- Dialogs reward strings -->
+    <string id="stalker_crew_member_reward_0">
+        <text>Ei, Heades disse que você queria me ver?</text>
+    </string>
+
+    <string id="stalker_crew_member_reward_1">
+        <text>Sim. Eu queria agradecer pessoalmente por vir me resgatar. Sabe, hoje em dia é difícil encontrar pessoas que não aproveitem a oportunidade para ferrar os outros quando podem.</text>
+    </string>
+
+    <string id="stalker_crew_member_reward_2">
+        <text>Eu não sou esse tipo de pessoa. Fico feliz por ter chegado a tempo antes que o Monolith pudesse te lavar o cérebro.</text>
+    </string>
+
+    <string id="stalker_crew_member_reward_3">
+        <text>Sim, nem me fale! De qualquer forma, eu queria te dar uma coisinha, para fazer meu agradecimento ser mais que apenas palavras.\n \nAqui, pegue isto. É um artefato que meus amigos e eu encontramos na última vez que fomos caçar. Não acredito que eles estão todos mortos... Um artefato não é exatamente o mesmo que salvar uma vida, mas ouvi dizer que é bem valioso.</text>
+    </string>
+
+    <string id="stalker_crew_member_reward_4">
+        <text>Obrigado.</text>
+    </string>
+
+    <!-- Strings de troca -->
+    <string id="st_stalker_crew_member_barter">
+        <text>Gostaria de trocar algumas coisas. %c[d_orange][Exchange]</text>
+    </string>
+
+    <!-- Strings de história -->
+    <string id="st_stalker_crew_member_lore_init">
+        <text>Gostaria de fazer algumas perguntas.</text>
+    </string>
+
+    <string id="st_stalker_crew_member_lore_ask">
+        <text>Certo, o que você quer saber?</text>
+    </string>
+
+    <string id="st_stalker_crew_member_lore_question_1">
+        <text>Por que você está procurando caixas-pretas?</text>
+    </string>
+
+    <string id="st_stalker_crew_member_lore_answer_1">
+        <text>Bem, elas frequentemente contêm informações sobre as operações do Exército ou do Monolith na Zona. É útil para planejarmos rotas seguras para voar com nossos próprios helicópteros.</text>
+    </string>
+
+    <string id="st_stalker_crew_member_lore_question_2">
+        <text>Por que você acha que o esquadrão do Monolith te manteve vivo?</text>
+    </string>
+
+    <string id="st_stalker_crew_member_lore_answer_2">
+        <text>Eles provavelmente queriam me transformar em um deles para pilotar seus helicópteros. Sorte que você me tirou de lá...</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Dunn Lynn Dialogs                                                                                        -->
+    <!--=============================================================================================================-->
+
+    <!-- Start dialog strings -->
+    <string id="st_wg_dunn_lynn_first_start">
+        <text>Finalmente nos encontramos.</text>
+    </string>
+
+    <string id="st_wg_dunn_lynn_start_x">
+        <text>Olá jovem Padawan.</text>
+    </string>
+
+    <string id="st_wg_dunn_lynn_start_0">
+        <text>Olá.</text>
+    </string>
+
+    <string id="st_wg_dunn_lynn_start_1">
+        <text>Oi.</text>
+    </string>
+
+    <string id="st_wg_dunn_lynn_start_2">
+        <text>O que você quer, Stalker.</text>
+    </string>
+
+    <string id="st_wg_dunn_lynn_start_3">
+        <text>O que é?</text>
+    </string>
+
+    <string id="st_wg_dunn_lynn_start_4">
+        <text>Sim?</text>
+    </string>
+
+    <string id="st_wg_dunn_lynn_start_5">
+        <text>O que você quer?</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Golubev Nikolaj                                                                                          -->
+    <!--=============================================================================================================-->
+
+    <!-- Start dialog strings -->
+    <string id="st_wg_yellow_ecolog_start_0">
+        <text>Minha cabeça... minha cabeça!</text>
+    </string>
+
+    <string id="st_wg_yellow_ecolog_start_1">
+        <text>...</text>
+    </string>
+
+    <!-- Dialogs strings -->
+    <string id="stalker_ecolog_convoy_yellow_meet_0">
+        <text>Identifique-se!</text>
+    </string>
+
+    <string id="stalker_ecolog_convoy_yellow_meet_1">
+        <text>Shhh! Está... Está aqui...</text>
+    </string>
+
+    <string id="stalker_ecolog_convoy_yellow_meet_2">
+        <text>O que está aqui?</text>
+    </string>
+
+    <string id="stalker_ecolog_convoy_yellow_second_meet_0">
+        <text>Você está transportando algo que eu preciso.</text>
+    </string>
+
+    <string id="stalker_ecolog_convoy_yellow_second_meet_1">
+        <text>Esta maleta? Por que você a quer?</text>
+    </string>
+
+    <string id="stalker_ecolog_convoy_yellow_second_meet_2">
+        <text>Sou apenas um contratado. Entregue para mim, devagar.</text>
+    </string>
+
+    <string id="stalker_ecolog_convoy_yellow_second_meet_3">
+        <text>Sabe, eu valorizo mais minha vida do que esta pesquisa...</text>
+    </string>
+
+    <string id="stalker_ecolog_convoy_yellow_second_meet_4">
+        <text>...</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Oleksandr Chernenko                                                                                      -->
+    <!--=============================================================================================================-->
+
+    <!-- Dialogs strings -->
+    <string id="western_goods_oleksandr_chernenko_meet_0">
+        <text>Quem é você?</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_1">
+        <text>Sou Oleksandr. Obrigado por não atirar em mim logo de cara. As pessoas estão loucas ultimamente...</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_1_army">
+        <text>Por favor, não me mate. Estamos todos apenas tentando sobreviver nessa bagunça, certo? Sou Oleksandr.</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_2">
+        <text>O que um soldado está fazendo aqui embaixo?</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_2_army">
+        <text>O que você está fazendo aqui embaixo? Kuznetsov não nos informou sobre nenhuma implantação aqui.</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_3">
+        <text>Não sou mais soldado. Que se dane o exército! Somos apenas bucha de canhão aos olhos deles... Meu irmão e eu nunca deveríamos ter nos alistado para essa bagunça.</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_3_army">
+        <text>Não sou mais soldado. Desertei. Sim, sei o que você está pensando, mas me escute. O exército não se importa conosco. Um dia ou outro, eles vão te mandar em uma missão suicida também, assim como fizeram comigo e meu irmão...</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_4">
+        <text>Então o que você está fazendo aqui?</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_5">
+        <text>Estou aqui para representar os interesses do Dushman no Mercado das Pulgas. Estou tentando manter um perfil baixo, por isso fico neste porão. As pessoas não gostam muito dos Mercenários por aqui. Embora eu nunca tenha tido muitos problemas até agora.</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_6">
+        <text>Interessante. Então o que você pode oferecer?</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_7">
+        <text>Basicamente vendo pacotes de coisas que temos em excesso. Vou te oferecer um desconto, mas as ofertas não duram para sempre. Aproveite enquanto pode! Haha, brincadeira. Mas falando sério, as ofertas são limitadas, isso ajuda as pessoas a tomarem suas decisões, assim não me incomodam o dia todo.</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_meet_8">
+        <text>Entendo.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Danylo Chernenko                                                                                         -->
+    <!--=============================================================================================================-->
+
+    <!-- Start dialog strings -->
+    <string id="st_wg_danylo_chernenko_first_start">
+        <text>Quem é você?!</text>
+    </string>
+
+    <string id="st_wg_danylo_chernenko_start_0">
+        <text>Olá.</text>
+    </string>
+
+    <string id="st_wg_danylo_chernenko_start_1">
+        <text>Oi.</text>
+    </string>
+
+    <string id="st_wg_danylo_chernenko_start_2">
+        <text>O que você quer, Stalker.</text>
+    </string>
+
+    <string id="st_wg_danylo_chernenko_start_3">
+        <text>O que foi?</text>
+    </string>
+
+    <string id="st_wg_danylo_chernenko_start_4">
+        <text>Sim?</text>
+    </string>
+
+    <string id="st_wg_danylo_chernenko_start_5">
+        <text>O que você quer?</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Prisioneiro SSU                                                                                          -->
+    <!--=============================================================================================================-->
+
+    <!-- Strings de diálogo inicial -->
+    <string id="western_goods_ssu_prisoner_start">
+        <text>...</text>
+    </string>
+
+    <!-- Strings de diálogo -->
+    <string id="st_wg_act_3_task_2_interrogation_start">
+        <text>Certo, vamos conversar.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_start_answer">
+        <text>Quer conversar? Claro. Seu amiguinho tem tentado há dias. Você está perdendo seu tempo. Não vou te contar nada.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_0_nice">
+        <text>Tudo que eu quero é informação. Você ficará bem se cooperar, tem minha palavra.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_0_normal">
+        <text>Apenas me diga o que preciso saber, ok?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_0_mean">
+        <text>Escute, você me diz o que eu quero saber, você vive. Vou deixar você adivinhar o que acontece se não disser.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_0_nice_answer">
+        <text>O que você quer saber afinal?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_0_normal_answer">
+        <text>E o que você *precisa* saber afinal?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_0_mean_answer">
+        <text>Vai se ferrar.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_nice_nice">
+        <text>Para começar. Quem está atrás do Danylo?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_nice_normal">
+        <text>O que eu preciso saber é quem enviou você atrás do Danylo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_nice_mean">
+        <text>Para quem você trabalha? Você tem 10 segundos para responder. 10, 9, 8, 7, 6...</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_normal_nice">
+        <text>Para começar. Quem está atrás do Danylo?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_normal_normal">
+        <text>O que eu preciso saber é quem enviou você atrás do Danylo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_normal_mean">
+        <text>Para quem você trabalha? Você tem 10 segundos para responder. 10, 9, 8, 7, 6...</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_mean_nice">
+        <text>Para começar. Quem está atrás do Danylo?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_mean_normal">
+        <text>O que eu preciso saber é quem enviou você atrás do Danylo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_mean_mean">
+        <text>Para quem você trabalha? Você tem 10 segundos para responder. 10, 9, 8, 7, 6...</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_nice_answer">
+        <text>Olha, eu não sei de quem veio a ordem. Mas se o SSU está envolvido, seu amigo deve ter inimigos em lugares muito altos.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_normal_answer">
+        <text>Quem me enviou... O que você acha que eu sou, um Mercenário? Eu sigo ordens, só isso.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_1_mean_answer">
+        <text>Caramba, para quem você acha que eu trabalho?! Você é tão cego que não consegue ler meu uniforme?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_nice_nice">
+        <text>O SSU? Por que eles se importariam tanto com o Danylo a ponto de enviar um esquadrão atrás dele?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_nice_normal">
+        <text>Então você é um soldado? Por que o Exército está atrás dele?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_nice_mean">
+        <text>E que uniforme é esse, do Exército? Não, melhor. Do SSU. O que o SSU quer do Danylo?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_normal_nice">
+        <text>O SSU? Por que eles se importariam tanto com o Danylo a ponto de enviar um esquadrão atrás dele?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_normal_normal">
+        <text>Então você é um soldado? Por que o Exército está atrás dele?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_normal_mean">
+        <text>E que uniforme é esse, do Exército? Não, melhor. Do SSU. O que o SSU quer do Danylo?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_mean_nice">
+        <text>O SSU? Por que eles se importariam tanto com o Danylo a ponto de enviar um esquadrão atrás dele?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_mean_normal">
+        <text>Então você é um soldado? Por que o Exército está atrás dele?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_mean_mean">
+        <text>E que uniforme é esse, do Exército? Não, melhor. Do SSU. O que o SSU quer do Danylo?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_nice_answer">
+        <text>Olha, eu não sei por que nossos esquadrões receberam ordens. Eu prometo que não sei. Metade da ordem que recebemos já estava censurada antes de chegar até nós. É um milagre termos encontrado seu amigo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_normal_answer">
+        <text>O que você acha? Eu não sei por que essas ordens foram enviadas. Tudo que sei é que nossos esquadrões receberam ordens para encontrá-lo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_2_mean_answer">
+        <text>Não se meta nos meus assuntos. Inferno, eu não poderia te dizer mesmo se quisesse. As ordens que nossos esquadrões receberam estavam cobertas de tinta preta mesmo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_3_nice_nice">
+        <text>Esquadrões? Há mais pessoas lá fora procurando por ele? Olha, me diga onde posso encontrá-los, e você estará livre. Fechado?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_3_nice_normal">
+        <text>Esquadrões? Você não é o único procurando por ele? Onde posso encontrá-los?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_3_nice_mean">
+        <text>Esquadrões? Agora isso é interessante. Chega de brincadeira, me diga onde posso encontrar o outro esquadrão, ou coloco uma bala nessa sua cara bonita.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_3_normal_nice">
+        <text>Esquadrões? Há mais pessoas lá fora procurando por ele? Olha, me diga onde posso encontrá-los, e você estará livre. Fechado?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_3_normal_normal">
+        <text>Esquadrões? Você não é o único procurando por ele? Onde posso encontrá-los?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_3_normal_mean">
+        <text>Esquadrões? Agora isso é interessante. Chega de brincadeira, me diga onde posso encontrar o outro esquadrão, ou coloco uma bala nessa sua cara bonita.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_3_mean_nice">
+        <text>Esquadrões? Há mais pessoas lá fora procurando por ele? Olha, me diga onde posso encontrá-los, e você estará livre. Fechado?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_3_mean_normal">
+        <text>Esquadrões? Você não é o único procurando por ele? Onde posso encontrá-los?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_3_mean_mean">
+        <text>Esquadrões? Agora isso é interessante. Chega de brincadeira, me diga onde posso encontrar o outro esquadrão, ou coloco uma bala nessa sua cara bonita.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_end_nice">
+        <text>Ok... Olha, você vai encontrá-los em Zaton, perto da barcaça velha. Devem ser... Três ou quatro talvez, se A Zona foi gentil com eles.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_end_normal">
+        <text>Ok... Eu vou te contar. Só... Não me mate, por favor. Você vai encontrá-los no nordeste de Zaton.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_interrogation_end_mean">
+        <text>Tá bem. Jesus... Você vai encontrá-los no leste de Zaton, isso é tudo que eu sei.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    SSU Supervisor                                                                                           -->
+    <!--=============================================================================================================-->
+
+    <!-- Dialogs strings -->
+    <string id="western_goods_ssu_supervisor_bribe_0">
+        <text>O nome 'Danylo' te diz alguma coisa?</text>
+    </string>
+
+    <string id="western_goods_ssu_supervisor_bribe_1">
+        <text>Por que está perguntando?</text>
+    </string>
+
+    <string id="western_goods_ssu_supervisor_bribe_2">
+        <text>Então você o conhece. Que tal eu te passar %s RUB, e você simplesmente esquece dele?</text>
+    </string>
+
+    <string id="western_goods_ssu_supervisor_bribe_3">
+        <text>Por que eu faria isso?</text>
+    </string>
+
+    <string id="western_goods_ssu_supervisor_bribe_4">
+        <text>Digamos que ele quer seguir em frente e deixar o passado para trás. Você esquece dele, ele esquece de você.</text>
+    </string>
+
+    <string id="western_goods_ssu_supervisor_bribe_5">
+        <text>É mesmo? Tudo bem, mas é melhor ele esquecer de tudo, senão vou mandar todo o exército ucraniano atrás dele.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Diálogos do Mercado de Pulgas                                                                           -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_flea_ask_offer">
+        <text>Você tem alguma oferta?</text>
+    </string>
+
+    <string id="st_wg_flea_offer">
+        <text>Tenho este conjunto de itens com -%s% de desconto.</text>
+    </string>
+
+    <string id="st_wg_flea_offer_end_0">
+        <text>O que me diz?</text>
+    </string>
+
+    <string id="st_wg_flea_offer_end_1">
+        <text>Vai levar?</text>
+    </string>
+
+    <string id="st_wg_flea_offer_end_2">
+        <text>Interessado?</text>
+    </string>
+
+    <string id="st_wg_flea_offer_end_3">
+        <text>Fechado?</text>
+    </string>
+
+    <string id="st_wg_flea_offer_end_4">
+        <text>Vamos fazer negócio?</text>
+    </string>
+
+    <string id="st_wg_flea_no_offer">
+        <text>Não tenho mais nada no momento.</text>
+    </string>
+
+    <string id="st_wg_flea_expired">
+        <text>Desculpe, essas ofertas expiraram.</text>
+    </string>
+
+    <string id="st_wg_flea_offer_caption">
+        <text>Oferta Especial - Restam %s%sh %sm%c[default]</text>
+    </string>
+
+    <string id="st_wg_flea_offer_text">
+        <text>%c[default]Itens:%c[250,255,232,208] %s\n %c[default]Quantidade:%c[250,255,232,208] %s\n %c[default]Desconto:%c[250,255,232,208] %s-%s%\n %c[default]Preço:%c[250,255,232,208] %c[d_orange]%s RUB</text>
+    </string>
+
+    <string id="st_wg_flea_offer_buy">
+        <text>%c[d_orange]%s RUB%c[default]?</text>
+    </string>
+
+    <string id="st_wg_flea_offer_buy_end_0">
+        <text>Eu aceito.</text>
+    </string>
+
+    <string id="st_wg_flea_offer_buy_end_1">
+        <text>Fechado.</text>
+    </string>
+
+    <string id="st_wg_flea_offer_buy_end_2">
+        <text>Certo, vou comprar.</text>
+    </string>
+
+    <string id="st_wg_flea_offer_buy_end_3">
+        <text>Aqui está.</text>
+    </string>
+
+    <string id="st_wg_flea_offer_buy_end_4">
+        <text>Vendido.</text>
+    </string>
+
+    <string id="st_wg_flea_next_offer">
+        <text>Você tem mais alguma coisa?</text>
+    </string>
+
+    <string id="st_wg_flea_poor_next_offer_0">
+        <text>Não tenho dinheiro suficiente, tem mais alguma coisa?</text>
+    </string>
+
+    <string id="st_wg_flea_poor_next_offer_1">
+        <text>Desculpe, não tenho esse dinheiro. Tem mais alguma coisa?</text>
+    </string>
+
+    <string id="st_wg_flea_poor_next_offer_2">
+        <text>Não posso pagar isso, tem mais alguma coisa?</text>
+    </string>
+
+    <string id="st_wg_flea_cancel">
+        <text>Deixa pra lá.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Diálogos de Troca EUR/USD                                                                               -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_trade_eur_usd_ask">
+        <text>Quero comprar algumas coisas. %c[d_orange][Negociar]</text>
+    </string>
+
+    <string id="st_wg_trade_eur_usd_ask_reply_1">
+        <text>Claro.</text>
+    </string>
+
+    <string id="st_wg_trade_eur_usd_ask_reply_2">
+        <text>Dê uma olhada.</text>
+    </string>
+
+    <string id="st_wg_trade_eur_usd_ask_reply_3">
+        <text>Aqui está o que eu tenho.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Task Dialogs                                                                                             -->
+    <!--=============================================================================================================-->
+
+    <!-- Act 1, Task 1 -->
+    <string id="st_wg_act_1_task_1_ask_work">
+        <text>Tem algo em que eu possa ajudar?</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_accept_work">
+        <text>Posso fazer isso.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_refuse_work">
+        <text>Na verdade, deixa eu pensar sobre isso.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_answer_0">
+        <text>Não fique vagando por muito tempo, eles devem chegar logo.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_answer_1">
+        <text>Certo, vou agora.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_answer_2">
+        <text>Ah, e antes que eu me esqueça, pegue isto. Vai te ajudar a encontrar a zona de pouso.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_answer_3">
+        <text>Obrigado.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_finish_work">
+        <text>Voltei, e trouxe os suprimentos.</text>
+    </string>
+
+    <!-- Act 1, Task 2 -->
+    <string id="st_wg_act_1_task_2_ask_work_0">
+        <text>Como vão as coisas?</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_ask_work_1">
+        <text>Poderiam estar melhores...</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_ask_work_2">
+        <text>Como assim?</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_accept_work">
+        <text>Considere feito.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_refuse_work">
+        <text>Desculpe, estou ocupado com outras coisas no momento.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_answer">
+        <text>Obrigado, me avise se descobrir algo.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_finish_work_0">
+        <text>Fui até Júpiter investigar os rumores.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_finish_work_1">
+        <text>Bom, encontrou algo?</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_finish_work_2">
+        <text>Havia um grupo de Bandidos no Armazém de Contêineres. Eles tinham este rifle e também encontrei esta nota.</text>
+    </string>
+
+    <!-- Act 1, Task 3 -->
+    <string id="st_wg_act_1_task_3_ask_work">
+        <text>Tem algum trabalho que você queira que seja feito?</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_accept_work">
+        <text>Monolith de novo... Estou a caminho.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_refuse_work">
+        <text>Não posso te ajudar com isso no momento, desculpe.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_3_answer">
+        <text>Obrigado, e por favor, me mantenha informado.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_finish_work">
+        <text>Voltei, seu copiloto já deve ter sido deixado aqui?</text>
+    </string>
+
+    <!-- Act 2, Task 1 -->
+    <string id="st_wg_act_2_task_1_ask_work">
+        <text>Tem algum trabalho especial disponível?</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_accept_work">
+        <text>Fechado.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_refuse_work">
+        <text>Vou pensar sobre isso.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_answer">
+        <text>Certo, volte quando tiver o artefato.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_finish_work">
+        <text>Encontrei o artefato que seu cliente quer.</text>
+    </string>
+
+    <!-- Act 2, Task 2 -->
+    <string id="st_wg_act_2_task_2_opt_in">
+        <text>Com certeza.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_opt_out">
+        <text>Sabe de uma coisa, deixa pra lá.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_opted_in">
+        <text>Bom, eles entrarão em contato em breve.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_opted_out">
+        <text>Por que você não vendeu o artefato por dinheiro então? Pensei que você quisesse provar seu valor...</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_differed_opt_in">
+        <text>Mudei de ideia, pode dizer ao seu cliente que estou procurando mais trabalho?</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_differed_opted_in">
+        <text>O que você é, bipolar? Vou ser legal com você desta vez e passar sua mensagem. Da próxima vez, se decida.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_finish_work_0">
+        <text>Então você é o contato "anônimo" com quem eu estava falando?</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_finish_work_1">
+        <text>Sim. Estamos tentando manter um perfil baixo. Não queremos revelar nossa presença.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_finish_work_2">
+        <text>Entendo. Bem, tenho o que você pediu.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_finish_work_3">
+        <text>Bom. Mostra que trabalhar com stalkers locais pode ser... Útil. Entendo que você não trabalha de graça, então aqui, pegue isto.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_finish_work_4">
+        <text>Obrigado.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_finish_work_5">
+        <text>Pelo que entendo, você tem uma boa reputação por aqui?\n \nEscute então. Estamos montando uma operação aqui. Não posso te dar detalhes ainda, mas entrarei em contato em alguns dias quando tivermos progredido com nossos preparativos.\n \nSe estiver procurando mais trabalho, venha nos encontrar. Te direi onde nos procurar então, não ficaremos aqui por muito mais tempo.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_finish_work_6">
+        <text>Certo.</text>
+    </string>
+
+    <!-- Act 3, Task 1 -->
+    <string id="st_wg_act_3_task_1_ask_work_0">
+        <text>Você disse que estava no Exército com seu irmão? Onde ele está agora?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_ask_work_1">
+        <text>Na verdade, não sei. Ele foi encontrar um novo fornecedor há alguns dias e não voltou. Estou preocupado que algo possa ter acontecido com ele.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_accept_work">
+        <text>Tem algo que eu possa fazer para ajudar?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_refuse_work">
+        <text>Entendo. Sinto muito ouvir isso.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_work_details">
+        <text>Bem. Eu poderia usar alguma ajuda. Estou preso aqui gerenciando o Mercado das Pulgas. Dushman não vai gostar se eu sair, mesmo que seja pelo meu irmão.\n \nO problema é que não sei onde seria o encontro com o fornecedor. Meu irmão é bom no que faz, normalmente não questiono o que ele faz.\n \nEscute, se algo ruim realmente aconteceu, e se ele sobreviveu, deve ter encontrado um lugar para se esconder. Quando estávamos no Exército, mantínhamos um esconderijo no Subsolo do Agroprom. Duvido que ele esteja escondido lá, mas pode nos dar uma pista. Aqui, pegue isto, vai te ajudar a encontrar nosso esconderijo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_usb_unlock_ask">
+        <text>Preciso acessar dados em um pendrive USB. Pode me ajudar com isso?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_usb_unlock_quote">
+        <text>Claro, mas vou precisar de %c[d_orange]5000 RUB%c[default] por isso.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_usb_unlock_accept">
+        <text>Ok, aqui está.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_usb_unlock_refuse">
+        <text>Deixa eu pensar sobre isso...</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_usb_unlock_unlocked">
+        <text>Certo... Tem muita coisa criptografada... Tem um mapa, pode ser isso que você precisa? Vou enviar para seu PDA.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_end_work_0">
+        <text>Eu poderia te perguntar o mesmo. Você é Danylo Chernenko, irmão do Oleksandr?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_end_work_1">
+        <text>C-Como você sabe disso?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_end_work_2">
+        <text>Seu irmão me pediu para descobrir o que aconteceu com você. Ele disse que você está desaparecido há dias.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_end_work_3">
+        <text>Graças a Deus... Pensei que você estava aqui para me matar. Escute, estou tentando ficar longe do meu irmão por enquanto. Tem pessoas atrás de mim, não quero que ele seja arrastado para essa confusão.</text>
+    </string>
+
+    <!-- Act 3, Task 2 -->
+    <string id="st_wg_act_3_task_2_start_work">
+        <text>Quem é seu prisioneiro?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_start_work_details">
+        <text>Esse cara? Não sei. Ele e seu esquadrão me emboscaram quando eu estava indo encontrar um novo fornecedor para os negócios do meu irmão. Esses desgraçados nem tentaram conversar, partiram direto para o tiroteio. Ele é o único que sobreviveu desse banho de sangue... E eu, claro. Tenho tentado fazê-lo falar há dias, mas ele não revela quem o enviou e por qual motivo.\n \nEscute, vou precisar me mudar em breve, é só uma questão de tempo até descobrirem que estou me escondendo aqui. Tente fazê-lo falar, pode ser?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_start_work_accept">
+        <text>Estou nessa.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_start_work_refuse">
+        <text>Preciso de tempo para me preparar.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_end_work_0">
+        <text>Eu matei o esquadrão do SSU em Zaton, aqui está um documento que um deles tinha.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_end_work_1">
+        <text>Deixa eu ver. Interessante, isso é uma ordem de implantação. A ordem foi dada por... Esse desgraçado. Eu sabia!</text>
+    </string>
+
+    <!-- Act 3, Task 3 -->
+    <string id="st_wg_act_3_task_3_start_work">
+        <text>Posso ajudar?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_start_work_details">
+        <text>Quando eu estava no Exército, um dos nossos supervisores era corrupto até o osso. Um dia, consegui pegar evidências de um acordo suspeito que ele fechou com bandidos, vendendo equipamentos que tínhamos acabado de receber do comando. Mostrei ao meu irmão, e isso, junto com o fato dele ter uma patente superior, nos deu uma boa proteção contra as besteiras dele.\n \nAcho que nossa deserção deu a ele a oportunidade perfeita de usar o próprio exército para nos silenciar. Escute, eu conheço esse cara, ele não faz o trabalho sujo pessoalmente. A última vez que ouvi falar dele, estava destacado nos Grandes Pântanos, no Pátio das Máquinas. Isso nunca vai acabar enquanto ele estiver por aí, então... Pode dar um fim nele?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_start_work_accept">
+        <text>Te aviso quando estiver feito.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_start_work_refuse">
+        <text>Não posso te ajudar com isso ainda.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_end_work_0">
+        <text>Seu antigo supervisor não vai mais te causar problemas.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_end_work_1">
+        <text>Certo... Eu sabia que esse cara era podre, mas não pensei que ele realmente usaria o Exército para se proteger.</text>
+    </string>
+
+    <!-- Act 3, Task 4 -->
+    <string id="st_wg_act_3_task_4_start_work">
+        <text>Enfim, você disse que precisava de ajuda com algo?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_4_start_work_details">
+        <text>Ah, sim... Sobre isso... Veja, eu gostaria de voltar para meu irmão, no Lixão... Mas o caminho até lá não é exatamente acolhedor, especialmente para um Mercenário. Você pode me ajudar a chegar lá?</text>
+    </string>
+
+    <string id="st_wg_act_3_task_4_start_work_accept_0">
+        <text>Claro, vamos lá.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_4_start_work_refuse">
+        <text>Na verdade, preciso de tempo para me preparar antes de irmos.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_4_start_work_accept_1">
+        <text>Obrigado, vou deixar você liderar o caminho.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_4_end_work_0">
+        <text>Eu voltei, e não vim sozinho.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_4_end_work_1">
+        <text>Muito obrigado Stalker. Eu estava ficando preocupado. Bom saber que você é alguém confiável. Ei, pegue isso, pelo seu trabalho e por trazer meu irmão de volta inteiro.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Task Messages                                                                                            -->
+    <!--=============================================================================================================-->
+
+    <!-- Act 1, Task 1 Messages -->
+    <string id="st_wg_trader_act_1_task_1_stage_0_message_1">
+        <text>Você chegou ao helicóptero?</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_1_stage_0_message_2">
+        <text>Sim, mas não há ninguém aqui. O helicóptero está pousado no meio do nada.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_1_stage_0_message_3">
+        <text>Onde está a tripulação?</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_1_stage_0_message_4">
+        <text>Não sei. Você tem alguma forma de localizar eles ou os suprimentos?</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_1_stage_0_message_5">
+        <text>Alguns dos suprimentos têm um rastreador GPS, deixa eu verificar.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_1_stage_0_message_6">
+        <text>Tenho um sinal ativo na serraria, não muito longe de você. Vá até lá, rápido!</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_1_stage_1_message_1">
+        <text>Localizei a tripulação... Estão todos mortos. Parece que tentaram se abrigar em uma casa... E foram dominados por zumbis.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_1_stage_1_message_2">
+        <text>Estão todos mortos? Maldição. Consegue ver algum dos suprimentos?</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_1_stage_1_message_3">
+        <text>Acho que vejo uma caixa de transporte.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_1_stage_1_message_4">
+        <text>Só uma? Deveria ter muito mais! Não importa. Pegue o que puder e saia daí antes que os zumbis peguem você também!</text>
+    </string>
+
+    <!-- Act 1, Task 2 Messages -->
+    <string id="st_wg_trader_act_1_task_2_stage_0_message_1">
+        <text>Encontrei alguém na estação Yanov. Ele disse que viu luzes estranhas vindas do Armazém de Contêineres.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_stage_0_message_2">
+        <text>Hm. O helicóptero sobrevoou aquela área quando perdemos contato com a tripulação.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_stage_0_message_3">
+        <text>Vou até lá ver o que está acontecendo.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_stage_0_message_4">
+        <text>O helicóptero está operacional novamente. Vou enviá-lo até sua localização para ajudar. Não temos muito combustível, então aproveite bem.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_stage_1_message_1">
+        <text>Estamos a caminho da sua localização. Heades disse que você pode precisar de cobertura. Apenas designe os alvos (pressione: %c[d_orange]%s%c[ui_white]), e nós cuidamos do resto.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_stage_1_message_2">
+        <text>Estamos sem combustível. Vamos retornar à Estação de Processamento de Resíduos. Boa sorte aí.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_stage_1_message_3">
+        <text>O que você está fazendo, roubando nossas coisas. Idiota.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_stage_1_message_4">
+        <text>Roubando nossas coisas? Vou contar aos rapazes quem você realmente é.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_stage_2_message_1">
+        <text>Atenção, vários esquadrões de Bandidos se movendo para sua posição.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_stage_2_message_2">
+        <text>Estamos sem combustível. Vamos retornar à Estação de Processamento de Resíduos. Boa sorte aí.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_heli_attack_1">
+        <text>Alvo adquirido.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_heli_attack_2">
+        <text>Entendido.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_heli_attack_3">
+        <text>Copiado.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_heli_attack_4">
+        <text>Abrindo fogo.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_2_heli_attack_5">
+        <text>Mantenha distância.</text>
+    </string>
+
+    <!-- Act 1, Task 3 Messages -->
+    <string id="st_wg_trader_act_1_task_3_stage_0_message_1">
+        <text>Heades, encontrei o mercenário capturado. Ele está abalado, mas vivo.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_0_message_2">
+        <text>Bom. Pode escoltá-lo de volta à Livraria?</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_0_message_3">
+        <text>Ele está muito confuso, duvido que consiga até atirar. A Livraria não está exatamente perto da nossa posição...</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_0_message_4">
+        <text>Pode chegar até a ponte, na Floresta Vermelha? Vou providenciar o helicóptero para buscá-lo.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_0_message_5">
+        <text>Isso funcionaria. Mantenha o helicóptero em espera, avisarei quando enviá-los para nossa localização.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_1">
+        <text>C-como... Como v-você me encontrou de novo?</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_2">
+        <text>Heades me disse que uma equipe de reconhecimento te encontrou quando procuravam movimentações inimigas e corredores aéreos seguros para seus helicópteros.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_3">
+        <text>Está se sentindo melhor?</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_4">
+        <text>Sim, eu... Estou bem. Minha memória está um pouco confusa...</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_5">
+        <text>Você pelo menos lembra quem é? Espero que esses Monolitas não tenham tido tempo de começar a trabalhar em você.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_6">
+        <text>Sim, não se preocupe. Eu lembro. Sou copiloto de um dos helicópteros do Heades.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_7">
+        <text>Espera, você disse que é copiloto? Como o Heades não notou sua falta?</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_8">
+        <text>Não sei... Tudo que lembro é que estávamos transportando carga para a Estação de Processamento de Água em Zaton, e tivemos que fazer um pouso de emergência...</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_9">
+        <text>Você é o copiloto do helicóptero que encontrei abandonado em Zaton?! Você simplesmente esqueceu de mencionar isso?</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_1_message_10">
+        <text>Desculpe, ainda estou um pouco confuso.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_3_message_1">
+        <text>A área está segura o suficiente. Pode enviar o helicóptero.</text>
+    </string>
+
+    <string id="st_wg_trader_act_1_task_3_stage_3_message_2">
+        <text>Entendido, estamos a caminho. Aguente firme.</text>
+    </string>
+
+    <!-- Act 2, Task 2 Messages -->
+    <string id="st_wg_trader_act_2_task_2_message_school_pursuers_far">
+        <text>Cuidado, você está se aproximando da escola. Se as pessoas virem você entrar lá, teremos que abortar a missão.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_message_school_pursuers_close">
+        <text>Alguém viu você entrar na escola. Missão abortada.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_message_left_position">
+        <text>Você deixou sua posição? Não podemos arriscar, missão abortada.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_2_message_1">
+        <text>Você chegou aos Arredores? Bom. Avance até a escola, instruções seguirão.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_5_message_1">
+        <text>Cheguei à escola, e agora?</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_5_message_2">
+        <text>Encontre o saguão, haverá escadas levando ao porão. Esconda-se lá enquanto o comboio chega.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_6_message_1">
+        <text>O comboio chegará em breve. Quando chegar, vá para o terceiro andar da escola.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_6_message_2">
+        <text>O que você quer que eu faça quando vê-los?</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_6_message_3">
+        <text>Elimine a escolta deles, mas não antes de darmos o sinal. Avisaremos quando abrir fogo.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_6_message_4">
+        <text>Entendido.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_9_message">
+        <text>Atenção, um grupo de bandidos está se aproximando. Não intervenha ainda, não sabemos se o comboio tem os documentos.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_10_message_1">
+        <text>... você... copia? Estamos tentando amplificar nosso sinal. O comboio fugiu. Temos um sinal GPS ativo no antigo centro de serviços.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_10_message_2">
+        <text>Se você está recebendo isso, estou a caminho.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_10_message_3">
+        <text>10-4. Temos confirmação que o comboio está carregando os documentos. Você tem luz verde para atacar.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_11_message_1">
+        <text>Peguei os documentos.</text>
+    </string>
+
+    <string id="st_wg_trader_act_2_task_2_stage_11_message_2">
+        <text>Bom. Encontre-nos em Darkscape. Estaremos esperando você no acampamento, sob o penhasco.</text>
+    </string>
+
+    <!-- Act 3, Task 2 Messages -->
+    <string id="st_wg_act_3_task_2_stage_2_message_1">
+        <text>%s, preciso me mudar. Minha localização atual não é mais segura. Encontre-me na Floresta Vermelha, na antiga mina.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_stage_2_message_2">
+        <text>Certo, encontrarei você lá.</text>
+    </string>
+
+    <!-- Act 3, Task 3 Messages -->
+    <string id="st_wg_act_3_task_3_stage_0_message_1">
+        <text>O supervisor não vai mais te causar problemas. A Zona levou a melhor sobre ele.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_stage_0_message_2">
+        <text>Graças a Deus. Finalmente acabou. Escute, pode me ajudar com uma última coisa? Estarei esperando por você nos Depósitos Militares.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_stage_0_message_3">
+        <text>O supervisor não deve mais te causar problemas. Coloquei algum dinheiro nos bolsos dele.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_stage_0_message_4">
+        <text>Não era isso que eu queria, mas espero que funcione. Escute, pode me ajudar com uma última coisa? Estarei esperando por você nos Depósitos Militares.</text>
+    </string>
+
+</string_table>

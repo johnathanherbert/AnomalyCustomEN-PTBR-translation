@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por Johnathanherbert -->
+<string_table>
+	<string id="sar_perception">
+		<text>Passagem ao Norte</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>Descubra quem ou o que está por trás do Monolith</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>Encontre o laboratório mencionado no manuscrito e descubra seus segredos</text>
+	</string>
+	<string id="sar_perception_3">
+		<text>Use o decodificador para abrir a porta</text>
+	</string>
+	<string id="sar_perception_4">
+		<text>Derrote os guardas para acessar a sala</text>
+	</string>
+	<string id="sar_perception_5">
+		<text>Descubra o código de acesso mencionado nos documentos</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_title">
+		<text>Lide com a entidade desconhecida</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_1">
+		<text>Fale com a entidade</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_2">
+		<text>Elimine as três formas físicas da entidade do War Lab para abrir a porta</text>
+	</string>
+</string_table>

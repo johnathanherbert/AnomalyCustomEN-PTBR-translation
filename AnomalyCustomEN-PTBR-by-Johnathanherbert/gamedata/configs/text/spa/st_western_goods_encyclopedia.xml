@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor Original : NLTP_ASHES                                                                                  -->
+<!--    Editado : N/A                                                                                                -->
+<!--    Data : 25/12/2023                                                                                            -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)          -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para as entradas do Western Goods no Guia do PDA.                                        -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <!-- Entrada da enciclopédia do comerciante Western Goods -->
+    <string id="encyclopedia_characters_western_goods_ashes">
+        <text>Williams "Ashes" Heades</text>
+    </string>
+
+    <string id="encyclopedia_characters_western_goods_ashes_text">
+        <text>
+        %c[pda_white]Williams "Ashes" Heades%c[ui_gray_1] é um comerciante. Ele fica na Livraria (Arredores de Pripyat).\n
+        \n%c[pda_green]Informação%c[ui_gray_1]\n
+        \nWilliams "Ashes" Heades é um membro dos Mercenários. Ex-soldado da ONU, ele foi enviado para múltiplos teatros de guerra como parte das forças-tarefa da ONU. Ele lutou na guerra civil durante a rebelião de 2010 em Altis, Grécia.\n
+        \nMais tarde, foi enviado para a zona de exclusão de Chornobyl como parte de um destacamento especial da UNISG. Não se sabe muito sobre qual era sua missão, tudo que as pessoas sabem é que ele decidiu ficar e não partiu com o resto do destacamento.\n
+        \n%c[pda_yellow]Curiosidades%c[ui_gray_1]\n
+        \n• Este comerciante é o principal importador de produtos ocidentais na Zona.
+        </text>
+    </string>
+
+    <!-- Entrada da enciclopédia do Localizador GPS -->
+    <string id="encyclopedia_items_western_goods_gps">
+        <text>Localizador GPS</text>
+    </string>
+
+    <string id="encyclopedia_items_western_goods_gps_text">
+        <text>
+        O %c[pda_white]Localizador GPS%c[ui_gray_1] é um dispositivo usado para identificar a distância e o nome da área mais próxima.\n
+        \n%c[pda_green]Informação%c[ui_gray_1]\n
+        \nUm dispositivo GPS de nível militar usado para identificar e encontrar a distância até a área mais próxima do usuário. Também mostra a região global onde o usuário está localizado.\n
+        \nUma tecnologia especial é usada na tela do dispositivo, permitindo que ele exiba informações com uso mínimo de energia. A desvantagem é que a tela não pode exibir cores.\n
+        \n• %c[pda_white]Consumo de energia extremamente baixo%c[ui_gray_1]. Precisa ser recarregado cerca de uma vez por ano, dependendo do uso.
+        </text>
+    </string>
+
+    <!-- Entrada da enciclopédia do Isqueiro BIC -->
+    <string id="encyclopedia_items_western_goods_bic_lighter">
+        <text>Isqueiro BIC</text>
+    </string>
+
+    <string id="encyclopedia_items_western_goods_bic_lighter_text">
+        <text>
+            O %c[pda_white]isqueiro BIC%c[ui_gray_1] é um isqueiro pequeno e descartável que pode ser usado para iluminar seus arredores, mas também para acender várias coisas.\n
+            \n%c[pda_green]Informação%c[ui_gray_1]\n
+            \nIsqueiros são considerados por muitos Stalkers como um dos itens essenciais para sobreviver na Zona. Frequentemente usado para acender cigarros, mas não só - é forte o suficiente para acender fogueiras (equipe e puxe o isqueiro para fazer isso).\n
+            \nTambém fornece uma pequena luz, que pode ser usada para iluminar seus arredores imediatos mantendo-se relativamente discreto, especialmente à noite.
+        </text>
+    </string>
+
+    <!-- Entrada da enciclopédia do SigSauer KILO5K -->
+    <string id="encyclopedia_items_western_goods_rangefinder">
+        <text>SigSauer KILO5K</text>
+    </string>
+
+    <string id="encyclopedia_items_western_goods_rangefinder_text">
+        <text>
+            O %c[pda_white]SigSauer KILO5K%c[ui_gray_1] é um telêmetro laser que pode ser usado para medir distâncias até um alvo.\n
+            \n%c[pda_green]Informação%c[ui_gray_1]\n
+            \nEste telêmetro compacto e robusto é uma ferramenta poderosa para medir distâncias até vários alvos.\n
+            \nEle mede:
+            \n• a distância Linha de Visão (LOS), que é uma linha direta do telêmetro até o alvo;
+            \n• a Distância do Componente Horizontal (HCD), uma distância bidimensional (sem considerar a elevação) do telêmetro até o alvo.\n
+            \nPara garantir um conforto consistente de uso, o telêmetro tem dois modos de cor, vermelho (ideal durante o dia) e verde (ideal à noite sob óculos de visão noturna).
+        </text>
+    </string>
+
+    <!-- Entrada da enciclopédia do Mercado de Pulgas -->
+    <string id="encyclopedia_features_western_goods_flea">
+        <text>Mercado de Pulgas</text>
+    </string>
+
+    <string id="encyclopedia_features_western_goods_flea_text">
+        <text>
+            O %c[pda_white]Mercado de Pulgas%c[ui_gray_1] permite ao jogador comprar ofertas temporárias, onde os itens vêm em múltiplas unidades, mas com desconto.\n
+            \n%c[pda_green]Informação%c[ui_gray_1]\n
+            \nAo falar com um comerciante no Mercado de Pulgas, o jogador tem a opção de comprar ofertas especiais. Essas ofertas são limitadas no tempo e eventualmente expiram e são substituídas por novas ofertas.\n
+            \nAs ofertas consistem no seguinte:\n
+            \n• %c[pda_white]Item%c[ui_gray_1]. O item contido na oferta;
+            \n• %c[pda_white]Quantidade%c[ui_gray_1]. A quantidade do item contido na oferta. Aleatório entre 2 e 10 itens;
+            \n• %c[pda_white]Desconto%c[ui_gray_1]. O desconto aplicado em comparação ao preço regular. Aleatório entre 5% e 50%;
+            \n• %c[pda_white]Preço%c[ui_gray_1]. O dinheiro necessário para aceitar a oferta.
+        </text>
+    </string>
+
+    <!-- Entrada da enciclopédia do Oleksandr Chernenko -->
+    <string id="encyclopedia_characters_western_goods_oleksandr">
+        <text>Capitão Oleksandr Chernenko</text>
+    </string>
+
+    <string id="encyclopedia_characters_western_goods_oleksandr_text">
+        <text>
+            %c[pda_white]Capitão Oleksandr Chernenko%c[ui_gray_1] é um comerciante. Ele pode ser encontrado no Mercado de Pulgas (Lixão).\n
+            \n%c[pda_green]Informação%c[ui_gray_1]\n
+            \nCapitão Oleksandr Chernenko é um ex-soldado do Exército, que se tornou Mercenário. Ele disse que desertou quando o exército o designou para uma missão suicida, embora poucos detalhes sejam conhecidos sobre qual era essa missão, já que ele parece não gostar de falar sobre isso.\n
+            \nAtualmente, ele pode ser encontrado no porão do Mercado de Pulgas, no Lixão. Ele oferece pacotes de itens com desconto. A venda desses pacotes geralmente é limitada no tempo.\n
+            \n%c[pda_yellow]Curiosidades%c[ui_gray_1]\n
+            \n• Este comerciante gerencia as ofertas do mercado de pulgas dos Mercenários;
+            \n• Este comerciante às vezes pode vender pacotes contendo produtos ocidentais.
+        </text>
+    </string>
+
+    <!-- Entrada da enciclopédia do mapa desenhado à mão -->
+    <string id="encyclopedia__notes_western_goods_hand_drawn_map">
+        <text>Mapa desenhado à mão</text>
+    </string>
+
+    <string id="encyclopedia__notes_western_goods_hand_drawn_map_text">
+        <text>\n</text>
+    </string>
+
+</string_table>

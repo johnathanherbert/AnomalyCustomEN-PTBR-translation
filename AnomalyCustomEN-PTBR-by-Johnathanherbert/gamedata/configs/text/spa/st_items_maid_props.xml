@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="st_prop_laptop_item">
+		<text>Laptop</text>
+	</string>
+	<string id="st_prop_laptop_item_descr">
+		<text>
+			Um laptop muito sofisticado e moderno, você se surpreende com sua existência.
+		</text>
+	</string>
+
+	<string id="st_prop_bed_1">
+		<text>Cama de Campanha</text>
+	</string>
+	<string id="st_prop_bed_1_descr">
+		<text>
+			Um colchão simples e um cobertor, leve e portátil.
+		</text>
+	</string>
+
+	<string id="st_prop_bed_2">
+		<text>Cama de Metal</text>
+	</string>
+	<string id="st_prop_bed_2_descr">
+		<text>
+			Uma velha cama de metal enferrujada, com um colchão básico e um cobertor, é melhor que dormir no chão.
+		</text>
+	</string>
+
+	<string id="st_prop_bed_3">
+		<text>Cama de Madeira</text>
+	</string>
+	<string id="st_prop_bed_3_descr">
+		<text>
+			Uma cama de madeira resistente, o colchão é mais macio e confortável, vem com um conjunto duplo de cobertores para mantê-lo aquecido nas noites frias.
+		</text>
+	</string>
+
+	<string id="st_prop_board_map">
+		<text>Mapa da Zona</text>
+	</string>
+	<string id="st_prop_board_map_descr">
+		<text>
+			Um mapa detalhado da Zona, mostrando locais importantes e áreas perigosas conhecidas.
+		</text>
+	</string>
+
+	<string id="st_prop_cans_tuna">
+		<text>Latas de Atum</text>
+	</string>
+	<string id="st_prop_cans_tuna_descr">
+		<text>
+			Uma caixa de madeira contendo várias latas de atum, elas não parecem muito comestíveis.
+		</text>
+	</string>
+
+	<string id="st_prop_couch_1">
+		<text>Sofá Antigo</text>
+	</string>
+	<string id="st_prop_couch_1_descr">
+		<text>
+			Um sofá antigo, surpreendentemente em bom estado e não está cheio de radiação.
+		</text>
+	</string>
+
+	<string id="st_prop_counter_1">
+		<text>Balcão de Madeira</text>
+	</string>
+	<string id="st_prop_counter_1_descr">
+		<text>
+			Um balcão simples de madeira antiga, sobreviveu ao ambiente hostil, ainda em bom estado.
+		</text>
+	</string>
+
+	<string id="st_prop_poster_vertical_item">
+		<text>Pôster (Vertical)</text>
+	</string>
+	<string id="st_prop_poster_vertical_item_descr">
+		<text>
+			Pedaço simples de papel com uma imagem (personalizável).
+		</text>
+	</string>
+
+	<string id="st_prop_table_1">
+		<text>Escrivaninha de Madeira</text>
+	</string>
+	<string id="st_prop_table_1_descr">
+		<text>
+			Uma escrivaninha de madeira resistente, ainda em bom estado.
+		</text>
+	</string>
+
+	<string id="st_prop_table_2">
+		<text>Mesa de Madeira</text>
+	</string>
+	<string id="st_prop_table_2_descr">
+		<text>
+			Uma mesa de madeira comum, confiável e resistente.
+		</text>
+	</string>
+
+	<string id="st_prop_bong">
+		<text>Bong Improvisado</text>
+	</string>
+	<string id="st_prop_bong_descr">
+		<text>
+			Um bong improvisado feito pelos stalkers mais criativos em seus desejos de alcançar lugares mais altos que outros.
+		</text>
+	</string>
+
+	<string id="st_prop_case">
+		<text>Gabinete de PC</text>
+	</string>
+	<string id="st_prop_case_descr">
+		<text>
+			Um gabinete de PC antigo, não funcional, talvez reparável.
+		</text>
+	</string>
+
+	<string id="st_prop_chair">
+		<text>Cadeira de Madeira</text>
+	</string>
+	<string id="st_prop_chair_descr">
+		<text>
+			Cadeira de madeira simples e resistente, tem um assento macio, suficientemente confortável.
+		</text>
+	</string>
+
+	<string id="st_prop_dish1">
+		<text>Prato de Plástico</text>
+	</string>
+	<string id="st_prop_dish1_descr">
+		<text>
+			Prato de plástico, servirá bem em suas aventuras comendo mutantes.
+		</text>
+	</string>
+
+	<string id="st_prop_dish2">
+		<text>Tigela de Plástico</text>
+	</string>
+	<string id="st_prop_dish2_descr">
+		<text>
+			Tigela de plástico, servirá bem em suas aventuras comendo mutantes.
+		</text>
+	</string>
+
+	<string id="st_prop_fan">
+		<text>Ventilador Pequeno</text>
+	</string>
+	<string id="st_prop_fan_descr">
+		<text>
+			Ventilador pequeno, útil para aqueles dias ensolarados na zona, não funcional, talvez reparável.
+		</text>
+	</string>
+
+	<string id="st_prop_fridge">
+		<text>Geladeira Antiga</text>
+	</string>
+	<string id="st_prop_fridge_descr">
+		<text>
+			Geladeira grande e pesada, não funcional, talvez reparável.
+		</text>
+	</string>
+
+	<string id="st_prop_keyboard">
+		<text>Teclado</text>
+	</string>
+	<string id="st_prop_keyboard_descr">
+		<text>
+			Teclado mecânico antigo, tem uma cor amarelada devido ao tempo passado.
+		</text>
+	</string>
+
+	<string id="st_prop_mice">
+		<text>Mouse</text>
+	</string>
+	<string id="st_prop_mice_descr">
+		<text>
+			Mouse básico de PC, desconfortável para a mão, ainda pode funcionar.
+		</text>
+	</string>
+
+	<string id="st_prop_mice_pad">
+		<text>Mouse e Mouse Pad</text>
+	</string>
+	<string id="st_prop_mice_pad_descr">
+		<text>
+			Um monte de tecido costurado junto para dar ao mouse uma superfície muito melhor, pode não ser tão eficaz quanto é anunciado.
+		</text>
+	</string>
+
+	<string id="st_prop_monitor">
+		<text>Monitor</text>
+	</string>
+	<string id="st_prop_monitor_descr">
+		<text>
+			Um monitor antigo, a tela parece estar intacta, potencialmente funcional. \n
+			%c[ui_gray_3]Notas:\n
+			%c[d_blue] • %c[ui_gray_2] Você pode personalizar a imagem exibida no monitor\n
+		</text>
+	</string>
+
+	<string id="st_prop_mug">
+		<text>Caneca</text>
+	</string>
+	<string id="st_prop_mug_descr">
+		<text>
+			Uma caneca feita de sucata, está limpa o suficiente, pode dar às suas bebidas um sabor diferente.
+		</text>
+	</string>
+
+	<string id="st_prop_stove1">
+		<text>Fogão Pequeno</text>
+	</string>
+	<string id="st_prop_stove1_descr">
+		<text>
+			Fogão pequeno, não funcional, talvez reparável.
+		</text>
+	</string>
+
+	<string id="st_prop_stove2">
+		<text>Fogão Grande</text>
+	</string>
+	<string id="st_prop_stove2_descr">
+		<text>
+			Fogão grande, não funcional, talvez reparável.
+		</text>
+	</string>
+
+	<string id="st_prop_tv">
+		<text>Televisão</text>
+	</string>
+	<string id="st_prop_tv_descr">
+		<text>
+			TV antiga, sintoniza em um único canal e parece não precisar de energia.
+			%c[ui_gray_3]Notas:\n
+			%c[d_blue] • %c[ui_gray_2] Você pode personalizar a imagem exibida no monitor\n
+		</text>
+	</string>
+
+</string_table>

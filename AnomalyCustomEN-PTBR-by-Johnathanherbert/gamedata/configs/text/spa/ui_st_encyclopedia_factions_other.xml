@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+	<string id="encyclopedia_factions_other">
+		<text>Facções (Outros)</text>
+	</string>
+	
+	<string id="encyclopedia_factions_other_zombified">
+		<text>Zumbis</text>
+	</string>
+	<string id="encyclopedia_factions_other_zombified_text">
+		<text>
+			%c[pda_white]Zumbis%c[ui_gray_1] são aqueles stalkers que sucumbiram aos efeitos de um forte campo psíquico.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEstas criaturas carecem das funções superiores do cérebro e agem unicamente por reflexos e habilidades residuais, sendo incapazes de atividade consciente e possuindo um alto limiar de dor.\n
+			\nA saúde mental e física de um stalker zumbi se deteriora gradualmente com o tempo, eventualmente perdendo o último resquício de sua humanidade e tornando-se o mutante conhecido como Zumbi.\n
+			\nAo contrário dos mutantes, porém, os stalkers zumbificados são capazes de usar armas e ferramentas, e são frequentemente vistos trabalhando juntos em grupos ou com soldados Monolith.\n
+			\n%c[pda_green]Estatísticas%c[ui_gray_1]\n
+			\n• Líder: Desconhecido\n• Sede: Desconhecido\n• Cores: Várias\n
+		</text>
+	</string>
+	
+</string_table>

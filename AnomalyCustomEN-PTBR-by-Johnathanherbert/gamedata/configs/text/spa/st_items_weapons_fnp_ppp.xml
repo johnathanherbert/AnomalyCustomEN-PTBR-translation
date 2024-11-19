@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_fnx45_v1">
+		<text>FNX-45</text>
+	</string>
+	<string id="st_wpn_fnx45_v1_descr">
+		<text>A linha de pistolas FNX foi introduzida em 2009 pela FNH USA, uma subsidiária americana da empresa belga de armas FN Herstal. Originalmente desenvolvida para atender aos requisitos do Programa de Pistola de Combate Conjunto dos EUA, essas pistolas são fabricadas nos EUA e destinadas ao uso militar, policial e civil. Todas as pistolas FNX são semiautomáticas com gatilho de ação dupla/simples e martelo externo. O chassi de cada pistola FNX é feito de polímero resistente a impacto, com empunhaduras removíveis de diferentes tamanhos. A FNX-45 Tactical é uma variante especializada da FNX-45 básica, que apresenta cano rosqueado estendido e miras elevadas, para ser usada com silenciador destacável.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador GemTech</text>
+	</string>
+
+	<string id="st_wpn_fnx45_v2">
+		<text>FNX-45 Tactical</text>
+	</string>
+	<string id="st_wpn_fnx45_v2_descr">
+		<text>A linha de pistolas FNX foi introduzida em 2009 pela FNH USA, uma subsidiária americana da empresa belga de armas FN Herstal. Originalmente desenvolvida para atender aos requisitos do Programa de Pistola de Combate Conjunto dos EUA, essas pistolas são fabricadas nos EUA e destinadas ao uso militar, policial e civil. Todas as pistolas FNX são semiautomáticas com gatilho de ação dupla/simples e martelo externo. O chassi de cada pistola FNX é feito de polímero resistente a impacto, com empunhaduras removíveis de diferentes tamanhos. A FNX-45 Tactical é uma variante especializada da FNX-45 básica, que apresenta cano rosqueado estendido e miras elevadas, para ser usada com silenciador destacável.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Mira Tactical FNX (integrada)\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador GemTech</text>
+	</string>
+
+	<string id="st_wpn_fn509">
+		<text>FN 509</text>
+	</string>
+	<string id="st_wpn_fn509_descr">
+		<text>A FN 509 é uma pistola semiautomática striker-fired com chassi de polímero fabricada pela FN America, uma divisão da FN Herstal. É calibrada em 9×19mm Parabellum, apresentando operação de ação dupla e mira Red Dot Venom da Vortex Optics. Como parte da competição XM17 Modular Handgun System (MHS) iniciada em setembro de 2015, a FN Herstal inscreveu uma pistola striker-fired com chassi de polímero, derivada da FN FNS. Depois que a SIG Sauer venceu a competição em janeiro de 2017 com uma versão modificada da P320, a FN America trouxe uma versão de sua inscrição, agora conhecida como FN 509, para o mercado comercial.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Red Dot Venom (integrado)\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador GemTech</text>
+	</string>
+
+</string_table>

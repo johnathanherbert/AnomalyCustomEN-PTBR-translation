@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    <string id="st_exo_upgrade">
+        <text>Exoesqueleto</text>
+    </string>
+    <string id="st_exo_upgrade_descr">
+        <text>Um conjunto de fixadores, servos e mecanismos necessários para atualizar o traje para sua versão protótipo.\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] Para instalar a atualização, transfira para um traje compatível\n
+		</text>
+    </string>
+
+
+</string_table>

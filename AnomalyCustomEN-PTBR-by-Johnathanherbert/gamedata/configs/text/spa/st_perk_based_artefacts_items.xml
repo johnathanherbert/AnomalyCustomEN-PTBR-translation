@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--
+  Novos Artefatos
+-->
+<string_table>
+  <string id="st_af_cocoon_name">
+    <text>Casulo</text>
+  </string>
+  <string id="st_af_cocoon_descr">
+    <text>Um pequeno artefato de forma irregular formado em anomalias gravitacionais. Deve seu nome a dois fatores diferentes. Por um lado, a estrutura exterior do artefato se assemelha à seda de lagarta. Mas a parte mais interessante está em sua utilidade. Quando próximo ao corpo, o artefato reage toda vez que o portador é atingido por trauma contundente ou cortante, espalhando uma substância semelhante a um casulo sobre eles que protege de danos adicionais. A proteção tem um preço, no entanto, limitando o movimento do usuário cada vez que o Casulo é ativado e a camada protetora se espessa.\n</text>
+  </string>
+  <string id="st_af_cell_name">
+    <text>Célula</text>
+  </string>
+  <string id="st_af_cell_descr">
+    <text>Um artefato formado em anomalias gravitacionais, provavelmente devido a intensos campos magnéticos localizados. Sua estrutura interior gira perpetuamente em seu eixo enquanto não é perturbada. A Célula tem uma propriedade verdadeiramente notável para uma pessoa comum. Quaisquer objetos em movimento muito rápido que se aproximem são parcialmente desintegrados, liberando uma quantidade considerável de partículas radioativas no processo. Alguns stalkers usam o artefato a seu favor, alegando que lidar com doença por radiação depois é melhor do que levar um tiro no presente.\n</text>
+  </string>
+  <string id="st_af_fountain_name">
+    <text>Fonte</text>
+  </string>
+  <string id="st_af_fountain_descr">
+    <text>Um artefato comum formado em anomalias gravitacionais. Sua forma bizarra o torna muito valorizado por colecionadores. Curiosamente, há uma quantidade não insignificante de stalkers alegando que estar de posse deste artefato os ajuda a fazer melhores negócios com os comerciantes da Zona. Se isso é verdade ou não ainda precisa ser confirmado, no entanto os comerciantes mencionados preferem não falar sobre isso.\n</text>
+  </string>
+  <string id="st_af_spaika_name">
+    <text>Espinho</text>
+  </string>
+  <string id="st_af_spaika_descr">
+    <text>Um artefato comum formado em anomalias gravitacionais, que se assemelha a madeira ou osso petrificado. Stalkers que ousaram usá-lo em seus cintos dizem que o artefato os acalma e ajuda a se concentrar em situações de combate estressantes, permitindo que acertem seus inimigos em pontos vitais. Estranhamente, eles também afirmam que o artefato fica 'bravo com eles' por errarem seus tiros, o que faz com que a maioria das pessoas evite usá-lo, temendo uma esquizofrenia permanente induzida pela Zona.\n</text>
+  </string>
+  <string id="st_af_signet_name">
+    <text>Sinete</text>
+  </string>
+  <string id="st_af_signet_descr">
+    <text>Um artefato que parece ser uma porca de metal distorcida. Ocasionalmente também chamado de "Amuleto". Este último vem do fato de que alguns stalkers tendem a manter seus Sinetes em vez de vendê-los, dizendo que sua presença os ajuda a relaxar e se regenerar após uma incursão perigosa na Zona.\n</text>
+  </string>
+  <string id="st_af_repei_name">
+    <text>Cardo</text>
+  </string>
+  <string id="st_af_repei_descr">
+    <text>Um artefato comum gerado em anomalias gravitacionais. Apesar de sua aparência espinhosa, os Cardos parecem incapazes de penetrar a carne ou danificar o corpo de qualquer forma. Experimentos e observações recentes confirmaram que eles reagem com vários metais pesados - propriedade especialmente visível com chumbo. Vários relatórios médicos de stalkers e soldados feridos mostram que as balas disparadas pelo usuário deste artefato raspam parte do material externo para se tornarem serrilhadas e afiadas ao entrar no corpo, criando feridas menores mas com sangramento muito mais intenso. Para piorar as coisas, qualquer bala que esteve recentemente nas proximidades de um Cardo começará a se contorcer ao entrar em contato com o ferro contido no sangue humano, fazendo com que a ferida seja dolorosa e difícil de fechar por um período de tempo.\n</text>
+  </string>
+  <string id="st_af_bat_name">
+    <text>Morcego</text>
+  </string>
+  <string id="st_af_bat_descr">
+    <text>Um artefato raro e bonito, consistindo de duas "asas" de forma irregular protegendo um núcleo esférico lustroso. Não emite radiação e é bastante pesado. Caçadores de artefatos experientes aprenderam a usar sua habilidade especial em seu benefício. Uma vez ativado e colocado perto de outro artefato, o Morcego estenderá suas "asas", o agarrará com elas, forçará sua entrada em seu núcleo e então se fechará. Logo depois, a casca se transformará em pó, revelando um artefato com propriedades muito mais fortes ou, às vezes, um completamente diferente.\n</text>
+  </string>
+  <string id="st_af_sun_name">
+    <text>Sol</text>
+  </string>
+  <string id="st_af_sun_descr">
+    <text>Um artefato raro que é muito apreciado por colecionadores. Sua casca exterior é comum, mas se rachada como um geodo, revela um núcleo luminoso turbilhonante que emite uma fonte constante de luz amarela quente. Os Sóis apreciam a companhia dos raios solares reais, dando aos usuários deste artefato uma fonte de energia quando expostos a eles. Da mesma forma, quando mantidos longe de uma fonte direta de luz natural, eles sugam energia de seres vivos próximos, drenando-os lentamente.\n</text>
+  </string>
+  <string id="st_af_ear_name">
+    <text>Coração</text>
+  </string>
+  <string id="st_af_ear_descr">
+    <text>Um artefato de forma bizarra, cujo núcleo cristalino se assemelha a um sistema circulatório humano em miniatura. Desde que se espalharam rumores de que o artefato é capaz de curar criaturas e pessoas moribundas, o interesse em obtê-los disparou, tanto para venda ao mundo exterior quanto para garantir a própria sobrevivência dentro da Zona.\n</text>
+  </string>
+  <string id="st_af_chelust_name">
+    <text>Corrente</text>
+  </string>
+  <string id="st_af_chelust_descr">
+    <text>Um artefato circular incomum, que não deve ser confundido com um Anel. Gera um forte campo gravitacional enquanto nada o toca. À primeira vista, seu peso não justifica o alívio menor da fadiga e dor. Mas aqueles que dedicaram suas vidas ao Vyraj e aos Mestres podem verdadeiramente perceber o potencial do artefato.\n</text>
+  </string>
+  <string id="st_af_atom_name">
+    <text>Átomo</text>
+  </string>
+  <string id="st_af_atom_descr">
+    <text>Um artefato raro e incomum que se assemelha ao antigo modelo atômico de Bohr. Não é radioativo, mas produz uma pequena quantidade de calor. É muito valioso tanto para colecionadores quanto para cientistas devido à sua forma e propriedades. Stalkers que sofrem de forte irradiação devido a uma exposição infeliz, ao usar este artefato, parecem subitamente recuperar sua juventude em termos de vitalidade. Com o tempo o efeito diminui, mas também diminui a radiação residual em seus corpos.\n</text>
+  </string>
+  <string id="st_af_lighthouse_name">
+    <text>Farol</text>
+  </string>
+  <string id="st_af_lighthouse_descr">
+    <text>Uma massa coagulada de metais ferrosos superdensas. É um dos artefatos mais misteriosos da Zona, pois seu funcionamento interno ainda intriga as maiores mentes da ciência moderna. O Farol em seu estado ativo é capaz de detectar quando um ser vivo mata outro, não importa a distância entre os dois, desde que a intenção de assassinato e a causalidade sejam muito claras. A reação resultante não é menos misteriosa - o assassino é quase instantaneamente 'teleportado' para o local onde a vítima deu seu último suspiro.\n</text>
+  </string>
+  <string id="st_af_fire_loop_name">
+    <text>Nó</text>
+  </string>
+  <string id="st_af_fire_loop_descr">
+    <text>Este artefato é ocasionalmente formado no calor extremo de anomalias térmicas. Várias lendas o cercam, a maioria delas assustadora o suficiente para fazer alguns stalkers evitarem pegá-lo. Sabe-se, no entanto, que quem ousou ativar um Nó nunca conseguiu se livrar dele, pois o artefato sempre voltava para eles. Outras fontes menos confiáveis falam de habilidades sobre-humanas, audição de vozes, comportamento imprudente e desaparecimentos estranhos.\n</text>
+  </string>
+  <string id="st_af_zhelch_name">
+    <text>Cicatriz</text>
+  </string>
+  <string id="st_af_zhelch_descr">
+    <text>Todos conhecem o ditado "mente sã em corpo são". A Zona o transformou em forma de artefato. Antigamente os stalkers costumavam aproveitar as Cicatrizes para curar suas feridas e explorar anomalias que alteravam a mente. Infelizmente, com o tempo o artefato mostrou seu lado mais sinistro. Pessoas usando Cicatrizes se comportavam de forma estranha e errática, ainda mais quando se recuperavam de danos sérios feitos a seus corpos. Hoje em dia há muito poucos corajosos o suficiente para prender um desses ao cinto, já que os veteranos da Zona gostam de contar histórias arrepiantes sobre usuários de Cicatriz para novatos reunidos ao redor de fogueiras.\n</text>
+  </string>
+  <string id="st_af_sandstone_name">
+    <text>Arenito</text>
+  </string>
+  <string id="st_af_sandstone_descr">
+    <text>Um artefato às vezes formado em anomalias de temperatura extrema. Até hoje ninguém sabe como é possível, mas o Arenito parece possuir algum tipo de inteligência que permite identificar a arma de um usuário. Ao se vincular a ela, o artefato procurará uma anomalia para interagir, infundindo os elementos mais letais com propriedades anômalas correspondentes, tornando-os muito mais danosos.\n</text>
+  </string>
+  <string id="st_af_kislushka_name">
+    <text>Azedinho</text>
+  </string>
+  <string id="st_af_kislushka_descr">
+    <text>Um artefato esférico oco que se assemelha a uma espécie de pergaminho transparente. Coberto com uma camada de película, é agradável ao toque. O Azedinho ativa sempre que é coberto com sangue quente e, utilizando a energia do usuário produzida pela queima de calorias, começa a excretar um estimulante que ajuda qualquer ferida sangrenta a coagular e fechar muito mais rápido. Esta habilidade ganhou muita popularidade no mundo médico, daí o bom preço que alcança.\n</text>
+  </string>
+  <string id="st_af_black_angel_name">
+    <text>Anjo Negro</text>
+  </string>
+  <string id="st_af_black_angel_descr">
+    <text>Um artefato de minerais anômalos que foi torcido em uma formação semi-simétrica sinistra. Apesar de não emitir calor ou radiação, pode condensar vapor de água no ar próximo em vapor. O artefato parece ter algum tipo de sistema de defesa. Quando atingido por uma bala, é capaz de detectar de onde veio o tiro e redirecionar o dano potencial de volta para a pessoa que atirou.\n</text>
+  </string>
+  <string id="st_af_grapes_name">
+    <text>Uvas</text>
+  </string>
+  <string id="st_af_grapes_descr">
+    <text>Um artefato pesado às vezes encontrado em anomalias gravitacionais, se assemelha a gotas de âmbar esverdeado torcidas juntas. Muito recentemente os cientistas foram capazes de confirmar o que antes era considerado apenas mais um dos boatos da Zona - quando as Uvas se encontram próximas a um processo de digestão em andamento de um organismo vivo, elas ativam, estimulando o metabolismo para curar mais efetivamente.\n</text>
+  </string>
+  <string id="st_af_skull_miser_name">
+    <text>Crânio do Avarento</text>
+  </string>
+  <string id="st_af_skull_miser_descr">
+    <text>Um artefato leve e frágil consistindo de fios entrelaçados de fibras vegetais anômalas. O artefato é favorito entre vários criminosos que se estabeleceram na Zona e às vezes é chamado de "pequeno Realizador de Desejos" por eles. Quando o usuário deste artefato mata alguém danificando seu cérebro, a Zona os recompensa deixando cair dinheiro ao redor da vítima. Alguns dizem que é a Zona querendo que os stalkers se matem uns aos outros para que ela fique em paz. Outros dizem que ela não estaria cheia de riquezas assim se não quisesse pessoas por perto.\n</text>
+  </string>
+  <string id="st_af_star_phantom_name">
+    <text>Estrela Fantasma</text>
+  </string>
+  <string id="st_af_star_phantom_descr">
+    <text>Este artefato parece ser uma substância semelhante a plasma suspensa dentro de uma casca transparente estriada. Gera um campo gravitacional fraco, tornando difícil mantê-lo parado ou equilibrado. A Estrela Fantasma quando ativa parece afetar as mentes de seres vivos próximos - seu usuário subitamente deixa de ser notado até que algum tipo de interação forçada aconteça. O artefato manipula o dono também, impedindo-o de se envolver em qualquer tipo de hostilidade.\n</text>
+  </string>
+  <string id="st_af_medallion_name">
+    <text>Medalha</text>
+  </string>
+  <string id="st_af_medallion_descr">
+    <text>Um aro incrustado com quatro formas triangulares, com uma pequena esfera central suspensa no meio. Ao longo dos anos as Medalhas mostraram possuir um conjunto de propriedades intrigantes, todas elas descobertas individualmente por stalkers extremamente entediados. Por um lado, o movimento inato do anel externo pode ser livremente manipulado por uma força externa. Impulsioná-lo fortalece a força gravitacional que o artefato gera, permitindo que ele se suspenda alto no ar e acelere grandemente. Outra característica, muito mais misteriosa, é a capacidade da Medalha de lembrar seu dono e procurá-lo, enquanto ao mesmo tempo prejudica outras criaturas vivas que encontra em seu caminho. Durante esta fase os elementos externos do artefato brevemente se transformam em lâminas imensamente resilientes e afiadas, causando lacerações graves nas vítimas. Separadamente, estas peculiaridades não encontraram muito uso fora de alguns experimentos científicos. As coisas mudaram, no entanto, quando algum stalker esperto juntou dois mais dois, girou sua Medalha e a enviou em direção a um pequeno acampamento de bandidos.\n</text>
+  </string>
+  <string id="st_af_peas_name">
+    <text>Lua</text>
+  </string>
+  <string id="st_af_peas_descr">
+    <text>Um artefato em forma de lua crescente. A casca exterior continuamente gera uma luz muito fraca que parece estimular o usuário. À noite, fará você se sentir descansado e energético, mas o efeito reverso acontecerá durante a luz do dia.\n</text>
+  </string>
+  <string id="st_af_generator_name">
+    <text>Gerador</text>
+  </string>
+  <string id="st_af_generator_descr">
+    <text>Este disco anômalo não é radioativo, mas gera um campo eletromagnético forte e pequeno. Pode facilmente ser feito para 'girar' perpetuamente em seu eixo, especialmente quando o usuário está se movendo rapidamente. Quando isso acontece, a energia do artefato se conecta a baterias e dispositivos descarregados próximos e, desde que ainda tenham alguma carga elétrica restante neles, restaura sua energia lentamente.\n</text>
+  </string>
+  <string id="st_af_ball_name">
+    <text>Bola</text>
+  </string>
+  <string id="st_af_ball_descr">
+    <text>Apesar de parecer uma bola manchada de terra e rocha, este artefato é incomumente leve e saltitante, daí seu nome. Acredita-se ser um produto de anomalias elétricas. Quando usado no cinto, o artefato gera uma força que pode ser ativada para repelir criaturas vivas, por alguma razão excluindo humanos. Para liberar tal força, um movimento rápido e forte precisa acontecer entre o usuário e o alvo, por isso a maioria dos stalkers que o usam recorre a simplesmente chutar vários mutantes. Obviamente, a prática de chegar tão perto de um habitante da Zona não é aconselhável. Mas isso vai te impedir?\n</text>
+  </string>
+  <string id="st_af_fonar_name">
+    <text>Lâmpada</text>
+  </string>
+  <string id="st_af_fonar_descr">
+    <text>Este artefato leve e vítreo emite uma quantidade modesta de luz quase ultravioleta. Ele reage estranhamente com certas ondas de rádio, fazendo fontes de várias transmissões brilharem. Stalkers tendem a usar esta propriedade para procurar esconderijos escondidos à noite.\n</text>
+  </string>
+  <string id="st_af_tapeworm_name">
+    <text>Tênia</text>
+  </string>
+  <string id="st_af_tapeworm_descr">
+    <text>Este artefato é dióxido de silício puro, torcido em uma forma e cor incomuns por anomalias gravitacionais. Seria de outra forma insignificante, exceto por um fato. Quando ativado, enviará um forte choque elétrico em direção a qualquer criatura viva que ataque o usuário via contato direto, efetivamente atordoando-a por uma curta duração. E como a maioria das coisas na Zona, não distingue entre quem ataca o portador do artefato, incluindo ele mesmo. Muito valorizado por stalkers que caçam mutantes para viver.\n</text>
+  </string>
+  <string id="st_af_moh_name">
+    <text>Musgo</text>
+  </string>
+  <string id="st_af_moh_descr">
+    <text>Um artefato formado em anomalias elétricas. Tem uma aparência afiada e irregular, mas é na verdade bastante macio e agradável ao toque. Preso ao cinto, é capaz de detectar o conteúdo do estômago do usuário. Uma vez que reconhece qualquer carne crua de origem da Zona dentro do sistema digestivo, ele ativará, usando o valor energético da carne para alimentar todos os tipos de efeitos estimulantes, dependendo do tipo de criatura consumida.\n</text>
+  </string>
+  <string id="st_af_serofim_name">
+    <text>Serafim</text>
+  </string>
+  <string id="st_af_serofim_descr">
+    <text>Serafim foi por muito tempo considerado nada além de uma bugiganga bonita para ser vendida. Isso foi até que um grupo veterano de stalkers voltou de uma excursão profunda e compartilhou sua história. De acordo com eles, em algum momento durante sua viagem eles foram emboscados por um atirador. Seu líder foi abatido instantaneamente e caiu morto com seu crânio partido ao meio. Enquanto enviavam fogo de supressão, eles notaram seu cinto brilhando enquanto ele se levantava sem nenhum sinal de arranhão, com seu capacete ainda tendo óbvios buracos de entrada e saída da bala do atirador. Eles conseguiram recuar e descobrir que o artefato Serafim que o líder mantinha como seu amuleto da sorte havia sumido e deixado apenas algum pó brilhante. Desde então, pessoas que ouviram esta história mantêm seus Serafins próximos, acreditando que o artefato os trará de volta dos mortos, caso o pior aconteça. Claro, ninguém até agora foi corajoso o suficiente para testar se algo disso era de fato verdade.\n</text>
+  </string>
+  <string id="st_af_elektron_name">
+    <text>Elétron</text>
+  </string>
+  <string id="st_af_elektron_descr">
+    <text>Este artefato é um produto de anomalias elétricas. É extremamente pesado apesar de seu pequeno tamanho. Tem uma propriedade interessante. É capaz de combinar as anomalias eletro comuns com outras cargas elétricas que encontra nas proximidades, usando a anomalia como fonte de energia. A parte mais fascinante disso é que o artefato considera o corpo humano como uma bateria também, convertendo a energia em uma que pode ser usada pelas células humanas durante atividade física. Como tal, apesar de ser uma experiência dolorosa, pode-se desfrutar de estar incansável por um curto período de tempo. Efeitos colaterais? Bem, alguém ainda tem que relatá-los...\n</text>
+  </string>
+  <string id="st_af_kogot_name">
+    <text>Garra</text>
+  </string>
+  <string id="st_af_kogot_descr">
+    <text>Um belo artefato semelhante a vidro ocasionalmente pescado de anomalias eletrostáticas. Quando usado, parece preencher seu usuário com uma combinação estranha de raiva e desejo de atacar inimigos diretamente, revigorando-os por fazê-lo. Há uma história bastante comum associada a este artefato - de um novato que encontrou uma Garra junto com seu amigo, apenas para ambos serem perseguidos por uma matilha de cães famintos momentos depois. O 'amigo' atirou no novato e fugiu, deixando-o para uma morte certa. Para surpresa de todos, o stalker traído voltou ao seu acampamento, perfeitamente saudável, apesar de suas roupas estarem completamente rasgadas por mordidas de cão, com apenas uma faca ao seu lado e o artefato pendurado em seu cinto. O que aconteceu com o traidor é melhor não ser mencionado, no entanto.\n</text>
+  </string>
+  <string id="st_af_dragon_eye_name">
+    <text>Olho de Dragão</text>
+  </string>
+  <string id="st_af_dragon_eye_descr">
+    <text>Este artefato às vezes é formado em anomalias térmicas e tem a aparência de um olho de réptil. Tem uma propriedade muito perigosa e volátil associada a ele. De alguma maneira peculiar, quando o usuário deste artefato garante uma morte, há uma pequena chance de uma explosão violenta acontecer dentro do corpo da vítima, matando ou ferindo qualquer um e qualquer coisa nas proximidades. Os mais supersticiosos dizem que é a Zona arrancando violentamente as almas dos seres caídos. A maioria apenas prefere evitar usar o artefato completamente por causa das histórias de pessoas sendo pegas em tal explosão a uma distância infeliz.\n</text>
+  </string>
+  <string id="st_af_vaselisk_name">
+    <text>Basilisco</text>
+  </string>
+  <string id="st_af_vaselisk_descr">
+    <text>Um dos poucos artefatos na Zona que lida bem com todos os tipos de influências físicas em seu dono.\n \n
+    %c[ui_gray_2]PROPRIEDADES:\n
+    %c[ui_cyan] • %c[ui_gray_2] artefato inerte\n
+    %c[d_cyan] • %c[ui_gray_2] valioso</text>
+  </string>
+  <string id="st_af_geliy_name">
+    <text>Hélio</text>
+  </string>
+  <string id="st_af_geliy_descr">
+    <text>Um representante brilhante (literalmente) da família de artefatos eletrostáticos. Ele libera uma substância gasosa que tem um efeito benéfico no corpo. Devido à sua alta eficiência, está em grande demanda.\n \n
+    %c[ui_gray_2]PROPRIEDADES:\n
+    %c[ui_cyan] • %c[ui_gray_2] artefato inerte\n
+    %c[d_cyan] • %c[ui_gray_2] valioso</text>
+  </string>
+  <string id="st_af_gimlet_name">
+    <text>Verruma</text>
+  </string>
+  <string id="st_af_gimlet_descr">
+    <text>As pétalas em forma de tigela deste artefato podem liberar um vapor estimulante poderoso que pode alterar o equilíbrio dos hormônios humanos. De pouca utilidade para stalkers, é muito procurado para pesquisas médicas.\n \n
+    %c[ui_gray_2]PROPRIEDADES:\n
+    %c[ui_cyan] • %c[ui_gray_2] artefato inerte\n
+    %c[d_cyan] • %c[ui_gray_2] valioso</text>
+  </string>
+  <string id="st_arty_save">
+    <text>Olho da Noosfera</text>
+  </string>
+  <string id="st_arty_save_descr">
+    <text>Um dos artefatos mais misteriosos da Zona, o Olho da Noosfera pode transportar seu portador de volta no tempo, até mesmo para escapar da morte. Um aperto firme do artefato ativa sua habilidade, criando um ponto de restauração para voltar na ativação ou morte. O uso frequente pode fazer o artefato mudar de cor, mas se descarregado com muita frequência pode parar de funcionar completamente. O Olho gradualmente restaura seu poder ao longo do tempo, supostamente sendo alimentado pela energia anômala da Zona.\n \n
+    %c[ui_gray_2]PROPRIEDADES:\n
+    %c[0,81,63,22] • %c[0,255,215,0] superartefato</text>
+  </string>
+</string_table>

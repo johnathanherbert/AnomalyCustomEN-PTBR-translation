@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+	<string id="st_wpn_browning_p35">
+		<text>Browning P-35</text>
+	</string>
+	<string id="st_wpn_browning_p35_descr">
+		<text>A Browning Hi-Power é uma pistola semiautomática de ação simples em calibre 9mm. É baseada nas ideias do inventor americano de armas de fogo John Browning, criada e patenteada em 1922, posteriormente patenteada pela FN Herstal. Browning faleceu em 1926, antes de finalizar o desenvolvimento da versão de produção, mas o projetista de armas da FN, Dieudonne Saive, a desenvolveu completamente. A pistola Hi-Power foi notável por sua capacidade de carregador de 13 munições, o dobro dos projetos contemporâneos como a Luger ou Mauser 1910. Pelo acabamento azulado e as "miras de cano", é claramente uma P-35 clássica original fabricada na Bélgica. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19 (após modificação)</text>
+	</string>
+	<string id="st_wpn_browning_mk3">
+		<text>Browning Hi-Power Mark III</text>
+	</string>
+	<string id="st_wpn_browning_mk3_descr">
+		<text>A Browning Hi-Power Mark III é uma modernização da clássica Browning HP, feita em 1988. É também a arma padrão das Forças de Defesa Australianas. A grande mudança aqui seria uma melhor confiabilidade, que a Browning original infelizmente precisava muito, além de melhores miras, ação aprimorada e recuo reduzido. Em termos da Zona, é uma arma clássica, versátil, quase todas as facções costumavam usá-la antes do Primeiro Cerco de Chernobyl, mas estranhamente durante o Segundo Cerco de Chernobyl, era incrivelmente rara até que finalmente um novo grande suprimento chegou após a viagem para o Caminho para o Norte. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19 (após modificação)</text>
+	</string>
+</string_table>

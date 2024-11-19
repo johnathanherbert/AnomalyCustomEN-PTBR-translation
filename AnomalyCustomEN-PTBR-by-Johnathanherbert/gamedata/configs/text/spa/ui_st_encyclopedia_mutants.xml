@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<!--Traduzido por Johnathanherbert-->
+<string_table>
+	
+	<string id="encyclopedia_mutants">
+		<text>Mutantes</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_blind_dog">
+		<text>Cão Cego</text>
+	</string>
+	<string id="encyclopedia_mutants_blind_dog_text">
+		<text>
+			%c[pda_white]Cão Cego%c[ui_gray_1] são os mutantes mais familiares da Zona.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nVárias gerações de cães têm vivido e morrido desde o segundo desastre, sendo cada uma mais afetada pela Zona do que a anterior.\n
+			\nNumerosas mutações rápidas e adaptações evolutivas levaram ao fortalecimento das habilidades caninas anteriormente expressas de forma fraca - em detrimento daquelas que compartilham seu habitat.\n
+			\nA visão e a audição em muitos desses cães está completamente perdida, mas desde então eles desenvolveram uma espécie de visão telepática que lhes permite sentir suas presas através das paredes.\n
+			\nComo seus ancestrais lobos, os cães cegos caçam em matilhas e um encontro com um grande grupo pode ser perigoso até mesmo para o mais bem armado e experiente dos stalkers.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Baixa\n• Velocidade: Rápida\n• Características: Nenhuma
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_bloodsucker">
+		<text>Bloodsucker</text>
+	</string>
+	<string id="encyclopedia_mutants_bloodsucker_text">
+		<text>
+			%c[pda_white]Bloodsuckers%c[ui_gray_1], como o nome sugere, são monstros hematófagos.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nO Bloodsucker é uma criatura semi-lendária, frequentemente vista pelos stalkers como um símbolo tanto dos perigos como da corrupção da Zona.\n
+			\nEste status foi alcançado graças à relativa raridade da espécie e à baixa taxa de sobrevivência de suas vítimas.\n
+			\nAqueles que os encontraram e viveram para contar os descreveram como parecendo humanoides altos, com muitos tentáculos salientes de seus rostos.\n
+			\nTalvez sua habilidade mais peculiar seja sua camuflagem óptica, que lhes permite tornar-se temporariamente quase invisíveis a olho nu.\n
+			\nNormalmente não dura muito, pois eles estão mais fracos quando camuflados e muitas vezes só o usam quando descobrem presas ou tentam esconder seus movimentos.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Média\n• Velocidade: Rápida\n• Características: Camuflagem\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Uma subespécie rara já existiu nos Great Swamps que levou suas vítimas para longe.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_boar">
+		<text>Javali</text>
+	</string>
+	<string id="encyclopedia_mutants_boar_text">
+		<text>
+			%c[pda_white]Javalis%c[ui_gray_1] são mutantes comuns encontrados na Zona.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEmbora menos afetados fisicamente pelas mutações, os javalis aqui desenvolveram um gosto sério pela carne humana e uma inteligência muito mais aguçada.\n
+			\nEles são animais grandes, e sua capacidade de sobrevivência combinada com sua força supera todos os seus parentes vivos fora da Zona.\n
+			\nOs processos mutagênicos desempenharam um papel significativo na formação desses mamíferos, pois eles perderam todo o pelo em alguns lugares, e cresceram pelos longos e fortes em outros.\n
+			\nNormalmente, se a distância for mantida e eles não forem hostis, eles ficarão com seu rebanho de Flesh e outros javalis.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Média\n• Velocidade: Lenta\n• Características: Nenhuma
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_burer">
+		<text>Burer</text>
+	</string>
+	<string id="encyclopedia_mutants_burer_text">
+		<text>
+			%c[pda_white]Burers%c[ui_gray_1] são monstros quase anões, que geralmente se apegam a áreas subterrâneas.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEles são criaturas humanoides de tez hipertrofiada, vestidos com pedaços de macacão e geralmente têm medo de luzes fortes.\n
+			\nCriados como resultado de experimentos genéticos com bandidos, os Burers possuem naturalmente habilidades telecinéticas poderosas, tornando-os muito mais poderosos do que aparentam.\n
+			\nSendo capazes de dirigir explosões de energia e manipular objetos físicos com sua mente, lutar contra Burers pode ser difícil mesmo quando se tenta se esconder deles.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo, Psíquico\n• Saúde: Média\n• Velocidade: Lenta\n• Características: Poderes psíquicos, Telecinesia\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Alguns Burers são excelentes atores, capazes de imitar sons como gritos de pássaros, latidos de cachorro, risos humanos ou até mesmo um bebê chorando.
+			\n• Os Burers muitas vezes se concentram em derrotar seus oponentes, desgastando-os. Os stalkers fortemente armados e blindados tendem a sofrer mais ao combatê-los. 
+			\n• A dieta de um Burer tende a consistir de kimchi e carne humana.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_cat">
+		<text>Gato</text>
+	</string>
+	<string id="encyclopedia_mutants_cat_text">
+		<text>
+			%c[pda_white]Gatos%c[ui_gray_1] na Zona são mutantes de gatos selvagens locais, só que mais fortes.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nOriginalmente animais de estimação comuns, sob a influência da Zona eles mudaram notavelmente, tornando-se muito perigosos até mesmo para as pessoas.\n
+			\nNa maioria dos casos, os gatos viverão sozinhos em um pequeno grupo de dois a três indivíduos, e normalmente morarão em lugares silenciosos e isolados, como matas e florestas.\n
+			\nMuitas vezes, quando atacam, os primeiros tentam distrair suas presas enquanto os demais se esgueiram por trás e tentam arranhar e morder, até a vítima se cansar e/ou sangrar.\n
+			\nSe por conta própria eles se comportam de forma bastante covarde, passando muito tempo perseguindo seu alvo até encontrar uma boa oportunidade para atacar.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Baixa\n• Velocidade: Rápida\n• Características: Nenhuma\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Os gatos são uma causa de morte surpreendentemente frequente entre os novatos.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_chimera">
+		<text>Chimera</text>
+	</string>
+	<string id="encyclopedia_mutants_chimera_text">
+		<text>
+			%c[pda_white]Chimeras%c[ui_gray_1] são monstros sem pelos, próximos do tamanho de um leão adulto quando totalmente crescidos.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nUma máquina de matar quase evolutivamente perfeita, embora não seja a mais forte fisicamente, eles possuem extrema velocidade e agressividade.\n
+			\nCom um conjunto duplicado de órgãos, sem sistema circulatório central e seu corpo inteiro permeado de capilares, a Chimera pode facilmente encolher os ombros em caso de falência de órgãos e perda maciça de sangue.\n
+			\nSua segunda cabeça permite um campo de visão ainda mais amplo, suas patas traseiras permitem que salte grandes distâncias e suas garras e dentes afiados podem rasgar praticamente qualquer armadura corporal.\n
+			\nElas são criaturas noturnas, portanto, normalmente você não verá muitas delas durante o dia, pois elas estarão descansando, mas isso não descarta a possibilidade.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Elevada\n• Velocidade: Rápida\n• Características: Ágil, Regenerativa\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Embora bastante resistentes a balas, as Chimeras são notavelmente vulneráveis a anomalias químicas e térmicas.
+			\n• Embora geralmente sejam criaturas solitárias, não é inédito para as Chimeras caçarem em pares.
+			\n• Duas Chimeras poderosas mantiveram Zaton e Yanov aterrorizados durante 2012. Ambas acabaram sendo caçadas e mortas por um stalker chamado Alexander.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_controller">
+		<text>Controller</text>
+	</string>
+	<string id="encyclopedia_mutants_controller_text">
+		<text>
+			%c[pda_white]Controllers%c[ui_gray_1] são alguns dos mutantes psíquicos mais perigosos da Zona.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nParecido com um ser humano com uma cabeça desproporcionalmente aumentada, um Controller é capaz de influenciar e muitas vezes controlar diretamente as ações de outro ser vivo.\n
+			\nAo contrário de outros mutantes psíquicos, um Controller não manipulará objetos físicos, mas lutará com seu cérebro - em um sentido muito literal - muitas vezes levando seus inimigos ao espanto e à confusão.\n
+			\nO Controller ataca principalmente com um ataque psíquico direcionado, que causa graves danos ao cérebro de seu receptor, enquanto a exposição passiva ao mutante pode levar ao suicídio ou à zumbificação.\n
+			\nAcredita-se amplamente que eles só podem atacar o que podem ver, portanto, fazer bom uso da cobertura para se esconder de sua visão poderia fazer toda a diferença no resultado do combate a esta criatura.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo, Psíquico\n• Saúde: Média\n• Velocidade: Lenta\n• Características: Danos passivos, Poderes psíquicos, Controle da mente
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_crow">
+		<text>Corvo</text>
+	</string>
+	<string id="encyclopedia_mutants_crow_text">
+		<text>
+			%c[pda_white]Corvos%c[ui_gray_1] são uma das poucas espécies de aves que sobreviveram na Zona.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nPara não se perder num labirinto de anomalias gravitacionais, os pilotos militares usam detectores sofisticados, mas o segredo de como os corvos navegam com segurança pelos céus da Zona permanece um mistério.\n
+			\nPouco mais se sabe sobre o que torna os corvos da Zona tão especiais, ou porque eles permaneceram quase completamente intocados quando comparados com o resto da vida selvagem local.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Nenhum\n• Saúde: Baixa\n• Velocidade: Rápida\n• Características: Nenhuma
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_flesh">
+		<text>Flesh</text>
+	</string>
+	<string id="encyclopedia_mutants_flesh_text">
+		<text>
+			%c[pda_white]Flesh%c[ui_gray_1] são porcos mutantes e um dos mutantes mais inofensivos da Zona.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nComo muitas outras criaturas que vivem na Zona, os porcos domésticos sofreram graves mutações após o segundo desastre, afetando os genes responsáveis por seu metabolismo.\n
+			\nIsto acabou causando uma mudança significativa no fenótipo do animal, seus membros dianteiros se transformaram em patas semelhantes a insetos que o Flesh usa para desenterrar raízes e abrir carcaças, enquanto seus corpos se tornaram extremamente inchados e gordurosos.\n
+			\nNo entanto, eles são na maioria das vezes inofensivos e geralmente fogem de um stalker se alguém se aproximar a menos que a criatura seja atacada ou encurralada e não tenha mais para onde fugir.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Média\n• Velocidade: Lenta\n• Características: Nenhuma
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_fracture">
+		<text>Izlom</text>
+	</string>
+	<string id="encyclopedia_mutants_fracture_text">
+		<text>
+			%c[pda_white]Izlom%c[ui_gray_1] são seres humanos antigos, aparentemente descentralizados, com uma mentalidade animalesca.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nAo contrário de outros humanoides mutantes, o Izlom manteve uma aparência bastante familiar, parecendo um velho corcunda em roupas esfarrapadas, apesar de ter mais de dois metros de altura.\n
+			\nNão se sabe muito sobre essas criaturas. Acredita-se que eles eram ex-residentes que viviam ilegalmente na área antes do segundo desastre, ou sujeitos de testes iniciais envolvidos na experimentação genética.\n
+			\nSeus braços hipertrofiados e suas mãos inchadas atrasam a criatura, mas também agem como tacos que são capazes de derrubar facilmente homens adultos com muito pouco esforço.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Média\n• Velocidade: Lenta\n• Características: Nenhuma\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Às vezes, eles pedem ajuda ao localizar stalkers. É normal ver eles chamarem seus companheiros mutantes ou os próprios stalkers.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_karlik">
+		<text>Karlik</text>
+	</string>
+	<string id="encyclopedia_mutants_karlik_text">
+		<text>
+			%c[pda_white]Karliks%c[ui_gray_1] são mutantes anões muito raros, que geralmente são encontrados isolados.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nNão está claro se eles estão ou não relacionados a Burers, mas entre eles compartilham uma grande quantidade de semelhanças psíquicas, tornando-os mera coincidência.\n
+			\nNas poucas raras ocasiões em que foram feitas observações, os Karliks são vistos seduzidos por certos locais ou artefatos, como se tivessem se incumbido de sua responsabilidade, procedendo a atacar qualquer coisa que chegue muito perto.\n
+			\nQuase nada mais se sabe sobre eles, pois a maioria dos que encontraram diretamente as criaturas são frequentemente encontrados mortos ou loucos, sem lesões físicas discerníveis.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo, Psíquico\n• Saúde: Média\n• Velocidade: Lenta\n• Características: Danos passivos, Projeção fantasma, Poderes psíquicos, Telecinesia\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Embora frequentemente comparado ao Burer, o Karlik se concentra mais em ilusões e telepatia do que em telecinesia.
+			\n• Rumores de que os Karliks e os Burers foram criações de laboratório, a primeira provavelmente foi uma repetição anterior da segunda.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_poltergeist">
+		<text>Poltergeist</text>
+	</string>
+	<string id="encyclopedia_mutants_poltergeist_text">
+		<text>
+			%c[pda_white]Poltergeists%c[ui_gray_1] são criaturas estranhas, quase invisíveis, que assombram as profundezas da Zona.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nSobrenaturais aos olhos de alguns, e geralmente encontrados assombrando edifícios antigos e abandonados.\n
+			\nNada se sabe sobre sua origem, embora rumores e lendas afirmem que eles são os espíritos de stalkers atingidos por uma explosão maciça de radiação.\n
+			\nSuas misteriosas aparições e desaparecimentos parecem corresponder à lenda poltergeist, daí o nome, pois eles tentarão levantar e jogar objetos pesados contra você.\n
+			\nInfelizmente, todas as informações sobre o fenômeno poltergeist têm origem em histórias pouco claras e contraditórias de procedência questionável.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Psíquico\n• Saúde: Média\n• Velocidade: Média\n• Características: Poderes psíquicos, Telecinesia\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Os stalkers mais velhos relatam que ocasionalmente os Poltergeists deixam um corpo para trás. Os stalkers mais jovens não tendem a acreditar neles.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pseudodog">
+		<text>Pseudodog</text>
+	</string>
+	<string id="encyclopedia_mutants_pseudodog_text">
+		<text>
+			%c[pda_white]Pseudodogs%c[ui_gray_1] são mutantes caninos relativamente comuns.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nApesar do nome, os Pseudodogs vieram de um cruzamento entre lobos e cães que viviam nas florestas da Zona na época do segundo desastre.\n
+			\nA propósito, não resta muito do lobo neles, sua cabeça é mais redonda, com mandíbulas enormes mas não muito proeminentes, armada com inúmeros dentes enormes crescendo ao longo da vida do animal.\n
+			\nPseudodogs são frequentemente vistos junto com cães cegos, embora sejam muito mais rápidos, mais fortes e mais agressivos que seus parentes cegos. Eles também são ferozmente territoriais e não hesitarão em atacar os intrusos.\n
+			\nSeus poderosos músculos e o esqueleto remodelado permitem que este monstro se mova com incrível velocidade e faça enormes saltos rápidos, permitindo que ele seja muito mais ágil do que a maioria dos outros animais de sua espécie.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Média\n• Velocidade: Rápida\n• Características: Ágil
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pseudogeist">
+		<text>Pseudogeist</text>
+	</string>
+	<string id="encyclopedia_mutants_pseudogeist_text">
+		<text>
+			%c[pda_white]Pseudogeists%c[ui_gray_1] são uma subespécie rara de Poltergeists em forma de nuvens.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEssencialmente nada se sabe sobre estas criaturas, pois são apenas uma ocorrência recente e não existem há tempo suficiente para documentar.\n
+			\nAparecendo como uma pulsante série de nuvens cor de borgonha (vermelho-vinho), elas tentarão matar qualquer coisa infeliz o suficiente para andar dentro delas.\n
+			\nNão existem locais específicos, pois eles tendem a aparecer nos lugares mais insuspeitos.\n
+			\nApós a morte, eles explodem em múltiplas formações de nuvens antes de desaparecerem.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Psíquico\n• Saúde: Média\n• Velocidade: Média\n• Características: Poderes psíquicos\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pseudogiant">
+		<text>Pseudogiant</text>
+	</string>
+	<string id="encyclopedia_mutants_pseudogiant_text">
+		<text>
+			%c[pda_white]Pseudogiants%c[ui_gray_1] são um dos mutantes mais raros e temíveis da Zona.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nAo contrário de outros mutantes humanoides, o Pseudogiant desenvolveu uma força incrível e pode resistir a uma quantidade desumana de punição antes de desistir e morrer.\n
+			\nUm par de membros desproporcionalmente grandes e ataques físicos incrivelmente poderosos permite que ele destrua qualquer coisa que seja infeliz o suficiente para se aproximar dele - sendo capaz de criar ondas de choque que lançam objetos simplesmente batendo seus enormes pés.\n
+			\nApesar de sua resiliência, eles parecem ser mais territoriais do que ofensivos, normalmente não perseguindo um alvo mais do que uma curta distância antes de abandonar a perseguição e recuar.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Muito alta\n• Velocidade: Lenta\n• Características: Força imensa
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Curiosamente, a maioria dos Pseudogiants - embora sejam territoriais -, não deixam de figurar entre os menos agressivos entre os mutantes da Zona. Para um stalker médio, no entanto, isso realmente não quer dizer muito.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_psydog">
+		<text>Psydog</text>
+	</string>
+	<string id="encyclopedia_mutants_psydog_text">
+		<text>
+			%c[pda_white]Psydogs%c[ui_gray_1] são uma subespécie rara de Pseudodogs, possuindo habilidades psíquicas únicas.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nA característica mais marcante do Psydog é sua capacidade de afetar a mente dos outros, sendo capaz de criar clones aparentemente vivos de si mesmo.\n
+			\nEstes são diferentes dos fantasmas regulares produzidos por campos psíquicos e alguns outros mutantes, pois parecem mais reais e sólidos e podem - pelo menos para a mente - machucar o que eles atacam.\n
+			\nVisualmente eles são quase indistinguíveis dos Pseudodogs além de terem grandes listras de pelos cinzas/brancos.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo, Psíquico\n• Saúde: Média\n• Velocidade: Rápida\n• Características: Ágil, Projeção fantasma
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pyrogeist">
+		<text>Pyrogeist</text>
+	</string>
+	<string id="encyclopedia_mutants_pyrogeist_text">
+		<text>
+			%c[pda_white]Pyrogeists%c[ui_gray_1] são uma rara subespécie pirocinética de Poltergeists.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nAparecendo como uma forma flutuante de névoa de calor cercada por um brilho ardente, eles são facilmente distinguíveis dos Poltergeists regulares. Ao morrer, eles explodem numa confusão de sangue e fogo.\n
+			\nSeu principal e único ataque é o lançamento de pilares de fogo, semelhante às anomalias Burner, que usará para tentar queimar seus inimigos até a morte por falta de qualquer habilidade telecinética.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Psíquico (Térmico)\n• Saúde: Média\n• Velocidade: Média\n• Características: Poderes psíquicos
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_rat">
+		<text>Rato</text>
+	</string>
+	<string id="encyclopedia_mutants_rat_text">
+		<text>
+			%c[pda_white]Ratazanas%c[ui_gray_1] são roedores pequenos e famintos encontrados dentro e ao redor de edifícios desertos.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nNa maioria das vezes encontrados em matilhas, e só em raros casos sozinhos, os ratos são a companhia constante do homem - os lugares que as pessoas deixam para trás os ratos logo os ocupam.\n
+			\nRatazanas são criaturas muito inteligentes e tentarão atacar a vítima de diferentes ângulos, que quando cercada por todos os lados tem muito poucas chances de sobrevivência.\n
+			\nEles geralmente vivem em lugares abandonados e representam muito perigo, contorná-los cuidadosamente é sua melhor opção.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Baixa\n• Velocidade: Média\n• Características: Nenhuma\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• São os mutantes mais inofensivos da Zone, geralmente são caçados por sua carne, não levando em conta o perigo que representam.
+			\n• Também chamados de Rodent, os Tushkanos são os primos mais leves, menos agressivos e obviamente menos mutantes que as Ratazanas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_snork">
+		<text>Snork</text>
+	</string>
+	<string id="encyclopedia_mutants_snork_text">
+		<text>
+			%c[pda_white]Snorks%c[ui_gray_1] são soldados e stalkers que horrivelmente se tornaram mutantes.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEssas criaturas já foram aparentemente pessoas, pois ainda vestem os restos esfarrapados de seus uniformes, embora seja difícil imaginar que condições poderiam trazer uma pessoa para este estado.\n
+			\nO Snork leva um estilo de vida completamente animal. Eles se movem nos quatro membros, saltando sobre o chão, e estão constantemente farejando o ar para captar o cheiro de sua próxima refeição.\n
+			\nEles caçam com inteligência e prudência, esperando por stalkers como predadores. Os reflexos relâmpagos e os músculos hipertrofiados permitem saltos longos e precisos e em segundos rasgam suas vítimas em pedaços.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Média\n• Velocidade: Rápida\n• Características: Ágil\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Originalmente considerados como infelizes sobreviventes das primeiras expedições militares na Zone, sua presença contínua em 2018 abriu caminhos obscuros de pensamento e especulação a respeito de sua verdadeira natureza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_tushkano">
+		<text>Tushkano</text>
+	</string>
+	<string id="encyclopedia_mutants_tushkano_text">
+		<text>
+			%c[pda_white]Tushkano%c[ui_gray_1] são pequenas criaturas semelhantes a ratazanas que se movimentam em suas duas patas traseiras.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nSeu nome está em referência ao roedor dipodídeo, chamado tushkanchikovye em russo, que se movimenta de maneira muito semelhante.\n
+			\nApesar de seu comportamento, acredita-se que os Tushkanos tiveram origem em ratos treinados e domesticados que foram experimentados antes do segundo desastre.\n
+			\nEles vivem principalmente em edifícios em ruínas, alimentando-se de tudo o que podem capturar - tanto mutantes quanto stalkers - e muitas vezes em grupos de até dez indivíduos.\n
+			\nComo as Ratazanas, eles também são criaturas muito inteligentes e atacarão suas vítimas de todos os lados e, devido à sua pequena estatura, podem rapidamente dominar a maioria das presas quando trabalham juntos.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Baixa\n• Velocidade: Rápida\n• Características: Nenhuma
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_zombie">
+		<text>Zumbi</text>
+	</string>
+	<string id="encyclopedia_mutants_zombie_text">
+		<text>
+			%c[pda_white]Zumbis%c[ui_gray_1] são stalkers que foram reduzidos a seus reflexos mais básicos.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nAo contrário do nome, esses zumbis não são na verdade mortos-vivos, mas apenas mentes sem sentido das que costumavam ser.\n
+			\nEstas criaturas são o estágio final de deterioração para um ser humano após a exposição a poderosos campos psíquicos, tendo perdido até mesmo a capacidade de operar ferramentas básicas e armamento.\n
+			\nComo resultado destas mudanças, os zumbis não são nada além de mortos-vivos lentos, para os quais existem apenas dois estímulos eficazes: a alimentação e o sono.\n
+			\nDevido ao fato de que a maioria dos mutantes são mortos muito antes de chegar a esta fase, este mutante pode ser uma descoberta um tanto rara na Zone.\n
+			\n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Baixa\n• Velocidade: Lenta\n• Características: Nenhuma\n
+			\n%c[pda_yellow]Curiosidades%c[ui_gray_1]
+			\n• Uma verdadeira tragédia, o melhor é tirar esses pobres coitados de seus sofrimentos com a maior frequência possível.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_psysucker">
+		<text>Sanguessuga-Fantasma</text>
+	</string>
+	<string id="encyclopedia_mutants_psysucker_text">
+		<text>
+			%c[pda_white]Sanguessuga-Fantasma%c[ui_gray_1] são as espécies relativas de Sanguessugas que possuem habilidades psíquicas únicas.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nOrigens desconhecidas. As Sanguessuga-Fantasma são uma das criaturas mais misteriosas da Zone.
+			\nOs resultados da autópsia mostraram muitas semelhanças com as Sanguessugas, especialmente com a camuflagem óptica que permite que elas se tornem temporariamente quase invisíveis a olho nu. Por outro lado, estudos posteriores mostraram que a Sanguessuga-Fantasma possui um sistema nervoso desenvolvido ao contrário de seus parentes, o que aponta para sua capacidade única de afetar a mente dos outros, onde é capaz de criar imagens aparentemente vivas de si mesmo.\n
+			\nSanguessuga-Fantasmas têm a pele rasgada, mais fraca em comparação com seus parentes, como se estivessem perdendo sua durabilidade ao longo do tempo. Também lhes faltam os tentáculos salientes do rosto de uma sanguessuga junto com outros órgãos. Talvez seja a razão pela qual a Sanguessuga-Fantasma se esconde mais enquanto confia em seus ataques psíquicos.
+			\n \n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo, Psíquico\n• Saúde: Baixa\n• Velocidade: Rápida\n• Características: Camuflagem, Projeção fantasma\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_lurker">
+		<text>Lurker</text>
+	</string>
+	<string id="encyclopedia_mutants_lurker_text">
+		<text>
+			O %c[pda_white]Lurker%c[ui_gray_1] é um mutante híbrido com grande poder físico.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nRumores dizem que os Lurkers fizeram parte de uma experiência que ocorreu em um dos laboratórios escondidos ao redor da Zone antes do segundo desastre. No entanto, a primeira onda de Lurkers foi avistada em 2013, perto da periferia de Pripyat.\n
+			\nSua forte pele multicamadas, resistência muscular anormal e senso de audição dos Lurkers garantem a capacidade de sobreviver nas piores condições ambientais. Suas pernas traseiras permitem que eles saltem distâncias enormes e atinjam suas vítimas.\n
+			\nOs caçadores locais são conhecidos por coletar os olhos da criatura por seu brilho amarelo único.
+			\n \n%c[pda_blue]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Média\n• Velocidade: Rápida\n• Características: Nenhuma\n
+		</text>
+	</string>
+	
+</string_table>

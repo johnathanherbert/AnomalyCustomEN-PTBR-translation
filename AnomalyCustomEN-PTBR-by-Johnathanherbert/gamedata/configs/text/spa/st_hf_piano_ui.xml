@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_autoplay">
+		<text>Reprodução Automática</text>
+	</string>
+	<string id="st_configure">
+		<text>Configurar</text>
+	</string>
+	<string id="st_tempo">
+		<text>Tempo</text>
+	</string>
+	<string id="st_transpose">
+		<text>Transpor</text>
+	</string>
+	<string id="st_volume">
+		<text>Volume</text>
+	</string>
+	<string id="st_instrument">
+		<text>Instrumento</text>
+	</string>
+	<string id="st_filter_by_tag">
+		<text>Filtrar por Tag</text>
+	</string>
+</string_table>

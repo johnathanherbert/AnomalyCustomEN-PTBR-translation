@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_m57">
+		<text>Zastava M57</text>
+	</string>
+
+	<string id="st_wpn_m57_descr">
+		<text>A variante iugoslava da TT-33, produzida de 1957 até 1992, oferece várias melhorias em relação à TT-33, incluindo um chassi mais longo, melhorando o manuseio, e um carregador maior, permitindo carregar mais um cartucho. A arma também possui várias outras melhorias, incluindo um botão de liberação do carregador maior, tratamento anti-reflexo no ferrolho e miras mais longas e ajustáveis. É importante notar que os carregadores de 9 cartuchos da M57 são compatíveis com outras variantes da TT-33, mas os carregadores de 8 cartuchos da TT-33 não são compatíveis com esta pistola. Além disso, devido à sua engenharia, é facilmente possível trocar o calibre para 9x19.</text>
+	</string>
+	
+</string_table>

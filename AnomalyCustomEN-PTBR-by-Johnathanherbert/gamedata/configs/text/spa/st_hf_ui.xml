@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_pickup">
+		<text>Pegar</text>
+	</string>
+    <string id="st_close">
+		<text>Fechar</text>
+	</string>
+    <string id="st_turn_on">
+		<text>Ligar</text>
+	</string>
+    <string id="st_turn_off">
+		<text>Desligar</text>
+	</string>
+    <string id="st_take_fuel">
+		<text>Pegar combustível</text>
+	</string>
+    <string id="st_add_fuel">
+		<text>Adicionar combustível</text>
+	</string>
+	<string id="st_access_stash">
+		<text>Acessar esconderijo</text>
+	</string>
+	<string id="st_use_workshop">
+		<text>Usar Oficina</text>
+	</string>
+	<string id="st_fuel">
+		<text>Combustível</text>
+	</string>
+	<string id="st_duration">
+		<text>Duração</text>
+	</string>
+	<string id="st_place_furniture">
+		<text>Colocar Item</text>
+	</string>
+</string_table>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_guns_groza">
+		<text>OC-14-4A</text>
+	</string>
+	<string id="st_wpn_groza_guns_descr">
+		<text>Sistema lançador de granadas automático, 70% unificado com as armas automáticas do tipo AKS-74U (as principais diferenças são o calibre 9x39 mm, o esquema de layout bull-pap e maiores oportunidades de modernização). Projetado para armar unidades de resposta rápida. É altamente apreciado por militares e stalkers pela capacidade de atingir com precisão um inimigo protegido por colete à prova de balas ou localizado em um abrigo. Pode ser montado em 4 configurações diferentes, dependendo da missão de combate.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] mira PO4õ34\n
+		%c[d_purple] • %c[ui_gray_2] lançador de granadas GP-25 sob o cano\n \n</text>
+	</string>
+	<string id="st_wpn_groza_guns_nimble">
+		<text>OC-14-4A «Duty»</text>
+	</string>
+	<string id="st_wpn_groza_guns_nimble_descr">
+		<text>Complexo lançador de granadas automático OC-14 modificado por artesãos locais do "Duty" para um de seus ex-combatentes chamado Danya-Master. A arma é montada para todas as situações da Zona, o calibre foi alterado para um mais comum - 5.45x39, também possui um carregador aumentado para 60 munições e laser. Esta metralhadora é um sonho antigo de todo veterano do grupo "DUTY", mas o antigo proprietário da metralhadora disse que apenas o membro mais digno do grupo a teria no final, e instruiu Petrenko a encontrar um novo dono para a metralhadora.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] mira PO4õ34, Mira Noturna PN-23, ELCAN SpecterDR, Acog, Barsca AC10632, Cobra 8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, AimpointMicro, Aimpoint, C-More, Aimpoint CompM4s, Docter, Deltapoint Pro, Eotech, Eotech 553, Kemper, Meprolight, Rakurs, RMR\n</text>
+	</string>
+</string_table>

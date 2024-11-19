@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+
+<!-- traduzido por johnathanherbert -->
+<string_table>
+    <string id="kvartet_1">
+        <text>Todas as unidades, aqui é Quarteto. Nenhuma emissão psíquica detectada; presença inimiga é limitada. Solicitando permissão para pousar no Radar e iniciar operações de reconhecimento. Operação Retribuição Monolith está em andamento - todas as equipes de operações especiais e stalkers militares, reagrupem e aguardem para atacar a Usina Nuclear de Chernobyl, câmbio.</text>
+    </string>
+    <string id="kvartet_2">
+        <text>Todas as unidades, aqui é Quarteto. Hostis estão concentrados em três áreas: a entrada do Sarcófago, a estrada próxima aos trilhos do trem e a entrada principal da estação. Iniciem o ataque, câmbio.</text>
+    </string>
+    <string id="kvartet_3">
+        <text>Todas as unidades, aqui é Quarteto. Capturamos o setor sul da usina e estamos prontos para avançar ao setor norte e limpar os geradores das forças hostis. Atenção, inteligência sugere que atiradores de elite Monolith ocuparam posições no setor norte, câmbio.</text>
+    </string>
+    <string id="kvartet_4">
+        <text>Aqui é Quarteto! Tomamos os geradores! Missão cumprida! Todas as unidades mantenham posição e aguardem novas instruções, câmbio. Quanto a você, soldado - colete todas as informações que puder dos laboratórios e então reporte ao comando.</text>
+    </string>
+    <string id="kvartet_5">
+        <text>Aqui é Quarteto, vamos começar o ataque!</text>
+    </string>
+    <string id="st_cherep_1">
+        <text>O trabalho está feito. Reporte ao General Voronin - vamos assegurar nossa posição aqui.</text>
+    </string>
+    <string id="cs_task1_news">
+        <text>Spore: Ei, Stalker, perdemos contato com um dos nossos batedores, codinome "Muleta". Ajude a encontrá-lo antes que seja tarde demais - os mutantes ficam muito agressivos à noite. O último sinal que recebemos dele o coloca próximo às partes norte do Pântano - deve estar perto da estrada.</text>
+    </string>
+    <string id="cs_task1_news1">
+        <text>Você: Vou tentar encontrá-lo.</text>
+    </string>
+    <string id="cs_task1_news2">
+        <text>Cold: Stalker, conseguimos descriptografar o PDA do Muleta. Venha me ver quando estiver livre - tenho trabalho para você.</text>
+    </string>
+    <string id="cs_task8_news3">
+        <text>Gamajun: Stalker, de acordo com nossas informações, os fanáticos estão contra-atacando. Mate todos eles!</text>
+    </string>
+</string_table>

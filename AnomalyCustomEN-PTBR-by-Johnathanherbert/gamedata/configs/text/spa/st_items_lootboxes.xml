@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="st_lootbox_small_bad">
+		<text>Caixa de Ferramentas com Cadeado</text>
+	</string>
+	<string id="st_lootbox_small_bad_descr">
+		<text>
+            Uma caixa de ferramentas de tamanho médio protegida com um cadeado simples. Caixas deste tipo são a maneira mais econômica de armazenar os pertences pessoais de um stalker, mas a caixa oferece pouca proteção contra os elementos e é fácil de forçar. Como resultado, apenas os stalkers mais pobres se arriscam a deixar algo valioso dentro. O cadeado é de baixa qualidade e pode ser burlado com pouco esforço.\n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_small_ok">
+		<text>Caixa de Aço com Cadeado</text>
+	</string>
+	<string id="st_lootbox_small_ok_descr">
+		<text>
+            Caixa de aço simples com cadeado. Diferente das caixas de ferramentas, esta caixa é projetada especificamente para manter o conteúdo seguro e oferece algum grau de proteção contra adulteração. Esses tipos de caixas são comumente usados por stalkers para impedir que possíveis ladrões roubem seus pertences pessoais. O cadeado é de qualidade decente e não deve ser muito difícil de arrombar.\n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_small_good">
+		<text>Contêiner Seguro</text>
+	</string>
+	<string id="st_lootbox_small_good_descr">
+		<text>
+            Contêiner amarelo de aparência sofisticada com trava interna. A maleta é feita de materiais compostos desconhecidos e foi projetada para ser resistente à adulteração mecânica e aos elementos. Caixas deste tipo são originárias de fora da Europa Oriental e são populares entre estrangeiros e stalkers ricos como o melhor meio de armazenar seus itens com segurança. A trava interna é muito complexa, mas deve ser possível de burlar.\n \n
+		</text>
+	</string>
+	<string id="st_lootbox_small_good2_descr">
+		<text>
+            Contêiner de aparência sofisticada com trava interna. A maleta é feita de materiais compostos desconhecidos e foi projetada para ser resistente à adulteração mecânica e aos elementos. Caixas deste tipo são originárias de fora da Europa Oriental e são populares entre estrangeiros e stalkers ricos como o melhor meio de armazenar seus itens com segurança. A trava interna é muito complexa, mas deve ser possível de burlar.\n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_small_artifact">
+		<text>Caixa Revestida de Chumbo Trancada</text>
+	</string>
+	<string id="st_lootbox_small_artifact_descr">
+		<text>
+            Maleta revestida de chumbo feita profissionalmente com trava embutida carimbada com o símbolo do Ministério da Ciência da Ucrânia. Essas maletas são frequentemente usadas por Ecologistas para transportar artefatos através de áreas perigosas, e se destacam em manter a radiação dentro enquanto mantêm a umidade e possíveis ladrões do lado de fora. Mesmo com guardas contratados, grupos de Ecologistas são frequentemente alvejados por seus artefatos coletados e dados de pesquisa, e como tal, proteger informações e artefatos de alto valor em contêineres seguros tornou-se prática padrão. A trava interna é feita profissionalmente e muito difícil de burlar.\n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_small_briefcase">
+		<text>Maleta Trancada</text>
+	</string>
+	<string id="st_lootbox_small_briefcase_descr">
+		<text>
+            Maleta à prova de fogo trancada. Bastante leve e portátil. Maletas como estas são comumente usadas por cientistas e militares para transportar documentos sensíveis, ou por organizações criminosas para transportar grandes quantidades de dinheiro em papel. Como convém a um contêiner de transporte de itens tão sensíveis, a trava desta maleta é muito segura.\n \n
+		</text>
+	</string>
+    
+	<string id="st_lootbox_survival">
+		<text>Cache de Sobrevivência</text>
+	</string>
+	<string id="st_lootbox_survival_descr">
+		<text>
+			Caixa à prova d'água trancada contendo uma variedade de suprimentos de campo úteis. Esses caches especializados do tipo dead-drop são usados principalmente por paramilitares e forças-tarefa secretas para reabastecer seus agentes em campo enquanto mantêm um perfil operacional baixo. No entanto, não há marcas identificadoras nem no exterior da caixa nem no interior, então geralmente é difícil distinguir se casos como estes pertencem a espiões ou simplesmente stalkers bem equipados. Devido ao perigo inerente de enterrar coisas no solo irradiado da Zona, esses caches são bem escondidos com uma trava decente o suficiente para desencorajar ladrões. Casos como estes não contêm nada particularmente valioso, embora comida, medicamentos e munição sejam sempre bem-vindos. \n \n
+		</text>
+	</string>
+
+	<string id="st_lootbox_large_shotgun">
+		<text>Caixa de armas antiga</text>
+	</string>
+	<string id="st_lootbox_large_shotgun_descr">
+		<text>
+            Caixa de madeira usada por moradores para guardar armas - rifles de caça, excedentes da Grande Guerra, etc. Algumas dessas foram deixadas para trás nas vilas ao redor da Zona de Exclusão, enquanto outras são simplesmente caixas reutilizadas encontradas na Zona por stalkers para guardar suas armas em um ambiente semi-seco. A madeira é bastante antiga e está apodrecendo em alguns lugares, então seria trivial quebrar a trava com um machado.\n \n
+		</text>
+	</string>
+	<string id="st_lootbox_large_surplus">
+		<text>Caixa de armas do Exército</text>
+	</string>
+	<string id="st_lootbox_large_surplus_descr">
+		<text>
+           Caixa do exército com cadeado, comumente usada para transportar rifles e armamentos. Após as tentativas iniciais fracassadas de sondar a Zona de Exclusão, uma vasta quantidade de equipamentos, incluindo caixas como estas, foram abandonadas e deixadas à mercê das condições da Zona. É uma aposta dizer se essas caixas são importações recentes de alguns anos atrás ou relíquias do início da Zona - além disso, são muito pesadas e geralmente não vale a pena carregá-las.\n \n
+		</text>
+	</string>
+	<string id="st_lootbox_large_rifle">
+		<text>Case Pelican para Rifle</text>
+	</string>
+	<string id="st_lootbox_large_rifle_descr">
+		<text>
+            Case à prova d'água frequentemente usado para transportar rifles longos. As únicas pessoas na Zona que podem se dar ao luxo de cuidar de suas armas com tanto luxo são Mercenários ou outras pessoas igualmente perigosas, então cases como estes são muito raros e extremamente perigosos de possuir.\n \n
+		</text>
+	</string>
+	<string id="st_lootbox_large_monolith">
+		<text>Cache do Monolith</text>
+	</string>
+	<string id="st_lootbox_large_monolith_descr">
+		<text>
+            Caixa ornamentada pesada com o símbolo do Monolith gravado na tampa. Diz-se que estas caixas são trazidas à existência pelo próprio Realizador de Desejos, e cumprem os desejos do Monolith por equipamentos e suprimentos. A trava está anomalamente adulterada - algum tipo de anomalia gravitacional mantém os pinos no lugar. Uma descoberta tão rara, no entanto, provavelmente chamará a atenção de um comerciante ou colecionador.\n \n
+		</text>
+	</string>
+    <string id="st_box_difficulty">
+        <text>Dificuldade da trava:</text>
+    </string>
+    <string id="st_lootbox_get">
+        <text>Encontrado </text>
+    </string>
+    <string id="st_no_picks">
+        <text>Sem gazuas disponíveis.</text>
+    </string>
+    <string id="st_cant_unlock">
+        <text>Gazuas insuficientes para abrir esta caixa.</text>
+    </string>
+    <string id="st_cant_unlock_snapgun">
+        <text>Ferramenta incapaz de abrir esta caixa.</text>
+    </string>
+    <string id="st_incompatible">
+        <text>Trava muito complexa para abrir com a ferramenta.</text>
+    </string>
+
+    <string id="st_cant_unlock_coinbox">
+        <text>Ferramenta não cabe na fenda.</text>
+    </string>
+    <string id="st_pick_condition">
+        <text>Condição do conjunto de gazuas:</text>
+    </string>
+
+    <string id="st_tech_open">
+        <text>Custo para abrir</text>
+    </string>
+    <string id="st_tech_open_q">
+        <text>Arrombar a caixa?</text>
+    </string>
+    <string id="st_tech_open_fail">
+        <text>Que diabos de caixa é essa? \n Não há como eu abrir isso.</text>
+    </string>
+    <string id="st_pick_split">
+        <text>gazuas separadas </text>
+    </string>
+    <string id="st_loot_ammo">
+        <text>caixa de </text>
+    </string>
+    <string id="st_loot_ammos">
+        <text>caixas de </text>
+    </string>
+    <string id="st_weapon_3">
+        <text>uma boa </text>
+    </string>
+    <string id="st_weapon_2">
+        <text>uma decente </text>
+    </string>
+    <string id="st_weapon_1">
+        <text>uma ruim </text>
+    </string>
+    <string id="st_weapon_0">
+        <text>uma quebrada </text>
+    </string>
+
+    <string id="st_money">
+        <text> rublos</text>
+    </string>
+    <string id="st_check_peek">
+        <text>[DEBUG] espiar</text>
+    </string>
+	
+	<string id="st_rip_axe">
+        <text>O machado quebrou ao esmagar a caixa.</text>
+    </string>
+
+	<string id="st_unlock_pick">
+        <text>arrombar trava</text>
+    </string>
+	<string id="st_unlock_snap">
+        <text>abrir com snapgun</text>
+    </string>
+
+	<string id="st_unlock_coin">
+        <text>inserir moeda?</text>
+    </string>
+
+	<string id="st_lockpick">
+		<text>Gazua</text>
+	</string>
+	<string id="st_lockpick_descr">
+		<text>Gazua individual. Coisa rara e frágil que tende a quebrar facilmente. Pode ser usada para abrir travas em certas caixas, mas tendem a quebrar rapidamente. Múltiplas gazuas podem ser necessárias para abrir certos tipos de caixas. \n \n 
+			Para usar, arraste e solte este item em uma caixa trancada ou clique com o botão direito na caixa trancada. O número máximo de gazuas que podem ser aplicadas a qualquer trava é dez. \n \n
+			%c[d_cyan] • %c[ui_gray_2] força efetiva: 10%\n
+			%c[d_cyan] • %c[ui_gray_2] até dez podem ser consumidas\n
+			%c[d_cyan] • %c[ui_gray_2] quebra ao usar\n
+		</text>
+	</string>
+
+	<string id="st_lockpick_bundle">
+		<text>Pacote de gazuas</text>
+	</string>
+	<string id="st_lockpick_bundle_descr">
+		<text>Um pacote com três gazuas. Que ótimo achado!\n \n
+		</text>
+	</string>
+    
+	<string id="st_skelekey">
+		<text>Chave mestra</text>
+	</string>
+	<string id="st_skelekey_descr">
+		<text>Uma chave estranha que parece ter sido exposta a um campo anômalo. A lâmina está dobrada de forma não natural, enquanto os dentes brilham ominosamente e parecem estar constantemente mudando de forma e tamanho.\n \n</text>
+	</string>
+	<string id="st_lockpick_set">
+		<text>Ferramentas de chaveiro</text>
+	</string>
+	<string id="st_lockpick_set_descr">
+		<text>Conjunto de ferramentas finas montado profissionalmente usado por chaveiros. Alguém tirou todas as gazuas, infelizmente. Ainda assim, as chaves de torção são melhores que chaves de fenda quando se trata de girar travas. \n \n
+			%c[d_cyan] • %c[ui_gray_2] reduz a dificuldade da trava em 10%\n
+		</text>
+	</string>
+
+	<string id="st_snapgun">
+		<text>Snap Gun</text>
+	</string>
+	<string id="st_snapgun_descr">
+		<text>Um dispositivo especializado usado para abrir travas rapidamente. A snap gun funciona golpeando todos os pinos de uma vez em uma trava de cilindro simples, alinhando-os rapidamente com a linha de cisalhamento e permitindo que o cilindro gire. O benefício de tal dispositivo é que pode vencer a maioria das travas simples com pouco esforço e tem uma longa vida útil operacional, mas é bastante pesado e inútil com qualquer trava um pouco mais complicada.\n \n
+			%c[d_cyan] • %c[ui_gray_2] força efetiva: 30%\n
+		</text>
+	</string>
+
+	<string id="st_spooky_1">
+		<text>ABRA A CAIXA DROGA</text>
+	</string>
+	<string id="st_spooky_2">
+		<text>EI ABRA ESTA CAIXA</text>
+	</string>
+	<string id="st_spooky_3">
+		<text>EI ME DEIXA SAIR DAQUI</text>
+	</string>
+	<string id="st_spooky_4">
+		<text>ABRE AÍ EU TENHO VODKA</text>
+	</string>
+	<string id="st_spooky_free">
+		<text>HAHAHAHAHA ESTOU LIVRE</text>
+	</string>
+
+	
+	<string id="st_lootbox_docs_case">
+		<text>Pasta de Documentos Metálica</text>
+	</string>
+	<string id="st_lootbox_docs_case_descr">
+		<text>
+			Pasta metálica fina e segura usada para armazenar documentos. Enquanto os X-Labs ainda estavam operacionais, descobertas críticas e outras informações importantes eram trancadas nestas pastas de documentos e enviadas. Estas pastas de documentos são agora quase impossíveis de encontrar na Zona - qualquer um pagaria uma fortuna para saber o conteúdo dentro. A trava nesta pasta é biométrica e não é possível abrir mecanicamente.
+		</text>
+	</string>
+
+	<string id="ui_mcm_menu_lootboxes">
+		<text>Caixas de Saque</text>	
+	</string>
+	<string id="ui_mcm_lootboxes_title">
+		<text>Caixas de Saque</text>
+	</string>
+	<string id="ui_mcm_lootboxes_stashchance">
+		<text>Chance de encontrar caixas de saque em esconderijos</text>
+	</string>
+	<string id="ui_mcm_lootboxes_deathchance">
+		<text>
+			Chance de encontrar saque em stalkers mortos (incluindo gazuas)
+		</text>
+	</string>
+	<string id="ui_mcm_lootboxes_lootquality">
+		<text>Qualidade do saque</text>
+	</string>
+	<string id="ui_mcm_lootboxes_lootquality_desc">
+		<text>
+			Afeta a qualidade das caixas de saque encontradas e a qualidade do saque nelas aumentando as chances de rolar melhores pools.
+		</text>
+	</string>
+	
+	<string id="ui_mcm_lootboxes_animation">
+		<text>Animações de abertura de caixa</text>
+	</string>
+	<string id="ui_mcm_lootboxes_debug">
+		<text>Registro de depuração</text>
+	</string>
+ 
+
+	
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+
+</string_table>

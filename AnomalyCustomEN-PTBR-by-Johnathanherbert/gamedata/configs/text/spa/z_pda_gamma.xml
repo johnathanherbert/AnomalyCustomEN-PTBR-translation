@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="encyclopedia_gamma">
+		<text>Manual GAMMA [0.9.1]</text>
+	</string>
+	<string id="encyclopedia_gamma_text">
+		<text>%c[pda_blue]Manual GAMMA [0.9.1]. %c[ui_gray_1]</text>
+	</string>
+
+	<string id="article_gamma_aaintro">
+		<text>--- Bem-vindo ao GAMMA ---</text>
+	</string>
+	<string id="article_gamma_aaintro_text">
+		<text>%c[pda_white]Bem-vindo ao GAMMA\n \n %c[ui_gray_1] \n %c[pda_blue]GAMMA significa
+			Gigantic Automated Modular Modpack for Anomaly. %c[ui_gray_1] \n\n\n %c[pda_green] Este
+			pacote de mods também inclui seu próprio conjunto modular de complementos, como:
+			%c[ui_gray_1] \n - Uma nova interface \n - Uma experiência de sobrevivência
+			reequilibrada focada em artesanato, reparos e culinária \n - Uma sensação de progressão
+			durante o jogo graças a pequenas mudanças globais na maioria dos sistemas e circuitos do
+			jogo \n - Sistemas de dano reequilibrados para jogadores e NPCs \n - Balística de armas
+			e danos aos sistemas corpo a corpo reequilibrados \n - Efeitos de radiação revisados e
+			zonas de radiação dinâmica \n - Muitas correções para alguns dos principais mods, como o
+			pacote de armas Boomsticks e Sharpsticks \n - Uma nova economia onde os comerciantes
+			vendem apenas suprimentos e boa munição só estará disponível para stalkers confiáveis \n
+			- Novos carregamentos iniciais focados em fornecer pistolas, submetralhadoras ou armas
+			da Segunda Guerra Mundial para um início mais tranquilo com calibres para os quais você
+			pode comprar munição \n - Eles também fornecem as ferramentas básicas para passear pela
+			Zona, o que é ótimo para jogos Ironman \n - E muito mais!</text>
+	</string>
+
+	<string id="article_gamma_progress">
+		<text>Progressão</text>
+	</string>
+	<string id="article_gamma_progress_text">
+		<text>%c[pda_white]Como progredir\n \n %c[ui_gray_1] \n Em resumo, os princípios básicos da
+			progressão GAMMA são os seguintes: \n - Execute tarefas, mate mutantes, colete suas
+			partes, guarde essas partes para cumprir as tarefas dos stalkers \n - Colete as
+			coordenadas dos caches, visite esses esconderijos (ícones brancos ou verdes no mapa do
+			PDA) para obter bons itens e kits de ferramentas \n - Use os kits de ferramentas
+			adquiridos para criar kits de reparo de armas e armaduras para atualizar seu equipamento
+			e aumentar sua taxa de sobrevivência \n - Ao completar tarefas, ganhe goodwill com
+			diferentes facções para comprar melhores suprimentos, como melhor munição para suas
+			armas</text>
+	</string>
+
+	<string id="article_gamma_healing">
+		<text>Cura e medicina</text>
+	</string>
+	<string id="article_gamma_healing_text">
+		<text>%c[pda_white]Cura e Medicina\n \n %c[ui_gray_1] \n - Use itens básicos de cura, como
+			medkits ou bandagens, para curar sua saúde principal. Isso cura seus membros
+			temporariamente (HP amarelo) \n - Para converter HP temporário (amarelo) em membros
+			permanentes (brancos), use itens pós-cura, como ibuprofeno, fentanil, antídotos ou
+			Yadulin \n - Qualquer medicamento com pontos brancos em sua descrição irá curar o HP
+			temporário daquele membro ou área. Esses itens de cura têm um ícone de coração branco \n
+			- A pós-cura causará efeitos colaterais, como fome extrema ou tontura. A tontura pode
+			ser curada com água ou medicamentos que melhoram a resistência \n - Observe que os
+			injetores de resistência a danos estão funcionando (indicado por um ícone de escudo) \n
+			- Você não precisa de todos os itens médicos para se curar. Marque os mais importantes
+			como favoritos para facilitar o acesso</text>
+	</string>
+
+	<string id="article_gamma_crafting">
+		<text>Fabricação</text>
+	</string>
+	<string id="article_gamma_crafting_text">
+		<text>%c[pda_white]Crafting\n \n %c[ui_gray_1] \n - A criação é baseada nos kits de
+			ferramentas que você encontrará nos esconderijos marcados \n - Clique com o botão
+			direito em qualquer kit de ferramentas para abrir uma bancada portátil onde você pode
+			começar a criar, reparar ou atualizar seu equipamento \n - Existem 6 tipos de kits de
+			ferramentas: Basic, Advanced, Expert, Medical, Gunsmith e Artifact Smelter \n - Quase
+			todas as receitas estão disponíveis desde o início, inclusive as culinárias \n - Algumas
+			receitas estão bloqueadas, especialmente aquelas de fontes de energia avançadas para
+			exoesqueletos. Você pode obtê-las em comerciantes Mercenaries e Ecologists de nível 5 \n
+			- Os itens "lixo" necessários para a elaboração de receitas são indicados por um ícone
+			de martelo e pinça. Guarde-os \n - Desmonte o equipamento que encontrar para obter peças
+			de artesanato. Alguns desses itens são valiosos, como detectores quebrados, portanto,
+			guarde-os se precisar de um pouco de dinheiro extra</text>
+	</string>
+
+	<string id="article_gamma_cooking">
+		<text>Cozinha</text>
+	</string>
+	<string id="article_gamma_cooking_text">
+		<text>%c[pda_white]Cozinhar\n \n %c[ui_gray_1] \n - Todas as receitas culinárias estão
+			disponíveis desde o início \n - Cozinhar é essencial, pois lhe proporcionará alimentos
+			calóricos com baixo custo \n - Usar o Basic Cooking Kit perto de uma fogueira permitirá
+			que você cozinhe sem precisar usar carvão \n - O Advanced Cooking Kit requer combustível
+			líquido para funcionar. No entanto, você pode preparar refeições de alto nível que
+			proporcionam benefícios úteis e duradouros</text>
+	</string>
+
+	<string id="article_gamma_radiation">
+		<text>Radiação</text>
+	</string>
+	<string id="article_gamma_radiation_text">
+		<text>%c[pda_white]Radiação\n \n %c[ui_gray_1] \n - GAMMA inclui radiação dinâmica e um
+			sistema redesenhado de danos por radiação \n - Novas fontes de radiação aleatórias são
+			geradas ao iniciar um novo jogo \n - A radiação reduzirá lentamente sua saúde (muito
+			mais lentamente que no jogo base) e sua resistência máxima \n - Quanto mais irradiado
+			você estiver, maior será a probabilidade de seus órgãos críticos serem danificados. Isso
+			faz com que o jogador tussa e perca muita saúde \n - O medidor de radiação está
+			localizado no canto inferior esquerdo da tela. Se começar a encher, você entrou em uma
+			fonte de radiação. Tente recuar para não atravessá-la. Dispositivos que não são
+			colocados em recipientes também podem emitir radiação \n - Use medicamentos
+			anti-radiação, cigarros, tabaco, água ou álcool para curar a radiação. O uso de
+			medicamentos anti-radiação também é uma boa maneira de evitar a radiação \n - Quanto
+			mais ao norte você for, mais perigosa será a radiação. Tente usar uma boa máscara de gás
+			antes de entrar nas áreas do norte. Entrar em armazéns militares ou áreas ao norte sem
+			uma máscara de gás adequada ou medicação anti-radiação pode matá-lo se você encontrar
+			uma única fonte de radiação \n - Tenha em mente que ir direto para uma área com radiação
+			muito poderosa impedirá que você se mova e o prenderá</text>
+	</string>
+
+	<string id="article_gamma_stashes">
+		<text>Esconderijos</text>
+	</string>
+	<string id="article_gamma_stashes_text">
+		<text>%c[pda_white]Esconderijos\n \n %c[ui_gray_1] \n - Os Stashes são a principal fonte de
+			kits de ferramentas, que são os itens mais essenciais que você precisará para progredir
+			\n - Os stashes não marcados estão quase sempre vazios \n - Os stashes devem ser
+			marcados para que contenham algo de valor, especialmente kits de ferramentas \n - O
+			conteúdo dos stashes está vinculado ao local onde aparecem \n - Quanto mais ao norte um
+			stash estiver na Zona, melhor será o saque \n - Expert Tool Kits só podem ser
+			encontrados na Red Forest ou mais ao norte \n - É seguro manter as coisas em stashes, os
+			NPCs não irão saqueá-las \n - Mesmo que o stash seja marcado em algum momento, o
+			conteúdo aparecerá no stash acima do que você armazenou anteriormente</text>
+	</string>
+
+	<string id="article_gamma_disguise">
+		<text>Disfarces</text>
+	</string>
+	<string id="article_gamma_disguise_text">
+		<text>%c[pda_white]Disfarces\n \n %c[ui_gray_1] \n - Você pode usar a armadura de outra
+			facção e será considerado um membro dessa facção se usar o emblema da facção \n - Se
+			você inicializar o patch, você será considerado um membro da facção do seu personagem \n
+			- Ao costurar o patch, você deve estar fora do campo de visão dos outros stalkers para
+			que o disfarce não seja revelado \n - Esse recurso é especialmente eficaz com trajes
+			Ecologist, mas são muito difíceis de obter no GAMMA \n - O estado da sua armadura afeta
+			a rapidez com que você será descoberto \n - Stalkers de alto escalão notarão seus
+			truques com mais facilidade do que os de escalão inferior</text>
+	</string>
+
+	<string id="article_gamma_inventory">
+		<text>Inventário</text>
+	</string>
+	<string id="article_gamma_inventory_text">
+		<text>%c[pda_white]Inventário\n \n %c[ui_gray_1] \n - Gerenciar o inventário é fácil, basta
+			esvaziá-lo de itens desnecessários armazenando-os no stash de sua escolha \n - Mantenha
+			pressionada a tecla Shift e mova o cursor em seu inventário para transferir os objetos
+			sobre os quais você está com o ponteiro \n - Pressione Shift + T para "levar tudo", útil
+			para saques rápidos \n - Garrafas de água são muito melhores que cantis para matar a
+			sede. Guarde os cantis em seu stash principal de cozinha \n - As partes mutantes e a
+			carne não pesam muito. Guardar alguns em seu inventário permitirá que você conclua
+			tarefas \n - As ferramentas de artesanato não pesam muito e você pode clicar com o botão
+			direito nelas para "abrir bancada" e começar a criar na hora \n - A munição pode pesar o
+			mesmo, mas as munições desmontadas são muito leves. Armazene essas peças e crie munição
+			em qualquer lugar com o Gunsmith Kit. Certifique-se de remover todas as munições
+			desnecessárias \n - Você pode clicar com o botão direito e marcar alguns objetos como
+			"favoritos" e outros como "lixo". Isso lhe dará acesso fácil a itens importantes, que
+			estarão sempre no topo de todos os contêineres de inventário. É o oposto da sucata, que
+			sempre estará no fundo dos stashes</text>
+	</string>
+
+	<string id="article_gamma_lore">
+		<text>História</text>
+	</string>
+	<string id="article_gamma_lore_text">
+		<text>%c[pda_white]Lore\n \n %c[ui_gray_1] \n Após a queda do Monolith graças a Strelok, a
+			Zona se tornou um lugar de ciência e descoberta \n A Zona deixou de ser um segredo e a
+			ONU começou a proibir a venda de armas de fogo na Zona para torná-la mais pacífica,
+			pagando a prestadores de serviços militares privados para garantir a segurança dos
+			cientistas e limitar os combates entre facções \n Na verdade, a UE e a ONU decidiram pôr
+			fim ao derramamento de sangue na Zona e ao contrabando de armas da Zona para os países
+			vizinhos, limitando o tráfico de armas. Nenhuma das facções queria dar à ONU e à UE mais
+			razões para contratar mais empresas militares privadas. A Zona já estava cheia de
+			empreiteiros militares\n \nDurante este período de paz, novas descobertas foram feitas,
+			como a fundição, fusão e aprimoramento de artefatos graças ao trabalho do Professor
+			Sakharov\n \nNo entanto, esta "era de ouro" da ciência na Zona enfraqueceu as facções
+			existentes, já que o Monolith não era mais uma prioridade \n Nas profundezas do coração
+			da Zona e da usina nuclear de Chernobyl, o Monolith estava sendo secretamente reforçado,
+			e um novo grupo de fanáticos começou a surgir ainda mais louco que o Monolith, se os
+			rumores forem verdadeiros \n Avançando para 2018, a era de ouro da Zona acabou, o
+			Monolith retornou. Eles reativaram a Wish Granter e o Brain Scorcher, 2012 se repete. As
+			facções enfraquecidas suavizaram ainda mais, não mais os endurecidos assassinos Monolith
+			que eram naquela época \n Qual é a única esperança para a maioria dos stalkers? Encontre
+			Strelok. Alguns dizem que ele ainda está vivo, e Doc, um de seus velhos amigos, pode ter
+			pistas sobre seu paradeiro\n \nVocê chega à Zona no meio deste desastre. Você está
+			encarregado de encontrar Strelok e ajudar a purificar a Zona do flagelo do Monolith</text>
+	</string>
+
+	<string id="article_gamma_money">
+		<text>Dinheiro</text>
+	</string>
+	<string id="article_gamma_money_text">
+		<text>%c[pda_white]Dinheiro\n \n %c[ui_gray_1] \n No GAMMA, dinheiro é essencial,
+			principalmente no início \n Existem maneiras rápidas de ganhar dinheiro, como realizar
+			tarefas sem brigar, vender partes mutantes ou vender artefatos para Ecologists\n
+			\nMuitas vezes você acabará gastando dinheiro em itens médicos, como deveria. Quanto
+			mais você joga, melhores kits de ferramentas você terá e mais fácil será consertar bons
+			equipamentos e fabricar itens, o que economizará dinheiro e facilitará o combate,
+			ajudando você a economizar ainda mais dinheiro\n \nNo meio do jogo, você inevitavelmente
+			receberá muito dinheiro. Você pode usá-lo para atualizar seu equipamento ou pode
+			investi-lo em caras munições perfurantes\n \nVocê também pode comprar detectores e
+			óculos de visão noturna de comerciantes... Ou fabricá-los e economizar uma fortuna \n
+			Manter um exoesqueleto também é um desperdício de dinheiro, pois muitas vezes é
+			necessário comprar baterias caras \n Itens de cura melhores também são necessários para
+			lutas mais fáceis; Usar stimpacks vai te ajudar muito em lutas tensas</text>
+	</string>
+
+	<string id="article_gamma_plates">
+		<text>Placas de proteção</text>
+	</string>
+	<string id="article_gamma_plates_text">
+		<text>%c[pda_white]Placas de proteção\n \n %c[ui_gray_1] \n As placas de blindagem estão no
+			mesmo nível da proteção de munições, alcançando cerca de 15% de proteção balística e
+			explosiva \n Não há mais penalidades de resistência elétrica. Eles não protegem mais
+			contra mutantes \n As placas não podem mais ser compradas de comerciantes \n Placas de
+			núcleo de Kevlar são obtidas através de missões (Placa de núcleo de nível 1) ou
+			fabricadas do zero a partir de peças de armadura\n \nAs placas de armadura podem ser
+			atualizadas através do sistema de criação: \n - A placa de Kevlar de nível 1 pode ser
+			atualizada para a placa de Kevlar de nível 2 com muitas peças de armadura \n - A placa
+			de Kevlar de nível 2 pode ser atualizada para uma placa de metal de nível 3 com muitas
+			peças de armadura \n - Placa de metal de nível 3 pode ser atualizada para placa de metal
+			de nível 4 com muitas peças de armadura\n \nEste sistema deve encorajar o jogador a
+			procurar peças de armadura por um longo período de tempo \n As peças de armadura usadas
+			neste sistema são convenientemente marcadas com um ícone de martelo e pinça para
+			facilitar a classificação e o saque \n Isso deve evitar que jogadores que não querem se
+			envolver na caça de artefatos morram miseravelmente depois de lutarem contra o Monolith
+			e o Sin no norte, que usam exclusivamente munição perfurante</text>
+	</string>
+
+	<string id="article_gamma_arty">
+		<text>Reimaginação de artefatos</text>
+	</string>
+	<string id="article_gamma_arty_text">
+		<text>%c[pda_white]Reimaginação de artefatos\n \n %c[ui_gray_1] \n - O novo detector Grizzly
+			pode encontrar todos os artefatos, mesmo com óculos de visão noturna. Fabricável com um
+			Advanced Tool Kit \n - Novo sistema de geração de artefatos: os artefatos aparecem
+			aleatoriamente na região atual do jogador em campos anômalos, então fique de olho neles
+			caso você os encontre! \n - Artefatos raros também reaparecem em laboratórios após as
+			transmissões \n - Novo sistema de qualidade de artefatos: os artefatos aparecem
+			aleatoriamente em um status baixo (ou "qualidade") para simular que cada artefato é
+			diferente. Com o novo Artifact Smelter, você pode combinar artefatos para torná-los mais
+			poderosos e aumentar sua qualidade\n \n%c[pda_yellow]Novo kit de ferramentas, o Artifact
+			Smelter: %c[ui_gray_1] \n - Compre de Sakharov ou Hermann por cerca de 30.000 rublos \n
+			- Você pode criar artefatos mais fortes (clique com o botão direito -> fundir artefatos)
+			ou aumentá-los (clique com o botão direito -> aumentar artefatos) \n - Cada ação que
+			você realizar com o Artifact Smelter consumirá cargas \n - Você pode encher o aparelho
+			de fusão mantendo pressionada a tecla Alt esquerda e arrastando-a para qualquer artefato
+			\n - Carregar uma fundição vazia com você é uma boa maneira de reabastecê-la durante sua
+			viagem pela Zona com artefatos indesejados\n \n%c[pda_yellow]Artifact Boost:
+			%c[ui_gray_1] \n - Combine dois artefatos semelhantes para adicionar seu
+			status/qualidade \n - Você pode combinar qualquer artefato lixo com qualquer outro
+			artefato lixo a um custo reduzido \n %c[pda_yellow]Artifact Crafting: %c[ui_gray_1] \n -
+			Acesse o menu de elaboração como faria normalmente. Haverá uma nova subseção de
+			artesanato: artefatos \n - Isso permitirá que você converta muitos artefatos de um
+			determinado nível para o próximo nível: \n - Trash -> Nível 1 (7 mS) \n - Nível 1 ->
+			Nível 2 (12 mS) \n - Nível 2 -> Nível 3 (23 mS) \n - Nível 3 -> Special</text>
+	</string>
+
+	<string id="article_gamma_energy">
+		<text>Energia</text>
+	</string>
+	<string id="article_gamma_energy_text">
+		<text>%c[pda_white]Gerenciamento de energia\n \n %c[ui_gray_1] \n Energia no GAMMA é um
+			equilíbrio entre viagens, comida, bebida, remédios e sono\n \nSeu personagem estará
+			cansado no final do dia. Você tem que dormir para repor suas energias \n Você só
+			consegue dormir se estiver cansado o suficiente. O uso de sleeping pills permitirá que
+			você adormeça à força\n \nDependendo de como foi o dia, você ficará cansado mais cedo ou
+			mais tarde. Comer grandes refeições e tomar sleeping pills fará com que você se sinta
+			cansado no final do dia \n No entanto, se você fizer refeições leves e tomar bebidas
+			energéticas ou tomar pílulas de cafeína com frequência, terá dificuldade em ficar
+			cansado o suficiente para dormir no final do dia \n Você terá a chance de acordar em
+			breve. Procure dormir mais do que o necessário ou utilize melhores equipamentos para
+			dormir (colchão e saco de dormir)\n \nVodka e cerveja também podem ajudar você a dormir</text>
+	</string>
+
+	<string id="article_gamma_traders">
+		<text>Comerciantes</text>
+	</string>
+	<string id="article_gamma_traders_text">
+		<text>%c[pda_white]Progressão do Comerciante\n \n %c[ui_gray_1] \n - Os comerciantes vendem
+			principalmente suprimentos e alguns acessórios \n - Você não poderá comprar ou vender
+			armaduras ou armas em comerciantes \n - Você pode aumentar o nível de abastecimento dos
+			comerciantes realizando tarefas para a facção mercantil \n Os limites de goodwill são:
+			\n 500, 1.000, 1.500 e 2.000\n \nEsta é uma maneira segura de garantir um fornecimento
+			constante de munição de qualidade\n \nOs comerciantes são do tipo Warsaw Pact ou NATO.
+			Isso influenciará o tipo de suprimentos que eles vendem (especialmente munições e
+			acessórios)\n \nFacções NATO: Mercenaries, Clear Sky, Freedom, UNISG \n Facções Warsaw
+			Pact: Military, Loners, Duty, Bandits, Renegades, Monolith\n \nIsso também influencia o
+			armamento dos NPCs, por exemplo, os NPCs Monolith têm 50% de chance de ter uma arma da
+			NATO ou do Warsaw Pact\n \nAlguns comerciantes vendem itens muito específicos, como o
+			Professor Sakharov e Hermann com o Artifact Smelter, um kit de ferramentas específico do
+			GAMMA que permite energizar e fabricar artefatos (e você pode quebrar artefatos com ele
+			para recarregar a energia do Smelter). Eles também vendem receitas para fontes de
+			energia de exoesqueleto no nível de suprimento 5</text>
+	</string>
+
+	<string id="article_gamma_story">
+		<text>Tramas</text>
+	</string>
+	<string id="article_gamma_story_text">
+		<text>%c[pda_white]Tramas e missões\n \n %c[ui_gray_1] \n %c[pda_yellow]Lost to the Zone:
+			%c[ui_gray_1] \n Disponível com o líder da sua facção na base inicial das seguintes
+			facções: \n - Loners \n - Clear Sky \n - Duty \n - Freedom \n - Mercenaries \n -
+			Ecologists\n \n%c[pda_yellow]Operation Afterglow: %c[ui_gray_1] \n Disponível no início
+			de um jogo com o UNISG (digite isg na criação do personagem para desbloquear a facção)\n
+			\n%c[pda_yellow]Artifact Hunters: %c[ui_gray_1] \n Para começar esta história, fale com
+			qualquer NPC "Artifact Hunters", por exemplo, Kovalev na Church in the Swamps ou seu
+			representante, Sarik the Dusk, no rookie camp \n Disponível para os aliados dos
+			Ecologists: \n - Loners \n - Clear Sky \n - Duty \n - Freedom \n - Military \n -
+			Mercenaries \n - Ecologists\n \n%c[pda_yellow]Last Dawn: %c[ui_gray_1] \n Fale com Spora
+			na base Clear Sky nos Swamps. Disponível para aliados do Clear Sky: \n - Loners \n -
+			Clear Sky \n - Duty \n - Freedom \n - Mercenaries \n - Ecologists\n
+			\n%c[pda_yellow]Operation Monolith Retribution:%c[ui_gray_1] \n Disponível pelo Colonel
+			Kuznetsov e ajuda os Military a assumir o controle do centro da Zona. Disponível para
+			aliados Military: \n - Military \n - Ecologists\n \n%c[pda_yellow]Dr.</text>
+	</string>
+
+	<string id="article_gamma_repgun">
+		<text>Reparos: Armas</text>
+	</string>
+	<string id="article_gamma_repgun_text">
+		<text>%c[pda_white]Consertos de armas\n \n %c[ui_gray_1] \n As armas devem ser consertadas
+			para avançar, já que você não pode comprá-las de comerciantes com economia GAMMA \n Sim,
+			você pode roubar armas de stashes ou stalkers mortos, e é assim que você levará todas as
+			suas peças para o norte \n A maioria das armas será destruída e você terá que
+			consertá-las ou elas travarão com frequência \n Tenha em mente que a condição de uma
+			arma não tem nada a ver com a condição de suas peças. O estado da arma representa o quão
+			limpa ela está, irá alterar a degradação de suas peças e aumentar as falhas. As falhas
+			vêm das próprias peças da arma. Reparar uma arma não irá reparar as suas peças. Cada
+			peça deve ser reparada individualmente. Cada peça afeta a frequência de interferência da
+			arma. O cano altera o dano causado pela arma e a força de penetração da munição\n
+			\n%c[pda_yellow]Uma arma com o cano em péssimas condições quase não causará nenhum dano,
+			não faça isso %c[ui_gray_1]\n \nPara consertar armas, há duas maneiras:\n \n- Você pode
+			obter o kit de reparo apropriado, clicar com o botão direito na arma e "manter as
+			peças". Portanto, você pode alterar as peças da arma para peças 100% em condições
+			automaticamente, mas isso consumirá um uso do kit de reparo. Você pode até trocar de
+			canos. Esses kits podem ser fabricados ou adquiridos em mecânicos quando você tiver o
+			kit de ferramentas adequado (Basic, Advanced ou Expert). Mudar as peças desta forma
+			melhorará a condição da arma \n - Caso contrário, você sempre pode consertar armas sem
+			os kits de reparo adequados: \n Reúna as peças com mais de 60% de condição e repare-as
+			com a ferramenta apropriada até chegar a 100% (cleaning rod, multitool ou file). Em
+			seguida, basta arrastar e soltar as peças reparadas na arma \n Colocar peças dentro e
+			fora da arma irá sujá-la. Os canos não podem ser substituídos desta forma\n \n- Se uma
+			arma tiver um cano com mais de 60% de saúde, você pode comprar um kit de limpeza na
+			mecânica e clicar com o botão direito na arma -> limpar cano. O mesmo com as outras
+			peças. É uma maneira fácil de conseguir boas armas, já que você pode comprar kits de
+			limpeza sem desbloquear nenhum kit de ferramentas\n \nVocê também deve limpar a arma com
+			equipamento de limpeza ou contratar um mecânico para fazer isso. Limpar uma arma não
+			reparará suas peças, mas evitará que elas se deteriorem durante o disparo</text>
+	</string>
+
+	<string id="article_gamma_reparm">
+		<text>Reparos: Blindagem</text>
+	</string>
+	<string id="article_gamma_reparm_text">
+		<text>%c[pda_white]Reparos de armaduras\n \n %c[ui_gray_1] \n O reparo de armaduras é
+			semelhante ao de armas. Encontre-os em esconderijos ou stalkers mortos.\n \nRecolha as
+			peças com mais de 50% de condiçäo e repare-as até 100%. \nPara substituir peças de
+			armadura, vocë precisará do kit de reparo apropriado. \nTroque as peças da armadura com
+			uma bancada ou clicando em qualquer kit de ferramentas para abrir a bancada e abrir o
+			menu de reparo. \nA substituiçäo de peças näo consumirá o uso do kit de reparo. A partir
+			de 50%, as blindagens podem ser reparadas diretamente com kits de reparo. \n Abaixo,
+			vocë terá que trocar as peças. Certifique-se de manter sua armadura frequentemente com
+			itens de reparo.\n \nNo GAMMA, os mecânicos näo podem reparar armaduras.</text>
+	</string>
+
+
+	<string id="article_gamma_rfpacks">
+		<text>Pacotes</text>
+	</string>
+
+	<string id="article_gamma_rfpacks_text">
+		<text>%c[pda_white]Pacotes de rádio ocultos\n \n %c[ui_gray_1] \n Você receberá mensagens
+			aleatórias solicitando que você encontre pacotes em determinadas regiões.\n \nPara
+			encontrá-los, retire o receptor RF e pressione a tecla do detector. Guarde a arma e
+			altere a frequência do receptor RF para corresponder à mensagem (verifique as
+			configurações das teclas para obter detalhes).\n \nAcompanhe os bipes altos: quanto
+			mais rápidos eles forem, mais próximo você estará do pacote. \n Você pode segurar o
+			botão de uso (F) para exibir o texto do pacote para que você possa encontrá-lo e pegá-lo
+			com mais facilidade. \nEste é um item que está no chão ou escondido em um barril, NÃO é
+			um esconderijo com o qual você precisa interagir. \nEm seguida, clique com o botão
+			direito no pacote em seu inventário e abra-o para obter seu conteúdo.\n \nOs pacotes
+			contêm de tudo, desde vários itens até artefatos ou kits de ferramentas.</text>
+	</string>
+
+
+	<string id="article_gamma_ballistics">
+		<text>Balística</text>
+	</string>
+
+	<string id="article_gamma_ballistics_text">
+		<text>%c[pda_white]Sistema Balístico\n \n %c[ui_gray_1] \n GAMMA usa a revisão balanceada do
+			sistema balístico de Grok. \n Especificamente, ele altera a penetração de balas e
+			armaduras do JOGADOR para os NPCs (e não o contrário) usando o sistema de munição EFT
+			como inspiração. O objetivo é ter um sistema balístico mais realista no qual você deve
+			considerar a blindagem do inimigo e o tipo de munição que utiliza.\n \nO poder de
+			penetração da munição é comparado com a armadura do membro do oponente. \n Se o poder de
+			penetração > armadura do membro, o dano será aplicado. Se o poder de penetração for menor
+			que a armadura do membro, nenhum dano será aplicado e a armadura será reduzida com base
+			no poder de penetração. \n Assim, as munições com baixo poder de penetração devem
+			primeiro romper a armadura do oponente para causar dano. Munição perfurante é necessária
+			para eliminar alvos fortemente blindados. \n Munição de ponta oca e revestida de metal
+			funciona, mas são necessárias muitas balas para destruir a armadura inimiga antes que
+			comece a causar danos. \nA armadura das pernas e do rosto foi reduzida.\n
+			\n%c[pda_yellow]Munição perfurante (AP): %c[ui_gray_1] \n - Enfrenta e derrota qualquer
+			alvo blindado no final do jogo. \n - Esta é munição de final de jogo, não a use contra
+			alvos com blindagem leve ou você estará desperdiçando dinheiro.\n \n%c[pda_yellow]Munição
+			com camisa metálica (FMJ): %c[ui_gray_1] \n - Barata, deve ser usada para eliminar alvos
+			com blindagem leve ou como uma alternativa mais barata, porém menos eficaz, à munição
+			perfurante contra alvos blindados.\n \n%c[pda_yellow]Munição de Ponta Oca (HP):
+			%c[ui_gray_1] \n - Um pouco mais cara que a camisa metálica, deve ser usada para matar
+			mutantes, já que tem ainda menos poder de penetração que a camisa metálica.\n \nA
+			munição de Sniper é muito poderosa, mas também muito cara. \nO .338 Lapua mata a maioria
+			dos inimigos com um tiro no peito, se você puder pagar. \nBalins são um tipo de munição
+			barata no início do jogo para usar contra stalkers. Esqueça-os no meio e no final do
+			jogo. Bons contra mutantes, ruins contra exoesqueletos. \nSlugs são boas para matar
+			mutantes e stalkers. Slugs perfurantes são melhores contra stalkers.\n \nHá munições mais
+			úteis contra mutantes: munição de ponta oca, .357 Magnum, .45 Hydra-Shok, buckshot,
+			slugs, 7.62x25mm Pst.\n \nAs balas possuem um valor de penetração de armadura em sua
+			descrição. É baseado na classificação BR russa para munição perfurante: \n - BR1-BR2 =
+			perfurante de armadura leve \n - BR3-BR4 = perfurante de armadura média \n - BR5 =
+			perfurante de armadura pesada \n - BR6 = perfurante de armadura exo.\n
+			\n%c[pda_yellow]Algumas facções possuem características específicas: \n - Monolith usa
+			apenas munição perfurante. \n - Sin utiliza apenas munições perfurantes, e geralmente com
+			metralhadoras pesadas, já que são muito mais resistentes que um ser humano normal. \n -
+			Os membros do ISG possuem equipamentos muito bons, utilizam apenas munições perfurantes e
+			possuem maior resistência ao dano. \n - A maioria dos stalkers mestres ou lendários usa
+			munição perfurante. \n - As facções usam armas de acordo com seu tipo comercial (OTAN ou
+			Pacto de Varsóvia).</text>
+	</string>
+</string_table>

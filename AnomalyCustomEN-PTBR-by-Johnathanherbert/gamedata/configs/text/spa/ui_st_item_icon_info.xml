@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<!-- 
+		MCM
+	-->
+	<string id="ui_mcm_item_icon_info_title">
+		<text>Melhorias na Interface de Itens</text>
+	</string>
+	<string id="ui_mcm_menu_item_icon_info">
+		<text>Melhorias na Interface de Itens</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_condition_text">
+		<text>Número de Porcentagem da Condição</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_equipped">
+		<text>Mostrar em Equipamentos Equipados</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_hide_bar">
+		<text>Ocultar Barra de Condição</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_hide_bg">
+		<text>Sem Fundo para o Número de Condição</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_art_alt">
+		<text>Posição Alternativa em Artefatos</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_text_padding">
+		<text>Espaçamento do Texto</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_parts_bars">
+		<text>Indicadores de Condição das Peças</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_equipped">
+		<text>Mostrar em Equipamentos Equipados</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_width_mult">
+		<text>Multiplicador de Tamanho do Indicador de Peças</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_separator_mult">
+		<text>Multiplicador de Espaçamento do Indicador de Peças</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpn">
+		<text>Ativar Indicadores para Armas</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpo">
+		<text>Usar Cores de Condição do Weapon Parts Overhaul</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpo_green">
+		<text>Limite de Condição para Cor Verde do WPO</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpo_yellow">
+		<text>Limite de Condição para Cor Amarela do WPO</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpo_orange">
+		<text>Limite de Condição para Cor Laranja do WPO</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_armor">
+		<text>Ativar Indicadores para Capacetes/Trajes</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_ammo_name">
+		<text>Texto de Nome Curto da Caixa de Munição</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name_bad_color">
+		<text>Colorir Texto Baseado na Qualidade da Munição (Ruim/Velha)</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name_expl">
+		<text>Ativar para Granadas M203/VOG e Ogivas</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name_expl_bad_color">
+		<text>Colorir Texto Baseado na Qualidade da Munição (Explosiva)</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name_padding">
+		<text>Espaçamento do Texto</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_recipe_text">
+		<text>Texto de Lido/Não Lido para Receitas, Notas e Mapas</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_recipe_text">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_recipe_text_pda">
+		<text>Mostrar Dica em PDAs com Informação de Esconderijo</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_recipe_text_padding">
+		<text>Espaçamento do Texto</text>
+	</string>
+	
+	<string id="ui_mcm_item_icon_info_title_mags">
+		<text>Contagem de Munição e Nome do Projétil do Carregador (Apenas Mags Redux)</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info_text">
+		<text>Mostrar Nome Curto da Munição</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info_count">
+		<text>Mostrar Contagem de Munição</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info_hide_bar">
+		<text>Ocultar Barra de Condição do Carregador</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info_padding">
+		<text>Espaçamento do Texto</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_money_text">
+		<text>Texto de Dinheiro</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_money_text">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_money_text_hide_bg">
+		<text>Sem Fundo</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_money_text_text_padding">
+		<text>Espaçamento do Texto</text>
+	</string>
+
+	<!-- 
+		Mods
+	-->
+	<string id="ui_utjan_recipe_read">
+		<text>lido</text>
+	</string>
+	<string id="ui_utjan_recipe_unread">
+		<text>não lido</text>
+	</string>
+	<string id="ui_utjan_ruble">
+		<text>ru</text>
+	</string>
+</string_table>

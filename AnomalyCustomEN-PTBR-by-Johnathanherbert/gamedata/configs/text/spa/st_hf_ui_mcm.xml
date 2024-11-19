@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>	
+    <string id="ui_mcm_menu_aol_hf">
+        <text>Mobília de Esconderijo</text>
+    </string>
+
+	<!-- Controls -->
+	<string id="ui_mcm_menu_controls">
+		<text>Controles</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_controls_bind_collision">
+		<text>Alternar Verificação de Colisão</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_controls_bind_alignment">
+		<text>Alternar entre modos de alinhamento: Jogador e Superfície</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_controls_bind_place_mode">
+		<text>Alternar entre modos de posicionamento: Normal, Avançado e Visualização</text>
+	</string>
+
+	<!-- Gameplay -->
+	<string id="ui_mcm_menu_gameplay">
+		<text>Jogabilidade</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_gameplay_uniform_trade_profiles">
+		<text>Usar Perfis de Comércio Uniformes</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_gameplay_use_ingame_time">
+		<text>Luzes Mostram Tempo do Jogo</text>
+	</string>
+
+	<!-- World Objects -->
+	<string id="ui_mcm_menu_world_obj">
+		<text>Objetos do Mundo</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_world_obj_flag_record_on_place">
+		<text>Ativar Gravação de Objetos ao Posicionar</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_world_obj_flag_record_on_keypress">
+		<text>Ativar Gravação de Objetos por Tecla</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_world_obj_bind_record">
+		<text>Gravar Objeto</text>
+	</string>
+
+	<!-- Debug -->
+	<string id="ui_mcm_menu_debug">
+		<text>Depuração</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_debug_bind_creative_mode">
+		<text>Modo Criativo</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_debug_location_offset">
+		<text>Deslocamento de Localização</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_update_mcm">
+		<text>Atualize o MCM para definir teclas. Por padrão, TAB para alternar colisão e CAPS LOCK para alternar alinhamento.</text>
+	</string>
+</string_table>

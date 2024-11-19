@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+   <string id="st_placeable_door">
+		<text>Porta de Madeira 100x190cm</text>
+	</string>
+	<string id="st_placeable_door_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[d_orange] • %c[ui_gray_2] Compatível com os vãos de porta construíveis\n
+		%c[0,250,250,0] • %c[0,250,250,0] AVISO: Para remover a porta, golpeie-a com uma arma corpo a corpo ou use explosivos. Atirar também funciona, mas requer muitas balas (com o propósito de evitar que NPCs quebrem portas facilmente ao atirar).\n</text>
+	</string>
+	
+   <string id="st_placeable_door02">
+		<text>Porta de Metal 150x250cm</text>
+	</string>
+	<string id="st_placeable_door02_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[0,250,250,0] • %c[0,250,250,0] AVISO: Para remover a porta, golpeie-a com uma arma corpo a corpo ou use explosivos. Atirar também funciona, mas requer muitas balas (com o propósito de evitar que NPCs quebrem portas facilmente ao atirar).\n</text>
+	</string>
+	
+   <string id="st_placeable_door03">
+		<text>Porta de Madeira 115x215cm</text>
+	</string>
+	<string id="st_placeable_door03_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[0,250,250,0] • %c[0,250,250,0] AVISO: Para remover a porta, golpeie-a com uma arma corpo a corpo ou use explosivos. Atirar também funciona, mas requer muitas balas (com o propósito de evitar que NPCs quebrem portas facilmente ao atirar).\n</text>
+	</string>
+	
+   <string id="st_placeable_door04">
+		<text>Porta de Madeira 145x220cm</text>
+	</string>
+	<string id="st_placeable_door04_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[0,250,250,0] • %c[0,250,250,0] AVISO: Para remover a porta, golpeie-a com uma arma corpo a corpo ou use explosivos. Atirar também funciona, mas requer muitas balas (com o propósito de evitar que NPCs quebrem portas facilmente ao atirar).\n</text>
+	</string>
+	
+   <string id="st_placeable_door05">
+		<text>Porta de Madeira 176x300cm</text>
+	</string>
+	<string id="st_placeable_door05_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[0,250,250,0] • %c[0,250,250,0] AVISO: Para remover a porta, golpeie-a com uma arma corpo a corpo ou use explosivos. Atirar também funciona, mas requer muitas balas (com o propósito de evitar que NPCs quebrem portas facilmente ao atirar).\n</text>
+	</string>
+</string_table>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+    <string id="st_spooner_supplies">
+        <text>Sempre precisamos de suprimentos para as tropas que o comando não prioriza para nós. Se você puder ajudar com alguns suprimentos, podemos ver sobre te dar algumas munições ou suprimentos médicos extras.</text>
+    </string>
+    <string id="st_spooner_supplies_done">
+        <text>Obrigado. Mantenha isso em segredo, ok?</text>
+    </string>
+
+    <string id="st_spooner_vityaz">
+        <text>Tem um pedido especial de um dos oficiais comandantes. Ele está procurando um pouco de pó branco, e está oferecendo sua submetralhadora. É uma das mais novas, e pelo que sei nunca foi usada, então deve ser um bom negócio.</text>
+    </string>
+    <string id="st_spooner_vityaz_done">
+        <text>Valeu. Aproveite!</text>
+    </string>
+
+
+    <string id="st_spooner_trophy">
+        <text>Alguns dos superiores estão procurando troféus para levar para casa. Não podemos oficialmente levar artefatos, já que eles precisam ser entregues ao Ministério da Ciência, e contrabando não vale a pena com a nova repressão. Em vez disso, estamos procurando algumas armas ocidentais legais agora - ouvi dizer que aqueles Mercenários têm armas ocidentais! Com trilhos! Me traga algumas.</text>
+    </string>
+    <string id="st_spooner_trophy_done">
+        <text>Legal! Aqui está algo do arsenal.</text>
+    </string>
+
+    <string id="st_armytech">
+        <text>Essa maldita Zona! Todo nosso equipamento vai pro inferno diante dos nossos olhos! Já gastamos quase todos os nossos suprimentos de limpeza mantendo nossas malditas armas funcionando, e todo dia as patrulhas aparecem com rasgos, furos, roupas queimadas e outras porcarias! Olha, se você conseguir me arranjar alguns materiais extras de reparo, eu te compenso de alguma forma. Pode me ajudar?</text>
+    </string>
+    <string id="st_armytech_done">
+        <text>Ótimo, isso vai durar mais um tempo. Aqui está algum equipamento excedente, ninguém está usando mesmo.</text>
+    </string>
+    <string id="st_armytech_arty_done">
+        <text>Ótimo, isso vai durar mais um tempo. Um dos cientistas nos disse para guardar isso, mas eles nunca voltaram para buscar, talvez você ache útil.</text>
+    </string>
+</string_table>

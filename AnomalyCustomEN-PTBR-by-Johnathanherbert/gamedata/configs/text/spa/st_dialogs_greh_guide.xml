@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+<!-- Guia do Sin -->
+	<string id="red_greh_guide_start_dialog_1">
+        <text>Bem-vindo, meu irmão. Suspeito que você precise de ajuda.</text>
+    </string>
+	
+	<string id="meet_red_greh_guide_0">
+		<text>Acho que não nos conhecemos.</text>
+	</string>
+	<string id="meet_red_greh_guide_1">
+		<text>Então permita-me esclarecê-lo, meu irmão. Sou Hors - guia e batedor do Sin. Posso levá-lo a muitos lugares, se desejar. Especificamente à Mina Antiga na Floresta Vermelha, Casa da Cultura em Pripyat e Centro de Serviços Yubileiny nos Arredores. No entanto, vou precisar de uma pequena taxa pelos meus serviços - para garantir que seu trabalho na visão do Mestre seja concluído.</text>
+	</string>
+
+	<string id="meet_red_greh_guide_list_0">
+		<text>Me lembre para onde você pode me levar.</text>
+	</string>
+	<string id="meet_red_greh_guide_list_1">
+		<text>Posso levá-lo à Mina Antiga na Floresta Vermelha por dois mil rublos, Casa da Cultura em Pripyat por três mil rublos e Centro de Serviços Yubileiny nos Arredores por quatro mil rublos.</text>
+	</string>
+	
+	<string id="travel_red_greh_guide_0">
+		<text>Preciso fazer uma jornada.</text>
+	</string>
+	<string id="travel_red_greh_guide_1">
+		<text>Para onde você precisa ir, meu irmão?</text>
+	</string>
+	<string id="travel_red_greh_guide_2">
+		<text>Mina Antiga. %c[d_orange][2000 RU]</text>
+	</string>
+	<string id="travel_red_greh_guide_3">
+		<text>Casa da Cultura. %c[d_orange][3000 RU]</text>
+	</string>
+	<string id="travel_red_greh_guide_4">
+		<text>Centro de Serviços Yubileiny. %c[d_orange][4000 RU]</text>
+	</string>
+	<string id="travel_red_greh_guide_5">
+		<text>Mudei de ideia.</text>
+	</string>
+	
+	<string id="red_greh_guide_background_1">
+		<text>Não há muito a dizer. Comecei como um simples stalker. E então, percebi o erro da minha ganância e a futilidade deste mundo pecaminoso.</text>
+	</string>
+	<string id="red_greh_guide_background_2">
+		<text>Mas como você se juntou à nossa causa?</text>
+	</string>
+	<string id="red_greh_guide_background_3">
+		<text>Minha última missão - quando ainda era um mero stalker - não saiu como planejado. Acabei perdido, confuso e aterrorizado, correndo pela floresta escura como um animal perdido. Então, fui cercado por uma matilha de pseudo-cães. Pensei que não duraria mais um momento, mas então os membros do Sin apareceram do meio da vegetação densa. Sua presença acalmou os mutantes, que recuaram. Um dos Pecadores se aproximou de mim. Ele disse que sabia quem eu era, e que eu poderia ser salvo, e então me entregou um frasco. Ele me disse para beber dele. A próxima coisa que me lembro, acordei em uma caverna. Me deram suprimentos: um distintivo, um colete e uma arma. Fui apresentado a Dazhbog e ao Único. Eles me contaram tudo. Me tornei iluminado, e agora sirvo aos Mestres. Posso servir você também, irmão. Tudo que você precisa fazer é pedir.</text>
+	</string>
+	<string id="red_greh_guide_background_4">
+		<text>Vou manter isso em mente. Obrigado, irmão.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_npc_flee_title">
+		<text>Fuga de NPCs</text>
+	</string>
+	<string id="ui_mcm_menu_npc_flee">
+		<text>Fuga de NPCs</text>
+	</string>
+
+
+	<!-- Powers -->
+	<string id="ui_mcm_npc_flee_header_power">
+		<text>Poderes   (fuga começa se "poder_inimigos > poder_aliados*multiplicador_limite")</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_threshold_mult">
+		<text>Multiplicador limite</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_enemies_pwr_mult">
+		<text>Multiplicador de poder dos inimigos</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_friends_pwr_mult">
+		<text>Multiplicador de poder dos aliados</text>
+	</string>
+
+
+	<!-- Distance before flee -->
+	<string id="ui_mcm_npc_flee_header_dist_before">
+		<text>Raio   (antes da fuga começar, calcula poder de inimigos/aliados apenas neste raio)</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_enemies_radius">
+		<text>Raio dos inimigos</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_friends_radius">
+		<text>Raio dos aliados</text>
+	</string>
+
+
+	<!-- Distance after flee -->
+	<string id="ui_mcm_npc_flee_header_dist_after">
+		<text>Raio 2   (quando já em fuga, raio menor para cancelar se inimigos mais fracos estiverem próximos)</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_enemies_upd_radius">
+		<text>Raio dos inimigos 2</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_friends_upd_radius">
+		<text>Raio dos aliados 2</text>
+	</string>
+
+
+	<!-- Others -->
+	<string id="ui_mcm_npc_flee_header_others">
+		<text>Diversos</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_start_flee_time">
+		<text>Primeiros segundos de fuga que não podem ser cancelados</text>
+	</string>
+	<string id="ui_mcm_npc_flee_start_flee_time_desc">
+		<text>Primeiros segundos após o início da fuga que não podem ser cancelados por inimigo fraco ou golpes</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_flee_protection_time">
+		<text>Tempo de proteção da fuga (seg.)</text>
+	</string>
+	<string id="ui_mcm_npc_flee_flee_protection_time_desc">
+		<text>Quando o NPC para de fugir, ele não pode fugir novamente durante este tempo</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_cancel_on_hit">
+		<text>Cancelar fuga se NPC for atingido</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_hits_to_cancel">
+		<text>Quantidade de golpes para cancelar fuga</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_flee_smart_min_dist">
+		<text>Distância mínima para fugir</text>
+	</string>
+	<string id="ui_mcm_npc_flee_flee_smart_min_dist_desc">
+		<text>Escolher um alvo para fugir apenas se estiver mais longe que este valor</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_cover_time">
+		<text>Tempo de cobertura do esquadrão (0 para desativar)</text>
+	</string>
+	<string id="ui_mcm_npc_flee_cover_time_desc">
+		<text>O NPC mais distante dará cobertura à fuga de seu esquadrão.</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_smoke_enabled">
+		<text>Granadas de fumaça</text>
+	</string>
+
+	<string id="ui_mcm_npc_flee_flee_dbg">
+		<text>Depuração (mensagens no console)</text>
+	</string>
+
+
+</string_table>

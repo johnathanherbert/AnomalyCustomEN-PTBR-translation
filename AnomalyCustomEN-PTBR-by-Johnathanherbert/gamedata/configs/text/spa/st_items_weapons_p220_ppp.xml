@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_sig229">
+		<text>SIG P229 LEGION</text>
+	</string>
+	<string id="st_wpn_sig229_descr">
+		<text>O P229 é uma pistola compacta, calibre 9mm, uma versão aprimorada do P228, destinada ao uso policial e porte velado. Por ser a variante "LEGION", é seguro dizer que esta é uma maravilha entre as facções Ocidentais como os Mercenários. Apesar de usar o calibre 9mm mais fraco ao invés do .45 ACP mais potente, ainda é uma excelente pistola pequena para aqueles que preferem uma SIG-Sauer que atira 9mm ao invés de .45 ACP\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19</text>
+	</string>
+
+	<string id="st_wpn_sig320">
+		<text>SIG Sauer P320 RXP</text>
+	</string>
+	<string id="st_wpn_sig320_descr">
+		<text>Esta é uma pistola incrível que o Nimble encontrou, uma adição muito recente às pistolas SIG-Sauer, então considere-se sortudo. Originalmente em 9mm, pode ser facilmente convertida para .45 ACP, basta encontrar um técnico. Utiliza um mecanismo "Strike-Action", que deve reduzir significativamente o recuo mesmo com .45 ACP. Possui confiabilidade incomparável, ótima precisão e recuo perfeito. A melhor pistola que você pode conseguir, especialmente se convertida para .45 ACP.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19</text>
+	</string>
+	<string id="st_up_p320_c7_name">
+		<text>Mudança de calibre para .45 ACP</text>
+	</string>
+	<string id="st_up_p320_c7_descr">
+		<text>Uma modificação complexa, possivelmente ilegal e artesanal do cano e mecanismo de disparo para aceitar munição .45 ACP</text>
+	</string>
+
+</string_table>

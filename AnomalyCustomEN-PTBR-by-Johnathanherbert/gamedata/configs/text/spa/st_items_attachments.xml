@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_af_surge_up_name">
+		<text>Regenerador de surto aprimorado</text>
+	</string>
+	<string id="st_af_surge_up_descr">
+		<text>Único, um dispositivo que absorve a energia elétrica ao seu redor e a transforma parcialmente no corpo, aumentando a resistência. O excesso de energia leva à regeneração dos tecidos danificados. Serve principalmente como proteção contra sobretensão para corrente de curto-circuito limitada, limitando a quantidade de eletricidade que entra em contato com o corpo, fechando-a para o terra. Representa um circuito eletrônico bastante complexo de valiosos componentes de rádio, que aumenta muito a resistência elétrica do corpo. Como resultado, o corpo cai sob uma tensão mais baixa e é capaz de suportar descargas de eletricidade que anteriormente levavam à morte. Assim, é vitalmente importante ter um microreator limitador de corrente quando é necessário se aproximar de anomalias elétricas ou outras fontes de eletricidade. Como qualquer objeto eletrônico, pode ser usado como material de reparo com ferramentas e habilidades apropriadas.\n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]Deve-se notar que tal módulo não será capaz de funcionar adequadamente e fornecer proteção suficiente se sua roupa não atender aos requisitos mínimos de proteção enquanto estiver em um campo anormal.\n \n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_frames_up_name">
+		<text>Armações de alumínio aprimoradas</text>
+	</string>
+	<string id="st_af_frames_up_descr">
+		<text>Em vez de simplesmente carregar uma mochila presa por um par de alças nos ombros, pode-se prendê-la ao traje por meio de armações de alumínio, o que otimiza suas capacidades de transporte. Essas armações aprimoradas são feitas de alumínio, que é o material de escolha devido ao seu peso leve, e alguns elementos externos são feitos de plástico para obter a flexibilidade desejada durante a corrida. Toda a construção é equipada com um sistema de correias e tiras para fornecer um alto grau de ajustabilidade. Este design de qualidade permite que as alças dos ombros sejam ajustadas para cima ou para baixo para tornar o uso da mochila confortável, independentemente do tamanho do torso. Um único conjunto de armações substitui apenas a estrutura principal da sua mochila, mas é possível usar mais conjuntos para melhorar ainda mais suas capacidades de transporte. Embora o sistema seja construído com alumínio leve, algumas partes ainda podem ser úteis para pequenos reparos no traje.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item do dia a dia\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_grid_up_name">
+		<text>Grade de titânio aprimorada</text>
+	</string>
+	<string id="st_af_grid_up_descr">
+		<text>Em vez de simplesmente carregar uma mochila presa por um par de alças nos ombros, pode-se prendê-la ao traje por meio de uma grade de titânio, o que otimiza suas capacidades de transporte. A grade aprimorada é feita de titânio, que é o material de escolha devido ao seu peso leve e alta durabilidade, e alguns elementos externos são feitos de plástico para obter a flexibilidade desejada durante a corrida. Toda a construção é equipada com um sistema de correias e tiras para fornecer um alto grau de ajustabilidade. Este design de qualidade permite que as alças dos ombros sejam ajustadas para cima ou para baixo para tornar o uso da mochila confortável, independentemente do tamanho do torso. Uma única grade substitui apenas a estrutura principal da sua mochila, mas é possível usar mais grades para melhorar ainda mais suas capacidades de transporte. As grades são criadas com titânio de altíssima qualidade, assim a grade desmontada pode ser usada como um eficaz suplemento de reparo para trajes de combate ou capacetes.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item do dia a dia\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_freon_up_name">
+		<text>Módulo de emissão de freon aprimorado</text>
+	</string>
+	<string id="st_af_freon_up_descr">
+		<text>O módulo de emissão de freon aprimorado é projetado para manter uma temperatura constante ao redor do corpo no nível de 20 graus Celsius. É, portanto, extremamente útil para minimizar os efeitos do calor extremo em situações que requerem proteção adicional. Ele emite uma camada espessa de partículas de ar resfriadas com freon que produzem um vácuo minúsculo absorvendo qualquer excesso de calor e diminuindo ligeiramente a temperatura ao redor do usuário. Outra característica do módulo de emissão de freon é sua capacidade de resistir à eletricidade em um grau moderado.\n \n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n</text>
+	</string>
+	
+	<string id="st_af_cooler_up_name">
+		<text>Resfriador corporal aprimorado</text>
+	</string>
+	<string id="st_af_cooler_up_descr">
+		<text>O resfriador corporal aprimorado é um módulo elétrico projetado para manter uma temperatura constante ao redor do corpo no nível de 14 graus Celsius. É, portanto, extremamente útil para minimizar os efeitos do calor extremo em situações que requerem proteção adicional. Ele emite impulsos elétricos rápidos que produzem um vácuo minúsculo absorvendo qualquer excesso de calor e diminuindo ligeiramente a temperatura ao redor do usuário. Não requer água para funcionar. Outra característica do resfriador corporal é sua capacidade de resistir à eletricidade em um grau moderado. Em caso de desmontagem da unidade usando um kit de ferramentas, o invólucro de metal pode ser reutilizado como material de reparo do traje.\n \n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_up_name">
+		<text>Placas de kevlar e acessórios aprimorados</text>
+	</string>
+	<string id="st_af_kevlar_up_descr">
+		<text>As placas de kevlar são amplamente conhecidas por suas capacidades de proteção e são altamente valorizadas por causa dessa característica. Elas desempenham uma ampla variedade de funções, sendo a mais importante a absorção do impacto de projéteis de armas de fogo na frente e nas costas do torso. Constituem uma alternativa leve às pesadas placas de aço. Além disso, qualquer tipo de blindagem também ajuda a manter os trajes em boas condições, evitando a degradação por desgaste. Usado por unidades militares em todo o mundo.\n \n
+		%c[d_orange]PROPRIEDADES:\n
+		%c[d_orange] • eficácia de múltiplas unidades é acumulável\n
+		%c[d_orange] • proteção é aplicada apenas aos braços, pernas e torso\n
+		%c[d_orange] • +1 Classe BR por unidade\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_up_name">
+		<text>Placas de aço carbono aprimoradas</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>Estas placas de aço são especialmente fabricadas, tratadas termicamente e moldadas para propriedades de derrota balística, adequando-se a uma ampla variedade de aplicações protetivas. Elas são projetadas para suportar impactos balísticos menores na frente e nas costas do torso. Esta proteção, no entanto, tem um preço, pois as espessas placas de aço são muito pesadas, limitando assim a liberdade de movimento. Além disso, qualquer tipo de blindagem também ajuda a manter os trajes em boas condições, evitando a degradação por desgaste. Usado extensivamente pelas forças Spetsnaz.\n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]O aço é um condutor e sua proximidade com a pele torna o corpo mais vulnerável à eletricidade. Por esta razão, sugere-se proceder com cautela quando próximo a anomalias elétricas ou outras fontes de eletricidade.\n \n
+		%c[d_orange]PROPRIEDADES:\n
+		%c[d_orange] • eficácia de múltiplas unidades é acumulável\n
+		%c[d_orange] • proteção é aplicada apenas aos braços, pernas e torso\n
+		%c[d_orange] • +3 Classe BR por unidade\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_up_name">
+		<text>Camelbak aprimorado</text>
+	</string>
+	<string id="st_af_camelbak_up_descr">
+		<text>Tomando emprestado seu nome do mito de que camelos armazenam água em suas corcovas, o camelbak é uma mochila usada nas costas ou ao redor da cintura do usuário, contendo uma bexiga que é preenchida com água para manter a hidratação. Tubo flexível com bocal facilita o uso mesmo nas situações mais urgentes. Este modelo é camuflado e integrado ao traje para proteger o sistema de danos de qualquer fonte, seja combate ou anomalia. Como o recipiente é feito de um têxtil de alta qualidade, stalkers experientes às vezes reutilizam camelbaks sucateados para materiais de qualidade para remendar seus trajes de campo.\n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]Embora a água tenha baixa condutividade elétrica, sua proximidade com o corpo pode torná-lo mais vulnerável a correntes elétricas. Por esta razão, recomenda-se tomar especial atenção ao seu entorno quando estiver de posse de um camelbak.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_surge_name">
+		<text>Supressor de surto</text>
+	</string>
+	<string id="st_af_surge_descr">
+		<text>Um dispositivo pequeno, embora avançado, que absorve energia elétrica de seu ambiente mais próximo. Serve como uma proteção, pois limita a quantidade de eletricidade que entra em contato direto com o corpo, bloqueando-a ou desviando-a para o terra. Como é de fato um circuito resistor muito sofisticado, o Supressor de Surto aumenta muito a resistência elétrica do corpo. O resultado é que o usuário é atingido por uma tensão significativamente menor e é capaz de sobreviver a explosões que normalmente seriam letais. É, portanto, de vital importância ter um supressor de surto em seu cinto quando próximo a anomalias elétricas e outras fontes de eletricidade na Zona. Como todos os objetos metálicos, pode ser usado como fonte de material de reparo, desde que se tenha as ferramentas apropriadas e habilidade suficiente.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_frames_name">
+		<text>Armações de alumínio</text>
+	</string>
+	<string id="st_af_frames_descr">
+		<text>Em vez de simplesmente carregar uma mochila presa por um par de alças nos ombros, pode-se prendê-la ao traje por meio de armações de alumínio, o que otimiza suas capacidades de transporte. As armações são feitas de alumínio, que é o material de escolha devido ao seu peso leve, e alguns elementos externos são feitos de plástico para obter a flexibilidade desejada durante a corrida. Toda a construção é equipada com um sistema de correias e tiras para fornecer um alto grau de ajustabilidade. Este design de qualidade permite que as alças dos ombros sejam ajustadas para cima ou para baixo para tornar o uso da mochila confortável, independentemente do tamanho do torso. Um único conjunto de armações substitui apenas a estrutura principal da sua mochila, mas é possível usar mais conjuntos para melhorar ainda mais suas capacidades de transporte. Embora o sistema seja construído com alumínio leve, algumas partes ainda podem ser úteis para pequenos reparos no traje.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item do dia a dia\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_grid_name">
+		<text>Grade de titânio</text>
+	</string>
+	<string id="st_af_grid_descr">
+		<text>Em vez de simplesmente carregar uma mochila presa por um par de alças nos ombros, pode-se prendê-la ao traje por meio de grade de titânio, o que otimiza suas capacidades de transporte. A grade é feita de titânio, que é o material de escolha devido ao seu peso leve e alta durabilidade, e alguns elementos externos são feitos de plástico para obter a flexibilidade desejada durante a corrida. Toda a construção é equipada com um sistema de correias e tiras para fornecer um alto grau de ajustabilidade. Este design de qualidade permite que as alças dos ombros sejam ajustadas para cima ou para baixo para tornar o uso da mochila confortável, independentemente do tamanho do torso. Uma única grade substitui apenas a estrutura principal da sua mochila, mas é possível usar mais grades para melhorar ainda mais suas capacidades de transporte. As grades são criadas com titânio de altíssima qualidade, assim a grade desmontada pode ser usada como um eficaz suplemento de reparo para trajes de combate ou capacetes.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item do dia a dia\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_freon_name">
+		<text>Módulo de emissão de freon</text>
+	</string>
+	<string id="st_af_freon_descr">
+		<text>O módulo de emissão de freon é projetado para manter uma temperatura constante ao redor do corpo no nível de 24 graus Celsius. É, portanto, extremamente útil para minimizar os efeitos do calor extremo em situações que requerem proteção adicional. Ele emite uma camada espessa de partículas de ar resfriadas com freon que produzem um vácuo minúsculo absorvendo qualquer excesso de calor e diminuindo ligeiramente a temperatura ao redor do usuário. Outra característica do módulo de emissão de freon é sua capacidade de resistir à eletricidade em um grau moderado.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n</text>
+	</string>
+	
+	<string id="st_af_cooler_name">
+		<text>Resfriador corporal</text>
+	</string>
+	<string id="st_af_cooler_descr">
+		<text>O resfriador corporal é um módulo elétrico projetado para manter uma temperatura constante ao redor do corpo no nível de 18 graus Celsius. É, portanto, extremamente útil para minimizar os efeitos do calor extremo em situações que requerem proteção adicional. Ele emite impulsos elétricos rápidos que produzem um vácuo minúsculo absorvendo qualquer excesso de calor e diminuindo ligeiramente a temperatura ao redor do usuário. Não requer água para funcionar. Outra característica do resfriador corporal é sua capacidade de resistir à eletricidade em um grau moderado. Em caso de desmontagem da unidade usando um kit de ferramentas, o invólucro de metal pode ser reutilizado como material de reparo do traje.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_name">
+		<text>Placas de kevlar e acessórios</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>As placas de kevlar são amplamente conhecidas por suas capacidades de proteção e são altamente valorizadas por causa dessa característica. Elas desempenham uma ampla variedade de funções, sendo a mais importante a absorção do impacto de projéteis de armas de fogo na frente e nas costas do torso. Constituem uma alternativa leve às pesadas placas de aço. Além disso, qualquer tipo de blindagem também ajuda a manter os trajes em boas condições, evitando a degradação por desgaste. Usado por unidades militares em todo o mundo.\n \n
+		%c[d_orange]PROPRIEDADES:\n
+		%c[d_orange] • eficácia de múltiplas unidades é acumulável\n
+		%c[d_orange] • proteção é aplicada apenas aos braços, pernas e torso\n
+		%c[d_orange] • +0 Classe BR por unidade\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>Placas de aço carbono</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>Estas placas de aço são especialmente fabricadas, tratadas termicamente e moldadas para propriedades de derrota balística, adequando-se a uma ampla variedade de aplicações protetivas. Elas são projetadas para suportar impactos balísticos menores na frente e nas costas do torso. Esta proteção, no entanto, tem um preço, pois as espessas placas de aço são muito pesadas, limitando assim a liberdade de movimento. Além disso, qualquer tipo de blindagem também ajuda a manter os trajes em boas condições, evitando a degradação por desgaste. Usado extensivamente pelas forças Spetsnaz.\n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]O aço é um condutor e sua proximidade com a pele torna o corpo mais vulnerável à eletricidade. Por esta razão, sugere-se proceder com cautela quando próximo a anomalias elétricas ou outras fontes de eletricidade.\n \n
+		%c[d_orange]PROPRIEDADES:\n
+		%c[d_orange] • eficácia de múltiplas unidades é acumulável\n
+		%c[d_orange] • proteção é aplicada apenas aos braços, pernas e torso\n
+		%c[d_orange] • +2 Classe BR por unidade\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_name">
+		<text>Camelbak</text>
+	</string>
+	<string id="st_af_camelbak_descr">
+		<text>Tomando emprestado seu nome do mito de que camelos armazenam água em suas corcovas, o camelbak é uma mochila usada nas costas ou ao redor da cintura do usuário, contendo uma bexiga que é preenchida com água para manter a hidratação. Tubo flexível com bocal facilita o uso mesmo nas situações mais urgentes. Este modelo é camuflado e integrado ao traje para proteger o sistema de danos de qualquer fonte, seja combate ou anomalia. Como o recipiente é feito de um têxtil de alta qualidade, stalkers experientes às vezes reutilizam camelbaks sucateados para materiais de qualidade para remendar seus trajes de campo.\n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]Embora a água tenha baixa condutividade elétrica, sua proximidade com o corpo pode torná-lo mais vulnerável a correntes elétricas. Por esta razão, recomenda-se tomar especial atenção ao seu entorno quando estiver de posse de um camelbak.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] eficácia de múltiplas unidades é acumulável\n
+		</text>
+	</string>
+	
+	<string id="st_af_iam_name">
+		<text>Módulo de Aplicação Improvisado (vazio)</text>
+	</string>
+	<string id="st_af_iam_descr">
+		<text>O Módulo de Aplicação Improvisado (IAM) filtra uma pequena quantidade de partículas de radiação emitidas por artefatos. Esta bolsa mecânica de metal é o dispositivo mais barato que permite ao usuário aproveitar o poder de artefatos menos potentes. O filtro de artefatos é composto por múltiplas camadas feitas principalmente de chumbo que protegem da radiação. Uma alternativa de baixo custo aos mais confiáveis AAC e AAM. Em caso de emergência ou se não for mais necessário, o módulo pode ser utilizado como fonte de metal de qualidade para uso em reparos de trajes ou capacetes. Atualmente inutilizável. Para prendê-lo ao cinto, você precisa colocar um artefato dentro. O artefato manterá suas características com exceção da redução da emissão de radiação. Devido à sua baixa qualidade, o IAM só é capaz de bloquear partículas beta. Formadas por todos os artefatos, as partículas beta são capazes de danificar a pele de maneira semelhante a uma queimadura.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[ui_white] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] protege das seguintes emissões radioativas:\n
+		%c[d_blue]   - partículas beta\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] vazio\n
+		</text>
+	</string>
+	
+	<string id="st_af_aac_name">
+		<text>Contêiner de Aplicação de Artefatos (vazio)</text>
+	</string>
+	<string id="st_af_aac_descr">
+		<text>O Contêiner de Aplicação de Artefatos (AAC) filtra uma quantidade moderada de partículas de radiação emitidas por artefatos. Este contêiner mecânico de alumínio é a maneira mais econômica e, portanto, a mais popular de manusear artefatos, pois permite ao usuário aproveitar o poder de artefatos mais potentes. O filtro de artefatos é composto por múltiplas camadas feitas principalmente de chumbo, com uma camada de tório que tem fortes propriedades de blindagem contra radiação. Este dispositivo foi fabricado por cientistas residentes em bunkers militares ao redor da Zona. Em caso de emergência ou se não for mais necessário, o módulo pode ser utilizado como fonte de metal de qualidade para uso em reparos de trajes ou capacetes. Atualmente inutilizável. Para prendê-lo ao cinto, você precisa colocar um artefato dentro. O artefato manterá suas características com exceção da redução da emissão de radiação. Comparado ao IAM, o AAC é capaz de filtrar raios gama. Formados pela maioria dos artefatos, os raios gama são capazes de penetrar na pele, danificar o DNA e, em altas doses, os órgãos internos, quebrando as ligações entre átomos em uma molécula.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] protege das seguintes emissões radioativas:\n
+		%c[d_blue]   - partículas beta\n
+		%c[d_green]   - raios gama\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] vazio\n
+		</text>
+	</string>
+	
+	<string id="st_af_aam_name">
+		<text>Módulo de Aplicação de Artefatos (vazio)</text>
+	</string>
+	<string id="st_af_aam_descr">
+		<text>O Módulo de Aplicação de Artefatos (AAM) filtra uma quantidade significativa de partículas de radiação emitidas por artefatos. Este módulo mecânico avançado é a maneira mais eficaz de aproveitar o poder dos artefatos mais potentes. O filtro de artefatos é composto por várias camadas feitas de nano-carbono. Por isso, é leve e possui as propriedades de blindagem contra radiação mais fortes de todos os dispositivos. Considerado um símbolo de riqueza na Zona. Mais comumente usado pelos cientistas para minimizar os efeitos nocivos dos artefatos. Projetado e fabricado na Ucrânia por um instituto governamental que fornece equipamentos para os cientistas residentes na Zona de Alienação. Em caso de emergência ou se não for mais necessário, o módulo pode ser utilizado como fonte de metal de qualidade para uso em reparos de trajes ou capacetes. Atualmente inutilizável. Para prendê-lo ao cinto, você precisa colocar um artefato dentro. O artefato manterá suas características com exceção da redução da emissão de radiação. Comparado ao AAC, o AAM é capaz de filtrar nêutrons. Formados apenas pelos artefatos mais instáveis, os nêutrons são capazes de penetrar na pele e, em altas doses, danificar o DNA e órgãos internos, causando instabilidade nos núcleos atômicos das moléculas, que podem então se decompor causando mais danos. Mesmo se o nêutron for absorvido "com segurança", exposição suficiente levará ao envenenamento por deutério.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] protege das seguintes emissões radioativas:\n
+		%c[d_blue]   - partículas beta\n
+		%c[d_green]   - raios gama\n
+		%c[d_orange]   - nêutrons\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] vazio\n
+		</text>
+	</string>
+	
+<!-- Mutant Hide -->
+	<string id="st_hide_flesh_name">
+		<text>Flesh hide</text>
+	</string>
+	<string id="st_hide_flesh_descr">
+		<text>Hide removed from a breed of mutated pigs commonly referred to as fleshes. Its heavy weight (its main drawback) results from a thick layer of fat underneath the relatively soft and shallow skin. It offers low physical protection, but on the other hand considerably reduces the harmful effects of chemical, thermal and electrical anomalies. Can be used only for minor repairs as the layer of fat is useless for the purposes of armour maintenance and must be cut off, leaving only a small patch of shallow skin tissue.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt\n%c[d_purple] • %c[ui_gray_2] damage prot. negligible\n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_boar_name">
+		<text>Boar pelt</text>
+	</string>
+	<string id="st_hide_boar_descr">
+		<text>A hide almost fully covered with a thick layer of fur, removed from one of wild boars found commonly in the Zone. The mutants themselves are quite resistant to damage and can take considerable punishment, and the reason for this is simple: big muscle mass and almost unbreakable bones. The skin, on the other hand, is quite thin (most probably to provide the creature with effective means of thermal regulation), making it a rather poor choice for armour enhancement. The fur in turn makes the hide a relatively potent thermal insulator. Can also be used for light repairs. Unfortunately, wearing the pelt on top of the armour makes the user less resistant to radioactive and toxic damage as heavy particles often accumulate within the fur.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt \n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_bloodsucker_name">
+		<text>Bloodsucker skin</text>
+	</string>
+	<string id="st_hide_bloodsucker_descr">
+		<text>Bloodsuckers as a species evolved from humans and this affinity can still be seen in the texture of their skin. What is most characteristic, the skin is very soft and pleasant in touch, almost like the skin of a child. This applies, however, only to the outer layer - underneath, bloodsuckers boast well-developed muscles which can be utilised to form a coat of sorts with considerable damage reducing potential, especially in regard to melee attacks. This makes bloodsucker skin a popular choice among experienced hunters who also wear it as a sign of their proficiency. The most unique property and at the same time the main drawback of the skin is its very intense reaction to temperature change - although the tissue itself will only burn in very high temperatures, it can get very hot making it increasingly damaging to wearer and equipment underneath it.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] medium mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] valuable \n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psysucker_name">
+		<text>Psysucker skin</text>
+	</string>
+	<string id="st_hide_psysucker_descr">
+		<text>Psysuckers as a species evolved from bloodsuckers and this affinity can still be seen in the texture of their skin. What is most characteristic, the skin is very soft and pleasant in touch, almost like the skin of a child. This applies, however, only to the outer layer - underneath, Psysuckers boast well-developed muscles which can be utilised to form a coat of sorts with considerable damage reducing potential, especially in regard to melee attacks. This makes Psysucker skin a popular choice among experienced hunters who also wear it as a sign of their proficiency. The most unique property and at the same time the main drawback of the skin is its very intense reaction to temperature change - although the tissue itself will only burn in very high temperatures, it can get very hot making it increasingly damaging to wearer and equipment underneath it. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy waves when worn over the head.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] medium mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] valuable \n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_lurker_name">
+		<text>Lurker hide</text>
+	</string>
+	<string id="st_hide_lurker_descr">
+		<text>A thick hide almost fully covered with a layer of fur, removed from a lurker. The mutants themselves are quite resistant to damage and can take considerable punishment, and the reason for this is simple: big muscle mass and almost unbreakable bones. The skin of lurker is known for being thick and durable, making it a good choice for armour enhancement. The fur in turn makes the hide a relatively potent thermal insulator. Can also be used for light repairs.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt \n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_burer_name">
+		<text>Burer skin</text>
+	</string>
+	<string id="st_hide_burer_descr">
+		<text>Skinning a burer is a lot like skinning a twisted dwarf. Add to it an almost unbearable stench of bad eggs and you get the idea why stalkers consider this quite a feat. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy waves when worn over the head. Burer's skin has low electrical resistance, thus the wearer is more susceptible to electrical damage. Furthermore, due to the fact that burers are relatively rarely encountered in the Zone, the skin has significant research potential, making it a valuable trading commodity for the scientists.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] rare scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_chimera_name">
+		<text>Chimera hide</text>
+	</string>
+	<string id="st_hide_chimera_descr">
+		<text>Chimera, being one of the most dangerous mutants in the Zone, is not only a significant threat, but can also be regarded as a viable source of wealth. All parts that can be taken from chimera's corpse can be sold for a large amount of money, but it is the skin that is one of the most valued scientific specimens as well as one of the best armour enhancements available in the Exclusion Zone. It offers very good protection properties and, even more importantly, is relatively light-weight thanks to which it does not limit mobility. However, its most unique feature is that organic fibres found in the skin act as very effective electrical conductors. This fact to a large degree confirms reports of recon units (especially those scouting around the AMK Industrial Complex) concerning sightings of chimeras surrounded in what looked like an electrical anomaly, producing discharges on contact with any hostile living organism. Unfortunately, no unit was able to make it back, so there is no evidence confirming the existence of such a creature.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] heavy mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] very rare scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] extremely valuable\n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudogiant_name">
+		<text>Pseudogiant hide</text>
+	</string>
+	<string id="st_hide_pseudogiant_descr">
+		<text>The skin of a pseudogiant in many ways resembles the skin of an elephant. It's thick and hard in touch, its texture is very irregular and full of folds which act as the creature's cooling mechanism. The average thickness of pseudogiant's skin is around 2 cm, which makes it very durable and capable of withstanding significant damage. This is, however, at the cost of increased weight. Since pseudogiants are known to often live in areas of high toxicity and radioactivity, the hide naturally adapted to such conditions, which further increases its usefulness. It can also be used to patch even the heaviest of outfits but this process requires the most durable and expensive tools available. It is valued not only for its practical qualities, but can also serve as a prestigious hunting trophy and a rare specimen for the scientists in the Zone.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] very heavy mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_controller_name">
+		<text>Controller scalp</text>
+	</string>
+	<string id="st_hide_controller_descr">
+		<text>As is the case with other humanoid mutants, it's quite an emotional challenge to scalp a controller and it proves to be even more difficult as the face of a controller retains certain characteristics of the person it once was. Confidential sources within the military also revealed that fingerprints of the person who turned into a controller can sometimes be found in the database. Recent analysis shows that not only the hand of the controller is capable of producing psy waves - the whole body is the source of emissions. For this reason, the scalp - when prepared properly - has the ability to absorb and filter psy energy, but for this effect to take place it is necessary to cover your head with multiple scalps. The skin is also electrically conductive. As regards its physical properties, it is light and can only be used for minor outfit repairs. As is the case with all humanoid psy creatures, the skin of a controller is electrically conductive.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] rare scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] very valuable\n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudodog_name">
+		<text>Pseudodog fur</text>
+	</string>
+	<string id="st_hide_pseudodog_descr">
+		<text>Densely covered with short and stiff fur, the pelt of pseudodog remains one of the most useful, widespread and versatile mutant pelts available in the Zone. It can be easily attached to armour with even lightest of tools, and yet it's quite durable, which makes it suitable for medium-grade outfit repairs. When used as a whole - it can cover significant area of the body with protective layer which increases resistance to both physical damage and heat. The fur also provides effective insulation. However, as is the case with all such pelts, it easily catches radioactive and toxic particles, so it is highly advised to remove it when in radioactive or toxic areas.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] medium mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psy_dog_name">
+		<text>Psy-dog fur</text>
+	</string>
+	<string id="st_hide_psy_dog_descr">
+		<text>The fur of a psy dog is undoubtedly one of the most beautiful and rare clothing materials in the world. Usually snow white or grey, it is in great demand and can be sold for a hefty sum of money. It's probably made its way into fashion industry thanks to smugglers some of whom have recently turned to hunting mutants. For those in the Zone, it can serve as a blanket, especially during cold nights, and offers efficient rupture protection and mild psy influence reduction when head part of the fur is used as a mask or a hood. However, it easily catches radioactive and toxic particles, so it is highly advised to remove it when in radioactive or toxic areas. Hunters wear it with pride, but only if the creature was slain by their own hands.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] medium mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		%c[d_cyan] • %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		</text>
+	</string>
+	
+	<string id="st_powder_poltergeist">
+		<text>'Diamond powder'</text>
+	</string>
+	<string id="st_powder_poltergeist_descr">
+		<text>"Diamond powder" is a common name given to crystal-like substance sometimes found in the belly of all species of psy creatures. It is not known what metabolic processes lead to its emergence and for this reason scientists are eager to pay large sums of money to lay their hands on it. Practical use is limited but some stalkers are known to sprinkle their most cherished hunting knives with it as it makes sharpening significantly easier. It also makes blades look shiny and well-kept.\n \n
+		%c[d_cyan] • %c[ui_gray_2] psy mutant metabolism product\n
+		%c[d_cyan] • %c[ui_gray_2] very rare scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		</text>
+	</string>
+	
+</string_table>

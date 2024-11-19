@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="dug_lim_tip_switcher_on">
+		<text>Ligar o Radar DUGA ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="dug_lim_tip_switcher_off">
+		<text>Desligar o Radar DUGA ($$ACTION_USE$$)</text>
+	</string>
+</string_table>

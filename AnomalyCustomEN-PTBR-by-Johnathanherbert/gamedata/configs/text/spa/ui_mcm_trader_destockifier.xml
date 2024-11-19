@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+	<string id="ui_mcm_trader_destockifier_title">
+		<text>Destockificador de Comerciantes</text>
+	</string>
+	<string id="ui_mcm_menu_trader_destockifier">
+		<text>Destockificador de Comerciantes</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_debug_mode">
+		<text>Modo de depuração</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_debug_mode_desc">
+		<text>Ativa o registro de mensagens no console.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_items_help">
+		<text>Abaixo você pode definir a quantidade máxima de itens que cada comerciante pode ter após reabastecer.\n \nDefinir o controle deslizante para 0 removerá completamente os itens desse grupo.\n \nDefinir o controle deslizante como -1 ignorará os itens desse grupo e não excluirá nada.\n</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_guns">
+		<text>Número máximo de armas longas em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_handguns">
+		<text>Número máximo de pistolas em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_knives">
+		<text>Quantidade máxima de facas em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_outfits">
+		<text>Quantidade máxima de trajes em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_helmets">
+		<text>Quantidade máxima de capacetes em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_weapon_attachments">
+		<text>Quantidade máxima de acessórios para armas em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_backpacks">
+		<text>Quantidade máxima de mochilas em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_explosives">
+		<text>Quantidade máxima de explosivos (granadas, foguetes) em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_ammo_percent">
+		<text>Porcentagem máxima de munição do estoque inicial para vender</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_ammo_percent_desc">
+		<text>-10 para não alterar a munição.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_sell_only_guns_ammo">
+		<text>Vender munição apenas para armas em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_food">
+		<text>Quantidade máxima de consumíveis (alimentos, bebidas, cigarros) em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_food_desc">
+		<text>Os comerciantes que não sejam da taverna terão 50% menos do que o valor definido.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_heal">
+		<text>Quantidade máxima de itens médicos em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_heal_desc">
+		<text>Os comerciantes não médicos terão 50% menos do que o valor definido.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_repair">
+		<text>Número máximo de itens de reparo em estoque</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_repair_desc">
+		<text>Os comerciantes não mecânicos terão 50% menos que o valor definido.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize">
+		<text>Aleatorizar</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize_desc">
+		<text>O número de itens irá variar em relação ao número definido no MCM.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize_deviation">
+		<text>Desvio da aleatorização (%)</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize_deviation_desc">
+		<text>100%: os itens variam entre 0x e 2x vezes. \n 50%: os itens variam entre 0,5x e 1,5x vezes.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_compatibility_help">
+		<text>Abaixo você pode definir a quantidade dos itens que alguns mods utilizam.\n</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_mags">
+		<text>Quantidade máxima de carregadores em estoque (Mags Redux)</text>
+	</string>
+	
+</string_table>

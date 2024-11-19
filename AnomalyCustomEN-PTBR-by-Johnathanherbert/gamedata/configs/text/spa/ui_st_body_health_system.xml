@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_body_health_system_title">
+		<text>Sistema de Saúde Corporal</text>
+	</string>
+	<string id="ui_mcm_menu_body_health_system">
+		<text>Sistema de Saúde Corporal</text>
+	</string>
+
+	<string id="ui_mcm_body_health_system_TEXT_BASED_PATCH">
+		<text>HUD baseado em texto</text>
+	</string>
+	<string id="ui_mcm_body_health_system_TEXT_BASED_PATCH_desc">
+		<text>(Requer reinicialização) Versão em texto do HUD</text>
+	</string>
+
+	<string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE">
+		<text>Novo sistema de penalidades por membros</text>
+	</string>
+	<string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE_desc">
+		<text>(Requer reinicialização) Ativar isso habilita o novo sistema de penalidades. Desativar retorna às penalidades antigas do BHS.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_new_voice_sounds">
+		<text>Novos sons de voz para penalidades</text>
+	</string>
+	<string id="ui_mcm_body_health_system_new_voice_sounds_desc">
+		<text>Ativar isso habilita os novos sons de voz ao correr com as pernas danificadas. Desativar retorna aos sons do mod original.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_penalty_minimum_hp">
+		<text>Saúde mínima das pernas para penalidade de câmera</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_penalty_minimum_hp_desc">
+		<text>A saúde de pelo menos uma perna deve estar abaixo deste valor para ativar os efeitos. O valor padrão é 5, o que significa que os efeitos serão ativados com 4 pontos de vida ou menos. (A penalidade de velocidade permanecerá ativa por enquanto.)</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp">
+		<text>Saúde mínima das pernas para danos ao correr</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp_desc">
+		<text>Existe uma chance de que correr com uma perna machucada cause danos. Este controle define a quantidade mínima de saúde da perna necessária para ativar este efeito, ou seja, se o controle estiver em 4 e a saúde da sua perna for 4, o efeito será ativado. (O valor -1 desativa esta função.)</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_animation_power">
+		<text>Intensidade dos efeitos de câmera das pernas</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_animation_power_desc">
+		<text>Multiplicador de penalidade das pernas para o efeito de câmera. Padrão: 1.0.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_arm_penalty_minimum_hp">
+		<text>Saúde mínima dos braços para penalidades</text>
+	</string>
+	<string id="ui_mcm_body_health_system_arm_penalty_minimum_hp_desc">
+		<text>A saúde dos braços deve estar abaixo deste valor para ativar os efeitos. O valor padrão é 10, o que significa que os efeitos serão ativados se ambos os braços tiverem 9 pontos de vida ou menos.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_arm_animation_power">
+		<text>Intensidade dos efeitos dos braços</text>
+	</string>
+	<string id="ui_mcm_body_health_system_arm_animation_power_desc">
+		<text>Multiplicador da intensidade do efeito de penalidade dos braços. Padrão: 1.0.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_head_penalty_minimum_hp">
+		<text>Dano mínimo na cabeça para penalidades</text>
+	</string>
+	<string id="ui_mcm_body_health_system_head_penalty_minimum_hp_desc">
+		<text>Dano necessário para ativar os efeitos. Por exemplo, o valor padrão de 2 significa que cada golpe na cabeça deve causar 2 ou mais pontos de dano.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_head_animation_power">
+		<text>Intensidade dos efeitos da cabeça</text>
+	</string>
+	<string id="ui_mcm_body_health_system_head_animation_power_desc">
+		<text>Multiplicador para a intensidade do efeito de penalidade na cabeça. Padrão: 1.0.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+<string id="st_wpn_srs99">
+		<text>SRS99-AM</text>
+	</string>
+	<string id="st_wpn_srs99_descr">
+		<text>O rifle de precisão SRS99-AM é uma arma avançada conhecida por sua excepcional precisão e alcance. Equipado com uma mira de alta potência, permite atingir alvos distantes com precisão e facilidade. Este rifle versátil incorpora um mecanismo de disparo semiautomático que permite disparos consecutivos sem perder precisão. Seu impressionante poder de parada e projéteis perfurantes fazem dele uma arma formidável contra adversários fortemente blindados. Além disso, o SRS99-AM possui capacidade de carregador que garante disparos sustentados durante os confrontos. Com seu design elegante e desempenho superior, este rifle de precisão é uma escolha confiável para atiradores experientes que operam em cenários de combate desafiadores.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Marte \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Misriah Armory \n</text>
+	</string>	
+	
+	<string id="st_mag_srs99_338_default">
+		<text>Carregador de 4 cartuchos do SRS99-AM</text>
+	</string>
+	<string id="st_mag_srs99_338_default_descr">
+		<text>Carregador para o rifle antimaterial SRS99. Contém 4 cartuchos .338 Magnum.\n \n</text>
+	</string>
+	
+		<string id="st_mag_srs99_338_ext">
+		<text>Carregador de 9 cartuchos do SRS99-AM</text>
+	</string>
+	<string id="st_mag_srs99_338_ext_descr">
+		<text>Carregador estendido para o rifle antimaterial SRS99. Contém 9 cartuchos .338 Magnum.\n \n</text>
+	</string>
+</string_table>

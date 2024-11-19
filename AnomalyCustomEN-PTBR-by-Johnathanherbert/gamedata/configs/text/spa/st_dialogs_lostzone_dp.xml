@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--===========================================================
+<
+< TEXTOS PARA A MISSÃO LOST TO THE ZONE: DARK PRESENCE
+<	Anomaly 1.5 - Lost to the Zone: Dark Presence
+<
+<	Feito por: SarisKhan
+<	Última revisão: 29 de Outubro de 2020
+<
+<===========================================================-->
+
+<string_table>
+
+<!-- Radogost -->
+	<string id="mil_greh_radogost_dialog_0">
+		<text>Bem-vindo, stalker. Por favor, sente-se.</text>
+	</string>
+	
+	<string id="mil_greh_radogost_st_0">
+		<text>Estou grato por você ter vindo.</text>
+	</string>
+	<string id="mil_greh_radogost_st_1">
+		<text>Isso é uma surpresa. Não esperava encontrar um membro amigável do Sin. Quem é você?</text>
+	</string>
+	<string id="mil_greh_radogost_st_11">
+		<text>Identifique-se imediatamente. Preciso de uma explicação.</text>
+	</string>
+	<string id="mil_greh_radogost_st_111">
+		<text>Que porra é essa!? É melhor você me dar um bom motivo para não atirar em você agora mesmo. Estou contando.</text>
+	</string>
+	<string id="mil_greh_radogost_st_2">
+		<text>Sua atitude me enche de esperança. Meu nome é Radogost. Sou um dos membros fundadores do Sin e o líder desta comunidade pacífica. Os Mestres me concederam o poder de cura, para que eu possa reparar todos os danos físicos em questão de momentos. Tenho me esforçado para fazer o melhor uso do meu talento, embora eu gostaria de poder curar também mentes quebradas... De qualquer forma, você sempre pode contar comigo em momentos de necessidade.</text>
+	</string>
+	<string id="mil_greh_radogost_st_22">
+		<text>Sim, claro. Meu nome é Radogost. Sou um dos membros fundadores do Sin e o líder desta comunidade pacífica. Os Mestres me concederam o poder de cura, para que eu possa reparar todos os danos físicos em questão de momentos. Tenho me esforçado para fazer o melhor uso do meu talento, embora eu gostaria de poder curar também mentes quebradas... Não importa.</text>
+	</string>
+	<string id="mil_greh_radogost_st_222">
+		<text>Por favor, não há necessidade de violência! Me escute. Meu nome é Radogost. Sou um dos membros fundadores do Sin e o líder desta comunidade pacífica. Os Mestres me concederam o poder de cura, para que eu possa reparar todos os danos físicos em questão de momentos. Tenho me esforçado para fazer o melhor uso do meu talento, embora eu gostaria de poder curar também mentes quebradas... Talvez, pudéssemos ter evitado aquela carnificina...</text>
+	</string>
+	
+	<string id="mil_greh_radogost_dark_presence_0">
+		<text>Ok, então por que você me chamou? É você quem está enviando todas aquelas mensagens assustadoras no PDA para mim?</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_1">
+		<text>Não, claro que não, mas acredito saber qual é a fonte delas.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_2">
+		<text>Sou todo ouvidos.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_3">
+		<text>Durante suas muitas excursões e aventuras pela Zona, você matou numerosos servos dos Mestres. Suas formas físicas pereceram, embora suas almas abençoadas tenham ascendido a Vyraj. E com cada morte consecutiva, sua luz santa e calorosa ficou cada vez mais quente. Abrasadora, tórrida.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_4">
+		<text>Isso parece um pouco exagerado.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_5">
+		<text>Você precisa entender! A Zona é um lugar verdadeiramente miraculoso: o ponto focal de um campo global que conecta e reflete mentes e pensamentos humanos. Sua influência é tangível! E costumava ser um lugar pacífico, mas não mais...\n \nNosso Pai, Chernobog, já foi um líder gentil. Todos nós vivíamos contentes no reino tranquilo de Vyraj. No entanto, sua visão foi envenenada e distorcida quando o homem chamado "Strelok" assassinou nossos Mestres. Ele foi dominado pela ira e pelo ódio, obcecado por vingança. A Zona começou a ferver. Felizmente, você conseguiu conter a cruzada sangrenta que se seguiu, e o tumulto causado pela violência diminuiu. Por um tempo.\n \nEventualmente, senti uma presença odiosa e opressiva. Elusiva no início, mas crescendo lentamente mais forte, se espalhando, como se acumulasse energia... Senti ira e ódio inumanos permeando a Zona, eletrificando o ar... Ouvi um coro infernal de vozes sedentas por sangue. E um dia essa "presença sombria" invadiu as mentes de meus dóceis irmãos, transformando a maioria deles em escravos brutais. Apenas nós escapamos.\n \nEscute! A Zona está fervendo novamente. Uma catástrofe inimaginável está chegando. Por favor, você deve viajar para o complexo subterrâneo no que vocês stalkers chamam de Vale Escuro. Você deve parar a presença sombria antes que seja tarde demais!</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_6">
+		<text>Não estou muito certo disso.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_7">
+		<text>Por favor, eu imploro! Como um guerreiro do Duty, você certamente entende a gravidade desta situação! Se tiver tempo, a presença sombria se tornará uma ameaça enorme para todos!</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_71">
+		<text>Por favor, eu imploro! Isso vai além do ganho pessoal, mas certamente você não pode ignorar tal ameaça à sua carreira!</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_72">
+		<text>Por favor, eu imploro! Isso vai além do ganho pessoal, mas certamente você não pode ignorar tal ameaça às suas futuras aventuras!</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_73">
+		<text>Por favor, eu imploro! Como membro do Clear Sky, você certamente entende a gravidade desta situação! Se tiver tempo, a presença sombria desestabilizará a Zona além do reconhecimento!</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_74">
+		<text>Por favor, eu imploro! Como membro do Freedom, você certamente não pode deixar o milagre que é a Zona se tornar um inferno na terra!</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_75">
+		<text>Por favor, eu imploro! Como homem da ciência, você certamente entende a gravidade desta situação! Se tiver tempo, a presença sombria desestabilizará a Zona além do reconhecimento!</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_8">
+		<text>Muito bem, obrigado por me contar sobre isso. Vou investigar a situação. Fique fora de problemas.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_81">
+		<text>Certo. Não tenho certeza se posso confiar em você, mas terei que investigar por conta própria. Enquanto isso, é melhor você escolher um local mais remoto para habitar. E não pense que vou me esquecer de você.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_811">
+		<text>Tudo bem, obrigado pelo aviso. Vou investigar a situação, mas há uma ameaça mais imediata aqui que vou resolver primeiro. Faça suas orações.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_9">
+		<text>Obrigado! Por favor, leve isto com você, acredito que este fruto de Vyraj nos ajudou a nos proteger da influência maligna da presença sombria. Desejo-lhe boa sorte.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_901">
+		<text>Obrigado. Eu sabia que havia um tipo especial de bondade em você desde o momento em que mostrou misericórdia ao nosso irmão cativo. Por favor, leve isto com você, acredito que este fruto de Vyraj nos ajudou a nos proteger da influência maligna da presença sombria. Desejo-lhe boa sorte.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_91">
+		<text>Suponho que nossos irmãos mais militantes arruinaram nossa reputação para sempre. Pensei que você pudesse nos perdoar, já que poupou nosso irmão cativo uma vez... Muito bem, partiremos, para nunca mais sermos vistos.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_92">
+		<text>Suponho que nossos irmãos mais militantes arruinaram nossa reputação para sempre. Muito bem, partiremos, para nunca mais sermos vistos.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_911">
+		<text>Talvez eu tenha julgado mal. Talvez nosso Pai fosse o menor dos males afinal...</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_912">
+		<text>Talvez eu tenha julgado mal. Você escolheu matar nosso irmão cativo não por necessidade, mas por crueldade... Talvez nosso Pai fosse o menor dos males afinal...</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_101">
+		<text>Isso é para o melhor. Adeus.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_1011">
+		<text>Pense o que quiser. Planejo resolver as pontas soltas.</text>
+	</string>
+
+	<string id="mil_greh_radogost_heal_0">
+		<text>Preciso de atendimento médico.</text>
+	</string>
+	<string id="mil_greh_radogost_heal_1">
+		<text>Deixe-me tratá-lo.</text>
+	</string>
+	<string id="mil_greh_radogost_heal_2">
+		<text>Seu corpo está em perfeitas condições. Talvez seja sua mente que esteja doente.</text>
+	</string>
+	<string id="mil_greh_radogost_heal_3">
+		<text>[Continuar...]</text>
+	</string>
+	<string id="mil_greh_radogost_heal_4">
+		<text>Curei seus ferimentos físicos.</text>
+	</string>
+	
+	<string id="mil_greh_radogost_dark_presence_final_0">
+		<text>Ei, Radogost. Foi uma experiência e tanto, mas consegui lidar com aquela... coisa.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_final_1">
+		<text>Maravilhoso! Estou muito feliz em ouvir isso. A presença sombria estava manchando a Zona com sua fúria, ódio e hostilidade. Agora, podemos finalmente viver em paz.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_final_2">
+		<text>Não precisa agradecer.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_final_3">
+		<text>Você merece uma recompensa pelo seu esforço. Por favor, aceite isto como um símbolo de nossa gratidão. Que a Zona o trate bem.</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_final_4">
+		<text>Obrigado. Adeus.</text>
+	</string>
+	
+	<!-- presença sombria -->
+	<string id="x18_dark_presence_dialog_0">
+		<text>Você veio... claro que veio...</text>
+	</string>
+	<string id="x18_dark_presence_dialog_1">
+		<text>Merda!... Ok, bem, não é a primeira vez que estou falando com uma voz incorpórea. Você é a "presença sombria" que Radogost falou?</text>
+	</string>
+	<string id="x18_dark_presence_dialog_111">
+		<text>Merda!... Ok, bem, não é a primeira vez que estou falando com uma voz incorpórea. Você é a "presença sombria" que aquela escória do Sin falou?</text>
+	</string>
+	<string id="x18_dark_presence_dialog_2">
+		<text>[...]</text>
+	</string>
+	<string id="x18_dark_presence_dialog_3">
+		<text>... Certo, vou considerar isso como um sim. Como soldado do Duty, é minha missão eliminar ameaças como você, criatura.</text>
+	</string>
+	<string id="x18_dark_presence_dialog_31">
+		<text>... Certo, vou considerar isso como um sim. Não tenho contrato do Dushman para te matar. Essa é por conta própria.</text>
+	</string>
+	<string id="x18_dark_presence_dialog_32">
+		<text>... Certo, vou considerar isso como um sim. O pessoal lá na Vila dos Novatos não vai acreditar na história que vou contar quando terminar com você.</text>
+	</string>
+	<string id="x18_dark_presence_dialog_33">
+		<text>... Certo, vou considerar isso como um sim. Um dos principais objetivos do Clear Sky é conter a Zona. Isso inclui você.</text>
+	</string>
+	<string id="x18_dark_presence_dialog_34">
+		<text>... Uau, ok, vou considerar isso como um sim. Sabe, eu prefiro a Zona do jeito que está, então vou te parar aqui mesmo.</text>
+	</string>
+	<string id="x18_dark_presence_dialog_35">
+		<text>... Certo, vou considerar isso como um sim. Isso está muito além do meu pagamento, mas não vou ignorar uma ameaça tão grave.</text>
+	</string>
+	<string id="x18_dark_presence_dialog_4">
+		<text>Você... VOCÊ... não pode nos deter... nós... mortal insignificante. Mesmo que você seja... UM INIMIGO!... do Monolito... Mesmo que você... tenha derramado o sangue de nossos justos irmãos... você, no final, colocou isso em movimento. Você é responsável pela minha... NOSSA!... criação, mortal.</text>
+	</string>
+	<string id="x18_dark_presence_dialog_5">
+		<text>O quê? Como?</text>
+	</string>
+	<string id="x18_dark_presence_dialog_6">
+		<text>Eu sou, nós somos, eu sou, nós somos... uma amálgama... coletivo... gestalt... dos caídos. Nós ascendemos, e juntos, nós iremos... aproveitar o poder do poderoso Monolito, E LIMPAR O MUNDO COM A LUZ SAGRADA DE VYRAJ!</text>
+	</string>
+	<string id="x18_dark_presence_dialog_6_alt">
+		<text>Eu sou, nós somos, eu sou, nós somos... uma amálgama... coletivo... gestalt... dos caídos. Inimigos... e amigos também. Nós ascendemos, e juntos, nós iremos... aproveitar o poder do poderoso Monolito, E LIMPAR O MUNDO COM A LUZ SAGRADA DE VYRAJ!</text>
+	</string>
+	<string id="x18_dark_presence_dialog_7">
+		<text>Não há volta depois de tudo que passei. Vou cortar seu plano pela raiz.</text>
+	</string>
+	<string id="x18_dark_presence_dialog_8">
+		<text>NÃO!</text>
+	</string>
+	<string id="x18_dark_presence_dialog_9">
+		<text>Não vou deixar você me intimidar! Hora de acabar com isso.</text>
+	</string>
+	<string id="x18_dark_presence_dialog_10">
+		<text>Que assim seja... MORRA!</text>
+	</string>
+	<string id="x18_dark_presence_dialog_11">
+		<text>Depois de você.</text>
+	</string>
+
+</string_table>

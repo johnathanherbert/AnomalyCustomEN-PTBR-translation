@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	
+    <string id="ui_mcm_menu_aol_hf">
+        <text>Móveis de Esconderijo</text>
+    </string>
+
+	<string id="ui_mcm_aol_hf_bind_left">
+		<text>Girar objeto no sentido horário</text>
+	</string>
+
+    <string id="ui_mcm_aol_hf_bind_right">
+		<text>Girar objeto no sentido anti-horário</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_bind_up">
+		<text>Mover objeto para cima</text>
+	</string>
+
+    <string id="ui_mcm_aol_hf_bind_down">
+		<text>Mover objeto para baixo</text>
+	</string>
+
+    <string id="ui_mcm_aol_hf_bind_place">
+		<text>Posicionar objeto</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_bind_collision">
+		<text>Alternar verificação de colisão</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_disable_bbox">
+		<text>Desativar caixa delimitadora na visualização</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_use_ingame_time">
+		<text>Luzes exibem o horário do jogo</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_update_mcm">
+		<text>Atualize o MCM para definir atalhos de teclado. Padrão: setas direcionais para girar, tecla F para posicionar.</text>
+	</string>
+
+
+</string_table>

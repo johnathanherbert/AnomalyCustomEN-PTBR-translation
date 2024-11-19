@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_radio_zone">
+		<text>Zona.FM - 93.7</text>
+	</string>
+	<string id="st_radio_chpr">
+		<text>Rádio Pública de Chernobyl - 101.4</text>
+	</string>
+	<string id="st_radio_bandit">
+		<text>House FM - 89.5</text>
+	</string>
+	<string id="st_radio_clear_sky">
+		<text>Retro FM - 92.4</text>
+	</string>
+	<string id="st_radio_forester">
+		<text>Rádio Jazz - 104.6</text>
+	</string>
+	<string id="st_radio_stalker">
+		<text>Rádio Fogueira - 95.6</text>
+	</string>
+	<string id="st_radio_yantar_bunker">
+		<text>Clássica FM - 105</text>
+	</string>
+</string_table>

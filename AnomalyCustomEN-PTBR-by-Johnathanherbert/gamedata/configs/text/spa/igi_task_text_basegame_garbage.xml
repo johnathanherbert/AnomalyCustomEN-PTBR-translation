@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+<!-- A?ougueiro -->
+	<string id="igi_task_text_hunter_gar_trader_bs_assault_monster_online_title">
+		<text>Caça ao Mutante</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_bs_assault_monster_online_descr">
+		<text>O Açougueiro rastreou um covil de mutantes que precisa ser limpo. Concordei em fazer o trabalho sujo de expulsá-los.</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_bs_assault_monster_online_job_descr">
+		<text>Hmm. Descobri um covil de mutantes que precisa ser limpo. Está começando a causar problemas para os stalkers locais, mas um caçador bem preparado não deveria ter problemas para expulsá-los. Então, está a fim de caçar hoje? Vou pagar pelo seu trabalho, e você pode me vender qualquer carne ou troféu que coletar quando voltar.</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_bs_assault_monster_online_finish">
+		<text>Mais uma vez o ecossistema local está em equilíbrio... hehe. Aqui está sua recompensa por um trabalho bem feito.</text>
+	</string>
+
+	<string id="igi_task_text_hunter_gar_trader_2_title">
+		<text>Encontrar troféu para o Açougueiro</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_2_descr">
+		<text>O Açougueiro precisa de partes de mutantes e me pediu para trazer algumas.</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_2_job_descr">
+		<text>Algumas pessoas pagam bom dinheiro por carne de mutante.</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_2_fetch_job_descr">
+		<text>Ocasionalmente, eu curo carnes de mutantes e as envio para o Barman e outros comerciantes para ajudá-los a complementar seus alimentos importados. Agora, estou procurando preparar carne para enviar por atacado. Se você puder me trazer a matéria-prima para isso, significará um bom dinheiro no seu bolso.</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_2_fetch_finish">
+		<text>Ah, brilhante! Essas carnes podem parecer nojentas agora, mas espere só até estarem preparadas. Ficarão deliciosas!</text>
+	</string>
+
+	
+<!-- Mercado das Pulgas -->
+	<string id="igi_task_text_baraholka_trader_night_1_title">
+		<text>Encontrar o artefato</text>
+	</string>
+	<string id="igi_task_text_baraholka_trader_night_1_descr">
+		<text>O comerciante do mercado das pulgas quer que eu encontre um artefato.</text>
+	</string>
+	<string id="igi_task_text_baraholka_trader_night_1_job_descr">
+		<text>Quer ganhar algum espélio procurando artefatos das variedades menos comuns? Posso te oferecer um bom equipamento.</text>
+	</string>
+	<string id="igi_task_text_baraholka_trader_night_1_fetch_job_descr">
+		<text>Está a fim de ganhar algum espélio procurando artefatos raros? Posso te oferecer mais coisas.</text>
+	</string>
+	<string id="igi_task_text_baraholka_trader_night_1_fetch_finish">
+		<text>Ah, ótimo trabalho, stalker. Aqui está, para você.</text>
+	</string>
+
+
+</string_table>

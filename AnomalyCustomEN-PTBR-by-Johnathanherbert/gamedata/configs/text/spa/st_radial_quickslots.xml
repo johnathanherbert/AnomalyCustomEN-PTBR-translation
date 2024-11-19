@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+<!-- Traduzido por Johnathanherbert -->
+
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Original Author(s) : NLTP_ASHES                                                                              -->
+<!--    Edited : N/A                                                                                                 -->
+<!--    Date : 05/12/2023                                                                                            -->
+<!--    License : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)          -->
+<!--                                                                                                                 -->
+<!--    Translation file for the radial quickslots labels.                                                           -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <!-- Core -->
+    <string id="st_rq_empty_slot">
+        <text>Vazio</text>
+    </string>
+
+    <string id="st_rq_unknown_slot">
+        <text>Desconhecido</text>
+    </string>
+
+    <!-- Slot titles -->
+    <string id="st_rq_knife_title">
+        <text>Faca</text>
+    </string>
+
+    <string id="st_rq_secondary_title">
+        <text>Arma Secundária</text>
+    </string>
+
+    <string id="st_rq_primary_title">
+        <text>Arma Primária</text>
+    </string>
+
+    <string id="st_rq_grenade_title">
+        <text>Granada</text>
+    </string>
+
+    <string id="st_rq_binoculars_title">
+        <text>Binóculos</text>
+    </string>
+
+    <string id="st_rq_bolts_title">
+        <text>Parafusos</text>
+    </string>
+
+    <string id="st_rq_pda_title">
+        <text>PDA</text>
+    </string>
+
+    <!-- MCM -->
+    <string id="ui_mcm_menu_radial_quickslots">
+        <text>Atalhos Radiais</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_title">
+        <text>Atalhos Radiais</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_keybindings_title">
+        <text>TECLAS ATRIBUÍDAS</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_open_menu_key">
+        <text>Abrir Menu Radial</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_open_menu_key_desc">
+        <text>Tecla atribuída para abrir o menu radial</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_technical_settings_title">
+        <text>CONFIGURAÇÕES TÉCNICAS</text>
+    </string>
+
+    <!-- Debug mode -->
+    <string id="ui_mcm_radial_quickslots_debug_mode">
+        <text>Modo de Depuração</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_debug_mode_desc">
+        <text>Faz com que o mod exiba informações no console/logs para referência posterior ao tentar identificar problemas.</text>
+    </string>
+
+</string_table>

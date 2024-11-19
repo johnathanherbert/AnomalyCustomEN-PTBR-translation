@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Munição
+-->
+
+<string_table>
+	
+	<string id="ammo_23x75_shrapnel">
+		<text>"Shrapnel-25" 23x75mm (BaS)</text>
+	</string>
+	<string id="ammo_23x75_shrapnel_descr">
+		<text>Cartucho com carga de balotes. Alcance de aplicação até 25 metros. É usado para disparo da carabina KS-23. Devido ao fato de que o cano tem ranhuras na carabina KS-23, os balotes voam sobre uma grande área, o que permite atirar sem apoio, praticamente sem mirar.\n</text>
+	</string>
+	
+	<string id="ammo_23x75_barrikada">
+		<text>"Barrikada" 23x75mm (BaS)</text>
+	</string>
+	<string id="ammo_23x75_barrikada_descr">
+		<text>Um cartucho com uma bala pontiaguda de aço. É usado para parar veículos à força danificando-os. Alcance de aplicação até 100 metros. É usado para disparo da carabina KS-23.\n</text>
+	</string>
+
+	<string id="ammo_9x21_sp10">
+		<text>9x21 mm SP10 (BaS)</text>
+	</string>
+	<string id="ammo_9x21_sp10_descr">
+		<text>Cartucho de pistola com uma bala de penetração aumentada. Projetado para destruir alvos protegidos por equipamento de proteção pessoal. A parte frontal do núcleo de aço termicamente reforçado se projeta da cápsula, devido ao qual é alcançado um alto efeito de penetração da bala.\n \n%c[ui_gray_2] - %c[ui_gray_2] Poder de penetração de armadura: %c[ui_gray_1]BR4\n%c[ui_gray_2] - %c[ui_gray_2] Poder de dano à carne: %c[ui_gray_1]médio</text>
+	</string>
+
+	<string id="ammo_20x70_buck">
+		<text>Cartucho de balotes 20x70 (BaS)</text>
+	</string>
+	<string id="ammo_20x70_buck_descr">
+		<text>Cartucho padrão calibre 20 carregado com balotes de 6 mm. Altamente letal a curta distância. Adequado apenas para uso com armas de cano liso\n \n%c[d_purple] • %c[ui_gray_2] Maior classe de armadura penetrada: %c[ui_gray_1]nenhuma\n%c[d_purple] • %c[ui_gray_2] Classificação de dano ao tecido: %c[ui_gray_1]médio - alto\n \n%c[ui_gray_1]ESPECIAL:\n \n%c[d_purple] • %c[ui_gray_2] nuvem expansiva de projéteis, alcance efetivo curto</text>
+	</string>
+	<string id="ammo_20x70_buck_s">
+		<text>Cartucho 20x70</text>
+	</string>
+
+	<string id="ammo_23_eco">
+		<text>Cartucho Ecolog-23 (BaS)</text>
+	</string>
+	<string id="ammo_23_eco_descr">
+		<text>Um cartucho especial projetado para as necessidades da equipe científica localizada na Zona. Dependendo da tarefa, é preenchido com diferentes tipos de soluções. Requer manuseio muito cuidadoso. Como usar: colocar muito lentamente na arma.\n \n%c[d_purple] • %c[ui_gray_2] Maior classe de armadura penetrada: %c[ui_gray_1]nenhuma\n%c[d_purple] • %c[ui_gray_2] Classificação de dano ao tecido: %c[ui_gray_1]nenhum\n \n%c[ui_gray_1]ESPECIAL:\n \n%c[d_purple] • %c[ui_gray_2] Usando uma agulha fina de tungstênio, perfura a pele dos mutantes para injetar a solução.</text>
+	</string>
+	<string id="ammo_23_eco_s">
+		<text>Ecolog-23</text>
+	</string>
+
+	<string id="ammo_vog_30">
+		<text>Granada VOG-30 (BaS)</text>
+	</string>
+	<string id="ammo_vog_30_descr">
+		<text>Uma granada de fragmentação VOG-30 é projetada para destruir tropas inimigas e armas de fogo localizadas em áreas abertas. Uma versão aprimorada em comparação com análogos, desenvolvida nos anos 1980, tem um efeito de fragmentação mais poderoso, além de vedação autônoma da carga propulsora no cartucho.\n </text>
+	</string>
+	<string id="ammo_vog_30_s">
+		<text>VOG-30</text>
+	</string>
+
+	<string id="ammo_338_federal">
+		<text>.338 Federal (BaS)</text>
+	</string>
+	<string id="ammo_338_federal_descr">
+		<text>O .338 Federal é um cartucho de rifle baseado no estojo do .308 Winchester com o pescoço aumentado para calibre .33. Foi criado pela Federal Cartridge e Sako em 2006 e destinado como um cartucho para caça de grande porte com recuo razoável para rifles leves.\n \n%c[d_purple] • %c[ui_gray_2] Maior classe de armadura penetrada: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Classificação de dano ao tecido: %c[ui_gray_1]muito alto</text>
+	</string>
+	<string id="ammo_338_federal_s">
+		<text>.338 Federal</text>
+	</string>
+	
+</string_table>

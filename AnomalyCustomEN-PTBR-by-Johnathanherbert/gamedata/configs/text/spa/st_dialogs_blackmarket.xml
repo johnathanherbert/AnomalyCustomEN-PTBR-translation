@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+        <string id="blackmarket_no_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_no_1">
+		<text>Você está louco? Os militares já me incomodam o suficiente. Além disso, o que os novatos por aqui farão se eu lhes vender uma arma de luxo? Vá morrer pelo Monolith. Procure outra pessoa.</text>
+	</string>
+        <string id="blackmarket_no_2">
+		<text>Bem, deixa pra lá. Eu não perguntei a você.</text>
+	</string>
+        <string id="blackmarket_eco_1_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_eco_1_1">
+		<text>Posso comprar armas da NATO, mas não posso vender nada. Aqui registramos tudo.</text>
+	</string>
+        <string id="blackmarket_eco_1_2">
+		<text>Certo.</text>
+	</string>
+        <string id="blackmarket_eco_3_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_eco_3_1">
+		<text>Posso comprar armas de ponta da NATO, mas não posso vender nada. Aqui registramos tudo.</text>
+	</string>
+        <string id="blackmarket_eco_3_2">
+		<text>Certo.</text>
+	</string>
+        <string id="blackmarket_wp_1_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_wp_1_1">
+		<text>Sim, mas não me traga porcarias. Preciso de armas russas baratas e confiáveis. Os stalkers por aqui não podem pagar nada melhor. Certifique-se de que estejam em bom estado.</text>
+	</string>
+        <string id="blackmarket_wp_1_2">
+		<text>Certo.</text>
+	</string>
+        <string id="blackmarket_wp_2_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_wp_2_1">
+		<text>Sim. Estou sempre procurando armas russas decentes. Nada muito sofisticado, mas também não me venha com equipamento de novato. E é melhor que estejam em boas condições!</text>
+	</string>
+        <string id="blackmarket_wp_2_2">
+		<text>Me parece bom.</text>
+	</string>
+        <string id="blackmarket_wp_3_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_wp_3_1">
+		<text>Sim, preciso das melhores armas que a pátria pode oferecer. O pessoal daqui precisa de todo o poder de fogo que puder conseguir. E elas têm que estar impecáveis! Aqui, uma anomalia te mata em um segundo.</text>
+	</string>
+        <string id="blackmarket_wp_3_2">
+		<text>Perfeito.</text>
+	</string>
+        <string id="blackmarket_nato_1_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_nato_1_1">
+		<text>Sim, preciso das armas mais baratas da NATO. Os stalkers por aqui não podem pagar nada melhor. E é melhor que estejam em boas condições!</text>
+	</string>
+        <string id="blackmarket_nato_1_2">
+		<text>Certo.</text>
+	</string>
+        <string id="blackmarket_nato_2_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_nato_2_1">
+		<text>Sim, estou sempre procurando armas decentes da NATO. Acessíveis, mas potentes, entende? Elas têm que estar funcionando.</text>
+		</string>
+        <string id="blackmarket_nato_2_2">
+		<text>Me parece bom.</text>
+	</string>
+        <string id="blackmarket_nato_3_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_nato_3_1">
+		<text>Sim, preciso de armas da NATO de primeira linha. Por aqui todo cuidado é pouco. E elas têm que estar em boas condições.</text>
+	</string>
+        <string id="blackmarket_nato_3_2">
+		<text>Perfeito.</text>
+	</string>
+        <string id="blackmarket_any_1_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_any_1_1">
+		<text>Sim, preciso de qualquer coisa, desde que seja barato. Quem passa por aqui não pode se dar ao luxo. Apenas certifique-se de que estejam consertadas, não vou comprar lixo de você.</text>
+	</string>
+        <string id="blackmarket_any_1_2">
+		<text>Certo.</text>
+	</string>
+        <string id="blackmarket_any_2_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_any_2_1">
+		<text>Sim, sempre preciso de armas decentes, nem muito baratas nem muito caras. Desde que estejam funcionando, posso vendê-las.</text>
+	</string>
+        <string id="blackmarket_any_2_2">
+		<text>Me parece bom.</text>
+	</string>
+        <string id="blackmarket_any_3_0">
+		<text>Você está interessado em negociar armas?</text>
+	</string>
+        <string id="blackmarket_any_3_1">
+		<text>Sim, preciso das melhores armas que você puder encontrar: russas, da NATO, não me importa. Se for caro e der muito lucro, eu quero.</text>
+	</string>
+        <string id="blackmarket_any_3_2">
+		<text>Perfeito.</text>
+	</string>
+</string_table>

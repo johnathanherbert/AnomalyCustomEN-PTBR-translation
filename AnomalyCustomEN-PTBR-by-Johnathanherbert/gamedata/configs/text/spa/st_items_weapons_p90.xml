@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_p90tac">
+		<text>FN P90 Tático</text>
+	</string>
+	<string id="st_wpn_p90tac_descr">
+		<text>A submetralhadora FN P90 foi desenvolvida no final dos anos 80 como arma de defesa pessoal para tropas cujas atividades principais não envolviam armas leves, como tripulações de tanques, veículos blindados, artilheiros, etc. Foi introduzida em 1990 junto com a munição SS190 aprimorada de 5,7 x 28 mm, que substituiu as balas de núcleo de polímero por balas de núcleo duplo de aço e alumínio mais pesadas para melhorar a penetração contra armaduras corporais.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Bélgica \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]FN Herstal \n</text>
+	</string>
+</string_table>

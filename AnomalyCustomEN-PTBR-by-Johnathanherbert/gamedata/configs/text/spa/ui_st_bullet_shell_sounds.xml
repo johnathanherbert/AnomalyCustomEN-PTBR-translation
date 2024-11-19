@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_menu_bullet_shell_sounds">
+		<text>Sons de Cartuchos de Balas</text>
+	</string>
+	<string id="ui_mcm_title_bullet_shell_sounds">
+		<text>Sons de Cartuchos de Balas</text>
+	</string>
+	<string id="ui_mcm_bullet_shell_sounds_enabled">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_bullet_shell_sounds_volume">
+		<text>Volume dos Sons</text>
+	</string>
+</string_table>

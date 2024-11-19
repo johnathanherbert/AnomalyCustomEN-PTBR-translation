@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_ground_coffee">
+		<text>Café moído</text>
+	</string>
+	<string id="st_ground_coffee_descr">
+		<text>Café moído pronto para o preparo. É necessário um kit de cozinha e água para prepará-lo.\n \n%c[ui_gray_3]CARACTERÍSTICAS:\n</text>
+	</string>
+	
+</string_table>

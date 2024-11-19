@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor Original : NLTP_ASHES                                                                                  -->
+<!--    Editado : N/A                                                                                                -->
+<!--    Data : 14/11/2023                                                                                            -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)          -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para strings gerais do Western Goods.                                                    -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <!--=============================================================================================================-->
+    <!--    Erros Fatais                                                                                             -->
+    <!--=============================================================================================================-->
+
+    <!-- Jogo desatualizado -->
+    <string id="st_err_outdated_game_title">
+        <text>Versão do jogo inválida ou desatualizada.</text>
+    </string>
+
+    <string id="st_err_outdated_game_what">
+        <text>Seu jogo tem uma versão inválida ou está desatualizado. Por favor, instale a versão S.T.A.L.K.E.R. Anomaly 1.5.2.</text>
+    </string>
+
+    <string id="st_err_outdated_game_why">
+        <text>Western Goods requer algumas funcionalidades adicionadas apenas na versão 1.5.2, e/ou usa pré-requisitos que também requerem a versão 1.5.2.</text>
+    </string>
+
+    <string id="st_err_outdated_game_where">
+        <text>Você pode baixar S.T.A.L.K.E.R. Anomaly 1.5.2 do ModDB: https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151-to-152</text>
+    </string>
+
+    <!-- DXML ausente -->
+    <string id="st_err_missing_dxml_title">
+        <text>Pré-requisito ausente - DXML.</text>
+    </string>
+
+    <string id="st_err_missing_dxml_what">
+        <text>DXML está ausente. Por favor, instale ou atualize seus executáveis modificados antes de usar o Western Goods.</text>
+    </string>
+
+    <string id="st_err_missing_dxml_why">
+        <text>Western Goods requer DXML para aumentar a compatibilidade com outros addons e evitar sobrescrever arquivos originais.</text>
+    </string>
+
+    <string id="st_err_missing_dxml_where">
+        <text>Você pode baixar a última versão do Github: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes</text>
+    </string>
+
+    <!-- LUA unlocalizer ausente -->
+    <string id="st_err_missing_unlocalizer_title">
+        <text>Pré-requisito ausente - LUA unlocalizer.</text>
+    </string>
+
+    <string id="st_err_missing_unlocalizer_what">
+        <text>LUA unlocalizer está ausente. Por favor, instale ou atualize seus executáveis modificados antes de usar o Western Goods.</text>
+    </string>
+
+    <string id="st_err_missing_unlocalizer_why">
+        <text>Western Goods requer LUA unlocalizer para aumentar a compatibilidade com outros addons e evitar sobrescrever arquivos originais.</text>
+    </string>
+
+    <string id="st_err_missing_unlocalizer_where">
+        <text>Você pode baixar a última versão do Github: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Strings Principais                                                                                       -->
+    <!--=============================================================================================================-->
+
+    <!-- String de desempacotar no inventário -->
+    <string id="st_wg_unpack">
+        <text>Desempacotar</text>
+    </string>
+
+    <!-- String de leitura no inventário -->
+    <string id="st_wg_view">
+        <text>Visualizar</text>
+    </string>
+
+    <!-- Strings de uso do Localizador GPS -->
+    <string id="st_wg_gps_use_1">
+        <text>Localização:</text>
+    </string>
+
+    <string id="st_wg_gps_use_2">
+        <text>desconhecida</text>
+    </string>
+
+    <string id="st_wg_gps_use_3">
+        <text>fora do alcance do satélite</text>
+    </string>
+
+    <string id="st_wg_gps_use_4">
+        <text>desconhecida na base de dados</text>
+    </string>
+
+    <!-- Strings de uso do Isqueiro -->
+    <string id="st_wg_use">
+        <text>Usar</text>
+    </string>
+
+    <string id="st_wg_missing_requirements_ext">
+        <text>Uma ferramenta é necessária!</text>
+    </string>
+
+    <string id="st_wg_not_enough_fuel">
+        <text>Combustível insuficiente</text>
+    </string>
+
+    <!-- Strings de uso da Maleta -->
+    <string id="st_wg_open">
+        <text>Abrir</text>
+    </string>
+
+    <!-- Strings da Interface do Usuário -->
+    <string id="ui_wg_dx8_retard_notice">
+        <text>Parece que você está usando o renderizador DirectX 8, você pode experimentar distorção de texturas. Use um renderizador mais moderno para evitar problemas.</text>
+    </string>
+
+</string_table>

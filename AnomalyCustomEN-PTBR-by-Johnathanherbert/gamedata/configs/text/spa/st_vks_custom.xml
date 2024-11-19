@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_cortex_scope">
+		<text>Cortex 1-8x</text>
+	</string>
+
+	<string id="st_cortex_scope_desc">
+		<text>Uma luneta de alta potência 1-8x feita exclusivamente para rifles de alto poder de 12.7mm.</text>
+	</string>
+
+</string_table>

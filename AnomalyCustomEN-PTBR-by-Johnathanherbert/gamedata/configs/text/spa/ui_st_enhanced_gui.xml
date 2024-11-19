@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	
+    <string id="ui_mcm_menu_enhanced_gui">
+        <text>Interface Gráfica Aprimorada</text>
+    </string>
+
+	<string id="ui_mcm_desc_egui">
+		<text>
+		Menu de Configuração do Mod para Interface Gráfica Aprimorada
+		</text>
+	</string>	
+
+	<string id="ui_mcm_desc_egui_content">
+		<text>
+		Versão do Mod: v.0.6.3
+		</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+	<string id="ui_mcm_outfitdrop_helmet_light_chance">
+		<text>Chance de queda de capacete leve</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_light_chance_desc">
+		<text>Porcentagem de chance de saquear balaclavas e máscaras de pano de stalkers mortos.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_chance">
+		<text>Chance de queda de capacete</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_chance_desc">
+		<text>Porcentagem de chance de saquear máscaras de gás e capacetes de combate de stalkers mortos.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance">
+		<text>Chance de queda de traje leve</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance_desc">
+		<text>Porcentagem de chance de saquear um traje leve de stalkers mortos.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance">
+		<text>Chance de queda de traje médio</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance_desc">
+		<text>Porcentagem de chance de saquear trajes médios de stalkers mortos.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance">
+		<text>Chance de queda de traje pesado</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance_desc">
+		<text>Porcentagem de chance de saquear trajes pesados de stalkers mortos.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance">
+		<text>Chance de queda de exoesqueleto</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance_desc">
+		<text>Porcentagem de chance de encontrar exoesqueletos em stalkers mortos.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance">
+		<text>Chance de queda de peças</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance_desc">
+		<text>Porcentagem de chance de encontrar peças quando trajes não aparecem.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_debug">
+		<text>Impressão de depuração</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_debug_desc">
+		<text>Você já sabe o que isso faz.</text>
+	</string>
+	<string id="ui_mcm_menu_outfitdrop">
+		<text>Queda de trajes</text>
+	</string>
+</string_table>

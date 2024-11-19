@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_faction_economy_title">
+		<text>Economia Baseada em Facções</text>
+	</string>
+	<string id="ui_mcm_menu_faction_economy">
+		<text>Economia de Facções</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_faction_discounts">
+		<text>Multiplicador de desconto de facção</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_faction_discounts_desc">
+		<text>Ativa multiplicador baseado nas relações entre facções.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_goodwill_mul">
+		<text>Multiplicador de reputação</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_goodwill_mul_desc">
+		<text>Ativa multiplicador baseado na reputação. (por padrão se aplica apenas à sua facção)</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_ignore_faction_goodwill">
+		<text>Ignorar facção para multiplicador de reputação</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_ignore_faction_goodwill_desc">
+		<text>Faz com que o multiplicador de reputação funcione para todas as facções.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_reputation_mul">
+		<text>Multiplicador de reputação</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_reputation_mul_desc">
+		<text>Ativa multiplicador baseado na reputação do jogador.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_north_level_mul">
+		<text>Preços mais altos no norte</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_north_level_mul_desc">
+		<text>Faz com que os preços no norte sejam mais altos devido à escassez.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_chance_for_extra_item">
+		<text>Chance de item extra no comerciante da facção do jogador</text>
+	</string>
+	<string id="ui_mcm_faction_economy_required_supply_level">
+		<text>Nível de reputação necessário para outras facções</text>
+	</string>
+	<string id="ui_mcm_faction_economy_required_supply_level_desc">
+		<text>Nível de reputação no qual comerciantes de outras facções começam a vender equipamento de facção.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_goodwill_mul">
+		<text>Fator multiplicador de preço por reputação</text>
+	</string>
+	<string id="ui_mcm_faction_economy_rep_mul">
+		<text>Fator multiplicador de preço por reputação</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount_special">
+		<text>Quantidade de munição especial</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount">
+		<text>Quantidade de munição normal</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount_special_desc">
+		<text>Quantidade de munição especial (AP, HP, slugs, dardos etc.) que será gerada no estoque baseado nas armas vendidas pelo comerciante.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount_desc">
+		<text>Quantidade de munição normal que será gerada no estoque baseado nas armas vendidas pelo comerciante.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_trade_GUI">
+		<text>Ativar informações adicionais no menu de comércio</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_special_ammo_spawns">
+		<text>Usar geração de munição especial</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_trade_GUI_desc">
+		<text>Ativa informações adicionais ao lado do retrato do comerciante com informações sobre o multiplicador atual e nível de suprimentos.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_special_ammo_spawns_desc">
+		<text>Ativa regras especiais de geração de munição para comerciantes. Em vez de usar arquivos do comerciante, a munição é gerada com base nas armas vendidas.</text>
+	</string>
+	<string id="st_haruka_sulpplies_level">
+		<text>Nível de suprimentos</text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>Multiplicador</text>
+	</string>
+
+	<string id="st_deal_dolg_buy_ammo">
+		<text>Atenção stalkers: Duty está planejando várias incursões em covis de mutantes na área. Voluntários e munições são bem-vindos: fale com Petrenko.</text>	
+	</string>
+	<string id="st_deal_freedom_1">
+		<text>Ei stalkers, estamos tendo uma SUPER LIQUIDAÇÃO!...ah merda, Lenka morreu naquela última emissão? Porra, ele me devia dinheiro... Bem, de qualquer forma, apareçam para ótimas ofertas em equipamentos incríveis!</text>	
+	</string>
+
+	<string id="st_sid_food_sale">
+		<text>Stalkers, aqui é o Sidorovich. Wolf acabou de me ajudar a acertar alguns negócios com os rapazes de verde, então temos um excesso de comida enlatada. Venham aqui para um desconto, só hoje!</text>	
+	</string>
+
+	<string id="st_sakharov_mutant_surplus">
+		<text>Para todos os stalkers atualmente sob contrato com a Divisão Científica: Temos amostras de mutantes suficientes - por favor, não tragam mais. Tivemos que começar a armazenar corações de cães em nossos refrigeradores de alimentos. Obrigado. - Professor Sakharov</text>	
+	</string>
+	<string id="st_sakharov_artifact_need">
+		<text>Para todos os stalkers atualmente sob contrato com a Divisão Científica: Estamos com poucas amostras de artefatos. Quaisquer amostras entregues a nós serão generosamente compensadas. Obrigado. - Professor Sakharov</text>	
+	</string>
+	<string id="st_sid_ammo_buy">
+		<text>Stalkers, aqui é o Sidorovich. Alguém foi pego atirando muito perto do Posto Avançado Sul - como consequência, eles cortaram meu carregamento de munição do mês.</text>	
+	</string>
+	<string id="st_barkeep_food_sale">
+		<text>.</text>	
+	</string>
+	<!--
+	<string id="st_haruka_multiplier">
+		<text>armas</text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>trajes</text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>trajes novos</text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>munição</text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>medicamentos</text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>equipamento de sobrevivência</text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>comida e bebida</text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>amostras de mutantes</text>
+	</string>
+	-->
+</string_table>

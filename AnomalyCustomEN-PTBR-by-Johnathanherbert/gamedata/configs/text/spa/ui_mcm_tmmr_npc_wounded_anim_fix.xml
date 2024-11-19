@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_menu_tmmr">
+		<text>Repositório Mini Mods Tosox</text>
+	</string>
+
+    <string id="ui_mcm_menu_npc_wounded_anim_fix">
+        <text>Correção de Animação de NPC Ferido</text>
+    </string>
+	<string id="ui_mcm_tmmr_npc_wounded_anim_fix_title">
+		<text>Correção de Animação de NPC Ferido</text>
+	</string>
+	<string id="ui_mcm_tmmr_npc_wounded_anim_fix_handle_weapon">
+		<text>Manipular arma do NPC</text>
+	</string>
+    <string id="ui_mcm_tmmr_npc_wounded_anim_fix_handle_weapon_desc">
+		<text>Inventário - Transferir para o inventário do NPC \nDerrubar - Derrubar no chão \nAdaptar - Transferir para o inventário do NPC se "Weapons Drop on Bodies" estiver instalado</text>
+	</string>
+	
+    <string id="ui_mcm_lst_tmmr_inv_weapon">
+		<text>Inventário</text>
+	</string>
+	<string id="ui_mcm_lst_tmmr_drop_weapon">
+		<text>Derrubar</text>
+	</string>
+    <string id="ui_mcm_lst_tmmr_adapt_weapon">
+		<text>Adaptar</text>
+	</string>
+</string_table>

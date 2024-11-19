@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="ui_mcm_menu_SKIN_settings">
+		<text>S.k.I.n</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_desc">
+		<text>
+			S.k.I.n permite que você esfole mutantes sem precisar sacar sua faca, mantendo as funções principais, como perda de durabilidade.
+			\nAtualmente requer que as animações de saque de mutantes do FDDA estejam ativadas.
+		</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_settings_enable">
+		<text>Ativar S.k.I.n</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_settings_space">
+		<text>Ativar "Saquear tudo" com a Barra de Espaço além do Enter</text>
+	</string>
+
+	<string id="ui_mcm_SKIN_settings_equipped">
+		<text>Requer faca ou machado equipado em um slot</text>
+	</string>
+	
+</string_table>

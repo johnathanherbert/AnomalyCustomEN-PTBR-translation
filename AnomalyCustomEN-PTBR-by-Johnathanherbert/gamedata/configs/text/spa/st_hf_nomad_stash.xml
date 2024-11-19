@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_placeable_case">
+		<text>Case de Arma</text>
+	</string>
+	<string id="st_placeable_case_descr">
+		<text>Uma case de arma vazia sem nenhum armamento. Fornece mais espaço que mochilas convencionais ao custo de peso.\n \n
+			%c[ui_gray_1]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] armazenamento de itens\n
+			%c[d_blue] • %c[ui_gray_2] item posicionável\n
+			%c[d_blue] • %c[ui_gray_2] capacidade moderada\n
+			%c[0,100,255,150] • %c[ui_gray_2] utilizável como esconderijo\n</text>
+	</string>
+
+	<string id="st_placeable_blue_box">
+		<text>Caixa de Metal</text>
+	</string>
+	<string id="st_placeable_blue_box_descr">
+		<text>Uma caixa de metal espaçosa dedicada ao armazenamento de itens. Fornece o maior espaço em comparação com as alternativas, mas seu recipiente volumoso torna mais difícil o transporte.\n \n
+			%c[ui_gray_1]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] armazenamento de itens\n
+			%c[d_blue] • %c[ui_gray_2] item posicionável\n
+			%c[d_blue] • %c[ui_gray_2] alta capacidade\n
+			%c[0,100,255,150] • %c[ui_gray_2] utilizável como esconderijo\n</text>
+	</string>
+
+	<string id="st_placeable_exo_kit">
+		<text>Kit de Reparo de Exoesqueleto Vazio</text>
+	</string>
+	<string id="st_placeable_exo_kit_descr">
+		<text>Uma case vazia desprovida de itens úteis. Muitos stalkers simplesmente descartam esses kits de reparo após cuidar de seus trajes de alta tecnologia, embora a capacidade e o tamanho deste seja útil quando reutilizado como armazenamento.\n \n
+			%c[ui_gray_1]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] armazenamento de itens\n
+			%c[d_blue] • %c[ui_gray_2] item posicionável\n
+			%c[d_blue] • %c[ui_gray_2] capacidade moderada\n
+			%c[0,100,255,150] • %c[ui_gray_2] utilizável como esconderijo\n</text>
+	</string>
+
+	<string id="st_placeable_sumka6">
+		<text>Mochila Pequena</text>
+	</string>
+	<string id="st_placeable_sumka6_descr">
+		<text>Pedaços de tecido costurados juntos para formar um saco simples. Embora não seja particularmente útil em bases permanentes, esta encontra seu nicho na criação de um pequeno esconderijo quando necessário.\n \n
+			%c[ui_gray_1]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] armazenamento de itens\n
+			%c[d_blue] • %c[ui_gray_2] item posicionável\n
+			%c[d_blue] • %c[ui_gray_2] baixa capacidade\n
+			%c[0,100,255,150] • %c[ui_gray_2] utilizável como esconderijo\n</text>
+	</string>
+
+    <string id="st_place_furniture">
+		<text>Posicionar Item</text>
+	</string>
+</string_table>

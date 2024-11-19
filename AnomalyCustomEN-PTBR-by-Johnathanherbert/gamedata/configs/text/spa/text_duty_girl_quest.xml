@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="duty_girl_hunting_chimera_title">
+		<text>Em busca da Quimera</text>
+	</string>
+	<string id="duty_girl_hunting_chimera_descr_1">
+		<text>Concordei em ajudar Anna a caçar uma Quimera. Vou encontrá-la no mercado.</text>
+	</string>
+	<string id="duty_girl_hunting_chimera_descr_2">
+		<text>Concordei em ajudar Anna a caçar uma Quimera. Vamos atacar o covil do monstro.</text>
+	</string>
+	<string id="duty_girl_hunting_chimera_descr_3">
+		<text>O monstro está morto. Volte para receber sua recompensa.</text>
+	</string>
+	
+	<string id="duty_girl_monolith_elite_title">
+		<text>Limpe a rota para o norte</text>
+	</string>
+	<string id="duty_girl_monolith_elite_descr_1">
+		<text>Duty está prestes a lançar um ataque contra um esquadrão Monolith de alto escalão. Toda ajuda é bem-vinda, com recompensa prometida.</text>
+	</string>
+	<string id="duty_girl_monolith_elite_descr_2">
+		<text>O ataque começou. Ajude o Duty a lutar contra os inimigos.</text>
+	</string>
+	<string id="duty_girl_monolith_elite_descr_3">
+		<text>O ataque foi um sucesso. É hora de receber minha recompensa.</text>
+	</string>
+	
+	<string id="duty_girl_loot_stash_title">
+		<text>Recompensa extra</text>
+	</string>
+	<string id="duty_girl_loot_stash_descr_1">
+		<text>Eles me deram as coordenadas de um esconderijo como bônus por ajudar o Duty na última missão.</text>
+	</string>
+	
+	<string id="duty_girl_capture_the_brirge_title">
+		<text>Capture a ponte</text>
+	</string>
+	<string id="duty_girl_capture_the_brirge_descr_1">
+		<text>Duty quer capturar a Ponte da Floresta Vermelha. Eles estão prestes a atacar. Toda ajuda é bem-vinda, com recompensa prometida.</text>
+	</string>
+	<string id="duty_girl_capture_the_brirge_descr_2">
+		<text>O ataque começou. Ajude o Duty a lutar contra os inimigos.</text>
+	</string>
+	<string id="duty_girl_capture_the_brirge_descr_3">
+		<text>O ataque foi um sucesso. É hora de receber minha recompensa.</text>
+	</string>
+</string_table>

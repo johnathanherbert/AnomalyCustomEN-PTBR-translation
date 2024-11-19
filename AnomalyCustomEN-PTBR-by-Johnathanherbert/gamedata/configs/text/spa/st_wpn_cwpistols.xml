@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_aps_ocw">
+		<text>APS</text>
+	</string>
+	<string id="st_wpn_aps_ocw_descr">
+		<text>O Stechkin ou APS (Avtomaticheskiy Pistolet Stechkina) é uma pistola-metralhadora soviética de fogo seletivo calibrada em 9×18mm Makarov e 9×19mm Parabellum, introduzida em serviço em 1951 para uso por artilheiros, tripulações de morteiros, tripulações de tanques e pessoal da força aérea, onde um fuzil de assalto volumoso era considerado desnecessário. Foi utilizada em diversos conflitos como a Guerra do Vietnã, Guerra Russo-Ucraniana e Guerra Civil Síria.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n %c[d_purple] - %c[ui_gray_2] Silenciador APS. \n \n</text>
+	</string>
+	<string id="st_wpn_beretta_ocw">
+		<text>Beretta 92FS</text>
+	</string>
+	<string id="st_wpn_beretta_ocw_descr">
+		<text>A 92FS é uma pistola semiautomática de ação dupla/simples que emprega um sistema de bloco de travamento retardado de recuo curto com ferrolho aberto, proporcionando um ciclo mais rápido e entregando precisão e confiabilidade excepcionais. Em particular, o design de ferrolho aberto praticamente elimina travamentos e ajuda no ciclo e alimentação perfeitos mesmo após milhares de disparos.\n 
+		%c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador 9mm. \n \n</text>
+	</string>
+	<string id="st_wpn_beretta_ocw_alt">
+		<text>Beretta 92FS Tática</text>
+	</string>
+	<string id="st_wpn_beretta_ocw_enforcer">
+		<text>Beretta 92FS 'Executor'</text>
+	</string>
+	<string id="st_wpn_1911_cw">
+		<text>Colt 1911</text>
+	</string>
+	<string id="st_wpn_1911_cw_descr">
+		<text>A M1911 (Colt 1911 ou Colt Government) é uma pistola semiautomática de ação simples, operada por recuo, calibrada para o cartucho .45 ACP. A designação militar oficial dos EUA a partir de 1940 era Pistola Automática, Calibre .45, M1911 para o modelo original adotado em março de 1911, e Pistola Automática, Calibre .45, M1911A1 para o modelo M1911A1 aprimorado que entrou em serviço em 1926. A designação mudou para Pistola, Calibre .45, Automática, M1911A1 na era da Guerra do Vietnã.\n
+		%c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador .45. \n \n</text>
+	</string>
+	<string id="st_wpn_1911_cw_custom">
+		<text>Colt 1911 'Operador Personalizado'</text>
+	</string>
+	<string id="st_wpn_1911_cw_modern">
+		<text>Colt 1911 Moderna</text>
+	</string>
+	<string id="st_wpn_1911_cw_new">
+		<text>Colt 1911 .357</text>
+	</string>
+	<string id="st_wpn_1911_cw_new_descr">
+		<text>A M1911 (Colt 1911 ou Colt Government) é uma pistola semiautomática de ação simples, operada por recuo, calibrada para o cartucho .45 ACP. A designação militar oficial dos EUA a partir de 1940 era Pistola Automática, Calibre .45, M1911 para o modelo original adotado em março de 1911, e Pistola Automática, Calibre .45, M1911A1 para o modelo M1911A1 aprimorado que entrou em serviço em 1926. A designação mudou para Pistola, Calibre .45, Automática, M1911A1 na era da Guerra do Vietnã. Esta versão foi recalibrada para munição .357 por técnicos especializados da Zona.\n
+		%c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador .45. \n \n</text>
+	</string>
+	<string id="st_wpn_cz75_ocw">
+		<text>CZ-75</text>
+	</string>
+	<string id="st_wpn_cz75_ocw_auto">
+		<text>CZ-75 Automática</text>
+	</string>
+	<string id="st_wpn_cz75_ocw_descr">
+		<text>A CZ-75 é uma pistola semiautomática fabricada pela empresa tcheca CZUB. Introduzida em 1975, é uma das "wonder nines" originais e apresenta um carregador de coluna dupla, construção totalmente em aço e cano forjado a martelo. É amplamente distribuída mundialmente e é a arma de mão mais comum na República Tcheca.\n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador .45. \n \n</text>
+	</string>
+	<string id="st_wpn_deagle_ocw">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="st_wpn_deagle_ocw_custom">
+		<text>Desert Eagle Personalizada</text>
+	</string>
+	<string id="st_wpn_deagle_ocw_modern">
+		<text>Desert Eagle Moderna</text>
+	</string>
+	<string id="st_wpn_deagle_ocw_nimble">
+		<text>Desert Eagle "Águia Careca"</text>
+	</string>
+	<string id="st_wpn_deagle_ocw_descr">
+		<text>A IMI Desert Eagle é uma pistola semiautomática notável por utilizar o maior cartucho de fogo central de qualquer pistola alimentada por carregador e autocarregável, sendo também a arma mais pesada e volumosa de seu tipo. Ninguém sabe por que a IMI pensou que disparar um calibre deste tamanho em uma pistola seria uma boa ideia, mesmo havendo muitas munições que podem fazer o trabalho sem quebrar seu pulso; presume-se que foi por causa de uma disputa entre o .44 e o .50 AE. Não só é pesada e tem recuo forte, como também pode ser usada para golpear seus inimigos devido ao seu volume e peso. Embora forças militares e policiais ao redor do mundo, em seu momento de lucidez, nunca tenham adotado este tijolo, Hollywood o adotou, principalmente por causa de seu "fator legal", e agora é o símbolo de gangsters e cafetões, além de um símbolo de status para aqueles que alcançaram certo rank em certo jogo de console. Há rumores de que existe um stalker com um pé de cabra vagando pela Zona com uma versão recalibrada desta arma, mas é apenas um rumor.\n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador KZRZP. \n \n</text>
+	</string>
+	<string id="wpn_deagle_ocw_modern_descr">
+		<text>A IMI Desert Eagle é uma pistola semiautomática notável por utilizar o maior cartucho de fogo central de qualquer pistola alimentada por carregador e autocarregável, sendo também a arma mais pesada e volumosa de seu tipo. Ninguém sabe por que a IMI pensou que disparar um calibre deste tamanho em uma pistola seria uma boa ideia, mesmo havendo muitas munições que podem fazer o trabalho sem quebrar seu pulso; presume-se que foi por causa de uma disputa entre o .44 e o .50 AE. Não só é pesada e tem recuo forte, como também pode ser usada para golpear seus inimigos devido ao seu volume e peso. Embora forças militares e policiais ao redor do mundo, em seu momento de lucidez, nunca tenham adotado este tijolo, Hollywood o adotou, principalmente por causa de seu "fator legal", e agora é o símbolo de gangsters e cafetões, além de um símbolo de status para aqueles que alcançaram certo rank em certo jogo de console. Há rumores de que existe um stalker com um pé de cabra vagando pela Zona com uma versão recalibrada desta arma, mas é apenas um rumor.\n \n</text>
+	</string>
+	<string id="st_wpn_deagle_ocw_nimble_descr">
+		<text>A IMI Desert Eagle é uma pistola semiautomática notável por utilizar o maior cartucho de fogo central de qualquer pistola alimentada por carregador e autocarregável, sendo também a arma mais pesada e volumosa de seu tipo. Ninguém sabe por que a IMI pensou que disparar um calibre deste tamanho em uma pistola seria uma boa ideia, mesmo havendo muitas munições que podem fazer o trabalho sem quebrar seu pulso; presume-se que foi por causa de uma disputa entre o .44 e o .50 AE. Esta arma foi trazida para a Zona por um stalker chamado Logan Williams. Disfarçado como fotógrafo da TIME, ele conseguiu entrar sozinho no centro de Pripyat. Seu paradeiro atual é desconhecido, mas dizem que ele trabalha como corretor de informações especializado em todos os assuntos relacionados à Zona.\n \n %c[ui_gray_2]ACESSÓRIOS: \n %c[d_purple] - %c[ui_gray_2] Mira DOCTER (integrada)</text>
+	</string>
+	<string id="st_wpn_fn57_ocw">
+		<text>FN-57</text>
+	</string>
+	<string id="st_wpn_fn57_ocw_descr">
+		<text>A FN Five-seveN original, frequentemente imitada mas raramente igualada, tem duas décadas de serviço confiável com exércitos aliados, forças policiais globais e civis. Expandindo seu design inovador está uma nova armação e ferrolho totalmente em dark earth fosco. Com alcance e precisão superiores em relação aos cartuchos de pistola comuns, o 5.7x28mm padronizado pela OTAN desenvolvido pela FN Herstal é disparado do cano forjado a martelo cromado. Precisão excepcional e recuo mínimo são características padrão. Equipada com um martelo interno, o gatilho suave com quebra previsível aumenta ainda mais a precisão. Quatro novos modelos incluem todo preto e todo FDE, com carregadores de 10 ou 20 tiros incluídos. Dois modelos Five-seveN existentes compatíveis com a Califórnia com carregadores de 10 tiros permanecem inalterados.\n
+		%c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador 5.7. \n \n</text>
+	</string>
+	<string id="st_wpn_fnp45_ocw">
+		<text>FNP-45</text>
+	</string>
+	<string id="st_wpn_fnp45_custom_ocw">
+		<text>FNP-45 Personalizada</text>
+	</string>
+	<string id="st_wpn_fnp45_ocw_descr">
+		<text>A pistola FN FNP é uma série de pistolas semiautomáticas com armação de polímero fabricadas em Columbia, Carolina do Sul, pela FNH USA, uma divisão da Fabrique Nationale de Herstal. A arma estreou no início de 2006 e é calibrada para os cartuchos 9×19mm, .40 S&amp;W, .357 SIG e .45 ACP. De acordo com a FNH USA, a linha FNP de pistolas é a única pistola autocarregadora com armação de polímero no mercado (desde sua introdução) com trilhos de armação totalmente substituíveis; isso permite que a pistola seja reconstruída após disparos extensivos, prolongando assim sua vida útil. (As pistolas Steyr Série M também têm este recurso, e foram lançadas em 1999.)\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador Gemtech. \n \n</text>
+	</string>
+	<string id="st_wpn_fnx45_ocw">
+		<text>FNX-45</text>
+	</string>
+	<string id="st_wpn_fnx45_ocw_alt">
+		<text>FNX-45 Alternativa</text>
+	</string>
+	<string id="st_wpn_fnx45_ocw_custom">
+		<text>FNX-45 Personalizada</text>
+	</string>
+	<string id="st_wpn_fnx45_ocw_descr">
+		<text>A pistola FN FNX é uma série de pistolas semiautomáticas com armação de polímero fabricadas em Columbia, Carolina do Sul, pela FN America (antiga FNH USA), uma divisão da Fabrique Nationale d'Herstal. A pistola é calibrada para os cartuchos 9×19mm Parabellum, .40 S&amp;W e .45 ACP. Foi introduzida em 2009 como sucessora da FN FNP. Todas as variações das pistolas (exceto alguns modelos para forças policiais que são apenas de desarme) incluem alavancas ambidestras de segurança/desarme, liberação de carregador e trava de ferrolho. Todas as variações também incluem um trilho Picatinny, miras noturnas de trítio e um indicador de câmara carregada no lado direito. Novos modelos são vendidos em uma maleta plástica rígida com três carregadores e duas empunhaduras intercambiáveis.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador Gemtech. \n \n</text>
+	</string>
+	<string id="st_wpn_glock_ocw">
+		<text>Glock 18</text>
+	</string>
+	<string id="st_wpn_glock_ocw_custom">
+		<text>Glock 18 Personalizada</text>
+	</string>
+	<string id="st_wpn_glock_ocw_modern">
+		<text>Glock-19 Moderna</text>
+	</string>
+	<string id="st_wpn_glock_ocw_modern_descr">
+		<text>A Glock 17 é uma pistola semiautomática com armação de polímero, operada por recuo curto, com ferrolho travado calibrada em 9x19mm Parabellum. É a primeira pistola em uma extensa linha de pistolas de polímero produzidas pela Glock Ges.m.b.H. em Deutsch-Wagram, Áustria. O fabricante se refere a elas como a Pistola Glock "Safe Action". O fundador da empresa, engenheiro-chefe Gaston Glock, não tinha experiência com design ou fabricação de armas de fogo na época em que sua primeira pistola estava sendo prototipada. Glock, no entanto, tinha extensa experiência em polímeros sintéticos avançados, o que foi fundamental no design da primeira linha comercialmente bem-sucedida de pistolas com armação de polímero da empresa.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador Gemtech. \n \n</text>
+	</string>
+	<string id="st_wpn_glock_ocw_descr">
+		<text>A Glock 18 se destaca como um pináculo de versatilidade e capacidade de tiro rápido no mundo das pistolas. Projetada com um recurso de fogo seletivo, oferece modos semiautomático e totalmente automático, permitindo um tiro controlado e preciso ou uma impressionante rajada de poder de fogo com sua notável cadência de 1.200 tiros por minuto. Sua robusta armação de polímero, confiabilidade renomada da Glock e capacidade padrão de 17 cartuchos a tornam uma escolha favorita entre unidades policiais e militares globalmente. Combinando a famosa durabilidade Glock com sua capacidade única de fogo automático controlado, a Glock 18 incorpora um equilíbrio de poder, precisão e confiabilidade procurado por profissionais e entusiastas.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador Gemtech. \n \n</text>
+	</string>
+	<string id="st_wpn_mp443_ocw">
+		<text>MP-443 Grach</text>
+	</string>
+	<string id="st_wpn_mp443_ocw_descr">
+		<text>A MP-443 Grach ("Pistolet Yarygina" ("Pistola Yarygin"), seguindo o procedimento tradicional russo de nomenclatura, é a arma lateral padrão militar russa. O desenvolvimento foi liderado pelo projetista Vladimir Alexandrovich Yarygin. Foi desenvolvida sob a designação "Grach" em resposta aos testes militares russos, que começaram em 1993. Em 2003, foi adotada como arma lateral padrão para todos os ramos das forças militares e policiais russas, junto com a Makarov PM, GSh-18 e SPS.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador 9mm. \n \n</text>
+	</string>
+	<string id="st_wpn_gsh18_ocw">
+		<text>GSh-18</text>
+	</string>
+	<string id="st_wpn_gsh18_ocw_descr">
+		<text>A GSh-18 é uma pistola semiautomática de 9 mm desenvolvida pelo KBP Instrument Design Bureau em Tula durante os anos 1990. O nome da pistola é derivado de seus projetistas—Gryazev e Shipunov—e sua capacidade de carregador de 18 cartuchos. A GSh-18 é uma pistola de cano rotativo, recuo curto, com ferrolho travado com 10 ressaltos de travamento espaçados igualmente ao redor do cano, a grande área de superfície de travamento resultando em um travamento forte, tornando-a adequada para cargas de munição de alta velocidade. A GSh-18 pode ser empregada usando cartuchos padrão 9×19mm Parabellum, mas foi projetada para o cartucho russo perfurante de alta velocidade 9×19mm 7N31. A pistola incorpora um percussor pré-armado. O ferrolho e as partes funcionais são de aço, e a arma tem uma armação de polímero.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador 9mm. \n \n</text>
+	</string>
+	<string id="st_wpn_oc33_ocw">
+		<text>OTs-33 'Pernach'</text>
+	</string>
+	<string id="st_wpn_oc33_ocw_descr">
+		<text>A OTs-33 Pernach é uma pistola-metralhadora russa 9x18 Makarov, derivada da pistola-metralhadora OTs-23 Drotik de 5.45 mm. A Pernach é uma pistola automática projetada para substituir a Stechkin APS em várias unidades especiais OMON dentro da polícia russa, o Ministério do Interior russo (MVD) e outras unidades paramilitares. A OTs-33 foi desenvolvida em 1995 por Igor Stechkin no escritório de design TsKIB SOO, e entrou em produção limitada no KBP Instrument Design Bureau. Também é conhecida como SBZ-2, derivado dos nomes da equipe KBP responsável pela pistola, nomeadamente Stechkin, Baltser e Zinchenko. Os projetistas foram encarregados de resolver a dificuldade de controlar o recuo no modo totalmente automático presente na pistola Stechkin APS e simplificá-la para implantação em combate. A nova pistola tem uma forma "quadrada", que é mais simples (e menos cara) de fabricar e tem um princípio de operação inovador que aumenta a controlabilidade e reduz o recuo.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador 9mm. \n \n</text>
+	</string>
+	<string id="st_wpn_sig220_ocw">
+		<text>SIG Sauer 220</text>
+	</string>
+	<string id="st_wpn_sig220_ocw_custom">
+		<text>SIG Sauer 220 Personalizada</text>
+	</string>
+	<string id="st_wpn_sig220_ocw_nimble">
+		<text>SIG Sauer 220 "Aterro"</text>
+	</string>
+	<string id="st_wpn_sig220_ocw_descr">
+		<text>A SIG Sauer P220 é uma pistola semiautomática. Projetada em 1975 pela divisão SIG Arms AG da Schweizerische Industrie Gesellschaft (agora SIG Holding AG), e produzida pela J. P. Sauer &amp; Sohn, em Eckernförde; atualmente é fabricada por ambas as empresas SIG Sauer: SIG Sauer GMBH, de Eckernförde, Alemanha; e SIG Sauer, Inc., de New Hampshire, Estados Unidos. A P220 foi desenvolvida em 1975 pela SIG e produzida e distribuída pela J.P. Sauer &amp; Sohn. Um novo sistema de travamento que é conhecido como o sistema SIG Sauer foi introduzido, assim como várias outras inovações. Esta nomenclatura é encontrada na versão Browning BDA da P220 vendida a partir de 1975.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador .45. \n \n</text>
+	</string>
+	<string id="st_wpn_tt33_ocw">
+		<text>TT-33 Tokarev</text>
+	</string>
+	<string id="st_wpn_tt33_ocw_descr">
+		<text>A TT-30, comumente conhecida simplesmente como Tokarev, é uma pistola semiautomática soviética fora de produção. Foi desenvolvida em 1930 por Fedor Tokarev como uma pistola de serviço para os militares soviéticos substituírem o revólver Nagant M1895 que estava em uso desde o Império Russo, embora tenha acabado sendo usada em conjunto com, em vez de substituir, o M1895. Serviu até 1952, quando foi substituída pela pistola Makarov. Externamente, a TT-33 é muito similar à pistola semiautomática FN Model 1903 de John Browning operada por blowback, e internamente usa o sistema de cano basculante de recuo curto de Browning da pistola M1911. Em outros aspectos, a TT-33 difere mais dos designs de Browning—ela emprega um conjunto de martelo/gatilho muito mais simples que o M1911.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador APS. \n \n</text>
+	</string>
+	<string id="st_wpn_pm_ocw">
+		<text>PM Makarov</text>
+	</string>
+	<string id="st_wpn_pm_ocw_actor">
+		<text>PM Makarov 'Carregador Tambor'</text>
+	</string>
+	<string id="st_wpn_pmm_ocw">
+		<text>PMM Makarov</text>
+	</string>
+	<string id="st_wpn_pm_ocw_descr">
+		<text>A pistola Makarov ou PM (Pistolet Makarova, lit. 'Pistola de Makarov') é uma pistola semiautomática soviética. Sob a liderança do projeto de Nikolay Fyodorovich Makarov, tornou-se a arma lateral padrão militar e da Militsiya soviética em 1951. A PM é uma pistola de construção totalmente em aço, ação blowback direta, tamanho médio, com cano fixo na armação. Em designs blowback, a única força mantendo o ferrolho fechado é a da mola recuperadora; ao disparar, o cano e o ferrolho não precisam destravar, como fazem as pistolas de design ferrolho travado. Designs blowback são simples e mais precisos que designs usando um cano recuante, basculante ou articulado, mas são limitados praticamente pelo peso do ferrolho.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador 9mm. \n \n</text>
+	</string>
+	<string id="st_wpn_pmm_ocw_descr">
+		<text>A pistola PMM, também conhecida como Makarov PMM, é uma arma de mão russa reconhecida por sua confiabilidade e design compacto. É uma versão atualizada da clássica Makarov PM, apresentando melhorias na ergonomia e uma capacidade aumentada de carregador de 12 cartuchos de munição 9x18mm. Com uma construção robusta e uma operação blowback simples mas eficaz, a PMM é favorecida por sua facilidade de uso, tornando-a uma escolha popular entre unidades militares e policiais, bem como entusiastas civis de armas de fogo.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador 9mm. \n \n</text>
+	</string>
+	<string id="st_wpn_pm_ocw_actor_descr">
+		<text>A PM Makarov, uma pistola de próxima geração que redefine capacidade e precisão. Ostentando um carregador tambor de 80 cartuchos, esta arma lateral compacta mas poderosa garante tiros sustentados sem a necessidade de recargas frequentes. Aprimorada com um módulo de fixação de laser avançado, oferece precisão e aquisição de alvo sem paralelos em várias condições. A PM Makarov incorpora confiabilidade e adaptabilidade, combinando perfeitamente munição de alta capacidade com mira precisa, tornando-a uma escolha essencial para operações táticas e profissionais de segurança que buscam desempenho sem compromissos em campo.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador 9mm. \n \n</text>
+	</string>
+	<string id="st_wpn_usp45_ocw">
+		<text>USP-45</text>
+	</string>
+	<string id="st_wpn_usp45_ocw_custom">
+		<text>USP-45 Personalizada</text>
+	</string>
+	<string id="st_wpn_usp45_ocw_match">
+		<text>USP Match</text>
+	</string>
+	<string id="st_wpn_usp45_ocw_nimble">
+		<text>USP Match "Protesto"</text>
+	</string>
+	<string id="st_wpn_usp45_ocw_descr">
+		<text>A USP (Universelle Selbstladepistole ou "pistola autocarregável universal") é uma pistola semiautomática desenvolvida na Alemanha pela Heckler &amp; Koch GmbH (H&amp;K) como substituta para a série P7 de pistolas. A USP é uma pistola semiautomática com um ferrolho mecanicamente travado usando o método de operação de recuo curto. Este sistema de travamento bastante convencional tem uma grande trava retangular sobre a câmara do cano que se encaixa e engata no recorte do porto de ejeção no ferrolho. Quando um cartucho é disparado, as pressões geradas pela pólvora ignita empurram o estojo do cartucho contra a face do ferrolho no slide, empurrando para trás tanto o cano quanto o ferrolho enquanto permanecem travados juntos da maneira descrita acima.\n \n %c[ui_gray_3]ACESSÓRIOS:\n %c[d_purple] - %c[ui_gray_2] Silenciador .45. \n \n </text>
+	</string>
+	<string id="st_wpn_usp45_ocw_match_descr">
+		<text>A USP Match (9 mm Parabellum, .40 S&amp;W, .45 ACP) tem as mesmas características oferecidas na Expert, exceto por um peso no cano que substitui o slide alongado encontrado na Expert. Este peso proporciona um contrapeso ao recuo para auxiliar no rastreamento do alvo. Foi descontinuada em 1999. A USP foi originalmente construída em torno do cartucho .40 S&amp;W, mas uma versão 9×19mm Parabellum foi introduzida ao mesmo tempo. Em maio de 1995, a Heckler &amp; Koch introduziu uma variante .45 ACP. A série USP Compact foi introduzida em 1996 e está disponível em 9 mm Parabellum, .40 S&amp;W, .45 ACP e, exclusivamente para o modelo Compact, .357 SIG. Outras variantes da USP padrão incluem a USP Tactical, USP Expert, USP Match, USP Elite e a arma lateral padrão das Forças Armadas Alemãs (Bundeswehr) - a P8. A variante USP Tactical .45 ACP também está em uso limitado pela Bundeswehr, designada como P12. \n \n </text>
+	</string>
+	
+	<string id="st_mag_colt_357">
+		<text>Carregador Colt 1911 .357</text>
+	</string>
+	<string id="st_mag_colt_357_descr">
+		<text>Carregador para a Colt "Cano Longo" calibrada em .357, comporta 10 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_fn57_ext">
+		<text>Carregador Estendido FN57</text>
+	</string>
+	<string id="st_mag_fn57_ext_descr">
+		<text>Carregador estendido para a pistola FN-57, comporta 30 cartuchos de munição 5.7.</text>
+	</string>
+	
+	<string id="st_mag_pm_drum">
+		<text>Carregador Tambor PM Makarov</text>
+	</string>
+	<string id="st_mag_pm_drum_descr">
+		<text>Carregador tambor para a pistola PM Makarov, comporta 80 cartuchos de munição 9x18mm.</text>
+	</string>
+	
+</string_table>

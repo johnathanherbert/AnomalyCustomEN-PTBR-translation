@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_agram2000">
+		<text>Agram 2000</text>
+	</string>
+	<string id="st_wpn_agram2000_descr">
+		<text>
+		O Agram 2000 é uma submetralhadora croata baseada no modelo M12 da Beretta. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Agram 2000\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_agram2000">
+		<text>Silenciador do Agram 2000</text>
+	</string>
+	<string id="st_addon_sil_agram2000_descr">
+		<text>
+		Silenciador projetado exclusivamente para o Agram 2000. \n
+		</text>
+	</string>
+
+	<string id="st_mag_agram2000_9x19_std">
+		<text>Carregador de 32 tiros do Agram 2000</text>
+	</string>
+	<string id="st_mag_agram2000_9x19_std_descr">
+		<text>
+		Carregador para o Agram 2000 com capacidade para 32 cartuchos de munição calibre 9x19.
+		</text>
+	</string>
+	<string id="st_mag_agram2000_9x18_std">
+		<text>Carregador recalibrado de 32 tiros do Agram 2000</text>
+	</string>
+	<string id="st_mag_agram2000_9x18_std_descr">
+		<text>
+		Carregador recalibrado para o Agram 2000 com capacidade para 32 cartuchos de munição calibre 9x18.
+		</text>
+	</string>
+</string_table>

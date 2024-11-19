@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+
+<string id="st_wpn_hk417_jcw">
+		<text>HK 417</text>
+	</string>
+	<string id="st_wpn_hk417_jcw_descr">
+		<text>O HK-417 é um rifle de combate renomado e altamente versátil projetado e fabricado pela Heckler &amp; Koch. Este rifle é compatível com vários calibres poderosos, como o 7,62x51mm NATO, e oferece precisão excepcional e poder de parada em longas distâncias. Sua construção robusta e design modular permitem fácil customização com uma ampla gama de acessórios, permitindo aos usuários adaptá-lo a diversos cenários táticos. Com a confiança de unidades militares e policiais em todo o mundo, a excepcional confiabilidade, características ergonômicas e engenharia avançada do HK 417 fazem dele a escolha preferida de profissionais e entusiastas que buscam um rifle confiável e eficaz para combate e tiro de precisão.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Alemanha \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Heckler &amp; Koch \n</text>
+	</string>	
+</string_table>

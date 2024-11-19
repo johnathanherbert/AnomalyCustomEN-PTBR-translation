@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_fal_wooden">
+		<text>FAL de Madeira</text>
+	</string>
+	<string id="st_wpn_fal_wooden_descr">
+		<text>Em 1946, o primeiro protótipo do FAL foi concluído. Foi projetado para disparar o cartucho intermediário 7.92x33mm Kurz desenvolvido e usado pelas forças da Alemanha durante a Segunda Guerra Mundial com o fuzil de assalto Sturmgewehr 44.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] SILENCIADOR : Silenciador OTAN\n</text>
+	</string>
+</string_table>

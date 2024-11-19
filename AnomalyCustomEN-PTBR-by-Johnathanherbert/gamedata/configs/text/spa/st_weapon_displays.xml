@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_placeable_weapon_rack">
+        <text>Suporte para Exposição de Armas</text>
+    </string>
+    <string id="st_placeable_weapon_rack_descr">
+		<text>Um antigo suporte de armas que pode ser usado para coletar e exibir seus rifles e espingardas favoritos.\n \n
+			%c[ui_gray_1]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] armazenamento de itens\n
+			%c[d_blue] • %c[ui_gray_2] item posicionável\n
+			%c[d_blue] • %c[ui_gray_2] espaço para 6 armas\n
+			%c[d_blue] • %c[ui_gray_2] aceita apenas rifles, submetralhadoras e espingardas\n</text>
+	</string>
+	
+	<string id="st_placeable_pistol_shelf">
+        <text>Prateleira para Exposição de Pistolas</text>
+    </string>
+    <string id="st_placeable_pistol_shelf_descr">
+		<text>Uma antiga prateleira que pode ser usada para exibir suas pistolas favoritas.\n \n
+			%c[ui_gray_1]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] armazenamento de itens\n
+			%c[d_blue] • %c[ui_gray_2] item posicionável\n
+			%c[d_blue] • %c[ui_gray_2] aceita apenas 4 pistolas\n</text>
+	</string>
+</string_table>

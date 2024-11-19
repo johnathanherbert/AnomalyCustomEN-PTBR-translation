@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_progressive_economy_title">
+		<text>Economia Progressiva</text>
+	</string>
+	<string id="ui_mcm_menu_progressive_economy">
+		<text>Economia Progressiva</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_days_to_increment">
+		<text>Velocidade de crescimento dos preços (dias no jogo)</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_max_multiplier">
+		<text>Multiplicador máximo de preço (1 = 100%)</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_food_modifier">
+		<text>Preços de comida aumentarão em (0.01 = 1%)</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_medicine_modifier">
+		<text>Preços de medicamentos aumentarão em (0.01 = 1%)</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_ammo_modifier">
+		<text>Preços de munição e explosivos aumentarão em (0.01 = 1%)</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_tools_modifier">
+		<text>Preços de ferramentas aumentarão em (0.01 = 1%)</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_weapons_modifier">
+		<text>Preços de armas aumentarão em (0.01 = 1%)</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_outfits_modifier">
+		<text>Preços de trajes aumentarão em (0.01 = 1%)</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_general_modifier">
+		<text>Outros preços aumentarão em (0.01 = 1%)</text>
+	</string>
+	<string id="ui_mcm_progressive_economy_debug_mode">
+		<text>Ativar Modo de Depuração</text>
+	</string>
+</string_table>

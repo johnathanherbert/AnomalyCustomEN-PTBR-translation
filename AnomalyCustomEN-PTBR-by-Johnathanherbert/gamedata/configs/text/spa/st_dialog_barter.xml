@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por Johnathanherbert -->
+
+<string_table>
+	<string id="exchanging_items_phr_0">
+		<text>Ei, parceiro, vamos ver o que você tem aí.</text>
+	</string>
+	<string id="exchanging_items_phr_1">
+		<text>Sim, por que não trocamos? Aqui está o que tenho para oferecer.</text>
+	</string>
+	<string id="exchanging_items_phr_2">
+		<text>Vou levar o artefato...</text>
+	</string>
+	<string id="exchanging_items_phr_3">
+		<text>Vou ficar com o traje...</text>
+	</string>
+	<string id="exchanging_items_phr_4">
+		<text>Vou levar este item...</text>
+	</string>
+	<string id="exchanging_items_phr_5">
+		<text>Vou levar a arma...</text>
+	</string>
+	<string id="exchanging_items_phr_6">
+		<text>Bom. Em troca, aceito isto.</text>
+	</string>
+	<string id="exchanging_items_phr_7">
+		<text>Acho que não há muito o que falarmos, já que você não tem nada que valha a pena para mim. Volte quando tiver mais dinheiro.</text>
+	</string>
+	<string id="exchanging_items_phr_8">
+		<text>Certo, vamos negociar.</text>
+	</string>
+	<string id="exchanging_items_phr_9">
+		<text>Mudei de ideia sobre o negócio.</text>
+	</string>
+	<string id="exchanging_items_phr_10">
+		<text>Como quiser.</text>
+	</string>
+</string_table>

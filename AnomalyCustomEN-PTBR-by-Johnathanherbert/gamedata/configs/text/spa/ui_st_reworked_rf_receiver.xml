@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	MCM
+-->
+<string_table>
+	<string id="ui_mcm_reworked_rf_receiver_title">
+		<text>Receptor RF Revisado</text>
+	</string>
+	<string id="ui_mcm_menu_reworked_rf_receiver">
+		<text>Receptor RF Revisado</text>
+	</string>
+
+	<string id="ui_mcm_reworked_rf_receiver_custom_beep_volume">
+		<text>Volume do bipe personalizado</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_custom_beep_volume_desc">
+		<text>Selecione esta opção se quiser alterar o volume dos bipes.</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_beep_volume">
+		<text>Volume do bipe</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change">
+		<text>Atualizar fontes RF a cada mudança de frequência (PESADO)</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change_desc">
+		<text>Pode causar microtravamentos.</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_only_equip_rf">
+		<text>Não é necessário equipar o receptor RF</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_only_equip_rf_desc">
+		<text>Não é necessário segurar o receptor RF para que funcione, basta tê-lo no inventário.</text>
+	</string>
+</string_table>

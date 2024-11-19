@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	Editor de HUD Arrastável
+-->
+
+<string_table>
+	<string id="st_ui_dbg_hud_third_person_mode">
+		<text>Alternar modo de visão</text>
+	</string>
+</string_table>

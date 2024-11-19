@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+	Traduzido por johnathanherbert
+	Armas
+-->
+
+<string_table>
+
+		<string id="st_wpn_akm_isg">
+		<text>Rifle Dynamics RD-47 ISG Tático</text>
+	</string>
+	<string id="st_wpn_akm_isg_descr">
+		<text>Um modelo personalizado desenvolvido com base no AKM pela empresa americana Rifle Dynamics. É uma das armas mais modernas e de alta qualidade na Zona. Vários carregamentos das variantes AK da Rifle Dynamics foram enviados para a Ucrânia para testes de armas com o objetivo de adoção pelas Forças Especiais Ucranianas, a Rifle Dynamics estava procurando vender licenças de fabricação para Potências do Leste Europeu. No entanto, os testes foram cancelados e o AK12 2016 foi adotado junto com o AEK para forças especiais. Várias dessas armas de Demonstração e Testes da Rifle Dynamics chegaram lentamente à zona ao longo dos anos e são usadas exclusivamente por unidades especiais do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Apontador Avançado de Alvo Iluminador Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com holofote IR. \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro ISG da Rifle Dynamics\n </text>
+	</string>
+	
+			<string id="st_wpn_ak74_isg">
+		<text>Rifle Dynamics RD-74N ISG Tático</text>
+	</string>
+	<string id="st_wpn_ak74_isg_descr">
+		<text>Um modelo personalizado desenvolvido com base no AK-74N pela empresa americana Rifle Dynamics. É uma das armas mais modernas e de alta qualidade na Zona. Vários carregamentos das variantes AK da Rifle Dynamics foram enviados para a Ucrânia para testes de armas com o objetivo de adoção pelas Forças Especiais Ucranianas, a Rifle Dynamics estava procurando vender licenças de fabricação para Potências do Leste Europeu. No entanto, os testes foram cancelados e o AK12 2016 foi adotado junto com o AEK para forças especiais. Várias dessas armas de Demonstração e Testes da Rifle Dynamics chegaram lentamente à zona ao longo dos anos e são usadas exclusivamente por unidades especiais do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Apontador Avançado de Alvo Iluminador Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com holofote IR. \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro ISG da Rifle Dynamics\n </text>
+	</string>
+	
+			<string id="st_wpn_ak74u_isg">
+		<text>Rifle Dynamics RD-74U ISG</text>
+	</string>
+	<string id="st_wpn_ak74u_isg_descr">
+		<text>Um modelo personalizado desenvolvido com base no AKS-74U pela empresa americana Rifle Dynamics. É uma das armas mais modernas e de alta qualidade na Zona. Vários carregamentos das variantes AK da Rifle Dynamics foram enviados para a Ucrânia para testes de armas com o objetivo de adoção pelas Forças Especiais Ucranianas, a Rifle Dynamics estava procurando vender licenças de fabricação para Potências do Leste Europeu. No entanto, os testes foram cancelados e o AK12 2016 foi adotado junto com o AEK para forças especiais. Várias dessas armas de Demonstração e Testes da Rifle Dynamics chegaram lentamente à zona ao longo dos anos e são usadas exclusivamente por unidades especiais do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro ISG da Rifle Dynamics\n </text>
+	</string>
+
+		<string id="st_wpn_ak74u_m1_isg">
+		<text>Rifle Dynamics RD-74U ISG Tático</text>
+	</string>
+	<string id="st_wpn_ak74u_m1_isg_descr">
+		<text>Um modelo personalizado desenvolvido com base no AKS-74U pela empresa americana Rifle Dynamics. É uma das armas mais modernas e de alta qualidade na Zona. Vários carregamentos das variantes AK da Rifle Dynamics foram enviados para a Ucrânia para testes de armas com o objetivo de adoção pelas Forças Especiais Ucranianas, a Rifle Dynamics estava procurando vender licenças de fabricação para Potências do Leste Europeu. No entanto, os testes foram cancelados e o AK12 2016 foi adotado junto com o AEK para forças especiais. Várias dessas armas de Demonstração e Testes da Rifle Dynamics chegaram lentamente à zona ao longo dos anos e são usadas exclusivamente por unidades especiais do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Apontador Avançado de Alvo Iluminador Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com holofote IR. \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro ISG da Rifle Dynamics\n </text>
+	</string>
+	
+		<string id="st_wpn_m4_tac">
+		<text>M4 Tático</text>
+	</string>
+	<string id="st_wpn_m4_tac_descr">
+		<text>Colt M4A1 - um fuzil de assalto (carabina), projetado nos EUA com base na plataforma AR-15 para munição 5.56x45 NATO. Foi desenvolvido principalmente para uso por operadores de veículos e equipes de combate, que necessitavam de uma arma mais compacta e leve do que um rifle padrão de comprimento total, mas usando o mesmo armamento. No entanto, o SOCOM (Comando de Operações Especiais dos Estados Unidos) logo adotou o M4A1 para todas as unidades subordinadas, seguido pela introdução geral do M4A1 no serviço do Exército e Corpo de Fuzileiros Navais dos EUA.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Apontador Avançado de Alvo Iluminador Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com holofote IR.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para picatinny/weaver (exceto Miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: 5.56/7.62NATO Daniel Defense DDWave \n </text>
+	</string>
+	
+		<string id="st_wpn_howa_type_20">
+		<text>Carabina Howa Type 20</text>
+	</string>
+	<string id="st_wpn_howa_type_20_descr">
+		<text>O fuzil de assalto foi oficialmente apresentado ao público em maio de 2020. Esta arma destina-se a substituir o fuzil de assalto Type 89, que está em serviço há cerca de 30 anos. O novo rifle das Forças de Autodefesa Japonesas, como o anterior, foi desenvolvido pela Howa Machinery Co, e usa munição de 5,56 mm. O desenvolvimento de um novo rifle para substituir o Type 89 começou a pedido das Forças Armadas Japonesas em 2014. Externamente e estruturalmente, o novo rifle Type 20 é uma espécie de média aritmética de muitos rifles modernos, como o HK433 ou CZ BREN II, e, aparentemente, não possui características originais. No entanto, não há nada de errado com isso, já que não é a originalidade do design que é exigida da arma do exército, mas confiabilidade, baixo preço e conformidade com os requisitos do cliente. Continua sendo um mistério como e em que quantidade este rifle chegou aos participantes de uma expedição científica à Zona.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Apontador Avançado de Alvo Iluminador Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com holofote IR.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para picatinny (exceto Miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Knights Armament Corporation's QDSS NT-4 5.56x45\n </text>
+	</string>
+	
+		<string id="st_wpn_sr25camo">
+		<text>SR-25 Rifle de Precisão</text>
+	</string>
+	<string id="st_wpn_sr25camo_descr">
+		<text>A Carabina de Precisão SR-25 é igualmente adepta em colocar tiros no alvo além de 800 metros ou engajamento rápido de múltiplos tiros a curta distância, com uma vida útil do cano e ferrolho para suportar o regime de treinamento necessário para dominar essas habilidades. Um liberador de ferrolho ambidestro, seletor e liberador de carregador oferece ao usuário canhoto as vantagens ergonômicas inerentes aos controles baseados no AR15, além de dar aos usuários destros métodos alternativos de manipulação para aumentar a eficiência de movimento. O Gatilho de 2 Estágios Drop-In serve duplamente como auxílio à precisão de longo alcance enquanto permite tiros cirúrgicos em velocidade a curta distância. Este é um dos poucos rifles encontrados em serviço com a Liberdade, especificamente carregado por Atiradores Veteranos. Dizem que apenas algumas dezenas são usadas por toda a facção devido ao seu alto custo. Equipado com um Guarda-mão MLOK que monta um Punho Frontal Zenitco RK-1 e Designador Laser AN/PEQ-15 para precisão cirúrgica em engajamentos de curta distância e um Freio de Boca e Supressor Daniel Defense DDWAVE para tiros de precisão de longo alcance.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Apontador Avançado de Alvo Iluminador Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com holofote IR.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para picatinny (exceto Miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: 5.56/7.62NATO Daniel Defense DDWAVE Freio de Boca + Supressor\n </text>
+	</string>
+	
+
+	</string_table>

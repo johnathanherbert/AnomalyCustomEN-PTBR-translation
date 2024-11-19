@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="mar_renegade_trader_name">
+		<text>Pasha</text>
+	</string>
+	<string id="mar_renegade_mechanic_name">
+		<text>Vladim</text>
+	</string>
+	<string id="mar_renegade_guide_name">
+		<text>Joker</text>
+	</string>
+
+</string_table>

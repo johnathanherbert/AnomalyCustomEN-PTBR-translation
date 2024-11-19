@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_xm8n">
+		<text>XM8</text>
+	</string>
+	<string id="st_wpn_xm8n_descr">
+		<text>O XM8 é um sistema de fuzil de assalto leve do final dos anos 1990 ao início dos anos 2000. O fuzil foi projetado pelo fabricante alemão de armas pequenas Heckler &amp; Koch (H&amp;K) e compartilha design e engenharia com seu fuzil G36.\n
+		O design do XM8 foi originalmente parte do programa Objective Individual Combat Weapon (OICW), que estava desenvolvendo um sistema de lançador de granadas "inteligente" com um fuzil carabina acoplado. O sistema não conseguiu atender aos requisitos de desempenho e peso e acabou sendo cancelado. Como resultado, as duas partes do OICW foram separadas, resultando nos projetos XM8 e XM25.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: %c[d_orange]Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[d_green] Lançador de granadas: %c[d_cyan]HK AG36%c[d_red](M203)\n
+		%c[d_purple] • %c[ui_gray_2] Miras: %c[0,250,250,0]Algumas miras para trilho picatinny\n \n</text>
+	</string>
+	
+</string_table>

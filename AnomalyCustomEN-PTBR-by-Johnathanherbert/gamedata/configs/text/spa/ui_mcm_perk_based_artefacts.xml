@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_perk_based_artefacts_title">
+		<text>Artefatos Baseados em Perícias</text>
+	</string>
+	<string id="ui_mcm_menu_perk_based_artefacts">
+		<text>ARP</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode">
+		<text>Modo de Depuração</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode_desc">
+		<text>Ativa mensagens de depuração no console</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers">
+		<text>Permitir artefatos em contêineres</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers_desc">
+		<text>Permite que artefatos em contêineres utilizem suas perícias. As descrições das perícias ainda estarão disponíveis apenas para artefatos fora de contêineres</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance">
+		<text>Frequência de artefatos em esconderijos</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance_desc">
+		<text>Quanto menor o número, mais raros serão os artefatos com perícias nos esconderijos</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation">
+		<text>Degradação da condição</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation_desc">
+		<text>A cada 20 segundos os artefatos com perícias perderão esta porcentagem de condição</text>
+	</string>
+
+	<string id="ui_mcm_perk_based_artefacts_ui_enabled">
+		<text>Ativar Interface ARP</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_position">
+		<text>Ajustar Interface</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_test_elements">
+		<text>Elementos para Testar</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_scaling">
+		<text>Escala</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_pos_x">
+		<text>Posição X</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_pos_y">
+		<text>Posição Y</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_indicator_margin">
+		<text>Margem dos Indicadores</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_alignment">
+		<text>Alinhamento dos Indicadores</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_icon_size">
+		<text>Tamanho do Ícone</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_display_text">
+		<text>Exibir Texto</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_text_margin">
+		<text>Margem do Texto</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_text_alignment">
+		<text>Alinhamento do Texto</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_text_font">
+		<text>Fonte do Texto</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+- @ Versão: SCREEN SPACE SHADERS - ATUALIZAÇÃO 17
+- @ Descrição: Gotas de Chuva no HUD - strings MCM
+- @ Autor: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders -->
+
+
+
+<string_table>
+	
+	<!-- Título das Gotas de Chuva -->
+	<string id="ui_mcm_ssfx_module_hud_raindrops_title">
+		<text>Gotas de Chuva no HUD - Configurações</text>
+	</string>
+
+	<!-- Configurações das Gotas de Chuva -->
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_density_mcm">
+		<text>Densidade das gotas de chuva</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_density_mcm_desc">
+		<text>Quantidade e tamanho das gotas de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_reflection_str_mcm">
+		<text>Intensidade do reflexo</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_reflection_str_mcm_desc">
+		<text>Intensidade do reflexo das gotas de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_refraction_str_mcm">
+		<text>Intensidade da refração</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_refraction_str_mcm_desc">
+		<text>Intensidade da refração das gotas de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_animation_speed_mcm">
+		<text>Velocidade da animação</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_animation_speed_mcm_desc">
+		<text>Velocidade da animação das gotas de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_buildup_mcm">
+		<text>Velocidade de acúmulo</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_buildup_mcm_desc">
+		<text>Valor para ajustar a velocidade de acúmulo das gotas de chuva nos elementos do HUD.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_drying_mcm">
+		<text>Velocidade de secagem</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_drying_mcm_desc">
+		<text>Valor para ajustar a velocidade de secagem dos elementos do HUD.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_size_mcm">
+		<text>Tamanho das gotas de chuva</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_size_mcm_desc">
+		<text>Define o tamanho das gotas de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_gloss_mcm">
+		<text>Brilho das gotas de chuva</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_gloss_mcm_desc">
+		<text>Ajusta a intensidade do brilho das gotas de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_extra_gloss_mcm">
+		<text>Brilho adicional geral (Quando molhado)</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_extra_gloss_mcm_desc">
+		<text>Ajusta o brilho geral dos elementos do HUD quando está chovendo.</text>
+	</string>
+
+</string_table>

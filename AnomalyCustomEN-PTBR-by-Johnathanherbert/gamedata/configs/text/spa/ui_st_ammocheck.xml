@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    <!-- Mensagens de Verificação de Munição -->
+    <string id="st_ac_overfull">
+        <text>Sobrecarregado</text>
+    </string>
+    <string id="st_ac_plus1">
+        <text>Cheio + 1</text>
+    </string>
+    <string id="st_ac_oitc">
+        <text>1 na câmara</text>
+    </string>
+    <string id="st_ac_just_one">
+        <text>Apenas uma</text>
+    </string>
+    <string id="st_ac_full">
+        <text>Cheio</text>
+    </string>
+    <string id="st_ac_nearly_full">
+        <text>Quase Cheio</text>
+    </string>
+    <string id="st_ac_more_half">
+        <text>Mais da Metade</text>
+    </string>
+    <string id="st_ac_about_half">
+        <text>Aproximadamente Metade</text>
+    </string>
+    <string id="st_ac_less_half">
+        <text>Menos da Metade</text>
+    </string>
+    <string id="st_ac_near_empty">
+        <text>Quase Vazio</text>
+    </string>
+    <string id="st_ac_empty">
+        <text>Vazio</text>
+    </string>
+    <string id="st_ac_jammed">
+        <text>Arma Travada</text>
+    </string>
+    <string id="st_ac_noMag">
+        <text>Sem Carregador</text>
+    </string>
+    <string id="st_ac_grenade">
+        <text>Granada carregada</text>
+    </string>
+    <string id="st_ac_noAmmo">
+        <text>Isto não usa munição!</text>
+    </string>
+    <string id="st_ac_ammoLeft">
+        <text>restante</text>
+    </string>
+    <string id="ui_mcm_menu_rax_ammo_check">
+        <text>Verificação de Munição</text>
+    </string>
+    <string id="ui_mm_title_rax_ammo_check">
+        <text>Verificação de Munição</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_usecolor">
+        <text>Mensagens coloridas.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_hidecounter">
+        <text>Ocultar Contador de Munição.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_hideicon">
+        <text>Ocultar Ícone de Munição.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_busy_hands_fix">
+        <text>Correção de Mãos Ocupadas.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_busy_hands_fix_desc">
+        <text>Marque esta caixa se a "animação" de Verificação de Munição travar. Provável de ocorrer quando FDDA estiver instalado</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_keybind">
+        <text>Tecla de Verificação de Munição.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_keybind_desc">
+        <text>Esta tecla pode ser configurada para exigir teclas modificadoras adicionais para evitar conflitos.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_update_mcm">
+        <text>Atualize o MCM para alterar a tecla aqui. A tecla padrão é T.</text>
+    </string>
+</string_table>

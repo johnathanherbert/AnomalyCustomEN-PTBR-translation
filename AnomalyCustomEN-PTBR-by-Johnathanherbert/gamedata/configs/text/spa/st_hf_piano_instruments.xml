@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_electric_piano_name">
+		<text>Piano Elétrico</text>
+	</string>
+    <string id="st_flute_name">
+		<text>Flauta</text>
+	</string>
+    <string id="st_piano_name">
+		<text>Piano</text>
+	</string>
+    <string id="st_saxophone_name">
+		<text>Saxofone</text>
+	</string>
+    <string id="st_strings_name">
+		<text>Cordas</text>
+	</string>
+</string_table>

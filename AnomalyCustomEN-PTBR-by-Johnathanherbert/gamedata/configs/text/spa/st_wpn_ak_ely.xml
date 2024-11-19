@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_ak_ely">
+		<text>AK-47 «Elnseo»</text>
+	</string>
+	<string id="st_wpn_ak_ely_descr">
+		<text>O rifle AK-47 «Elneo» exibe seu característico design robusto e utilitário, caracterizado por um carregador curvo distinto e uma reputação de confiabilidade inabalável. Esta arma de fogo icônica incorpora um símbolo bruto de poder e conflito, com uma estética prática que destaca seu apelo universal e versatilidade. Graças à sua alta cadência de tiro e munição acessível, o AK-47 é conhecido pela sua eficácia em situações de combate, tornando-o uma escolha favorita tanto das forças militares quanto dos combatentes da resistência dentro da Zona. Sua presença duradoura na cultura popular reforça o status da arma como um símbolo eterno de poder de fogo e rebelião.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]União Soviética \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Izhmash \n</text>
+	</string>
+</string_table>

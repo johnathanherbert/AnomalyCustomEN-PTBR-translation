@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_axmc">
+		<text>AXMC</text>
+	</string>
+	<string id="st_wpn_axmc_black">
+		<text>AXMC «Black»</text>
+	</string>
+	<string id="st_wpn_axmc_descr">
+		<text>O rifle Accuracy International AXMC é uma arma de precisão de alto desempenho projetada para oferecer precisão e versatilidade excepcionais. Construído pelo renomado fabricante britânico Accuracy International, o AXMC apresenta um design modular que permite conversões de calibre rápidas e sem esforço, tornando-o adequado para uma ampla gama de aplicações táticas e de tiro de longo alcance. Graças à sua construção robusta, o AXMC oferece excelente confiabilidade e durabilidade em ambientes agressivos. O rifle incorpora recursos avançados, como coronha dobrável ajustável, apoio de bochecha ajustável e design ergonômico intuitivo, garantindo conforto e controle ideais para o atirador.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Reino Unido \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Accuracy International \n</text>
+	</string>	
+</string_table>

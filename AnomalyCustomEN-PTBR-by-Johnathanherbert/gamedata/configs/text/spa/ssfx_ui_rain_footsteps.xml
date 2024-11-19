@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+- @ Versão: SCREEN SPACE SHADERS - ATUALIZAÇÃO 17
+- @ Descrição: Sons de Passos na Chuva - strings MCM
+- @ Autor: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<string_table>
+
+	<!-- Título dos Sons de Passos -->
+	<string id="ui_mcm_ssfx_module_rain_footsteps_title">
+		<text>Sons de Passos - Configurações</text>
+	</string>
+
+	<!-- Configurações dos Sons de Passos -->
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_main_vol_mcm">
+		<text>Volume principal</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_main_vol_mcm_desc">
+		<text>Volume principal dos sons de passos.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_vol_rnd_mcm">
+		<text>Variação do volume</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_vol_rnd_mcm_desc">
+		<text>Adiciona uma variação aleatória (o valor definido) ao volume dos passos.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_no_rain_mcm">
+		<text>Multiplicador sem chuva</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_no_rain_mcm_desc">
+		<text>Multiplicador de volume quando não está chovendo mas o chão ainda está molhado.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_walk_mcm">
+		<text>Multiplicador ao caminhar</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_walk_mcm_desc">
+		<text>Multiplicador de volume quando o jogador está caminhando.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_run_mcm">
+		<text>Multiplicador ao correr</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_run_mcm_desc">
+		<text>Multiplicador de volume quando o jogador está correndo.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_jump_vol_mcm">
+		<text>Volume do pulo</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_jump_vol_mcm_desc">
+		<text>Volume do efeito sonoro ao pular.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_land_vol_mcm">
+		<text>Volume do pouso</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_land_vol_mcm_desc">
+		<text>Volume do efeito sonoro ao pousar.</text>
+	</string>
+
+</string_table>

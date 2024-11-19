@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+
+    <string id="st_petrenko_trophies">
+        <text>Aqui no Duty, recompensamos todos que nos ajudam em nosso esforço para manter a Zona livre dessa escória mutante. Traga-me provas de que você eliminou alguns monstros, e reabasteceremos sua munição para mostrar nossa gratidão.</text>
+    </string>
+    <string id="st_petrenko_trophies_done">
+        <text>Obrigado por fazer sua parte para destruir a Zona.</text>
+    </string>
+
+    <string id="st_petrenko_artifacts">
+        <text>Aqui no Duty, encontramos nossa cota justa de artefatos. Não temos uso para essas coisas e trocaremos com prazer por armas de alta qualidade.</text>
+    </string>
+    <string id="st_petrenko_artifacts_done">
+        <text>Excelente. Meus homens ficarão satisfeitos.</text>
+    </string>
+
+    <string id="st_mangun_parts">
+        <text>Olá, stalker. Posso pedir sua ajuda? Peças boas são difíceis de encontrar hoje em dia. Me ajude a consertar essas armas e deixarei você pegar algumas coisas do meu estoque.</text>
+    </string>
+
+    <string id="st_barman_fuel">
+        <text>Temos bastante comida, mas estamos ficando sem combustível para cozinhar e manter os geradores funcionando. Se você puder me trazer um pouco, te darei algumas mercadorias.</text>
+    </string>
+    
+    <string id="st_barman_arty">
+        <text>Eu administro uma caridade para stalkers, sabe. Se você tiver sorte e encontrar alguns artefatos, ótimo! Vou pegá-los de você e te dar alguns bons equipamentos em troca.</text>
+    </string>
+    
+    <string id="st_asp_smokes">
+        <text>Tem algo pra fumar? Eu sei, eu sei - saúde, agora você quer alguns suprimentos médicos ou não?</text>
+    </string>
+</string_table>

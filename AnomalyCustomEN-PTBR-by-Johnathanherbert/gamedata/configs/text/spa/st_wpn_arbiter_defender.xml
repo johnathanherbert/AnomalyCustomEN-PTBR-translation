@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+<string id="st_wpn_arbiter_defender">
+		<text>Defender</text>
+	</string>
+	<string id="st_wpn_arbiter_defender_descr">
+		<text>O Arbiter Defender é uma formidável espingarda de ação por bombeamento reconhecida por sua confiabilidade e poder. Apresentando um sistema alimentado por carregador, ele oferece poder de fogo calibre 12 rápido e preciso, tornando-o uma escolha favorita para aplicação da lei e defesa residencial. Seu design robusto garante durabilidade em situações exigentes, enquanto sua empunhadura ergonômica e coronha ajustável proporcionam conforto e controle. Com uma reputação de desempenho incomparável, o Arbiter Defender se destaca como um símbolo de proteção inabalável. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Algumas miras colimadoras para sistema Picatinny/Weaver. \n </text>
+	</string>	
+</string_table>

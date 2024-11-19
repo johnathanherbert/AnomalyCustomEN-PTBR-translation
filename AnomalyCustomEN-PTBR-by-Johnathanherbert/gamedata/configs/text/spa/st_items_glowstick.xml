@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_device_glowstick">
+		<text>Bastão luminoso (verde)</text>
+	</string>
+	<string id="st_device_glowstick_descr">
+		<text>Gera luz através de uma reação química. Os stalkers utilizam amplamente fontes de luz química como iluminação autônoma em diversas situações de emergência e outros casos onde não há acesso a outras fontes de luz. Por serem completamente autossuficientes, duráveis, à prova de fogo, impermeáveis e adequados para armazenamento a longo prazo, sua gama de aplicações é extremamente ampla.\nEssa variante emite luz verde, tem alcance e iluminação equilibrados e é boa para praticamente qualquer situação.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[ui_gray_2]Alcance: •••\n
+%c[d_cyan] • %c[ui_gray_2]Iluminação: •••\n
+%c[d_cyan] • %c[ui_gray_2]Duração: aproximadamente 40 minutos\n</text>
+	</string>
+	<string id="st_device_glowstick_red">
+		<text>Bastão luminoso (vermelho)</text>
+	</string>
+	<string id="st_device_glowstick_red_descr">
+		<text>Gera luz através de uma reação química. Os stalkers utilizam amplamente fontes de luz química como iluminação autônoma em diversas situações de emergência e outros casos onde não há acesso a outras fontes de luz. Por serem completamente autossuficientes, duráveis, à prova de fogo, impermeáveis e adequados para armazenamento a longo prazo, sua gama de aplicações é extremamente ampla.\nEssa variante emite uma luz vermelha que alcança uma área maior, mas ilumina menos; É popular entre os militares.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[ui_gray_2]Alcance: ••••• \n
+%c[d_cyan] • %c[ui_gray_2]Iluminação: •• \n
+%c[d_cyan] • %c[ui_gray_2]Duração: aproximadamente 60 minutos\n</text>
+	</string>
+	<string id="st_device_glowstick_orange">
+		<text>Bastão luminoso (laranja)</text>
+	</string>
+	<string id="st_device_glowstick_orange_descr">
+		<text>Gera luz através de uma reação química. Os stalkers utilizam amplamente fontes de luz química como iluminação autônoma em diversas situações de emergência e outros casos onde não há acesso a outras fontes de luz. Por serem completamente autossuficientes, duráveis, à prova de fogo, impermeáveis e adequados para armazenamento a longo prazo, sua gama de aplicações é extremamente ampla.\nEsta variante emite uma luz laranja, tem um alcance quase idêntico ao da variante verde mas ilumina menos, sendo mais indicada para quem tem olhos sensíveis.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[ui_gray_2]Alcance: •• \n
+%c[d_cyan] • %c[ui_gray_2]Iluminação: •• \n
+%c[d_cyan] • %c[ui_gray_2]Duração: aproximadamente 40 minutos\n</text>
+	</string>
+	<string id="st_device_glowstick_blue">
+		<text>Bastão luminoso (ciano)</text>
+	</string>
+	<string id="st_device_glowstick_blue_descr">
+		<text>Gera luz através de uma reação química. Os stalkers utilizam amplamente fontes de luz química como iluminação autônoma em diversas situações de emergência e outros casos onde não há acesso a outras fontes de luz. Por serem completamente autossuficientes, duráveis, à prova de fogo, impermeáveis e adequados para armazenamento a longo prazo, sua gama de aplicações é extremamente ampla.\nEsta variante emite uma luz ciano e, embora tenha um alcance muito menor que a média, possui a melhor iluminação possível. Perfeito para túneis ou mesmo em plena luz do dia para recantos de difícil visualização, estejam eles à sombra ou não.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[ui_gray_2]Alcance: • \n
+%c[d_cyan] • %c[ui_gray_2]Iluminação: ••••• \n
+%c[d_cyan] • %c[ui_gray_2]Duração: aproximadamente 30 minutos\n</text>
+	</string>
+	<string id="ui_mcm_menu_glowsticks">
+		<text>Bastões luminosos</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+		<text>Piscar no Brain Scorcher e na Miracle Machine</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+		<text>Lâmpadas e lanternas piscam no Brain Scorcher e na Miracle Machine enquanto estão ativos para lhe dar um motivo para carregar bastões luminosos.</text>
+	</string>
+	<string id="ui_mcm_glowsticks_throw_force">
+        <text>Distância de arremesso dos bastões luminosos</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance">
+        <text>Chance de bastões luminosos em esconderijos</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance_desc">
+        <text>A probabilidade de encontrar bastões luminosos em esconderijos.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance">
+        <text>Chance de saquear bastões luminosos</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance_desc">
+        <text>A probabilidade de encontrar bastões luminosos em cadáveres.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_throw_key">
+        <text>Tecla para arremessar</text>
+    </string>
+    <string id="ui_mcm_glowsticks_throw_key_desc">
+        <text>A tecla a ser pressionada para arremessar bastões luminosos.</text>
+    </string>
+</string_table>

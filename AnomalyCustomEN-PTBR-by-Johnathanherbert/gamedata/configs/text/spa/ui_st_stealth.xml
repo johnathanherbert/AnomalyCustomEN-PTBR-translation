@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_stealth_title">
+		<text>Furtividade</text>
+	</string>
+	<string id="ui_mcm_menu_stealth">
+		<text>Furtividade</text>
+	</string>
+
+		<!-- PRINCIPAL -->
+	<string id="ui_mcm_stealth_header_main">
+		<text>Principal</text>
+	</string>
+
+	<string id="ui_mcm_stealth_memory">
+		<text>Memória</text>
+	</string>
+	<string id="ui_mcm_stealth_memory_desc">
+		<text>Multiplicador de memória. (Se o NPC já viu o alvo, então o NPC receberá um impulso em sua visão contra este alvo. Diminui com o tempo, com o valor padrão de 1.0 leva cerca de 100 segundos em tempo real para o NPC reduzir seu impulso a 0 contra este alvo) \n 
+				\n Padrão: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_luminocity">
+		<text>Luminosidade</text>
+	</string>
+	<string id="ui_mcm_stealth_luminocity_desc">
+		<text>Multiplicador de luminosidade. (Luz sobre o objeto) \n 
+				\n Padrão: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_distance">
+		<text>Distância</text>
+	</string>
+	<string id="ui_mcm_stealth_distance_desc">
+		<text>Multiplicador de distância. (Distância de objeto para objeto, alcance e campo de visão) \n 
+				\n Padrão: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_velocity">
+		<text>Velocidade</text>
+	</string>
+	<string id="ui_mcm_stealth_velocity_desc">
+		<text>Multiplicador de velocidade. (Velocidade do objeto) \n 
+				\n Padrão: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_weight">
+		<text>Peso</text>
+	</string>
+	<string id="ui_mcm_stealth_weight_desc">
+		<text>Multiplicador de peso. (Peso sobre o ator) \n 
+				\n Padrão: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_crouch">
+		<text>Agachado</text>
+	</string>
+	<string id="ui_mcm_stealth_crouch_desc">
+		<text>Multiplicador de agachamento. \n 
+				\n Padrão: 0.4</text>
+	</string>
+
+	<string id="ui_mcm_stealth_low_crouch">
+		<text>Agachado baixo</text>
+	</string>
+	<string id="ui_mcm_stealth_low_crouch_desc">
+		<text>Multiplicador de agachamento baixo. \n 
+				\n Padrão: 0.25</text>
+	</string>
+
+	<string id="ui_mcm_stealth_nvg_val">
+		<text>Óculos de visão noturna do NPC</text>
+	</string>
+	<string id="ui_mcm_stealth_nvg_val_desc">
+		<text>Faz com que alguns NPCs usem NVG em vez de lanterna. O valor do NVG é adicionado independentemente da distância, diferente da lanterna ("0" desativa o recurso). \n 
+				\n Padrão: 1</text>
+	</string>
+
+		<!-- INTERFACE -->
+	<string id="ui_mcm_stealth_header_hud">
+		<text>Interface</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon">
+		<text>Ícone</text>
+	</string>
+	<string id="ui_mcm_stealth_icon_desc">
+		<text>Ícone de luminosidade. (Mostra a luz sobre o ator)</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon_type">
+		<text>Tipo de Ícone</text>
+	</string>
+	<string id="ui_mcm_stealth_icon_type_desc">
+		<text>1) "Indicador de luz" mostra a quantidade de luz sobre o jogador. \n \n
+				2) "Visão do NPC" mostra como o NPC (com o maior valor de visão sobre você) vê o jogador: \n
+				- Ícone branco: NPC em estado normal e não vê o jogador; \n
+				- Ícone amarelo: NPC está em combate/perigo (tem parâmetros de visão aumentados) e não vê o jogador; \n
+				- Ícone vermelho: NPC vê o jogador.</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon_x">
+		<text>Posição X do Ícone</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon_y">
+		<text>Posição Y do Ícone</text>
+	</string>
+
+		<!-- Correções -->
+	<string id="ui_mcm_stealth_header_patches">
+		<text>Correções</text>
+	</string>
+
+	<string id="ui_mcm_stealth_michiko_patch">
+		<text>Correção do clima Michiko</text>
+	</string>
+	<string id="ui_mcm_stealth_michiko_patch_desc">
+		<text>Recomendado ativar isso se você usar o clima do Michiko.</text>
+	</string>
+
+		<!-- Depuração -->
+	<string id="ui_mcm_stealth_header_debug">
+		<text>Depuração</text>
+	</string>
+
+	<string id="ui_mcm_stealth_debugx">
+		<text>Depuração</text>
+	</string>
+	<string id="ui_mcm_stealth_debugx_desc">
+		<text>Exibindo variáveis da equação (para o limite correto você deve manter o cursor sobre o objeto o tempo todo): \n 
+				\n Console: todas as variáveis \n 
+				\n Notícias dinâmicas: se o objeto vê o ator ou não \n 
+				\n Mensagem na parte inferior da tela: limite de visibilidade do objeto (e variáveis que você pode alterar no MCM)</text>
+	</string>
+
+</string_table>

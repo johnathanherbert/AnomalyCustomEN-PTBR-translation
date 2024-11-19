@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_menu_cozy_campfire">
+		<text>Fogueira Regenerativa</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_health">
+		<text>Quantidade de regeneração de saúde</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_rad">
+		<text>Quantidade de remoção de radiação</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_psy">
+		<text>Quantidade de regeneração de psique</text>
+	</string>
+</string_table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+
+<string id="st_wpn_hcar">
+		<text>HCAR</text>
+	</string>
+	<string id="st_wpn_hcar_descr">
+		<text>O HCAR ("Heavy Counter Assault Rifle") é uma arma de fogo moderna e versátil, conhecida por seu excepcional desempenho e adaptabilidade. Projetado para aplicações militares e policiais, o HCAR combina a confiabilidade e o poder de fogo de um rifle de combate com a agilidade e ergonomia de um rifle de assalto. Ele incorpora um acionamento de pistão a gás que permite uma operação confiável em vários ambientes e reduz o recuo para melhorar o controle. Com construção robusta, controles ambidestros e design modular, o HCAR oferece aos usuários a capacidade de adaptá-lo às suas necessidades específicas, seja em combate corpo a corpo ou em combates de longo alcance. Sua compatibilidade com diversos acessórios, como miras, silenciadores e acessórios montados em trilhos, aumenta ainda mais sua eficácia. Resumindo, o HCAR é uma arma de fogo de última geração projetada para se destacar nos cenários de combate mais exigentes e dinâmicos.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos\n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Ohio Ordnance Works\n</text>
+	</string>	
+</string_table>

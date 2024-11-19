@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor(es) Original(is) : NLTP_ASHES                                                                         -->
+<!--    Editado : N/A                                                                                               -->
+<!--    Data : 11/11/2023                                                                                           -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)         -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para os itens de revistas do Western Goods.                                             -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <string id="st_wg_porn_mag_1">
+        <text>Revista PLAYBOY (Chloe Khan)</text>
+    </string>
+
+    <string id="st_wg_porn_mag_1_s">
+        <text>PLAYBOY (Chloe Khan)</text>
+    </string>
+
+    <string id="st_wg_porn_mag_1_descr">
+        <text>
+            Uma das últimas dessas revistas a serem impressas antes da mudança para a versão digital. Diferente das revistas soviéticas do mesmo tipo frequentemente encontradas na Zona, não parece ter passado pelo inferno. Além de algumas páginas faltando, está quase completa. Provavelmente chegou à Zona através dos mercenários, que são conhecidos por importar produtos ocidentais ultimamente.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+        </text>
+    </string>
+
+    <string id="st_wg_porn_mag_2">
+        <text>Revista PLAYBOY (Nicole Whitehead)</text>
+    </string>
+
+    <string id="st_wg_porn_mag_2_s">
+        <text>PLAYBOY (Nicole Whitehead)</text>
+    </string>
+
+    <string id="st_wg_porn_mag_2_descr">
+        <text>
+            Uma das últimas dessas revistas a serem impressas antes da mudança para a versão digital. Diferente das revistas soviéticas do mesmo tipo frequentemente encontradas na Zona, não parece ter passado pelo inferno. Além de algumas páginas faltando, está quase completa. Provavelmente chegou à Zona através dos mercenários, que são conhecidos por importar produtos ocidentais ultimamente.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+        </text>
+    </string>
+
+    <string id="st_wg_porn_mag_3">
+        <text>Revista PLAYBOY (Carrie Stevens)</text>
+    </string>
+
+    <string id="st_wg_porn_mag_3_s">
+        <text>PLAYBOY (Carrie Stevens)</text>
+    </string>
+
+    <string id="st_wg_porn_mag_3_descr">
+        <text>
+            Uma das últimas dessas revistas a serem impressas antes da mudança para a versão digital. Diferente das revistas soviéticas do mesmo tipo frequentemente encontradas na Zona, não parece ter passado pelo inferno. Além de algumas páginas faltando, está quase completa. Provavelmente chegou à Zona através dos mercenários, que são conhecidos por importar produtos ocidentais ultimamente.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+        </text>
+    </string>
+
+    <string id="st_wg_xbox_mag_1">
+        <text>Xbox: A Revista Oficial (Março 2002)</text>
+    </string>
+
+    <string id="st_wg_xbox_mag_1_s">
+        <text>Revista Xbox</text>
+    </string>
+
+    <string id="st_wg_xbox_mag_1_descr">
+        <text>
+            Uma antiga revista Xbox, datada de 2002. É a primeira edição lançada no Reino Unido. Algumas seções da revista estão faltando, mas pelo menos uma análise permaneceu completa.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+        </text>
+    </string>
+
+    <string id="st_wg_xbox_mag_2">
+        <text>Xbox: A Revista Oficial (Dezembro 2004)</text>
+    </string>
+
+    <string id="st_wg_xbox_mag_2_s">
+        <text>Revista Xbox</text>
+    </string>
+
+    <string id="st_wg_xbox_mag_2_descr">
+        <text>
+            Uma antiga revista Xbox, datada de 2004. É a 36ª edição lançada no Reino Unido. Algumas seções da revista estão faltando, mas pelo menos uma análise permaneceu completa.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+        </text>
+    </string>
+
+    <string id="st_wg_strana_igr_mag_1">
+        <text>Revista Gameland (Novembro 1999)</text>
+    </string>
+
+    <string id="st_wg_strana_igr_mag_1_s">
+        <text>Revista Gameland</text>
+    </string>
+
+    <string id="st_wg_strana_igr_mag_1_descr">
+        <text>
+            Strana Igr (Russo: ?????? ???, Gameland) era uma revista russa focada em videogames. Foi publicada pela Gameland entre janeiro de 1996 e novembro de 2013, quando a revista foi suspensa devido a problemas financeiros. É um pouco estranho que tal revista tenha encontrado seu caminho até a Zona. Talvez depois que os produtos ocidentais se tornaram cada vez mais presentes na Zona, os falantes de russo desenvolveram interesse pela cultura ocidental?\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+        </text>
+    </string>
+
+    <string id="st_wg_car_mag_1">
+        <text>Revista European Car (Agosto 2015)</text>
+    </string>
+
+    <string id="st_wg_car_mag_1_s">
+        <text>Revista European Car</text>
+    </string>
+
+    <string id="st_wg_car_mag_1_descr">
+        <text>
+            European Car era uma revista americana de entusiastas automotivos publicada pelo Motor Trend Group. A revista circulou entre 1978 e 2018. Muitos mercenários vieram para a Zona com essas revistas, para se distraírem nos dias difíceis.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+        </text>
+    </string>
+
+    <string id="st_wg_car_mag_2">
+        <text>Revista EVO (Dezembro 2015)</text>
+    </string>
+
+    <string id="st_wg_car_mag_2_s">
+        <text>Revista EVO</text>
+    </string>
+
+    <string id="st_wg_car_mag_2_descr">
+        <text>
+            Evo é uma revista britânica de automóveis dedicada a carros de performance. Essas revistas são encontradas cada vez mais comumente na Zona, provavelmente porque dão um gosto do mundo exterior para aqueles presos aqui.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+        </text>
+    </string>
+
+</string_table>

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="st_wpn_stv380_m">
+		<text>STV-380</text>
+	</string>
+	<string id="st_wpn_stv380_m_descr">
+		<text>
+		O rifle STV, abreviação de Sung Truong Viet Nam, é uma família de rifles de assalto fabricados no Vietnã. Estes rifles foram montados na Fábrica Z111 e utilizam munição 7.62x39mm.\n
+		Os rifles STV são modificações feitas no IWI Galil Ace, estas modificações foram realizadas pela Fábrica Z111 com o objetivo principal de ajudar os soldados vietnamitas a se familiarizarem com os novos rifles militares, durante a transição dos antigos rifles de assalto AK-47 e AKM.\n\n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 7.62x39mm\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas M203\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_scarl_m">
+		<text>FN SCAR-L (Tan)</text>
+	</string>
+	<string id="st_wpn_scarl_blk_m">
+		<text>FN SCAR-L (Preto)</text>
+	</string>
+	<string id="st_wpn_scarl_m_descr">
+		<text>
+		O SCAR (Special Operations Forces Combat Assault Rifle) é um rifle modular fabricado pela FN Herstal para o SOCOM para atender aos requisitos da competição SCAR.\n
+		Esta família de rifles consiste em dois tipos, o SCAR-H e SCAR-L. O SCAR-L (Light) utiliza munição 5.56x45mm NATO.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45mm\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas FN Herstal FN40GL Mk2\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_rsass_m">
+		<text>Remington R11 RSASS</text>
+	</string>
+	<string id="st_wpn_rsass_m_descr">
+		<text>
+		O Remington Semi Automatic Sniper System produzido pela Remington Arms e JP Enterprises, foi projetado para atender à necessidade de um rifle de precisão altamente preciso e de tiro rápido.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 7.62x51mm\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp155_u">
+		<text>MP-155 Ultima</text>
+	</string>
+	<string id="st_wpn_mp155_u_descr">
+		<text>
+		A MP-155 Ultima projetada e fabricada pelo Grupo Kalashnikov é uma espingarda de combate de alta capacidade, projetada para fornecer ao usuário informações de fácil acesso durante o combate.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mcx_m">
+		<text>SIG MCX VIRTUS</text>
+	</string>
+	<string id="st_wpn_mcx_m_descr">
+		<text>
+		O SIG MCX é uma família de armas de fogo projetada e fabricada pela SIG Sauer, desenvolvida para atender a várias categorias militares.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Surefire SOCOM556-Monster\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_m590a1_m">
+		<text>Mossberg 590A1 Custom</text>
+	</string>
+	<string id="st_wpn_m590a1_m_descr">
+		<text>
+		A Mossberg 590 foi desenvolvida pela O.F. Mossberg &amp; Sons durante os anos 1970 nos EUA como uma modificação da espingarda Mossberg modelo 500 para adoção pelo Exército dos EUA. As modificações incluíram o reforço do receptor, instalação do dissipador de calor ventilado ao redor do cano, uma trava para baioneta e carregador estendido e um guarda-gatilho de alumínio em vez de plástico. O acabamento padrão é Parkerização, e a arma é fornecida com empunhadura de pistola substituível, que permite fácil conversão para modificação 'Cruiser'. Desde 1987, esta foi a espingarda padrão das Forças Armadas dos EUA; oficialmente substituída no Exército dos EUA pela espingarda semiautomática Benelli M1014, as espingardas Mossberg 590A1 ainda são usadas pela Marinha dos EUA e pelo Corpo de Fuzileiros Navais dos EUA.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_honey_badger_m">
+		<text>AAC Honey Badger</text>
+	</string>
+	<string id="st_wpn_honey_badger_m_descr">
+		<text>
+		O AAC Honey Badger PDW é uma arma de defesa pessoal integralmente silenciada baseada na plataforma AR-15.\n
+		Esta versão especial teve o silenciador integrado removido e receptor totalmente construído em 5.56x45mm.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Surefire SOCOM556-Monster\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_brn_180_m">
+		<text>Brownells BRN-180</text>
+	</string>
+	<string id="st_wpn_brn_180_m_descr">
+		<text>
+		O BRN-180 projetado e produzido pela Brownells, incorpora muitas das melhorias que os rifles AR-18/AR-180 introduziram nos anos 1960, incluindo um sistema operacional de pistão a gás mais robusto e confiável.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Surefire SOCOM556-Monster\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_adar_m">
+		<text>Carabina ADAR 2-15</text>
+	</string>
+	<string id="st_wpn_adar_m_descr">
+		<text>
+		O ADAR 2-15 é uma arma de fogo civil russa desenvolvida a partir da plataforma AR-15. Consiste em componentes israelenses e os canos produzidos pela Molot Arms.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Advanced Armament (AAC) M4-2000\n
+		</text>
+	</string>
+
+	<string id="st_grenade_rgn_impact">
+		<text>Granada RGN</text>
+	</string>
+
+	<string id="st_grenade_rgn_impact_descr">
+		<text>
+		A granada RGN, abreviação de Ruchnaya Granata Nastupatel'naya, é uma granada de fragmentação ofensiva soviética.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_purple] • %c[ui_gray_2] Poder de explosão: %c[ui_gray_1]médio\n
+		%c[d_purple] • %c[ui_gray_2] Raio de explosão: %c[ui_gray_1]2-5 m\n
+		%c[d_purple] • %c[ui_gray_2] Número médio de fragmentos: %c[ui_gray_1]75 (estilhaços pequenos)\n
+		%c[d_purple] • %c[ui_gray_2] Atraso de explosão: %c[ui_gray_1]1.8 segundos\n \n
+		</text>
+	</string>
+
+	<string id="st_grenade_rgo_impact">
+		<text>Granada RGO</text>
+	</string>
+
+	<string id="st_grenade_rgo_impact_descr">
+		<text>
+		A granada RGO, abreviação de Ruchnaya Granata Oboronitel'naya, é uma granada de fragmentação defensiva soviética.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_purple] • %c[ui_gray_2] Poder de explosão: %c[ui_gray_1]médio\n
+		%c[d_purple] • %c[ui_gray_2] Raio de explosão: %c[ui_gray_1]2-7 m\n
+		%c[d_purple] • %c[ui_gray_2] Número médio de fragmentos: %c[ui_gray_1]85 (estilhaços pequenos)\n
+		%c[d_purple] • %c[ui_gray_2] Atraso de explosão: %c[ui_gray_1]1.8 segundos\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_type89_m">
+		<text>Howa Type 89</text>
+	</string>
+	<string id="st_wpn_type89_m_descr">
+		<text>
+		O Rifle de Assalto Howa Type 89 é um rifle de assalto japonês que utiliza munição 5.56x45mm.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Surefire SOCOM556-Monster\n \n
+		</text>
+	</string>
+
+    <string id="st_wpn_famas3">
+        <text>FAMAS F3</text>
+    </string>
+    <string id="st_wpn_famas3_descr">
+        <text>
+		FAMAS significa Fusil d'Assaut de la Manufacture d'Armes de St-Etienne (Rifle de Assalto da Fábrica de Armas de St-Etienne). O desenvolvimento deste rifle começou em 1967, por Paul Tellie, um designer de armas francês. Este novo rifle foi destinado a substituir os rifles semiautomáticos MAS Mle.49/56, submetralhadoras MAT-49 e metralhadoras leves MAC Mle.1929. O primeiro protótipo FAMAS foi construído em 1971, e os militares franceses começaram a testar este rifle em 1972. Enquanto isso, a França adotou um rifle de assalto SIG SG-540 5.56mm de design suíço como solução intermediária. O FAMAS foi adotado pelos franceses em 1978 e desde então se tornou o rifle padrão do Exército Francês, conhecido entre os soldados franceses como "Le Clairon" (o clarim).\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45mm\n \n
+		</text>
+    </string>
+
+	<string id="st_wpn_mp7">
+		<text>H&amp;K MP7</text>
+	</string>
+	<string id="st_wpn_mp7_descr">
+		<text>
+		A Heckler &amp; Koch MP7 (Maschinenpistole 7) é uma arma de defesa pessoal (PDW) alemã projetada e fabricada pela Heckler &amp; Koch (H&amp;K) e usa munição H&amp;K 4.6x30mm. Foi projetada com o novo cartucho para atender aos requisitos da OTAN publicados em 1989, já que esses requisitos exigiam uma arma de defesa pessoal (PDW) com maior capacidade de penetrar coletes à prova de balas do que as armas atuais limitadas a cartuchos de pistola convencionais. A MP7 entrou em produção em 2001.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19mm\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp5_descr">
+		<text>
+		A MP5 é uma das armas de fogo mais famosas e difundidas de sua classe. A compacidade, precisão e confiabilidade da MP5 a tornaram uma favorita de numerosas organizações militares, policiais, de inteligência e segurança em todo o mundo. A MP5A3 é equipada com uma coronha metálica retrátil. Não surpreendentemente, tendo inundado os mercados negros globais, ela eventualmente chegou à Zona.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19mm (após modificação)\n \n</text>
+	</string>
+	<string id="st_wpn_mp5_nimble_descr">
+		<text>
+		Um protótipo de submetralhadora baseado no excelente modelo H&amp;K MP5A3. Projetada como uma arma de combate próximo de próxima geração, ela se beneficia de um calibre maior, cadência de tiro e precisão.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Gemtech (após modificação)\n \n</text>
+	</string>
+
+	<string id="st_wpn_mp5sd_descr">
+		<text>
+		Uma variante da MP5 com silenciador integrado. Na Zona, os mercenários preferem esta variante à normal.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador especial MP5SD (integrado)\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_p90">
+		<text>FN P90</text>
+	</string>
+	<string id="st_wpn_p90_descr">
+		<text>
+		A submetralhadora FN P90 foi desenvolvida no final dos anos 1980 como uma arma de defesa pessoal para tropas cujas atividades principais não incluem armas pequenas, como membros de tripulação de veículos e tanques, equipes de artilharia etc. Pistolas e submetralhadoras padrão se mostraram ineficazes contra inimigos usando coletes à prova de balas. Os designers da FN desenvolveram uma nova munição, inicialmente designada como SS90, para alcançar alta penetração mantendo o recuo baixo. A FN usou uma abordagem de pequeno calibre, criando uma munição que parecia uma versão reduzida da munição 5.56 NATO. O resultado foi a arma de defesa pessoal FN P90, introduzida em 1990 junto com a munição melhorada 5.7x28 SS190 que substituiu as balas com núcleo de polímero por balas com núcleo duplo, de aço e alumínio, para melhor penetração contra coletes à prova de balas.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.7x28mm\n \n
+		</text>
+	</string>
+	<string id="st_wpn_p90_custom">
+		<text>FN P90 EFFEN</text>
+	</string>
+	<string id="st_wpn_p90_custom_descr">
+		<text>
+		A submetralhadora FN P90 foi desenvolvida no final dos anos 1980 como uma arma de defesa pessoal para tropas cujas atividades principais não incluem armas pequenas, como membros de tripulação de veículos e tanques, equipes de artilharia etc. Pistolas e submetralhadoras padrão se mostraram ineficazes contra inimigos usando coletes à prova de balas. Os designers da FN desenvolveram uma nova munição, inicialmente designada como SS90, para alcançar alta penetração mantendo o recuo baixo. A FN usou uma abordagem de pequeno calibre, criando uma munição que parecia uma versão reduzida da munição 5.56 NATO. O resultado foi a arma de defesa pessoal FN P90, introduzida em 1990 junto com a munição melhorada 5.7x28 SS190 que substituiu as balas com núcleo de polímero por balas com núcleo duplo, de aço e alumínio, para melhor penetração contra coletes à prova de balas.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.7x28mm\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_ash12">
+		<text>ASh-12.7</text>
+	</string>
+	<string id="st_wpn_ash12_descr">
+		<text>
+		O ASh-12.7 (??-12.7, que significa "??????? ????????? 12.7??" ou "Rifle de assalto automático, 12.7mm") é uma arma dedicada a CQB/Operações Urbanas, desenvolvida pela TsKIB SOO ("Escritório Central de Design e Pesquisa de Armas Esportivas e de Caça"), uma subsidiária do KBP Instrument Design Bureau de Tula, Rússia, a pedido do FSB russo (Serviço Federal de Segurança). A arma foi projetada com poder de parada extremo a curta distância em mente, pois é destinada a unidades especiais do FSB que operam em ambientes urbanos contra gangsters e terroristas fortemente armados e organizados que precisam ser mortos com um único tiro. De acordo com a imprensa russa, o primeiro lote de rifles de assalto ASh-12.7 foi entregue ao FSB.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 12.7mm\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_mk14">
+		<text>Mk 14 EBR</text>
+	</string>
+	<string id="st_wpn_mk14_descr">
+		<text>
+		O United States Navy Mark 14 Enhanced Battle Rifle (Mk 14 Enhanced Battle Rifle, "rifle de combate aprimorado") - Rifle de Atirador americano, criado por operações especiais da Marinha dos EUA baseado no rifle M14. Usado por várias unidades especiais da Marinha, incluindo SEAL.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45mm\n \n
+		</text>
+	</string>
+
+
+	<string id="st_wpn_g3">
+		<text>G3A3</text>
+	</string>
+	<string id="st_wpn_g3_descr">
+		<text>
+		O G3A3 é um fuzil de batalha desenvolvido na década de 1950 pela fabricante alemã de armas Heckler &amp; Koch GmbH em colaboração com a agência estatal espanhola de design e desenvolvimento CETME (Centro de Estudios Tecnicos de Materiales Especiales). Foi projetado para usar munição 7.62x51mm NATO e utiliza ação de retardo por roletes. O rifle deve seu design ao CETME mod. A, que foi projetado pelo engenheiro alemão Dr. Ludwig Vorgrimler. Em 1957, a Heckler &amp; Koch comprou a licença para fabricar o rifle, onde pequenas modificações foram feitas no design CETME. Oficialmente adotado em serviço em 1959 pelo Bundeswehr como G3, permaneceu em serviço até 1995, quando foi substituído pelo G36. Apesar de ter sido oficialmente substituído pelo exército alemão, ainda está em uso limitado.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45mm\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig552">
+		<text>SIG SG552 Commando</text>
+	</string>
+	<string id="st_wpn_sig552_descr">
+		<text>
+		O SG 552 Commando foi projetado para combate urbano, sendo o membro mais compacto da renomada família SG 550 da SIG, o que melhora suas capacidades CQC.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45mm\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_m82">
+		<text>Barrett M82</text>
+	</string>
+	<string id="st_wpn_m82_descr">
+		<text>
+		Barrett M82, na documentação das Forças Armadas dos EUA M107 - fuzil de precisão americano de grande calibre semiautomático, fabricado pela Barrett Firearms Manufacturing e em serviço em vários países ao redor do mundo. O sistema automático deste rifle é baseado em uma válvula borboleta. O rifle pertence à classe "antimaterial", mas é mais frequentemente usado como arma contra infantaria inimiga.\n \n
+	    %c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_sv98_custom_descr">
+		<text>O SV-98 (Snaiperskaya Vintovka Modelo 1998) é um fuzil de precisão russo de ação por ferrolho projetado por Vladimir Stronskiy. Em 2003, as tropas de operações especiais foram armadas com o sistema de precisão 6S11 de 7.62mm, composto pelo fuzil de precisão SV-98 (índice 6V10) e munição de penetração aprimorada 7N14. O rifle foi usado em combate durante operações na Chechênia.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_ace21">
+		<text>Galil ACE-21</text>
+	</string>
+	<string id="st_wpn_ace21_descr">
+		<text>
+		A família Galil ACE é projetada e produzida pela empresa israelense de armas IWI Ltd. A base dos rifles ACE Galil é o fuzil de assalto Galil, que por sua vez é baseado no rifle AK de Kalashnikov. O Galil ACE foca em ergonomia, facilidade de uso e integração com acessórios adicionais, bem como flexibilidade em combate - a família Galil ACE inclui os três tipos mais comuns de munição no mundo (5.56x45 NATO, 7.62x39 M43 e NATO 7.62x51), com múltiplos comprimentos de cano para cada tipo. Esta variante em particular utiliza munições 5.56x45 NATO e tem um cano compacto. Na Zona, este fuzil de assalto é uma verdadeira raridade.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45mm\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_hk416">
+		<text>HK416</text>
+	</string>
+	<string id="st_wpn_hk416_descr">
+		<text>O HK416 é um rifle projetado e fabricado pela Heckler &amp; Koch para melhorar o M4. Está disponível como uma arma de fogo completa ou como um receptor superior que se encaixa em qualquer receptor inferior tipo AR-15. A Força Delta do Exército dos EUA colaborou com os fabricantes de armas alemães para desenvolver o novo rifle. Testes do H&amp;K 416 em 2004 revelaram que o sistema operacional de pistão reduz significativamente os maus funcionamentos enquanto aumenta a vida útil das peças. O projeto foi originalmente chamado de H&amp;K M4, mas foi alterado em resposta a um processo por violação de marca registrada apresentado pela Colt Defence. Atualmente, está disponível apenas para organizações governamentais e militares, razão pela qual este fuzil de assalto é geralmente carregado por Mercenários.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45mm\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas M203\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_sr25">
+		<text>SR-25</text>
+	</string>
+	<string id="st_wpn_sr25_descr">
+		<text>O SR-25, Stoner Rifle, modelo 25 foi desenvolvido por Reed Knight, proprietário da Knights Armament Co. e Eugene Stoner. O SR-25 é um rifle AR-15 aumentado para atirar munição 7.62x51mm NATO ou .308. 60% das peças do rifle são intercambiáveis com componentes AR-15. Este rifle vendeu bem entre atiradores civis que precisavam de um rifle semiautomático preciso em 7.62x51mm NATO ou calibre .308 para caça ou tiro ao alvo. Este rifle também encontrou favor no Exército dos EUA. Todos os rifles construídos na plataforma SR-25 compartilham a mesma ação básica, o sistema AR-15/M16. Devido ao buffer de recuo estilo AR-15, que se estende para trás do receptor, o SR-25 não pode ser equipado com uma coronha dobrável, em vez disso, é equipado com coronha telescópica.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador especial SR-25\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas FN Herstal FN40GL Mk2\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_scar_descr">
+		<text>
+		O Special Operations Forces Combat Assault Rifle (SCAR) é um rifle modular feito pela FN Herstal para o SOCOM para satisfazer os requisitos da competição SCAR. Esta família de rifles consiste em dois tipos, o SCAR-H e SCAR-L. O SCAR-H (Heavy) é calibrado em munição 7.62x51mm NATO.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas FN Herstal FN40GL Mk2\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_val">
+		<text>AS Val</text>
+	</string>
+	<string id="st_wpn_val_descr">
+		<text>O AS Val é amplamente utilizado por unidades de reconhecimento do Exército Russo, bem como por Forças Especiais do MVD (Ministério de Assuntos Internos) e FSB (Serviço Federal de Segurança). O AS-VAL é uma arma operada a gás, com silenciador integrado. O receptor é usinado a partir de forjamento de aço para maior resistência. Possui um trilho lateral padrão para miras ópticas, visão noturna ou red dot, mas não tem provisão para montar uma baioneta ou um lançador de granadas. O silenciador integrado pode ser facilmente destacado para manutenção, reparo ou armazenamento compacto, mas o rifle não deve ser disparado com o silenciador removido devido a questões de segurança e confiabilidade.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1M2-01, ACOG, Barska ES AC10632, EOTech, Leupold, March\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador VSS (integrado)\n \n</text>
+	</string>
+	<string id="st_wpn_val_modern">
+		<text>AS Val (moderno)</text>
+	</string>
+	<string id="st_wpn_val_modern_descr">
+		<text>O AS Val é amplamente utilizado por unidades de reconhecimento do Exército Russo, bem como por Forças Especiais do MVD (Ministério de Assuntos Internos) e FSB (Serviço Federal de Segurança). O AS-VAL é uma arma operada a gás, com silenciador integrado. O receptor é usinado a partir de forjamento de aço para maior resistência. Possui um trilho lateral padrão para miras ópticas, visão noturna ou red dot, mas não tem provisão para montar uma baioneta ou um lançador de granadas. O silenciador integrado pode ser facilmente destacado para manutenção, reparo ou armazenamento compacto, mas o rifle não deve ser disparado com o silenciador removido devido a questões de segurança e confiabilidade.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1M2-01, ACOG, Barska ES AC10632, EOTech, Leupold, March\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador VSS (integrado)\n \n</text>
+	</string>
+
+
+	<string id="st_wpn_m_mk47">
+		<text>CMMG MK47 Mutant</text>
+	</string>
+	<string id="st_wpn_m_mk47_descr">
+		<text>
+		CMMG Mk47 Mutant, carabina americana em calibre 7.62x39mm, fabricada pela CMMG Inc. Funciona com todos os tipos de carregadores AK, incluindo aço, polímero e tambor. A carabina demonstrou excepcional confiabilidade que, junto com a ergonomia clássica do sistema AR, oferece um excelente exemplo de arma de fogo. Esta variante possui modo de disparo totalmente automático, apenas para uso militar e policial.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Hexagon 5.45/7.62x39mm\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_ump45_descr">
+		<text>O UMP foi desenvolvido pela H&amp;K nos anos 1990, aparecendo primeiro no mercado em 1999. A ideia por trás do UMP era criar uma submetralhadora leve e potente, que também fosse mais barata que a MP5. O UMP, sendo direcionado principalmente para a aplicação da lei nos EUA, apareceu nos calibres .45ACP e .40SW, e mais tarde em 9mm. Fornecendo maior poder de parada que a MP5, o UMP45 também produz mais recuo. Isso torna o controle do fogo automático mais difícil. A taxa cíclica de disparo do UMP45 foi significativamente reduzida para combater este problema.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Gemtech\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_vepr101_m">
+		<text>Carabina Molot VPO-101 "Vepr-Hunter"</text>
+	</string>
+	<string id="st_wpn_vepr101_m_descr">
+		<text>
+		Carabina de caça semiautomática de calibre 7.62x51mm. Foi criada na plataforma da metralhadora Kalashnikov (RPK) e tem aparência, peso e dimensões similares. Projetada para caça profissional e amadora de animais de médio e grande porte, bem como uso esportivo.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO1, ACOG, Barska ES AC10632, EOTech, Leupold, March\n \n
+		</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_5">
+		<text>Carregador VPO-101 "Vepr-Hunter" 5 tiros</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_5_descr">
+		<text>
+		Carregador para VPO-101 e sistemas compatíveis, fabricado pela Molot Arms com capacidade de 5 tiros de munição calibre 7.62x51.
+		</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_10">
+		<text>Carregador VPO-101 "Vepr-Hunter" 10 tiros</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_10_descr">
+		<text>
+		Carregador para VPO-101 e sistemas compatíveis, fabricado pela Molot Arms com capacidade de 10 tiros de munição calibre 7.62x51.
+		</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_5_alt">
+		<text>Carregador VPO-101 "Vepr-Hunter" 10 tiros recalibrado</text>
+	</string>
+
+	<string id="st_mag_efpwp_vpo_101_5_alt_descr">
+		<text>
+		Carregador recalibrado para VPO-101 e sistemas compatíveis com capacidade de 5 tiros de munição calibre 7.62x39.
+		</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_10_alt">
+		<text>Carregador VPO-101 "Vepr-Hunter" 10 tiros recalibrado</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_10_alt_descr">
+		<text>
+		Carregador recalibrado para VPO-101 e sistemas compatíveis com capacidade de 10 tiros de munição calibre 7.62x39.
+		</text>
+	</string>
+
+	<string id="st_wpn_sag545_m">
+		<text>Carabina SAG AK-545</text>
+	</string>
+	<string id="st_wpn_sag545_m_descr">
+		<text>
+		AK em calibre 5.45x39mm desenvolvido pela Sureshot Armament Group.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador TGP-A\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_vpo136_m">
+		<text>Carabina Molot VPO-136 "Vepr-KM"</text>
+	</string>
+	<string id="st_wpn_vpo136_m_descr">
+		<text>
+		A carabina Molot Vepr-KM/VPO-136 é baseada no conhecido AKM Kalashnikov e tem aparência, peso e dimensões gerais quase idênticos. Projetada para caça de animais de médio e grande porte, bem como para uso esportivo.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador PBS-1\n
+		</text>
+	</string>
+
+	<string id="st_wpn_rd704_m">
+		<text>Rifle Dynamics RD-704</text>
+	</string>
+	<string id="st_wpn_rd704_m_descr">
+		<text>
+		Rifle de assalto Rifle Dynamics 704 7.62x39mm, uma versão aprimorada do sistema AK fabricada pela Rifle Dynamics. A principal diferença do AK padrão: o design da parte frontal desloca o centro de gravidade mais próximo ao receptor, o que melhora significativamente a controlabilidade da arma.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Rifle Dynamics ISG\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_t5000_m">
+		<text>Orsis T-5000</text>
+	</string>
+	<string id="st_wpn_t5000_m_descr">
+		<text>
+		O rifle de alta precisão ORSIS T-5000 é um resultado excepcional dos esforços dos designers de nossa empresa. Este modelo foi criado em cooperação com atiradores profissionais e possui as propriedades exigidas pelo mercado russo. O modelo T-5000 é um repetidor de recarga manual com ferrolho deslizante e dois retentores frontais. É uma arma multiuso. Suas especificações proporcionam tiros de longo alcance de alta precisão (até 1500m), alto nível de conveniência do atirador durante as fases de preparação, disparo e recuo, rápida recuperação da linha de visada, excelente confiabilidade e ergonomia.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Daniel Defence Wave QD\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_g28_m">
+		<text>HK G28</text>
+	</string>
+	<string id="st_wpn_g28_m_descr">
+		<text>
+		O rifle HK G28 foi desenvolvido pela Heckler e Koch especificamente para o Bundeswehr como uma arma de suporte para pequenas unidades de infantaria. O G28 é baseado no HK MR308, que, por sua vez, é uma versão civil do rifle automático HK 417. Apesar de várias diferenças, o HK G28 é 75% intercambiável com o HK 417. Este rifle é projetado para atirar em distâncias inacessíveis aos rifles de assalto padrão de 5.56mm.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador AAC 7.62 SDN-6\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_6x4">
+		<text>Faca Bars A-2607 95H18</text>
+	</string>
+	<string id="st_knife_6x4_descr">
+		<text>
+			A faca Bars A-2607, forjada em aço 95H18 com cabo de madeira fina e guarda de latão.\n \n
+			%c[ui_gray_3]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] item militar\n
+			%c[d_blue] • %c[ui_gray_2] arma corpo a corpo\n
+			%c[d_red] • %c[ui_gray_2] inadequada para cortar mutantes de pele grossa\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_needle">
+		<text>Baioneta 6Kh5</text>
+	</string>
+	<string id="st_knife_needle_descr">
+		<text>
+			O chamado item 6H5 é uma baioneta adotada em 1989 como equipamento padrão para uso com AK74.\n \n
+			%c[ui_gray_3]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] item militar\n
+			%c[d_blue] • %c[ui_gray_2] arma corpo a corpo\n
+			%c[d_red] • %c[ui_gray_2] inadequada para cortar mutantes de pele grossa\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_hunting">
+		<text>Facão de Sobrevivência SP-8</text>
+	</string>
+	<string id="st_knife_hunting_descr">
+		<text>
+			SP8 é um facão de sobrevivência feito de uma única peça de aço carbono.\n \n
+			%c[ui_gray_3]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] item de caça\n
+			%c[d_blue] • %c[ui_gray_2] arma corpo a corpo\n
+			%c[pda_green] • %c[ui_gray_2] adequada para cortar mutantes de pele grossa\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_swat">
+		<text>Facão de sobrevivência UVSR Taiga-1</text>
+	</string>
+	<string id="st_knife_swat_descr">
+		<text>
+			UVSR "Dispositivo para realização de operações de resgate" Taiga-1. Uma ferramenta de sobrevivência verdadeiramente versátil. É uma arma, uma pá, um machado e tudo que você possa imaginar. Foi desenvolvida e produzida na URSS para várias agências.\n \n
+			%c[ui_gray_3]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] item militar\n
+			%c[d_blue] • %c[ui_gray_2] arma corpo a corpo\n
+			%c[pda_green] • %c[ui_gray_2] adequada para cortar mutantes de pele grossa\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_combat">
+		<text>Machado de Campista</text>
+	</string>
+	<string id="st_knife_combat_descr">
+		<text>
+			Machado de viagem universal para uso em condições de campo ou na fazenda.\n \n
+			%c[ui_gray_3]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] item militar\n
+			%c[d_blue] • %c[ui_gray_2] arma corpo a corpo\n
+			%c[pda_green] • %c[ui_gray_2] adequada para cortar mutantes de pele grossa\n \n
+		</text>
+	</string>
+
+	<string id="st_axe3">
+		<text>Martelo de Impacto Superfors DB 2020</text>
+	</string>
+	<string id="st_axe3_descr">
+		<text>
+			O martelo é revestido com uretano que proporciona um "baque" usando esferas de aço para amortecer o impacto e reduzir o recuo da vibração no cabo.\n \n
+			%c[ui_gray_3]PROPRIEDADES:\n
+			%c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+			%c[d_blue] • %c[ui_gray_2] arma corpo a corpo\n
+			%c[pda_green] • %c[ui_gray_2] maior alcance comparado a facas\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_m3s90_m">
+		<text>Benelli M3 Super 90</text>
+	</string>
+	<string id="st_wpn_m3s90_m_descr">
+		<text>
+		A Benelli M3 S90 é uma espingarda de modo duplo projetada e fabricada pela Benelli. A M3 é notável por permitir que o usuário escolha entre operação semiautomática ou pump-action. As espingardas Benelli mostram excelente desempenho balístico, e o acabamento e fino trabalho artesanal são o epítome do estilo italiano tradicional.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador SilencerCo Salvo 12\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_remington870">
+		<text>Remington 870</text>
+	</string>
+	<string id="st_wpn_remington870_descr">
+		<text>Remington 870 é uma arma americana, introduzida pela primeira vez em 1950 pela Remington Arms. Devido à sua recarga característica é um dos rifles pump-action mais famosos do mundo. Produzida em várias versões, é adequada tanto para militares quanto para policiais, para caçadores e atletas, bem como para autodefesa.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras Barska ES AC10632, C-MORE Tactical, EOTech, ACOG\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_m870breacher_m">
+		<text>Remington 870 Breacher</text>
+	</string>
+	<string id="st_wpn_m870breacher_m_descr">
+		<text>Remington 870 é uma arma americana, introduzida pela primeira vez em 1950 pela Remington Arms. Devido à sua recarga característica é um dos rifles pump-action mais famosos do mundo. Produzida em várias versões, é adequada tanto para militares quanto para policiais, para caçadores e atletas, bem como para autodefesa.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras Barska ES AC10632, C-MORE Tactical, EOTech, ACOG\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_tx15_m">
+		<text>Lone Star TX-15 DML</text>
+	</string>
+	<string id="st_wpn_tx15_m_descr">
+		<text>
+		A série TX15 Designated Marksman Light (DML) estabelece o padrão para um rifle de precisão semiautomático de estrutura pequena. Utilizando lições aprendidas durante o desenvolvimento de nossa Carabina Multi Propósito, o DML é otimizado para tiro de média distância.\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45mm\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_fal">
+		<text>FN FAL</text>
+	</string>
+	<string id="st_wpn_fal_descr">
+		<text>FN FAL é uma arma de fogo da OTAN produzida na Bélgica pela Fabrique Nationale de Herstal. Um dos rifles automáticos mais reconhecidos e populares. O FN FAL foi originalmente desenvolvido para um cartucho intermediário 7.92x33mm usado pelos alemães durante a Segunda Guerra Mundial, depois apareceram protótipos para o cartucho .280 British. Foi posteriormente refeito para o calibre 7.62x51mm NATO, adotado como padrão único para países da OTAN. Durante a Guerra Fria, recebeu o apelido de "a mão direita do mundo livre".\n \n
+		%c[ui_gray_3]ACESSÓRIOS:\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 c/ rmr\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45mm\n \n
+		</text>
+	</string>
+
+	<string id="ui_mcm_dii_maid_efpwp_show">
+		<text>Alternar rótulos EFPWP</text>
+	</string>
+
+	<string id="st_addon_sil_ash12m">
+		<text>Silenciador ASh-12 12.7x55</text>
+	</string>
+	<string id="st_addon_sil_ash12m_descr">
+		<text>
+		Silenciador tático fabricado pela CKIB para o rifle automático ASh-12 12.7x55.\n \n
+		</text>
+	</string>
+
+</string_table>

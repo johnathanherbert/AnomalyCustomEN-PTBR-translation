@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_smr_mutants">
+		<text>Mutantes</text>
+	</string>
+    <string id="ui_mcm_smr_mutants_types_title">
+		<text>Tipos de mutantes</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_squad_size">
+		<text>Tamanho do grupo de mutantes</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_squad_size_variance">
+		<text>Variação do tamanho do grupo</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_squad_size_variance_desc">
+		<text>Quanto maior for esse número, mais aleatório será o tamanho dos grupos de mutantes.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_random_mutants">
+		<text>Gerar grupos de mutantes aleatórios</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_random_mutants_desc">
+		<text>Substitua os grupos de mutantes por outros grupos aleatórios. Isso significa que você pode encontrar certos mutantes em lugares onde não os esperaria.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_random_mutants_chance">
+		<text>Chance de grupos de mutantes aleatórios</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_balanced_mutants">
+		<text>Geração equilibrada de mutantes</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_balanced_mutants_desc">
+		<text>Mutantes menos fortes em locais externos e vice-versa.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_types_info">
+		<text>Abaixo você pode ativar ou desativar os tipos de mutantes. Mutantes desativados não aparecerão na Zona.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_types_replace_squads">
+		<text>Substituir grupos excluídos</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_types_replace_squads_desc">
+		<text>Substitui grupos contendo apenas mutantes desativados por grupos com mutantes ativados.</text>
+	</string><!-- TYPES --><string id="ui_mcm_SMR_smr_mutants_dogp">
+		<text>Cães</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_psydogp">
+		<text>Psi-cães</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_tushkanop">
+		<text>Tushkano</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_fracturep">
+		<text>Fracture</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_catp">
+		<text>Gatos</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_fleshp">
+		<text>Flesh</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_boarp">
+		<text>Javalis</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_snorkp">
+		<text>Snork</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_psysuckerp">
+		<text>Psi-sugadores</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_bloodsuckerp">
+		<text>Bloodsucker</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_lurkerp">
+		<text>Lurker</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_karlikp">
+		<text>Karlik</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_burerp">
+		<text>Burer</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_poltergeistp">
+		<text>Poltergeist</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_controllerp">
+		<text>Controller</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_chimerap">
+		<text>Chimera</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_gigantp">
+		<text>Pseudogigante</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_ratp">
+		<text>Rato</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombiep">
+		<text>Zumbis</text>
+	</string><!-- UNUSED --><string id="ui_mcm_smr_mutants_unused_title">
+		<text>Mutantes não utilizados</text>
+	</string>
+	<string id="ui_mcm_smr_mutants_unused_info">
+		<text>Abaixo você pode ativar mutantes presentes nos arquivos do jogo, mas não utilizados em nenhum lugar. Eles aparecerão na Zona como grupos de mutantes aleatórios.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_bibliotekarp">
+		<text>Librarian</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_boryap">
+		<text>Borya</text>
+	</string>
+	<string id="ui_mcm_smr_mutants_unused_types_info">
+		<text>Abaixo você pode ativar variações de mutantes presentes nos arquivos do jogo, mas não utilizados em nenhum lugar. Eles aparecerão junto com as variações utilizadas.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_unused_types_chance">
+		<text>Chance de tipo de mutante não utilizado</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_unused_types_chance_desc">
+		<text>Esta é a chance percentual de que as variações normais de um mutante sejam substituídas por variações não utilizadas.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_bloodsucker_strong_bigp">
+		<text>Bloodsucker Gigante</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_burer_electrap">
+		<text>Burer Elétrico</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_burer_firerp">
+		<text>Burer de Fogo</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_flesh_bolotp">
+		<text>Flesh Bolota</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_gigant_jumperp">
+		<text>Pseudogigante Saltador</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_snork_no_maskp">
+		<text>Snork sem Máscara</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_babkap">
+		<text>Zumbi Feminino</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_gholp">
+		<text>Zumbi Ghoul</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_ghostp">
+		<text>Zumbi Fantasma</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_tetap">
+		<text>Zumbi Teta</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_wichp">
+		<text>Zumbi Bruxa</text>
+	</string>
+</string_table>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_vityaznew">
+		<text>PP-19 Vityaz-SN</text>
+	</string>
+
+	<string id="st_wpn_vityaznew_descr">
+		<text>Uma submetralhadora em 9x19mm Parabellum desenvolvida a partir da PP-19 Bizon, fabricada em 2004 pela fabricante russa de armas pequenas Izhmash. Baseada na AK-74 e compartilhando a maioria de suas peças, é considerada a "MP5 da Federação Russa", e com razão, já que é usada pelas unidades Spetsnaz do Ministério do Interior, Serviço Federal de Segurança e Serviço Federal de Proteção. Esta é a variante "SN", que significa que possui uma tampa da culatra com trilho, mas sem trilho lateral tipo rabo de andorinha, permitindo o uso de miras OTAN mas não miras do Pacto de Varsóvia, também vem com sua própria empunhadura frontal do mercado de reposição. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador PBS-1\n \n</text>
+	</string>
+
+</string_table>

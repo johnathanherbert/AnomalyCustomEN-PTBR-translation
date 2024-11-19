@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+<string id="st_wpn_vr80">
+		<text>VR-80</text>
+	</string>
+	<string id="st_wpn_vr80_descr">
+		<text>A espingarda VR80 é uma arma de fogo dinâmica e repleta de recursos que combina perfeitamente o design moderno com desempenho robusto. Projetada com precisão, esta espingarda calibre 12 oferece uma experiência de tiro incomparável. Sua construção durável e design ergonômico garantem um manuseio confortável, enquanto seus controles ambidestros e sistema de gás ajustável oferecem versatilidade aprimorada. A VR80 possui um carregador destacável e um trilho Picatinny para fixação de acessórios, permitindo que os usuários personalizem sua configuração de acordo com suas necessidades. Com sua excepcional confiabilidade, precisão e reputação por oferecer desempenho consistente, a espingarda Rock Island VR80 é a escolha principal para entusiastas e profissionais que buscam uma opção de espingarda confiável e potente. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Todas as miras colimadoras para o sistema Picatinny/Weaver. \n </text>
+	</string>	
+</string_table>

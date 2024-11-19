@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+			<string id="st_wpn_schofield_1875">
+		<text>Smith &amp; Wesson Schofield</text>
+	</string>
+	<string id="st_wpn_schofield_1875_descr">
+		<text>O revólver Schofield é uma arma clássica e icônica do final do século XIX. Projetado pelo Major George Schofield, destaca-se por seu característico cano basculante e seu singular mecanismo de carregamento. Construído com estrutura robusta e compatível com o cartucho Colt .45, este revólver de seis tiros possui cano de 18 cm, proporcionando excelente precisão e poder de fogo. Seu design basculante permite recarga rápida e eficiente, o que o tornou popular entre cavaleiros e policiais da época. Com sua estética refinada e relevância histórica, o revólver Schofield permanece uma escolha valorizada por colecionadores e entusiastas que desejam possuir um pedaço da herança armamentista ocidental.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Smith &amp; Wesson \n</text>
+	</string>
+</string_table>

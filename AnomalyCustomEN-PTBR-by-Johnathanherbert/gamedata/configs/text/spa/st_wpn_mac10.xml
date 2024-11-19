@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+<string id="st_wpn_mac10">
+		<text>MAC-10</text>
+	</string>
+	<string id="st_wpn_mac10_descr">
+		<text>A MAC-10 é uma submetralhadora compacta e icônica, conhecida por seu design leve e impressionante cadência de tiro. Originalmente desenvolvida na década de 1960 por Gordon B. Ingram, essa arma ganhou notoriedade por seu uso em agências militares e policiais, bem como por seu aparecimento na cultura popular. Compartimentada em vários calibres, a MAC-10 é valorizada pela sua portabilidade e versatilidade, tornando-a uma escolha preferida para combate corpo a corpo. Seu distinto sistema de retorno de ferrolho aberto e coronha de arame dobrável contribuem para sua compacidade, enquanto sua reputação de tiro rápido consolidou seu lugar nos anais da história das armas de fogo.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos\n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Military Armament Corporation\n</text>
+	</string>	
+	
+	<string id="st_mag_mac10_9x19_standard">
+		<text>Carregador de 32 cartuchos da MAC-10</text>
+	</string>
+	<string id="st_mag_mac10_9x19_standard_descr">
+		<text>Carregador para submetralhadora MAC-10 em 9x19mm Parabellum. Este carregador comporta 32 cartuchos.\n \n</text>
+	</string>	
+	
+	<string id="st_mag_mac10_9x19_ext">
+		<text>Carregador de 50 cartuchos da MAC-10</text>
+	</string>
+	<string id="st_mag_mac10_9x19_ext_descr">
+		<text>Carregador para submetralhadora MAC-10 em 9x19mm Parabellum. Este carregador comporta 50 cartuchos.\n \n</text>
+	</string>
+	
+</string_table>

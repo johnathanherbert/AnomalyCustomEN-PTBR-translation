@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_sr25">
+		<text>SR-25</text>
+	</string>
+	<string id="st_wpn_sr25_descr">
+		<text>O SR-25 foi desenvolvido por Reed Knight, proprietário da Knights Armament Co. e Eugene Stoner. O SR-25 é um rifle AR-15 redimensionado para disparar munição 7.62x51mm NATO ou .308. 60% das peças do rifle são intercambiáveis com componentes do AR-15. Este rifle vendeu bem entre atiradores civis que precisavam de um rifle semiautomático preciso para caça ou tiro ao alvo. Este rifle também encontrou favor nas Forças Armadas dos EUA. Devido ao buffer de recuo estilo AR-15, que se estende para trás do receptor, o SR-25 não pode ser equipado com uma coronha dobrável e, em vez disso, é equipado com uma coronha telescópica.\n \n
+		%c[0,255,255,255]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Knight's Armament Company\n
+		%c[d_cyan] • %c[0,255,255,255]Ano de Produção: %c[ui_gray_1]1990\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_bm16_full_alt_23">
+		<text>TOZ-34 "Caçador de Quimeras"</text>
+	</string>
+	<string id="st_wpn_bm16_full_alt_23_descr">
+		<text>Destinada à caça profissional e amadora, a TOZ-34 é uma espingarda de canos sobrepostos. Com preço acessível, alto poder de dano e capacidade de disparar ambos os cartuchos instantaneamente, tornou-se uma arma popular entre novatos nas periferias da Zona. Especialmente útil contra mutantes graças à sua precisão e poder de parada.\n \n
+		%c[0,255,255,255]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]URSS\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Tulsky Oruzheiny Zavod\n
+		%c[d_cyan] • %c[0,255,255,255]Ano de Produção: %c[ui_gray_1]1964\n \n
+		%c[0,255,255,255]ACESSÓRIOS INTEGRADOS:\n
+		%c[0,255,255,255]ÚNICO: %c[0,250,250,0]Esta peculiar TOZ-34 foi modificada de acordo com as necessidades da Zona, suportando cartuchos maiores e mais eficientes que o clássico calibre 12. Isso lhe rendeu uma reputação considerável entre os stalkers como uma arma eficiente para caçar grandes mutantes como Quimeras, daí o nome.\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_toz34_mark4_23">
+		<text>TOZ-34 "Caçador de Quimeras"</text>
+	</string>
+	<string id="st_wpn_toz34_mark4_23_descr">
+		<text>Destinada à caça profissional e amadora, a TOZ-34 é uma espingarda de canos sobrepostos. Com preço acessível, alto poder de dano e capacidade de disparar ambos os cartuchos instantaneamente, tornou-se uma arma popular entre novatos nas periferias da Zona. Especialmente útil contra mutantes graças à sua precisão e poder de parada.\n \n
+		%c[0,255,255,255]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]URSS\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Tulsky Oruzheiny Zavod\n
+		%c[d_cyan] • %c[0,255,255,255]Ano de Produção: %c[ui_gray_1]1964\n
+		%c[0,255,255,255]ACESSÓRIOS INTEGRADOS:\n
+		%c[d_blue] • %c[0,255,255,255]Mira óptica\n \n
+		%c[0,255,255,255]ÚNICO: %c[0,250,250,0]Esta peculiar TOZ-34 foi modificada de acordo com as necessidades da Zona, suportando cartuchos maiores e mais eficientes que o clássico calibre 12. Isso lhe rendeu uma reputação considerável entre os stalkers como uma arma eficiente para caçar grandes mutantes como Quimeras, daí o nome.\n
+		</text>
+	</string>
+	
+
+</string_table>

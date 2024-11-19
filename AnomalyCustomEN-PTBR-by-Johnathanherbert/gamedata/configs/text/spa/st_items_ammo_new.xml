@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Munição
+-->
+
+<string_table>
+	<!-- descritores -->
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+	<string id="st_ball_properties">
+		<text>PROPRIEDADES:</text>
+	</string>
+	<string id="st_prop_k_hit">
+		<text>Multiplicador de dano</text>
+	</string>
+	<string id="st_prop_armor">
+		<text>Derrota armadura nível: </text>
+	</string>
+	<string id="st_prop_k_ap">
+		<text>Derrota armadura nível</text>
+	</string>
+	<string id="st_prop_k_hp">
+		<text>Bônus de expansão</text>
+	</string>
+	<string id="st_prop_k_vel">
+		<text>Modificador de velocidade</text>
+	</string>
+	<string id="st_prop_k_disp">
+		<text>Modificador de precisão</text>
+	</string>
+	<string id="st_prop_impair">
+		<text>Multiplicador de desgaste</text>
+	</string>
+	<string id="st_prop_projectiles">
+		<text>Projéteis</text>
+	</string>
+	<string id="st_prop_special">
+		<text>Especial</text>
+	</string>
+	<string id="st_prop_radius">
+		<text>Raio de explosão</text>
+	</string>
+	<string id="st_prop_armor_0">
+		<text>nenhum</text>
+	</string>
+	<string id="st_prop_armor_1">
+		<text>I</text>
+	</string>
+	<string id="st_prop_armor_2">
+		<text>IIA</text>
+	</string>
+	<string id="st_prop_armor_3">
+		<text>II</text>
+	</string>
+	<string id="st_prop_armor_4">
+		<text>III</text>
+	</string>
+	<string id="st_prop_armor_5">
+		<text>IV</text>
+	</string>
+	<string id="st_prop_armor_6">
+		<text>V</text>
+	</string>
+	<string id="st_prop_armor_7">
+		<text>VI+</text>
+	</string>
+
+	<string id="st_ballistics_flinch">
+		<text>chance de atordoar inimigos humanos</text>
+	</string>
+	<string id="st_ballistics_frag">
+		<text>chance de fragmentar, causando dano extra</text>
+	</string>
+	<string id="st_ballistics_hp">
+		<text>dano de expansão em penetração total</text>
+	</string>
+	<string id="st_ballistics_slug">
+		<text>tiros na cabeça ignoram parte da armadura, tiros no centro atordoam</text>
+	</string>
+	<string id="st_ballistics_rip">
+		<text>rouba vida ao acertar</text>
+	</string>
+	<string id="st_ballistics_varma">
+		<text>dano bônus contra mutantes</text>
+	</string>
+	<string id="st_ballistics_explodes">
+		<text>explode ao impacto</text>
+	</string>
+	<string id="st_ballistics_chaos">
+		<text>sim</text>
+	</string>
+	<string id="st_ballistics_acid">
+		<text>reduz armadura ao acertar</text>
+	</string>
+	<string id="st_ballistics_ambush">
+		<text>dano bônus e AP contra alvos desavisados</text>
+	</string>
+	<string id="st_ballistics_impair">
+		<text>degrada rapidamente a arma</text>
+	</string>
+	<string id="st_ballistics_head">
+		<text>tiros na cabeça ignoram armadura</text>
+	</string>
+	<string id="st_ballistics_headstun">
+		<text>tiros na cabeça atordoam, causam dano extra</text>
+	</string>
+	<string id="st_ballistics_fire_melt">
+		<text>incendeia alvos, reduz armadura</text>
+	</string>
+	<string id="st_ballistics_fire">
+		<text>chance de incendiar alvos</text>
+	</string>
+	<string id="st_ballistics_split">
+		<text>dispara dois projéteis</text>
+	</string>
+	<string id="st_ballistics_shock">
+		<text>dano e área aumentam com armadura do alvo</text>
+	</string>
+	<string id="st_ballistics_pierce">
+		<text>penetra cobertura</text>
+	</string>
+	<string id="st_ballistics_soulripper">
+		<text>tiros na cabeça curam</text>
+	</string>
+	<string id="st_ballistics_terminal">
+		<text>efetividade aumentada a curta distância</text>
+	</string>
+	<string id="st_ballistics_match">
+		<text>distância aumenta penetração de armadura</text>
+	</string>
+	<string id="st_ballistics_firebomb">
+		<text>incendeia todos os alvos</text>
+	</string>
+	<string id="st_ballistics_cluster">
+		<text>explode em 6 bombas menores</text>
+	</string>
+
+	<string id="st_link">
+		<text>vincular ao cinto</text>
+	</string>
+	<string id="st_unlink">
+		<text>desvincular cinto</text>
+	</string>
+
+	
+	<!-- armas curtas -->
+	<string id="ammo_new_9x18_fmj">
+		<text>Munição 9x18mm FMJ</text>
+	</string>
+	<string id="ammo_new_9x18_fmj_descr">
+		<text>Uma munição encamisada completa com penetrador de aço e núcleo de chumbo sob uma jaqueta metálica. Tais munições são o tipo mais comum de munição de pistola em toda a antiga União Soviética. Fornece bom poder de parada mas é ineficaz contra armadura corporal pesada.</text>
+	</string>
+	<string id="ammo_new_9x18_fmj_s">
+		<text>9x18 FMJ</text>
+	</string>
+	
+	<string id="ammo_new_9x18_plus">
+		<text>Munição 9x18mm +P+ FMJ</text>
+	</string>
+	<string id="ammo_new_9x18_plus_descr">
+		<text>Munição encamisada completa com carga de pólvora sobrepressão. Fornece um aumento de 30% na velocidade de saída e consequentemente maior poder de parada e eficácia contra armadura, ao custo de maior desgaste na arma.</text>
+	</string>
+	<string id="ammo_new_9x18_plus_s">
+		<text>9x18 +P+</text>
+	</string>
+
+	<string id="ammo_new_9x18_hp">
+		<text>Munição 9x18mm HP</text>
+	</string>
+	<string id="ammo_new_9x18_hp_descr">
+		<text>Munição 9x18mm ponta oca de grau civil. Usada principalmente para caça de pequenas criaturas e defesa residencial. Uma descoberta bastante comum entre Loners que trazem suas armas pessoais para a Zona.</text>
+	</string>
+	<string id="ammo_new_9x18_hp_s">
+		<text>9x18 HP</text>
+	</string>
+
+	<string id="ammo_new_9x18_sp7">
+		<text>Munição 9x18mm SP-7</text>
+	</string>
+	<string id="ammo_new_9x18_sp7_descr">
+		<text>Munição militar encamisada ponta oca com plugue plástico e carga de pólvora aumentada. Oferece balística superior e tiro notavelmente plano, tornando-a popular entre tropas de retaguarda. Eficaz em parar tanto homem quanto mutante, e como tal é comumente usada pela SSU em suas pistolas e submetralhadoras.</text>
+	</string>
+	<string id="ammo_new_9x18_sp7_s">
+		<text>9x18 SP-7</text>
+	</string>
+	
+	<string id="ammo_new_9x18_ap">
+		<text>Munição 9x18mm RG028</text>
+	</string>
+	<string id="ammo_new_9x18_ap_descr">
+		<text>RG028 é um cartucho usado por suas capacidades de penetração de armadura. O objetivo do RG028 era se tornar um contra-armadura corporal; por esta razão, é carregado com um núcleo de aço endurecido. Infelizmente, a munição em si não é muito melhor que o padrão, apenas penetrando confiavelmente armadura corporal leve.</text>
+	</string>
+	<string id="ammo_new_9x18_ap_s">
+		<text>9x18 RG028</text>
+	</string>
+
+	<string id="ammo_new_9x18_7n25">
+		<text>Munição 9x18mm 7N25 AP</text>
+	</string>
+	<string id="ammo_new_9x18_7n25_descr">
+		<text>Munição moderna 9x18 perfurante de armadura para pistola com núcleo de aço carbono e carga de pólvora aumentada. Diferente de seu predecessor RG028, esta munição é capaz de derrotar confiavelmente armadura corporal leve e causar algum dano até mesmo a placas de rifle, mas devido à carga de pólvora e forma do penetrador sofre de poder de parada reduzido e maior desgaste nos componentes internos da arma.</text>
+	</string>
+	<string id="ammo_new_9x18_7n25_s">
+		<text>9x18 7N25</text>
+	</string>
+
+	<string id="ammo_new_9x19_fmj">
+		<text>Munição 9x19mm FMJ</text>
+	</string>
+	<string id="ammo_new_9x19_fmj_descr">
+		<text>Munição básica e ubíqua calibre 9x19 com projétil encamisado. Possui boas características de voo e apreciável poder de parada enquanto é simples de produzir. A munição é popular devido ao fato de que convenções internacionais proíbem o uso de munição expansiva em combate. Ineficaz contra armadura corporal.</text>
+	</string>
+	<string id="ammo_new_9x19_fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+	
+	<string id="ammo_new_9x19_plus">
+		<text>Munição 9x19mm FMJ +P+</text>
+	</string>
+	<string id="ammo_new_9x19_plus_descr">
+		<text>Munição padrão 9x19 Parabellum com carga de pólvora sobrepressão. Cargas sobrepressão atiram mais reto e têm maior poder de parada comparado a cargas padrão, mas recuam mais forte e desgastam mais a arma.</text>
+	</string>
+	<string id="ammo_new_9x19_plus_s">
+		<text>9x19 FMJ+</text>
+	</string>
+	
+	<string id="ammo_new_9x19_pbp">
+		<text>Munição 9x19mm JHP</text>
+	</string>
+	<string id="ammo_new_9x19_pbp_descr">
+		<text>Esta munição calibre 9x19 ponta oca encamisada com uma cavidade expansiva tem alto poder de parada e baixa propensão a ricochete. Popular entre policiais e porte velado por seu alto poder de parada. Ineficaz contra armadura corporal devido a seu baixo potencial de penetração.</text>
+	</string>
+	<string id="ammo_new_9x19_pbp_s">
+		<text>9x19 JHP</text>
+	</string>
+	
+	<string id="ammo_new_9x19_pbps">
+		<text>Munição 9x19mm Disruptor</text>
+	</string>
+	<string id="ammo_new_9x19_pbps_descr">
+		<text>Munição 9mm JSP modificada carregada à mão. A jaqueta metálica ao redor da ponta foi cortada como uma munição Soft Point, e o cartucho e carga de pólvora modificados para maior pressão. A ponta do projétil é revestida com uma fina pasta de artefatos gravitacionais que cria micro-singularidades no impacto. Criada como um meio não convencional para stalkers comuns lidarem com inimigos fortemente blindados.</text>
+	</string>
+	<string id="ammo_new_9x19_pbps_s">
+		<text>9x19 JSP</text>
+	</string>
+	<string id="ammo_new_9x19_ap">
+		<text>Munição 9x19mm AP</text>
+	</string>
+	<string id="ammo_new_9x19_ap_descr">
+		<text>Munição perfurante de pistola produzida na Rússia projetada para ir em conjunto com sua mais nova suíte de armas laterais e submetralhadoras. Tem uma velocidade de saída consideravelmente maior comparada a outras munições 9x19mm e é muito mais eficaz em derrotar armadura. Esta é considerada uma munição 'sobrepressão' e assim cautela deve ser usada ao disparar esta munição. Relativamente rara na Zona e geralmente importada por mercenários.</text>
+	</string>
+	<string id="ammo_new_9x19_ap_s">
+		<text>9x19 AP</text>
+	</string>
+	
+	<string id="ammo_new_9x19_7n31">
+		<text>Munição 9x19mm 7N31 AP</text>
+	</string>
+	<string id="ammo_new_9x19_7n31_descr">
+		<text>Munição AP russa aprimorada com uma carga de pólvora mais forte e projétil mais leve. Fornece muito melhor desempenho de pico e capacidade de derrotar armadura que seu predecessor, ao custo de maior desgaste. Extremamente rara na Zona e distribuída apenas para Spetsnaz ou Mercenários Russos.</text>
+	</string>
+	<string id="ammo_new_9x19_7n31_s">
+		<text>9x19 7N31 AP</text>
+	</string>
+
+	<string id="ammo_new_11.43x23_fmj">
+		<text>Munição .45 ACP</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmj_descr">
+		<text>A munição calibre .45 encamisada completa tem desfrutado popularidade por cem anos graças a seu desempenho balístico e uma carga propelente relativamente pequena. Como resultado, o projétil nesta munição é relativamente lento mas altamente preciso e fornece considerável poder de parada.</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmj_s">
+		<text>.45 ACP</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmjs">
+		<text>Munição .45 ACP AP+P</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmjs_descr">
+		<text>Munição .45 ACP com uma carga sobrepressão para trazer o desempenho terminal do projétil .45 aos padrões modernos. Penetrador de aço carbono foi adicionado ao grande projétil, adicionando alguma eficácia em penetração de armadura sem perder muito poder de parada. Recomendado usar em uma pistola moderna que seja capaz de suportar a pressão aumentada, caso contrário a munição representa um perigo ao operador.</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmjs_s">
+		<text>.45 AP+P</text>
+	</string>
+	
+	<string id="ammo_new_11.43x23_hp">
+		<text>Munição .45 ACP JHP</text>
+	</string>
+	<string id="ammo_new_11.43x23_hp_descr">
+		<text>Munição .45 ACP carga padrão com projétil ponta oca. Infamemente eficaz contra alvos humanos desprotegidos e é uma munição básica da maioria das forças policiais. Surpreendentemente eficaz contra mutantes e faz uma opção popular para proteção contra eles.</text>
+	</string>
+	<string id="ammo_new_11.43x23_hp_s">
+		<text>.45 HP</text>
+	</string>
+
+	<string id="ammo_new_11.43x23_hydro">
+		<text>Munição .45 ACP 'RIP'</text>
+	</string>
+	<string id="ammo_new_11.43x23_hydro_descr">
+		<text>Esta munição experimental .45 ACP é construída a partir de um fragmento de artefato químico ao redor do qual chumbo foi 'crescido' e moldado em forma de projétil, então eletrogalvanizado com níquel. O projétil é produzido através de experimentos classificados desenvolvidos pelo Ministério da Ciência em conjunto com pesquisa fornecida pela Freedom. Apesar do revestimento de metal duro o projétil prontamente se fragmenta em várias 'garras' que concede à munição fenomenal poder de parada ao custo de penetração reduzida. Curiosamente, os projéteis parecem criar uma anomalia localizada ao redor do ponto de tiro, afetando coisas vivas na vizinhança imediata. Especuladores acreditam que meios desconhecidos drenam a energia vital da vítima para o atirador.</text>
+	</string>
+	<string id="ammo_new_11.43x23_hydro_s">
+		<text>.45 RIP</text>
+	</string>
+
+	<string id="ammo_new_357_hp">
+		<text>Munição .357 HP</text>
+	</string>
+	<string id="ammo_new_357_hp_descr">
+		<text>A munição .357 HP é um projétil ponta oca. O propósito da munição é desacelerar no impacto, o que diminui sua penetração, mas ao mesmo tempo causa maior dano interno ao tecido. O alto poder de parada proporcionado por esta munição a torna extremamente popular entre Dutyers, especialmente para parar mutantes mais pesados como javalis.</text>
+	</string>
+	<string id="ammo_new_357_hp_s">
+		<text>.357 HP</text>
+	</string>
+	<string id="ammo_new_357_jfp">
+		<text>Munição .357 JFP carregada à mão</text>
+	</string>
+	<string id="ammo_new_357_jfp_descr">
+		<text>Munição .357 carregada à mão projetada para caçadores e atiradores de alvo. O projétil é plano e envolto em uma jaqueta de cobre. Embora faltando o puro poder de parada de munições ponta oca, elas voam mais reto e penetram armadura em um grau muito mais eficaz. Transfere imensa força concussiva.</text>
+	</string>
+	<string id="ammo_new_357_jfp_s">
+		<text>.357 JFP</text>
+	</string>
+	
+	<string id="ammo_new_7.62x25_p">
+		<text>Munição 7.62x25mm P</text>
+	</string>
+	<string id="ammo_new_7.62x25_p_descr">
+		<text>O cartucho 7.62x25mm é um cartucho de pistola russo com gargalo amplamente usado em ex-estados satélites soviéticos, China e Paquistão entre outros países. O cartucho é uma versão russa aprimorada do 7.63x25mm Mauser. Possui excelentes capacidades de penetração e pode facilmente derrotar coletes balísticos mais leves assim como capacetes kevlar, ao custo de poder de parada geral. Embora a maioria das armas de fogo neste calibre sejam obsoletas e removidas dos inventários militares, o cartucho ainda vê uso generalizado devido à grande quantidade de munição armazenada disponível.</text>
+	</string>
+	<string id="ammo_new_7.62x25_p_s">
+		<text>7.62x25 P</text>
+	</string>
+	
+	<string id="ammo_new_7.62x25_ps">
+		<text>Munição 7.62x25mm Pst</text>
+	</string>
+	<string id="ammo_new_7.62x25_ps_descr">
+		<text>O cartucho 7.62x25mm com núcleo de aço é um cartucho de pistola russo com gargalo amplamente usado em ex-estados satélites soviéticos, China e Paquistão entre outros países. É eficaz contra alvos levemente blindados graças ao núcleo de aço, sem sacrificar muito em termos de poder de parada.</text>
+	</string>
+	<string id="ammo_new_7.62x25_ps_s">
+		<text>7.62x25 Pst</text>
+	</string>
+
+	<string id="ammo_new_7.62x25_hp">
+		<text>Munição 7.62x25mm HP</text>
+	</string>
+	<string id="ammo_new_7.62x25_hp_descr">
+		<text>Cartucho 7.62x25mm em configuração esportiva ponta oca. Ainda possui respeitáveis capacidades de derrotar armadura devido ao projétil estreito, e oferece um aumento respeitável em poder de parada.</text>
+	</string>
+	<string id="ammo_new_7.62x25_hp_s">
+		<text>7.62x25 HP</text>
+	</string>
+	<string id="ammo_new_7.62x25_cor">
+		<text>Munição 7.62x25mm Ácida</text>
+	</string>
+	<string id="ammo_new_7.62x25_cor_descr">
+		<text>Munições experimentais desenvolvidas por um esforço conjunto secreto entre elementos do Ministério da Ciência ucraniano e membros da facção Clear Sky. Estas munições ponta oca são preenchidas com um plugue turquesa que parece plástico ao toque. Um certo tratamento envolvendo o uso de artefatos Stone Blood e catálise na presença de amônia aerossolizada resultou na produção de pontas corrosivas que, quando expostas ao calor de uma explosão de pólvora, reagem para formar uma substância que violentamente derrete e consome metal, tecido, madeira, plástico ou pedra. O material é seguro para manusear em seu estado inerte e só reage quando disparado de uma arma.</text>
+	</string>
+	<string id="ammo_new_7.62x25_cor_s">
+		<text>7.62x25 Ácida</text>
+	</string>
+
+	<string id="ammo_new_5.7x28_fmj">
+		<text>Munição 5.7x28 FMJ</text>
+	</string>
+	<string id="ammo_new_5.7x28_fmj_descr">
+		<text>Munição 5.7x28 FMJ SS196SR de grau civil. Diferente da SS190, esta munição não é classificada para derrotar armadura corporal. No entanto, na prática esta munição ainda é capaz de derrotar kevlar leve e assim ainda é usada bastante comumente por essa razão. Muito mais barata e fácil de adquirir que sua irmã militar perfurante de armadura, e é uma boa escolha para o operador negro consciente do orçamento procurando aterrorizar Loners.</text>
+	</string>
+	<string id="ammo_new_5.7x28_fmj_s">
+		<text>5.7x28 FMJ</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss190">
+		<text>Munição 5.7x28 SS190</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss190_descr">
+		<text>O FN 5.7x28mm é um cartucho de alta velocidade projetado e fabricado pela FN Herstal. É um cartucho de fogo central com gargalo que é algo similar ao .22 Hornet ou .22 K-Hornet. O 5.7x28mm foi desenvolvido em conjunto com a arma de defesa pessoal (PDW) FN P90 e pistola FN Five-seven, em resposta a ameaças percebidas de armadura corporal. Como tal, este tipo de projétil é capaz de derrotar placas de rifle habilmente, mas seu pequeno tamanho reduz grandemente seu potencial de dano.</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss190_s">
+		<text>5.7x28 AP</text>
+	</string>
+
+	<string id="ammo_new_5.7x28_chaos">
+		<text>5.7x28 Núcleo Instável</text>
+	</string>
+	<string id="ammo_new_5.7x28_chaos_descr">
+		<text>Munições 5.7x28mm SS190 com sinais de adulteração anômala desconhecida. Estas são raramente encontradas no emprego de Monolith e Sinners, e possuem marcadores de tratamento na mesma linha que outros tipos de munição experimental. Enquanto inertes em repouso, as munições rapidamente desestabilizam (na realidade, não em voo) e se comportam erraticamente, tornando-as altamente imprevisíveis. Use com cautela.</text>
+	</string>
+	<string id="ammo_new_5.7x28_chaos_s">
+		<text>5.7x28 CAOS</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss195">
+		<text>Munição 5.7x28mm SS195</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss195_descr">
+		<text>O SS195 FN 5.7x28mm é um cartucho expansivo projetado e fabricado pela FN Herstal. É um cartucho de fogo central com gargalo que é algo similar ao .22 Hornet ou .22 K-Hornet. Cartucho esportivo e de caça popular no Ocidente que fez seu caminho até a Zona para certos entusiastas do Five-seveN como uma pistola de defesa contra mutantes.</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss195_s">
+		<text>5.7x28 HP</text>
+	</string>
+
+
+	<!-- espingarda -->
+	<string id="ammo_new_12x70_buck">
+		<text>Cartucho 12x70 #00 Buckshot</text>
+	</string>
+	<string id="ammo_new_12x70_buck_descr">
+		<text>Cartucho padrão calibre 12 preenchido com bagos #00 de 8mm. Altamente letal a curta distância mas a eficácia cai rapidamente. Muito comum na Zona. Adequado apenas para uso com armas de alma lisa.</text>
+	</string>
+	<string id="ammo_new_12x70_buck_s">
+		<text>12x70 Buck</text>
+	</string>
+
+	<string id="ammo_new_12x70_magnum">
+		<text>Cartucho 12x70 Magnum Buckshot</text>
+	</string>
+	<string id="ammo_new_12x70_magnum_descr">
+		<text>Buckshot #00 carregado com uma carga de pólvora aumentada. Fornece um enorme aumento no poder de parada e penetração de armadura ligeiramente melhor ao custo de maior desgaste na arma. Excelente para caça e a pura força do tiro pode ferir seriamente até mesmo membros protegidos. Se você está derrubando mutantes monstruosos, melhor usar algum magnum buck.</text>
+	</string>
+	<string id="ammo_new_12x70_magnum_s">
+		<text>12x70 Magnum</text>
+	</string>
+
+	<string id="ammo_new_12x70_zhekan">
+		<text>Cartuchos 12x76 Slug</text>
+	</string>
+	<string id="ammo_new_12x70_zhekan_descr">
+		<text>Este pesado cartucho slug calibre 12 é normalmente usado para caçar animais de grande porte, mas também é bom para caçar homens com baixo orçamento. Em vez de perfurar, este projétil pesado é capaz de esmagar armaduras como uma maça. A pura força concussiva torna este tipo de munição extremamente eficaz em parar pessoas em seu caminho.</text>
+	</string>
+	<string id="ammo_new_12x70_zhekan_s">
+		<text>12x76 Slug</text>
+	</string>
+	<string id="ammo_new_12x70_dart">
+		<text>Cartuchos 12x76 AP Dardo</text>
+	</string>
+	<string id="ammo_new_12x70_dart_descr">
+		<text>Cartucho calibre 12 com dardo perfurante de aço endurecido. Capaz de fornecer penetração de armadura equivalente a munições de rifle com um aumento considerável no poder de parada. Carga extra de pólvora é usada para propelir o projétil maximizando o dano à armadura.</text>
+	</string>
+	<string id="ammo_new_12x70_dart_s">
+		<text>12x76 Dardo</text>
+	</string>
+
+	<string id="ammo_new_12x70_flechette">
+		<text>Cartuchos 12x70 Flechette</text>
+	</string>
+	<string id="ammo_new_12x70_flechette_descr">
+		<text>Cartucho calibre 12 preenchido com 9 espigões de aço endurecido. Fornece agrupamentos apertados, alcance efetivo aumentado e boa penetração de armadura comparado ao buckshot, mas carece de puro poder de parada. Adequado para derrotar armaduras leves mas ineficaz contra armaduras mais pesadas, a menos que tiros nos membros sejam priorizados.</text>
+	</string>
+	<string id="ammo_new_12x70_flechette_s">
+		<text>12x70 Flechette</text>
+	</string>
+	<string id="ammo_new_12x70_dragon">
+		<text>Cartuchos 12x70 'Sopro do Dragão'</text>
+	</string>
+	<string id="ammo_new_12x70_dragon_descr">
+		<text>Cartucho calibre 12 carregado com pequenos fragmentos dos artefatos Bola de Fogo e Estrela Noturna. Quando disparado, a explosão da pólvora desencadeia uma interação anômala descontrolada que superaquece os pedaços de artefato a temperaturas equivalentes à da termita ignida. O impacto é devastador contra carne e derrete a maioria das armaduras, mas o calor extremo gerado é enormemente danoso à arma que o dispara. Os fragmentos de artefato lamentavelmente não fornecem muito potencial de derrota de armadura, então a principal fonte de dano vem da capacidade da munição de incendiar alvos.</text>
+	</string>
+	<string id="ammo_new_12x70_dragon_s">
+		<text>12x70 Sopro do Dragão</text>
+	</string>
+	
+	<!-- small rifle -->
+	
+	<string id="ammo_new_5.45x39_fmj">
+		<text>Cartuchos 5.45x39mm FMJ</text>
+	</string>
+	<string id="ammo_new_5.45x39_fmj_descr">
+		<text>Munição militar 5.45x39 com estojo de aço, designação 7N6, foi o primeiro cartucho padrão para rifles automáticos dos países do Pacto de Varsóvia usando o novo cartucho intermediário. Fornece melhor precisão que o calibre 7.62 graças ao recuo reduzido e um aumento de 100 metros no alcance. O design único do projétil garante desvio consistente na penetração da carne, assegurando poder de parada confiável. Tipicamente encontrado carregado nos rifles das tropas da retaguarda, guardas traseiros e pobres coitados patrulhando as fronteiras da Zona de Exclusão.</text>
+	</string>
+	<string id="ammo_new_5.45x39_fmj_s">
+		<text>5.45x39 FMJ</text>
+	</string>	
+	
+	<string id="ammo_new_5.45x39_fmjs">
+		<text>Cartuchos 5.45x39mm Terminal</text>
+	</string>
+	<string id="ammo_new_5.45x39_fmjs_descr">
+		<text>Cartuchos 5.45x39 7N6 modificados e recarregados manualmente produzidos por artesãos da Zona. Estes projéteis, quando disparados, experimentam uma breve reação que aumenta a energia transferida ao alvo se disparados a distâncias muito curtas. O poder de parada aumentado só acontece a distâncias muito curtas, então os stalkers preferem usar esta munição em ambientes fechados ou ao limpar tocas de mutantes. Devido à instabilidade da reação, estes cartuchos são cargas subsônicas.</text>
+	</string>
+	<string id="ammo_new_5.45x39_fmjs_s">
+		<text>5.45x39 Terminal</text>
+	</string>
+
+	<string id="ammo_new_5.45x39_sp">
+		<text>Cartuchos 5.45x39mm Disruptor</text>
+	</string>
+	<string id="ammo_new_5.45x39_sp_descr">
+		<text>Cartuchos 5.45x39mm ponta oca modificados desenvolvidos por stalkers como uma forma primitiva de experimentação com artefatos. Embutido na ponta oca está um fragmento comum de artefato que cria um pulso micro-gravitacional no impacto. O impacto, se não penetrar a armadura corporal, desorientará e interromperá o inimigo. Um remédio popular para ajudar a evitar inimigos bem armados - os cartuchos podem não matar, mas distraem o suficiente para recuar em segurança.</text>
+	</string>
+	<string id="ammo_new_5.45x39_sp_s">
+		<text>5.45x39 Disruptor</text>
+	</string>
+	<string id="ammo_new_5.45x39_hp">
+		<text>Cartuchos 5.45x39mm HP</text>
+	</string>
+	<string id="ammo_new_5.45x39_hp_descr">
+		<text>Cartuchos 5.45x39mm ponta oca usados por civis para tiro ao alvo e pela polícia para operações especiais. Expande no corpo conforme viaja, reduzindo a penetração mas aumentando o poder de parada. Ineficaz contra armadura corporal, embora possa superar algumas armaduras leves com pura força.</text>
+	</string>
+	<string id="ammo_new_5.45x39_hp_s">
+		<text>5.45x39 HP</text>
+	</string>
+
+	<string id="ammo_new_5.45x39_ap">
+		<text>Cartuchos 5.45x39mm 7N10 EP</text>
+	</string>
+	<string id="ammo_new_5.45x39_ap_descr">
+		<text>O cartucho padrão 5.45x39 calibre 7N10 é uma munição de penetração aprimorada para rifles automáticos dos países do Pacto de Varsóvia. Um núcleo de aço mais duro e aerodinâmico é usado para melhorar a penetração. Munição padrão das forças terrestres modernas da SSU, e é facilmente encontrada em estoque com a maioria do pessoal militar. Capacidades de penetração melhoradas fazem uma grande diferença na eficácia em combate ao enfrentar forças Mercenárias e Monolith.</text>
+	</string>
+	<string id="ammo_new_5.45x39_ap_s">
+		<text>5.45x39 EP</text>
+	</string>
+
+	<string id="ammo_new_5.45x39_aps">
+		<text>Cartuchos 5.45x39mm 7N22 AP</text>
+	</string>
+	<string id="ammo_new_5.45x39_aps_descr">
+		<text>Cartucho especial 5.45x39 calibre 7N22 perfurante de armadura para rifles automáticos dos países do Pacto de Varsóvia. O projétil contém um penetrador de liga dura altamente eficaz contra armaduras corporais. Fornecido às unidades Spetsnaz conduzindo ação direta contra os inimigos mais perigosos e bem armados, embora alguns desses cartuchos raramente cheguem às mãos dos membros do Duty.</text>
+	</string>
+	<string id="ammo_new_5.45x39_aps_s">
+		<text>5.45x39 AP</text>
+	</string>
+	
+	<string id="ammo_new_5.56x45_fmj">
+		<text>Cartuchos 5.56x45mm FMJ</text>
+	</string>
+	<string id="ammo_new_5.56x45_fmj_descr">
+		<text>Um cartucho padrão OTAN 5.56x45 calibre M193 que estreou junto com a família de rifles AR-15 durante a Guerra do Vietnã. Embora problemas com o estoque original de munição M193 tenham atormentado soldados americanos no Vietnã, os cartuchos de nova fabricação usam a pólvora IMR recomendada e mantêm o poder de parada característico do M193 derivado da fragmentação. Embora relativamente fraco contra armaduras modernas, esta munição ainda goza de alta popularidade na Zona devido à sua flexibilidade e custo razoável.</text>
+	</string>
+	<string id="ammo_new_5.56x45_fmj_s">
+		<text>5.56x45 FMJ</text>
+	</string>
+
+	<string id="ammo_new_5.56x45_fmjs">
+		<text>Cartuchos 5.56x45mm Terminal</text>
+	</string>
+	<string id="ammo_new_5.56x45_fmjs_descr">
+		<text>Cartuchos 5.56x45mm modificados submetidos a tratamento anômalo. Estes cartuchos atingem mais forte a curta distância graças a melhorias com artefatos gravitacionais. Devido ao custo relativamente baixo de produção, estes cartuchos são populares para produzir apesar de seus efeitos específicos. Ineficaz além de dez metros.</text>
+	</string>
+	<string id="ammo_new_5.56x45_fmjs_s">
+		<text>5.56x45 Terminal</text>
+	</string>
+	
+	<string id="ammo_new_5.56x45_hp">
+		<text>Cartuchos 5.56x45mm HP</text>
+	</string>
+	<string id="ammo_new_5.56x45_hp_descr">
+		<text>Cartucho 5.56x45mm ponta oca comumente usado em caça e tiro esportivo. A ponta aberta torna esta munição ineficaz contra armadura, mas proporciona maior poder de parada contra inimigos desprotegidos. Munição popular para atirar em mutantes.</text>
+	</string>
+	<string id="ammo_new_5.56x45_hp_s">
+		<text>5.56x45 HP</text>
+	</string>
+	
+	<string id="ammo_new_5.56x45_varma">
+		<text>Cartuchos 5.56x45mm 'Varmageddon'</text>
+	</string>
+	<string id="ammo_new_5.56x45_varma_descr">
+		<text>Cartucho de caça 5.56x45 importado especialmente projetado para matar animais. O formato único do projétil permite que se expanda muito no músculo e carne espessa dos animais, causando danos catastróficos. Os efeitos de ferimento em alvos humanos são aceitáveis em comparação, mas não tão pronunciados. Estes cartuchos permitem que os combatentes da Freedom enfrentem de igual para igual os mutantes mais perigosos que são mais prevalentes ao norte.</text>
+	</string>
+	<string id="ammo_new_5.56x45_varma_s">
+		<text>5.56x45 Varma</text>
+	</string>
+	
+	<string id="ammo_new_5.56x45_ap">
+		<text>Cartuchos 5.56x45mm AP</text>
+	</string>
+	<string id="ammo_new_5.56x45_ap_descr">
+		<text>O mais recente cartucho militar OTAN 5.56x45 de penetração aprimorada, conhecido como M855A1, usado pelas forças armadas dos EUA. O fracasso do cartucho M855 levou ao desenvolvimento tanto do Mk318 quanto deste cartucho, que oferece maior capacidade de penetração de armadura e também maior poder de parada quando disparado de rifles padrão. Difícil de encontrar mas extremamente eficaz, especialmente contra proteção nível exoesqueleto. Importado em grande quantidade por fornecedores desconhecidos do grupo Mercenário, e forma um dos itens de importação em massa (junto com maconha) que a Freedom comercializa.</text>
+	</string>
+	<string id="ammo_new_5.56x45_ap_s">
+		<text>5.56x45 AP</text>
+	</string>
+	
+	<string id="ammo_new_5.56x45_ss190">
+		<text>Cartuchos 5.56x45mm EP</text>
+	</string>
+	<string id="ammo_new_5.56x45_ss190_descr">
+		<text>Cartucho OTAN 5.56x45 relativamente obsoleto com núcleo de aço. Inicialmente desenvolvido como meio de combater armaduras corporais, o cartucho, designado M855, perdeu as propriedades de fragmentação que tornavam o M193 um cartucho tão eficaz e assim trocou uma enorme quantidade de poder de parada por uma capacidade respeitável de derrotar armaduras. Grandes quantidades chegaram à Zona já que a maioria dos militares abandonou seus estoques deste cartucho ineficaz. Mesmo apesar da disponibilidade, a maioria dos stalkers só usa estes cartuchos relutantemente.</text>
+	</string>
+	<string id="ammo_new_5.56x45_ss190_s">
+		<text>5.56x45 EP</text>
+	</string>
+	
+	<string id="ammo_new_7.62x39_fmj">
+		<text>Cartuchos 7.62x39mm FMJ</text>
+	</string>
+	<string id="ammo_new_7.62x39_fmj_descr">
+		<text>Cartucho 7.62x39 M43 FMJ com estojo de aço que é onipresente em zonas de conflito, insurgências e revoluções ao redor do mundo. Fornece alto poder de parada e fortes capacidades de derrotar armaduras, mas é prejudicado por seu alto recuo, alcance reduzido e relativa imprecisão comparado aos cartuchos mais modernos 5.45 e 5.56. Extremamente comum na Zona, já que este tipo de cartucho também é muito popular para caça e tiro recreativo.</text>
+	</string>
+	<string id="ammo_new_7.62x39_fmj_s">
+		<text>7.62x39 FMJ</text>
+	</string>	
+	<string id="ammo_new_7.62x39_fmjs">
+		<text>Cartuchos 7.62x39mm M67 FMJ</text>
+	</string>
+	<string id="ammo_new_7.62x39_fmjs_descr">
+		<text>Cartucho 7.62x39 com estojo de latão originalmente desenvolvido na Iugoslávia, mas agora usado como termo geral para munição moderna com estojo de latão. O cartucho ainda apresenta um núcleo de aço suave e fornece desempenho levemente superior ao cartucho M43, mas o principal atrativo é a melhor alimentação e reduzido desgaste na arma. A facção Clear Sky mantém um acordo com uma parte desconhecida para fornecer estes cartuchos através de sua facção.</text>
+	</string>
+	<string id="ammo_new_7.62x39_fmjs_s">
+		<text>7.62x39 FMJ+</text>
+	</string>	
+
+	<string id="ammo_new_7.62x39_ap">
+		<text>Cartuchos 7.62x39mm AP</text>
+	</string>
+	<string id="ammo_new_7.62x39_ap_descr">
+		<text>Cartucho 7.62x39 7N23 com núcleo de aço carbono. Estes cartuchos são projetados para neutralizar pessoal inimigo atrás de cobertura leve e derrotar armaduras corporais modernas com as quais o cartucho M43 normalmente tem dificuldade. Graças ao peso elevado, este cartucho transfere mais força no alvo comparado aos cartuchos 5.45 mais leves, ao custo de precisão e alcance efetivo. Distribuído em base crescente às tropas SSU para combater a presença crescente das forças Monolith, como parte de um acordo com o governo russo.</text>
+	</string>
+	<string id="ammo_new_7.62x39_ap_s">
+		<text>7.62x39 AP</text>
+	</string>
+
+	<string id="ammo_new_7.62x39_api">
+		<text>Cartuchos 7.62x39mm BZ API</text>
+	</string>
+	<string id="ammo_new_7.62x39_api_descr">
+		<text>Cartuchos 7.62x39 perfurantes de armadura com um componente incendiário adicionado à base do projétil. Projetados para explodir veículos atirando nos tanques de combustível, o penetrador atravessa qualquer blindagem e o componente incendiário cria faíscas ao passar, incendiando combustível. Embora veículos blindados sejam extremamente raros na Zona, estes cartuchos funcionam muito bem como meio de aumentar desumanamente a letalidade contra alvos blindados. Devido ao componente incendiário, as temperaturas geradas são altas e aumentam o calor gerado na arma.</text>
+	</string>
+	<string id="ammo_new_7.62x39_api_s">
+		<text>7.62x39 API</text>
+	</string>
+
+	
+	<string id="ammo_new_9x39_sp5">
+		<text>Cartuchos 9x39mm SP-5</text>
+	</string>
+	<string id="ammo_new_9x39_sp5_descr">
+		<text>O SP-5 é um cartucho subsônico de rifle com estojo bimetálico. O cartucho contém um núcleo de aço com um espaço atrás dele que é preenchido com chumbo. Canonicamente usado em conjunto com o VSS Vintorez, este cartucho fornece agrupamentos apertados e alto poder de parada, mas é prejudicado por sua trajetória íngreme e alcance limitado. Requer um silenciador para tiro furtivo. Usado por serviços especiais dos países do Pacto de Varsóvia.</text>
+	</string>
+	<string id="ammo_new_9x39_sp5_s">
+		<text>9x39 SP-5</text>
+	</string>
+	<string id="ammo_new_9x39_spp">
+		<text>Cartuchos 9x39mm SPP</text>
+	</string>
+	<string id="ammo_new_9x39_spp_descr">
+		<text>O cartucho 9x39 SPP é uma versão modernizada do SP-5 com um penetrador de aço. Desenvolvido como sucessor imediato do SP-5, o cartucho SPP capitaliza e melhora todas as características que tornam o SP-5 um cartucho tão eficaz. O projétil redesenhado incorpora um núcleo penetrador de aço que permite que o cartucho seja mais eficaz contra armaduras que o SP-5, e a forma e distribuição de peso do projétil foram aprimoradas para otimizar suas capacidades aerodinâmicas.</text>
+	</string>
+	<string id="ammo_new_9x39_spp_s">
+		<text>9x39 SPP</text>
+	</string>
+	
+	<string id="ammo_new_9x39_pab9">
+		<text>Cartuchos 9x39mm PAB-9</text>
+	</string>
+	<string id="ammo_new_9x39_pab9_descr">
+		<text>Munição antiga PAB-9 que não é mais produzida. Em um esforço para reduzir os custos de produção dos cartuchos SP-6, o núcleo penetrador foi estampado em vez de usinado e o propelente foi substituído por uma mistura mais barata e suja. O resultado final é um cartucho que tem desempenho levemente melhor que o SP-6, mas sofre de instabilidade em voo e destrói muito rapidamente a arma da qual é disparado.</text>
+	</string>
+	<string id="ammo_new_9x39_pab9_s">
+		<text>9x39 PAB-9</text>
+	</string>
+	<string id="ammo_new_9x39_ap">
+		<text>Cartuchos 9x39mm SP-6</text>
+	</string>
+	<string id="ammo_new_9x39_ap_descr">
+		<text>O SP-6 é um cartucho subsônico perfurante de armadura com um projétil de ponta macia encamisado com um núcleo de aço duro que se projeta do estojo. Usado em conjunto com o rifle de assalto especial AS VAL por unidades de elite Spetsnaz. Requer um silenciador para tiro furtivo. Altamente eficaz contra armaduras corporais.</text>
+	</string>
+	<string id="ammo_new_9x39_ap_s">
+		<text>9x39 SP-6</text>
+	</string>	
+	
+
+	<!-- large rifle -->
+
+	<string id="ammo_new_7.62x54r">
+		<text>Cartuchos 7.62x54mm PP</text>
+	</string>
+	<string id="ammo_new_7.62x54r_descr">
+		<text>Munição excedente 7.62x54mm 57-N-323S. O cartucho 7.62x54mm é o segundo mais antigo ainda em uso hoje, produzido pela primeira vez em 1891 para o rifle Mosin-Nagant. O design básico do projétil não mudou muito desde 1908 e continua muito popular entre caçadores e atiradores. Estes cartuchos estão soltos, mas podem ser unidos em fita para uso na metralhadora PK.</text>
+	</string>
+	<string id="ammo_new_7.62x54r_s">
+		<text>7.62x54 PP</text>
+	</string>
+
+	<string id="ammo_new_7.62x54_7n1">
+		<text>Cartuchos 7.62x54mm 7N1</text>
+	</string>
+	<string id="ammo_new_7.62x54_7n1_descr">
+		<text>Um cartucho sniper 7.62x54 para tiro de precisão à distância. Projetado especialmente para e em conjunto com o rifle sniper SVD. Fornece agrupamentos extremamente precisos e poder de parada consistente contra alvos levemente blindados, mas sofre um pouco ao lidar com blindagem corporal pesada. Cartucho popular entre todos os atiradores. Compatível com metralhadoras leves, mas francamente usar um cartucho de tal qualidade em uma metralhadora é um completo desperdício.</text>
+	</string>
+	<string id="ammo_new_7.62x54_7n1_s">
+		<text>7.62x54 7N1</text>
+	</string>
+	
+	<string id="ammo_new_7.62x54_hp">
+		<text>Cartuchos 7.62x54mm HP</text>
+	</string>
+	<string id="ammo_new_7.62x54_hp_descr">
+		<text>Cartuchos de caça 7.62x54 de grau civil. A ponta oca reduz a penetração e aumenta o poder de parada, tornando-o uma boa escolha para caçadores abaterem grandes animais sem perfurar dois buracos na valiosa pele. Muito comum na Zona devido à origem da maioria dos Loners.</text>
+	</string>
+	<string id="ammo_new_7.62x54_hp_s">
+		<text>7.62x54 HP</text>
+	</string>
+	<string id="ammo_new_7.62x54_fp">
+		<text>Cartuchos 7.62x54mm 'Caçador de Cabeças' de competição</text>
+	</string>
+	<string id="ammo_new_7.62x54_fp_descr">
+		<text>Variante de alta precisão do cartucho 7.62x54mm, com ponta plana que fornece agrupamentos precisos a médias e longas distâncias. Estes cartuchos são usados para tiro de competição onde precisão e exatidão são fundamentais, e assim são todos cuidadosamente construídos para serem exatamente iguais. O projétil de ponta plana é projetado para distribuição superior de peso e para perfurar alvos com buracos limpos, e é equipado com uma tampa plástica para manter máximo desempenho aerodinâmico. Embora a capacidade de penetração de blindagem seja limitada, a pura força do impacto devido à ponta plana é suficiente para causar concussões fatais. Na prática, atiradores relatam que tiros na cabeça com estes cartuchos causarão concussão letal nos alvos, quase sempre garantindo uma morte. O uso adequado de tais cartuchos exige alta habilidade.</text>
+	</string>
+	<string id="ammo_new_7.62x54_fp_s">
+		<text>7.62x54 FP</text>
+	</string>
+	
+	<string id="ammo_new_7.62x54_ap">
+		<text>Cartuchos 7.62x54mm AP</text>
+	</string>
+	<string id="ammo_new_7.62x54_ap_descr">
+		<text>Cartucho perfurante de blindagem 7.62x54 7N13. Possui um núcleo de aço endurecido e forte carga propelente. Este cartucho é normalmente projetado para uso em metralhadoras, especialmente aquelas implantadas para fins anti-blindagem leve, mas funcionam aceitavelmente bem em rifles sniper para derrotar blindagem corporal pesada a média distância. Devido ao puro poder do cartucho, o dano em alvos sem blindagem permanece extremamente alto.</text>
+	</string>
+	<string id="ammo_new_7.62x54_ap_s">
+		<text>7.62x54 AP</text>
+	</string>
+
+	<string id="ammo_new_7.62x54_api">
+		<text>Cartuchos 7.62x54mm BZAPI</text>
+	</string>
+	<string id="ammo_new_7.62x54_api_descr">
+		<text>Cartucho 7.62x54 perfurante de blindagem incendiário projetado para derrotar blindagem leve penetrando a blindagem externa e incendiando tanques de combustível. Extremamente e terrivelmente eficaz contra mutantes e homens, já que qualquer e toda proteção é derrotada pela ponta perfurante enquanto o componente incendiário causa dano catastrófico à carne. Gera alta temperatura no cano, então trocas frequentes de cano são necessárias ao atirar com uma metralhadora. Além disso, este é normalmente um cartucho de metralhadora e portanto não é projetado para precisão - se usar um rifle, seja cauteloso.</text>
+	</string>
+	<string id="ammo_new_7.62x54_api_s">
+		<text>7.62x54 API</text>
+	</string>
+	
+	<string id="ammo_new_7.62x54_ppr">
+		<text>Cartuchos 7.62x54mm PP (em fita)</text>
+	</string>
+	<string id="ammo_new_7.62x54_ppr_descr">
+		<text>Munição excedente 7.62x54mm. O cartucho 7.62x54mm é o segundo mais antigo ainda em uso hoje, produzido pela primeira vez em 1891 para o rifle Mosin-Nagant. O design básico do projétil não mudou muito desde 1908 e continua muito popular entre caçadores e atiradores. Estes cartuchos estão unidos em fita para uso na metralhadora PK, mas podem ser tediosamente separados para uso em outras armas.</text>
+	</string>
+	<string id="ammo_new_7.62x54_ppr_s">
+		<text>7.62x54 PP MG</text>
+	</string>
+	
+	<string id="ammo_new_7.62x54_split">
+		<text>Cartuchos 7.62x54mm Split Shot</text>
+	</string>
+	<string id="ammo_new_7.62x54_split_descr">
+		<text>Cartuchos de metralhadora 7.62x54mm que se dividem em três projéteis em voo. Estes projéteis têm um alcance efetivo curto comparável a pistolas e algumas espingardas, mas compensam isso com puro volume de fogo. Os cartuchos são anomalamente alterados para serem extremamente fragmentáveis em certos pontos, o suficiente para que o estresse do disparo do cano seja suficiente para fraturar o cartucho em pedaços. Embora aparentemente contra-intuitivo, estes cartuchos são usados com grande efeito por membros do Duty para fornecer uma enorme quantidade de poder de fogo a curta distância ao derrubar hordas de mutantes, agindo como uma espécie de espingarda automática pesada. Devido ao curto alcance do cartucho, não há razão para disparar isso de um rifle.</text>
+	</string>
+	<string id="ammo_new_7.62x54_split_s">
+		<text>7.62x54 Split</text>
+	</string>
+	
+
+	<string id="ammo_new_7.62x51_fmj">
+		<text>Cartuchos 7.62x51mm M80 ball</text>
+	</string>
+	<string id="ammo_new_7.62x51_fmj_descr">
+		<text>O cartucho 7.62x51 NATO é uma variante militar do cartucho .308 que foi usado como munição padrão pelas forças da OTAN até a munição 5.56 ser introduzida nos anos 70 na Guerra do Vietnã. Atualmente, é mais comumente empregado por contratados militares privados em todo o mundo. O cartucho 7.62x51 é um calibre de metralhadora muito comum e versátil, e também pode ser usado em rifles de batalha ou sniper.</text>
+	</string>
+	<string id="ammo_new_7.62x51_fmj_s">
+		<text>7.62x51 FMJ</text>
+	</string>
+	
+	<string id="ammo_new_7.62x51_fmjs">
+		<text>Cartuchos 7.62x51mm Mk316 Match</text>
+	</string>
+	<string id="ammo_new_7.62x51_fmjs_descr">
+		<text>Cartucho 7.62x51 especializado projetado para tiro sniper de longo alcance. A ponta é levemente oca e o projétil é moldado especificamente para máximo desempenho aerodinâmico quando disparado de rifles de cano longo. Disparar este cartucho de um rifle de batalha é francamente um desperdício, mas o cartucho ainda terá um desempenho admirável. Favorito dos atiradores da Freedom que trocarão alegremente qualquer maconha que tiverem por caixas destes cartuchos.</text>
+	</string>
+	<string id="ammo_new_7.62x51_fmjs_s">
+		<text>7.62x51 Match</text>
+	</string>
+
+	<string id="ammo_new_7.62x51_ap">
+		<text>Cartuchos 7.62x51mm M61 AP</text>
+	</string>
+	<string id="ammo_new_7.62x51_ap_descr">
+		<text>Cartucho militar perfurante de blindagem 7.62x51 M61 com núcleo de aço endurecido. Mantém alto dano enquanto melhora muito o desempenho contra blindagem corporal. Usado frequentemente por atiradores da Freedom para eliminar alvos blindados do Monolith.</text>
+	</string>
+	<string id="ammo_new_7.62x51_ap_s">
+		<text>7.62x51 AP</text>
+	</string>
+
+	<string id="ammo_new_7.62x51_slap">
+		<text>Cartuchos 7.62x51mm M69 SLAP</text>
+	</string>
+	<string id="ammo_new_7.62x51_slap_descr">
+		<text>Cartucho 7.62x51 de emissão especial consistindo de um dardo de tungstênio de 4mm encapsulado em uma tampa plástica e sabot metálico curto. A tampa plástica mantém a forma de um cartucho FMJ normal, facilitando a alimentação, e quando disparado o denso dardo de tungstênio perfura limpo através de blindagem leve e média de veículos, ou qualquer blindagem corporal. Devido ao pequeno tamanho do projétil, os efeitos de ferimento são minimizados. No entanto, a capacidade de penetração torna possível atirar através de cobertura ou atacar múltiplos alvos em sequência. Importado em quantidades limitadas por Mercenários para contra-atacar divisões blindadas da SSU e neutralizar ameaças pesadamente blindadas do Monolith.</text>
+	</string>
+	<string id="ammo_new_7.62x51_slap_s">
+		<text>7.62x51 SLAP</text>
+	</string>
+	
+
+	<string id="ammo_new_7.92x33_fmj">
+		<text>Cartuchos 7.92x57mm Mauser</text>
+	</string>
+	<string id="ammo_new_7.92x33_fmj_descr">
+		<text>O cartucho 7.92x57 Mauser foi adotado pelo Império Alemão e depois pelo Terceiro Reich. Foi um dos cartuchos mais populares no período das duas guerras mundiais. No entanto, hoje em dia, o cartucho é usado principalmente para caça e esportes. Vastas quantidades deste cartucho foram apreendidas da facção perdedora da Segunda Guerra Mundial e reaproveitadas para ultimamente atirar em mutantes na Zona.</text>
+	</string>
+	<string id="ammo_new_7.92x33_fmj_s">
+		<text>7.92x57 FMJ</text>
+	</string>
+
+	<string id="ammo_new_7.92x33_match">
+		<text>Cartuchos 7.92x57mm Match carregados manualmente</text>
+	</string>
+	<string id="ammo_new_7.92x33_match_descr">
+		<text>Cartucho 7.92x57 de grau match com projétil de ponta oca e base boat-tail. Cargas de pólvora moderna exercem maior estresse em rifles históricos, mas oferecem desempenho altamente melhorado para compensar. Tais cartuchos são populares entre caçadores e atiradores esportivos por sua trajetória plana, agrupamentos precisos e poder de morte confiável para caça média e grande.</text>
+	</string>
+	<string id="ammo_new_7.92x33_match_s">
+		<text>7.92x57 Match</text>
+	</string>
+	<string id="ammo_new_7.92x33_hp">
+		<text>Cartuchos 7.92x57mm HP</text>
+	</string>
+	<string id="ammo_new_7.92x33_hp_descr">
+		<text>Cartucho de caça 7.92x57 com projétil de ponta oca e base boat-tail. A ubiquidade de armas históricas criou um mercado secundário para munição moderna de caça. Tais cartuchos são populares entre caçadores e atiradores esportivos por sua trajetória plana, agrupamentos precisos e poder de morte confiável para caça média e grande.</text>
+	</string>
+	<string id="ammo_new_7.92x33_hp_s">
+		<text>7.92x57 HP</text>
+	</string>
+
+	<string id="ammo_new_7.92x33_ap">
+		<text>Cartuchos 7.92x57mm SA</text>
+	</string>
+	<string id="ammo_new_7.92x33_ap_descr">
+		<text>7.92x57 SA é um cartucho originalmente projetado e usado pelo exército britânico contra alvos blindados. Possui um núcleo de aço endurecido que lhe dá maiores capacidades de perfuração. Usado principalmente para tiros de longo alcance, a qualidade do grão deste cartucho é superior ao padrão. Fornece desempenho geral superior ao seu equivalente da Wehrmacht. Este cartucho é suportado por vários rifles sniper.</text>
+	</string>
+	<string id="ammo_new_7.92x33_ap_s">
+		<text>7.92x57 AP</text>
+	</string>
+	
+	<string id="ammo_new_7.92x33_shock">
+		<text>Cartuchos 7.92x57mm Relâmpago</text>
+	</string>
+	<string id="ammo_new_7.92x33_shock_descr">
+		<text>Cartucho 7.92x57 com projétil feito de uma liga reativa de artefatos elétricos. Aproveitando a interação entre calor e fragmentos de artefatos elétricos, este cartucho gera uma quantidade extrema de energia elétrica em voo, descarregada no impacto. Altamente eficaz contra armaduras ou superfícies metálicas e exoesqueletos, mas contra inimigos levemente blindados ou mutantes, energia elétrica mínima pode ser efetivamente transferida.</text>
+	</string>
+	<string id="ammo_new_7.92x33_shock_s">
+		<text>7.92x57 Shock</text>
+	</string>
+	
+	<string id="ammo_new_12.7x55_fmj">
+		<text>Cartuchos 12.7x55mm STs-130</text>
+	</string>
+	<string id="ammo_new_12.7x55_fmj_descr">
+		<text>O cartucho subsônico 12.7x55mm encamisado é usado no rifle sniper bullpup VKS. O cartucho pode carregar um projétil pesando entre 59 gramas (911 grains) e 76 g (1173 grains), gerando quantidades massivas de energia cinética. Comumente usado pela Spetsnaz da SSU quando ações necessitam reconhecimento clandestino e assassinato de inimigos bem blindados e bem equipados.</text>
+	</string>
+	<string id="ammo_new_12.7x55_fmj_s">
+		<text>12.7x55</text>
+	</string>
+	
+	<string id="ammo_new_12.7x55_fmjs">
+		<text>Cartuchos 12.7x55mm STs-130 PT2</text>
+	</string>
+	<string id="ammo_new_12.7x55_fmjs_descr">
+		<text>Cartucho subsônico 12.7x55mm de bronze usado no rifle sniper bullpup VKS. A designação PT2 é projetada para alta precisão, boa penetração de armadura e extremo poder de parada em alcances curtos a médios. Como esta munição é um desenvolvimento relativamente recente, é importada e distribuída em capacidade altamente limitada. O General Voronin mantém uma reserva desses cartuchos, junto com rifles VKS, para serem usados em missões de assassinato clandestinas.</text>
+	</string>
+	<string id="ammo_new_12.7x55_fmjs_s">
+		<text>12.7x55 PT2</text>
+	</string>
+
+	<string id="ammo_new_12.7x55_ap">
+		<text>Cartuchos 12.7x55mm STs-130 VPS</text>
+	</string>
+	<string id="ammo_new_12.7x55_ap_descr">
+		<text>O cartucho subsônico perfurante de armadura 12.7x55mm é usado no rifle sniper bullpup VKS. O penetrador endurecido derrota a maioria das formas de armadura corporal, mas o verdadeiro valor do cartucho está em seu massivo poder de parada a curta distância, que é mantido mesmo apesar da capacidade reduzida de fragmentação ou desvio.</text>
+	</string>
+	<string id="ammo_new_12.7x55_ap_s">
+		<text>12.7x55 AP</text>
+	</string>
+    <string id="ammo_new_12.7x55_exp">
+		<text>Cartuchos Explosivos 12.7x55mm</text>
+	</string>
+	<string id="ammo_new_12.7x55_exp_descr">
+		<text>Um desenvolvimento relativamente novo e restrito, esses cartuchos experimentais têm um pequeno fragmento de um artefato térmico desestabilizado envolvido em chumbo com uma jaqueta metálica padrão. O cartucho não exibe efeitos anômalos ao impactar a maioria das superfícies sólidas, mas o núcleo do artefato libera uma tremenda quantidade de energia ao impactar um alvo duro. O invólucro de chumbo e a jaqueta metálica se tornam estilhaços para a explosão, como a carcaça externa de uma granada. Embora a penetração de armadura seja limitada devido à maioria da energia ser transferida radialmente para fora, a força da explosão causará sérios danos e desorientação ao alvo e a qualquer um ao seu redor.</text>
+	</string>
+	<string id="ammo_new_12.7x55_exp_s">
+		<text>12.7x55 EXP</text>
+	</string>
+	
+	
+	<string id="ammo_new_338_lapua">
+		<text>Cartuchos .338 Lapua Magnum</text>
+	</string>
+	<string id="ammo_new_338_lapua_descr">
+		<text>O .338 Lapua Magnum é um cartucho centerfire sem aro de gargalo especializado desenvolvido para rifles sniper militares de longo alcance. A Guerra do Afeganistão e a Guerra do Iraque o tornaram uma munição comprovada em combate com disponibilidade pronta e substancial. O .338 Lapua é uma munição de duplo propósito anti-pessoal e anti-material, mas seu potencial anti-material é limitado.</text>
+	</string>
+	<string id="ammo_new_338_lapua_s">
+		<text>.338 Lapua Magnum</text>
+	</string>
+	
+	<string id="ammo_new_338_ap">
+		<text>Cartuchos Sabot 'Dilacerador de Almas' .338</text>
+	</string>
+	<string id="ammo_new_338_ap_descr">
+		<text>Cartucho .338 consistindo de um penetrador de urânio empobrecido envolvido em um sabot e propelido com uma carga anomalamente poderosa. Exibe sinais de adulteração anômala, pois não é fisicamente possível para um projétil desta massa voar com tal velocidade e causar tanto dano quanto causa. Extremamente raro, poderoso e perigoso de manusear.</text>
+	</string>
+	<string id="ammo_new_338_ap_s">
+		<text>.338 DU AP</text>
+	</string>
+	
+	<string id="ammo_new_vog25">
+		<text>Granada VOG-25</text>
+	</string>
+	<string id="ammo_new_vog25_descr">
+		<text>Granada de fragmentação regular para o lançador de granadas GP-25 Kostyor. Esta munição tem uma zona letal de 2,5 metros. A granada VOG-25 também é usada no OTS-14 Groza e no lançador de granadas tipo revólver RG6 / 6G30.</text>
+	</string>
+	<string id="ammo_new_vog25_s">
+		<text>Granada VOG-25</text>
+	</string>
+
+	<string id="ammo_new_vog25_cluster">
+		<text>Granada Cluster VOG-25</text>
+	</string>
+	<string id="ammo_new_vog25_cluster_descr">
+		<text>Granada VOG-25 modificada produzida localmente. A carga explosiva é aumentada com fragmentos voláteis de artefatos que produzem várias explosões secundárias após um curto atraso. A detonação primária não causa ferimentos, mas serve para espalhar submunições. Em alta demanda por todas as facções devido ao aumento exponencial no poder de fogo oferecido. Exercer cautela.</text>
+	</string>
+	<string id="ammo_new_vog25_cluster_s">
+		<text>VOG-25 Cluster</text>
+	</string>
+	
+	<string id="ammo_new_vog25_berserk">
+		<text>Granada Berserk VOG-25</text>
+	</string>
+	<string id="ammo_new_vog25_berserk_descr">
+		<text>Granada VOG-25 modificada criada como uma incursão inicial no aproveitamento de artefatos psiônicos. No impacto, cria um sinal poderoso que induz raiva extrema e confusão em um pequeno raio, fazendo com que criaturas e humanos afetados ataquem uns aos outros indiscriminadamente.</text>
+	</string>
+	<string id="ammo_new_vog25_berserk_s">
+		<text>VOG-25 Berserk</text>
+	</string>
+	
+	<string id="ammo_new_m209">
+		<text>Granada HE 40x46</text>
+	</string>
+	<string id="ammo_new_m209_descr">
+		<text>Granada M406 40mm usada no lançador de granadas M203 e no lançador de granadas de tiro único M79. Esta munição tem uma zona letal de 3,5 metros.</text>
+	</string>
+	<string id="ammo_new_m209_s">
+		<text>40mm HE</text>
+	</string>
+	<string id="ammo_new_m209_fire">
+		<text>Granada Incendiária 40x46</text>
+	</string>
+	<string id="ammo_new_m209_fire_descr">
+		<text>Granada 40mm produzida em instalações especiais de pesquisa estabelecidas pelo Ministério da Ciência. O material altamente explosivo é substituído por um composto quebradiço cultivado a partir de artefatos térmicos. Na detonação explosiva primária, uma fina nuvem de partículas em chamas é espalhada sobre uma grande área, incendiando criaturas vivas nas proximidades. Nenhum dano é causado a coisas não vivas.</text>
+	</string>
+	<string id="ammo_new_m209_fire_s">
+		<text>40mm Incendiária</text>
+	</string>
+	<string id="ammo_new_m209_mine">
+		<text>Granada de Proximidade 40x46</text>
+	</string>
+	<string id="ammo_new_m209_mine_descr">
+		<text>Mina de proximidade 40mm com auto-armamento. A espoleta de impacto foi substituída por um crescimento sintético de artefato que ativa quando próximo a uma criatura viva. Para não explodir o usuário, o mecanismo de detonação só arma completamente cerca de 1 segundo após o lançamento, e automaticamente detona a ogiva após 60 segundos por razões de segurança.</text>
+	</string>
+	<string id="ammo_new_m209_mine_s">
+		<text>40mm Proximidade</text>
+	</string>
+
+	<!-- alguns remanescentes -->
+	
+	<string id="ammo_new_50_bmg">
+		<text>Cartuchos .50 BMG M2 Ball</text>
+	</string>
+	<string id="ammo_new_50_bmg_descr">
+		<text>Cartucho .50 Browning Machine Gun (12.7x99mm) introduzido em 1910 e adotado em 1921 junto com a metralhadora pesada Browning M2. Esta munição é muito comumente usada para capacidades anti-blindagem portáteis, onde um único tiro no bloco do motor é suficiente para desabilitar um veículo civil ou danificar severamente um veículo militar levemente blindado. Raramente importado para a Zona devido à falta de necessidade - a Zona já faz mais do que trabalho suficiente destruindo veículos por si só.</text>
+	</string>
+	<string id="ammo_new_50_bmg_s">
+		<text>.50 Ball</text>
+	</string>
+	<string id="ammo_new_50_ap">
+		<text>Cartuchos .50 BMG M2 AP</text>
+	</string>
+	<string id="ammo_new_50_ap_descr">
+		<text>Munição .50 M2 AP usada para efetivamente contra-atacar veículos e pessoal mais fortemente blindados. Esta munição é capaz de derrotar qualquer ameaça na Zona, mas raramente será usada devido ao seu grande peso, raridade e compatibilidade com armamento. Rumores dizem que a Liberdade tem um esconderijo secreto desta munição em algum lugar que é usado para repelir ameaças do Monolith na área dos Armazéns do Exército.</text>
+	</string>
+	<string id="ammo_new_50_ap_s">
+		<text>.50 AP</text>
+	</string>
+
+	
+	<string id="ammo_new_4.6x30_fmj">
+		<text>Cartuchos 4.6x30mm FMJ</text>
+	</string>
+	<string id="ammo_new_4.6x30_fmj_descr">
+		<text>Munição PDW 4.6x30mm de gargalo desenvolvida para o MP7. Capaz de derrotar armaduras corporais leves, mas insuficiente contra armaduras classificadas para ameaças de rifle. Este projétil full metal jacket tem um núcleo de chumbo-antimônio e é otimizado para danos a alvos não protegidos.</text>
+	</string>
+	<string id="ammo_new_4.6x30_fmj_s">
+		<text>4.6x30 FMJ</text>
+	</string>
+	<string id="ammo_new_4.6x30_ap">
+		<text>Cartuchos 4.6x30mm AP</text>
+	</string>
+	<string id="ammo_new_4.6x30_ap_descr">
+		<text>Munição alemã DM111 com núcleo endurecido. Mais leve e rápida, mas perde um pouco de poder de parada em troca. Considerando que o procedimento operacional padrão para usar o MP7 é disparar um alto volume de tiros com munição de baixo recuo, isso não é muito preocupante.</text>
+	</string>
+	<string id="ammo_new_4.6x30_ap_s">
+		<text>4.6x30 AP</text>
+	</string>
+	<string id="ammo_new_12x76_bull">
+		<text>Slugs Magnum 12x90 'Bull'</text>
+	</string>
+	<string id="ammo_new_12x76_bull_descr">
+		<text>Cartucho calibre 12 com base de aço inoxidável e carga de pólvora extremamente alta. O projétil consiste em um slug de chumbo coberto de cobre encapsulado em torno de um cone de urânio empobrecido. Munição ridiculamente pesada e poderosa que requer uma espingarda especialmente reforçada para ser disparada com segurança. A identidade do criador ou compradores dessas munições e das espingardas que eles usam permanece um mistério.</text>
+	</string>
+	<string id="ammo_new_12x76_bull_s">
+		<text>12x90 Bull</text>
+	</string>
+
+</string_table>

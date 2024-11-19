@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_ui_mm_barter">
+        <text>Troca</text>
+    </string>
+
+    <string id="st_barter_anyOf">
+        <text>Selecione um tipo de item para dar.</text>
+    </string>
+    <string id="st_barter_goodwill">
+        <text>reputação necessária: </text>
+    </string>
+    <string id="st_barter_limit">
+        <text>limite</text>
+    </string>
+    <string id="st_barter_info">
+        <text>requer troca anterior</text>
+    </string>
+    <string id="st_barter_toolkit1">
+        <text>técnico requer ferramentas básicas</text>
+    </string>
+    <string id="st_barter_toolkit2">
+        <text>técnico requer ferramentas avançadas</text>
+    </string>
+    <string id="st_barter_toolkit3">
+        <text>técnico requer ferramentas especializadas</text>
+    </string>
+
+    <string id="st_barter_uses">
+        <text>usos: </text>
+    </string>
+    <string id="st_barter_ammo">
+        <text>munições: </text>
+    </string>
+    <string id="st_barter_cond">
+        <text>condição: %</text>
+    </string>
+
+    <string id="st_barter_restock">
+        <text>(reabastecido no reestoque)</text>
+    </string>
+    <string id="st_barter_fixed">
+        <text>(não reabastece)</text>
+    </string>
+    <string id="st_ui_itm_barter_base">
+        <text>Trocas Disponíveis</text>
+    </string>
+    <string id="st_ui_itm_barter_support">
+        <text>Itens Necessários</text>
+    </string>
+    <string id="st_ui_barter_rules">
+        <text>Regras básicas para troca:\n
+            • Itens com condição devem estar em %s%.\n
+            • Itens de múltiplos usos devem ter todos os usos.\n
+            • Munição deve ter a caixa cheia.
+        </text>
+    </string>
+
+    
+    <string id="ui_mcm_menu_barter">
+        <text>Troca</text>
+    </string>
+    <string id="ui_mcm_barter_title">
+        <text>Sistema de Trocas com NPCs do Anomaly</text>
+    </string>
+    <string id="ui_mcm_barter_cond">
+        <text>Condição Mínima para Armas</text>
+    </string>
+    <string id="ui_mcm_barter_cond_desc">
+        <text>Condição mínima necessária para itens com condição do jogador (armas, trajes) em uma troca.
+        </text>
+    </string>
+    <string id="ui_mcm_barter_cond_part">
+        <text>Condição Mínima para Peças</text>
+    </string>
+    <string id="ui_mcm_barter_cond_part_desc">
+        <text>Condição mínima necessária para peças fornecidas pelo jogador e peças em itens (ex: peças de armas, trajes) tanto independentes quanto como parte de um item maior.
+        </text>
+    </string>
+    
+    <string id="ui_mcm_barter_debug">
+        <text>Impressão de Depuração</text>
+    </string>
+
+    <string id="st_dot">
+        <text>•</text>
+    </string>
+</string_table>

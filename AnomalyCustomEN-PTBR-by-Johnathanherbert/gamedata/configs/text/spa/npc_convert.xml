@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+    <string id="npc_convert_stalker">
+		<text>Olhe para você mesmo. Não está cansado de ser um ninguém, sem um grupo real de pessoas sempre te apoiando? Junte-se a nós, e você terá um nome de verdade e uma vida mais longa.</text>
+	</string>
+	 <string id="npc_convert_bandit">
+		<text>Como é ser um rato no fundo da cadeia alimentar, sempre pegando as sobras? Olhe para seu equipamento de merda. Olhe para as pessoas ao seu redor, sempre prontas para te apunhalar pelas costas. Junte-se a nós e você pode realmente ter uma chance.</text>
+	</string>
+	 <string id="npc_convert_csky">
+		<text>Você realmente quer passar sua curta vida vivendo nos pântanos, entre um monte de porcos mutantes e merda? Seu povo nunca vai conseguir nada nesse ritmo. Junte-se a nós.</text>
+	</string>
+	 <string id="npc_convert_army">
+		<text>Não vê que seu governo não dá a mínima pra você? Você é apenas um peão nesse jogo de xadrez. Comece a pensar por si mesmo, junte-se a nós.</text>
+	</string>
+	 <string id="npc_convert_freedom">
+		<text>É essa a liberdade que você queria? Sangrando até a morte, longe de qualquer amigo? Seu povo é um bando de drogados incompetentes, mal conseguem se salvar. Junte-se a nós e viva mais.</text>
+	</string>
+	 <string id="npc_convert_dolg">
+		<text>Você passou tanto tempo tentando se livrar da Zona que esqueceu do maior perigo que existe - os humanos. Junte-se a nós e mostraremos a verdade: a Zona não é nada comparada às ações das pessoas que você está tentando salvar.</text>
+	</string>
+	 <string id="npc_convert_ecolog">
+		<text>Você entrou no lugar mais perigoso do mundo, segurando apenas uma caneta e um pedaço de papel. Você realmente esperava que um bando de nerds pudesse proteger sua vida? Se você realmente quer descobrir os segredos da Zona, junte-se a nós.</text>
+	</string>
+	 <string id="npc_convert_killer">
+		<text>Veja onde sua ganância por dinheiro te levou. Você mataria sua própria família se fosse pago por isso, não é? Pare de agir como um robô e trabalhar cegamente para aumentar um único número. Comece a pensar por si mesmo, junte-se a nós.</text>
+	</string>
+	 <string id="npc_convert_monolith">
+		<text>Acorde.</text>
+	</string>
+	 <string id="npc_convert_renegade">
+		<text>Como é ser um rato no fundo da cadeia alimentar, sempre pegando as sobras? Olhe para seu equipamento de merda. Olhe para as pessoas ao seu redor, sempre prontas para te apunhalar pelas costas. Junte-se a nós e você pode realmente ter uma chance.</text>
+	</string>
+	 <string id="npc_convert_greh">
+		<text>Acorde, você está servindo sob o comando de um fanático maluco. Se não está funcionando bem para o Monolith, você realmente acha que criar outro grupo desse tipo mudaria alguma coisa? Acabe com o Sin, junte-se a nós.</text>
+	</string>
+	<string id="npc_convert_isg">
+		<text>Não sei para quem você trabalha, mas claramente não deu certo para você. Vou te dar uma chance de se redimir. Junte-se a nós e deixarei você viver.</text>
+	</string>
+	<string id="npc_convert_zombied">
+		<text>Você não é você quando está com fome. Aqui, tome um Snickers.</text>
+	</string>
+	<string id="npc_convert_unknown">
+		<text>Junte-se a nós e você viverá mais.</text>
+	</string>
+	
+	<string id="npc_convert_stalker_2">
+		<text>Olhe para você mesmo. Não está cansado de ser um ninguém, sem um grupo real de pessoas sempre te apoiando? Junte-se a nós, e você terá um nome de verdade e uma vida mais longa.</text>
+	</string>
+	 <string id="npc_convert_bandit_2">
+		<text>Como é ser um rato no fundo da cadeia alimentar, sempre pegando as sobras? Olhe para seu equipamento de merda. Olhe para as pessoas ao seu redor, sempre prontas para te apunhalar pelas costas. Junte-se a nós e você pode realmente ter uma chance.</text>
+	</string>
+	 <string id="npc_convert_csky_2">
+		<text>Você realmente quer passar sua curta vida vivendo nos pântanos, entre um monte de porcos mutantes e merda? Seu povo nunca vai conseguir nada nesse ritmo. Junte-se a nós.</text>
+	</string>
+	 <string id="npc_convert_army_2">
+		<text>Não vê que seu governo não dá a mínima pra você? Você é apenas um peão nesse jogo de xadrez. Comece a pensar por si mesmo, junte-se a nós.</text>
+	</string>
+	 <string id="npc_convert_freedom_2">
+		<text>É essa a liberdade que você queria? Sangrando até a morte, longe de qualquer amigo? Seu povo é um bando de drogados incompetentes, mal conseguem se salvar. Junte-se a nós e viva mais.</text>
+	</string>
+	 <string id="npc_convert_dolg_2">
+		<text>Você passou tanto tempo tentando se livrar da Zona que esqueceu do maior perigo que existe - os humanos. Junte-se a nós e mostraremos a verdade: a Zona não é nada comparada às ações das pessoas que você está tentando salvar.</text>
+	</string>
+	 <string id="npc_convert_ecolog_2">
+		<text>Você entrou no lugar mais perigoso do mundo, segurando apenas uma caneta e um pedaço de papel. Você realmente esperava que um bando de nerds pudesse proteger sua vida? Se você realmente quer descobrir os segredos da Zona, junte-se a nós.</text>
+	</string>
+	 <string id="npc_convert_killer_2">
+		<text>Veja onde sua ganância por dinheiro te levou. Você mataria sua própria família se fosse pago por isso, não é? Pare de agir como um robô e trabalhar cegamente para aumentar um único número. Comece a pensar por si mesmo, junte-se a nós.</text>
+	</string>
+	 <string id="npc_convert_monolith_2">
+		<text>Acorde.</text>
+	</string>
+	 <string id="npc_convert_renegade_2">
+		<text>Como é ser um rato no fundo da cadeia alimentar, sempre pegando as sobras? Olhe para seu equipamento de merda. Olhe para as pessoas ao seu redor, sempre prontas para te apunhalar pelas costas. Junte-se a nós e você pode realmente ter uma chance.</text>
+	</string>
+	 <string id="npc_convert_greh_2">
+		<text>Acorde, você está servindo sob o comando de um fanático maluco. Se não está funcionando bem para o Monolith, você realmente acha que criar outro grupo desse tipo mudaria alguma coisa? Acabe com o Sin, junte-se a nós.</text>
+	</string>
+	<string id="npc_convert_isg_2">
+		<text>Não sei para quem você trabalha, mas claramente não deu certo para você. Vou te dar uma chance de se redimir. Junte-se a nós e deixarei você viver.</text>
+	</string>
+	<string id="npc_convert_zombied_2">
+		<text>Você não é você quando está com fome. Aqui, tome um Snickers.</text>
+	</string>
+	<string id="npc_convert_unknown_2">
+		<text>Junte-se a nós e você viverá mais.</text>
+	</string>
+	
+	<string id="npc_convert_join">
+		<text>Tudo bem. Vou me juntar a vocês.</text>
+	</string>
+	
+	<string id="ui_mcm_menu_npc_convert">
+		<text>Converter NPCs</text>
+	</string>
+	<string id="ui_mcm_npc_convert_title">
+		<text>Converter NPCs Para Sua Facção</text>
+	</string>
+	<string id="ui_mcm_npc_convert_random_convert_chance_enabled">
+		<text>Ativar chance aleatória de recusar sua oferta.</text>
+	</string>
+	<string id="ui_mcm_npc_convert_random_convert_chance_enabled_desc">
+		<text>Se desativado, todos os NPCs terão 100% de chance de aceitar sua oferta.</text>
+	</string>
+	<string id="ui_mcm_npc_convert_calc_descr_text">
+		<text>A fórmula usada para calcular as chances é:\n[Intimidação do rank do jogador] - [Intimidação do rank do inimigo] + [Chance base] = [Chance de converter]%\nSe sua intimidação é 20, a intimidação do NPC é 10, e a chance base é 30, o resultado final será: 20 - 10 + 30 = 40% de chance de converter\n \nSe você não quiser usar modificadores de chance por rank, apenas defina a força de todos os ranks como 0 e o script usará a Chance base para tudo</text>
+	</string>
+	<string id="ui_mcm_npc_convert_base_chance">
+		<text>Chance base</text>
+	</string>
+	<string id="ui_mcm_npc_convert_base_chance_desc">
+		<text>Este número é sempre adicionado após subtrair a intimidação do NPC da intimidação do jogador.</text>
+	</string>
+	<string id="ui_mcm_npc_convert_attack_chance">
+		<text>Chance de ataque em caso de falha</text>
+	</string>
+	<string id="ui_mcm_npc_convert_attack_chance_desc">
+		<text>Chance do NPC imediatamente se levantar e atacar você após falha na conversão. Sempre a mesma chance. Sem outros modificadores.</text>
+	</string>
+	<string id="ui_mcm_npc_convert_novice_intimidation">
+		<text>Força de intimidação de Novato</text>
+	</string>
+	<string id="ui_mcm_npc_convert_trainee_intimidation">
+		<text>Força de intimidação de Aprendiz</text>
+	</string>
+	<string id="ui_mcm_npc_convert_experienced_intimidation">
+		<text>Força de intimidação de Experiente</text>
+	</string>
+	<string id="ui_mcm_npc_convert_professional_intimidation">
+		<text>Força de intimidação de Profissional</text>
+	</string>
+	<string id="ui_mcm_npc_convert_veteran_intimidation">
+		<text>Força de intimidação de Veterano</text>
+	</string>
+	<string id="ui_mcm_npc_convert_expert_intimidation">
+		<text>Força de intimidação de Especialista</text>
+	</string>
+	<string id="ui_mcm_npc_convert_master_intimidation">
+		<text>Força de intimidação de Mestre</text>
+	</string>
+	<string id="ui_mcm_npc_convert_legend_intimidation">
+		<text>Força de intimidação de Lenda</text>
+	</string>
+	<string id="ui_mcm_npc_convert_convert_debug_msg">
+		<text>(Depuração)Mostrar chances após tentativa de conversão</text>
+	</string>
+	<string id="ui_mcm_npc_convert_convert_debug_msg_desc">
+		<text>Mostra mensagem de depuração na parte inferior da tela. Só necessário para encontrar possíveis erros.</text>
+	</string>
+	
+</string_table>

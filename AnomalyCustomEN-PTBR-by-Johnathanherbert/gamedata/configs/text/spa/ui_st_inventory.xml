@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<!-- Sorter -->
+	<string id="ui_st_tab_all">
+		<text>Todos os Itens (1)</text>
+	</string>
+	<string id="ui_st_tab_weapons">
+		<text>Armas e Explosivos (2)</text>
+	</string>
+	<string id="ui_st_tab_armor">
+		<text>Armaduras, Capacetes, Mochilas e Acessórios (3)</text>
+	</string>
+	<string id="ui_st_tab_ammo">
+		<text>Munição (4)</text>
+	</string>
+	<string id="ui_st_tab_artefact">
+		<text>Artefatos e Partes de Mutantes (5)</text>
+	</string>
+	<string id="ui_st_tab_tools">
+		<text>Dispositivos, Ferramentas e Itens de Reparo (6)</text>
+	</string>
+	<string id="ui_st_tab_food">
+		<text>Bebidas, Comidas, Cozinha e Cigarros (7)</text>
+	</string>
+	<string id="ui_st_tab_meds">
+		<text>Medicamentos (8)</text>
+	</string>
+	<string id="ui_st_tab_upgrades">
+		<text>Melhorias (para armas e armaduras) (9)</text>
+	</string>
+	<string id="ui_st_tab_misc">
+		<text>Itens Diversos (10)</text>
+	</string>
+		
+	<!-- Loot mode -->
+	<string id="ui_st_put_all">
+		<text>MOVER TUDO</text>
+	</string>
+	<string id="ui_st_put_all_hint">
+		<text>MOVER TODOS OS ITENS (SHIFT + P)</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>PEGAR TUDO</text>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>MOVER TODOS OS ITENS PARA A MOCHILA (SHIFT + T)</text>
+	</string>
+	
+	<!-- Trade mode -->
+	<string id="ui_total_price">
+		<text>TOTAL</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>COMPRAR</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>VENDER</text>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>Vender itens selecionados</text>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>Comprar itens selecionados</text>
+	</string>
+	<string id="not_enough_money_actor">
+		<text>Dinheiro insuficiente</text>
+	</string>
+	<string id="not_enough_money_partner">
+		<text>O personagem não tem dinheiro suficiente.</text>
+	</string>
+	<string id="st_no_trade_tip_1">
+		<text>O comerciante não está interessado nesse tipo de item.</text>
+	</string>
+	<string id="st_no_trade_tip_2">
+		<text>O item está muito danificado para ser negociado.</text>
+	</string>
+
+	<!-- Upgrade mode -->
+	<string id="ui_st_inv_repair">
+		<text>Reparar</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Reparar item selecionado</text>
+	</string>
+	
+	<!-- Quick use items -->
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+	
+	<!-- Item Properties -->
+	<string id="st_activate_artefact">
+		<text>ativar artefato</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>anexar lançador de granada ao</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>anexar mira à</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>anexar silenciador à</text>
+	</string>
+	<string id="st_base_cost">
+		<text>Preço</text>
+	</string>
+	<string id="st_community">
+		<text>Grupo:</text>
+	</string>
+	<string id="st_condition">
+		<text>Condição</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>remover lançador de granada</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>remover mira</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>remover silenciador</text>
+	</string>
+	<string id="st_drop">
+		<text>largar</text>
+	</string>
+	<string id="st_drop_all">
+		<text>largar tudo</text>
+	</string>
+	<string id="st_eat">
+		<text>comer</text>
+	</string>
+	<string id="st_donate">
+		<text>doar</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>anexar ao cinto</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>mover para mochila</text>
+	</string>
+	<string id="st_move_to">
+		<text>mover</text>
+	</string>
+	<string id="st_move_all">
+		<text>mover tudo</text>
+	</string>
+	<string id="st_unequip">
+		<text>desequipar</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>mover para slot</text>
+	</string>
+	<string id="st_play">
+		<text>tocar</text>
+	</string>
+	<string id="st_sell_item">
+		<text>vender item</text>
+	</string>
+	<string id="st_item_use">
+		<text>usar</text>
+	</string>
+	<string id="st_item_sort">
+		<text>ordenar</text>
+	</string>
+	<string id="st_item_unpack">
+		<text>desempacotar</text>
+	</string>
+	<string id="st_item_play">
+		<text>tocar</text>
+	</string>
+	<string id="st_item_open">
+		<text>abrir</text>
+	</string>
+	<string id="st_item_reveal">
+		<text>revelar</text>
+	</string>
+	<string id="st_item_read">
+		<text>ler</text>
+	</string>
+	<string id="st_item_separate">
+		<text>separar</text>
+	</string>
+	<string id="st_item_disassemble">
+		<text>desmontar</text>
+	</string>
+	<string id="st_item_charge">
+		<text>carregar UPD</text>
+	</string>
+	<string id="st_item_money">
+		<text>retirar %s RU</text>
+	</string>
+	<string id="st_item_details">
+		<text>detalhes</text>
+	</string>
+	<string id="st_item_unpack_battery">
+		<text>desempacotar baterias</text>
+	</string>
+	<string id="st_item_tear_patch">
+		<text>remover patch</text>
+	</string>
+	<string id="st_item_attach_patch">
+		<text>anexar patch</text>
+	</string>
+	<string id="st_awr_r_detail">
+		<text>restaurar parte [!]</text>
+	</string>
+	<string id="st_awr_disassembly_weapon">
+		<text>desmontar arma [!]</text>
+	</string>
+	<string id="st_awr_disassembly_outfit">
+		<text>desmontar traje [!]</text>
+	</string>
+	<string id="st_awr_disassembly_helmet">
+		<text>desmontar capacete [!]</text>
+	</string>
+	<string id="st_awr_disassembly_cloth">
+		<text>desmontar [!]</text>
+	</string>
+	<string id="st_drink">
+		<text>beber</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>descarregar</text>
+	</string>
+	<string id="st_use">
+		<text>usar</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>vestir traje</text>
+	</string>
+	<string id="st_dress_helmet">
+		<text>vestir capacete</text>
+	</string>
+	<string id="st_equip_backpack">
+		<text>vestir mochila</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>remover traje</text>
+	</string>
+	<string id="st_undress_helmet">
+		<text>remover capacete</text>
+	</string>
+	<string id="st_unequip_backpack">
+		<text>remover mochila</text>
+	</string>
+
+	<string id="st_plant_explosive_prox">
+		<text>plantar com gatilho de proximidade</text>
+	</string>
+	<string id="st_plant_explosive_timer_10">
+		<text>plantar com temporizador de 10 segundos</text>
+	</string>
+	<string id="st_plant_explosive_timer_30">
+		<text>plantar com temporizador de 30 segundos</text>
+	</string>
+
+	<!-- Units -->
+	<string id="st_perc">
+		<text>%</text>
+	</string>
+	<string id="st_kg">
+		<text>kg</text>
+	</string>
+	<string id="st_g">
+		<text>g</text>
+	</string>
+	<string id="st_kcal">
+		<text>kcal eq.</text>
+	</string>
+	<string id="st_kcal_sec">
+		<text>kcal/seg eq.</text>
+	</string>
+	<string id="st_msv">
+		<text>mSv</text>
+	</string>
+	<string id="st_msv_sec">
+		<text>mSv/seg</text>
+	</string>
+	<string id="st_microg">
+		<text>µg de adren.</text>
+	</string>
+	<string id="st_microg_sec">
+		<text>µg de adren./seg</text>
+	</string>
+	<string id="st_ml_min">
+		<text>ml/min</text>
+	</string>
+	<string id="st_kw_m2">
+		<text>kW/m2</text>
+	</string>
+	<string id="st_kv">
+		<text>kV</text>
+	</string>
+	<string id="st_mt">
+		<text>mT</text>
+	</string>
+	<string id="st_ppm">
+		<text>C1 ppm eq.</text>
+	</string>
+	<string id="st_j">
+		<text>H/mm2</text>
+	</string>
+	<string id="st_ah_sec">
+		<text>Ah/Seg</text>
+	</string>
+	<string id="st_mah_sec">
+		<text>mAh/Seg</text>
+	</string>
+	<string id="st_uah_sec">
+		<text>uAh/Seg</text>
+	</string>
+	<string id="st_pah_sec">
+		<text>pAh/Seg</text>
+	</string>
+	<string id="st_hz">
+		<text>Hz</text>
+	</string>
+	<string id="st_khz">
+		<text>KHz</text>
+	</string>
+	<string id="st_mhz">
+		<text>MHz</text>
+	</string>
+	<string id="st_ghz">
+		<text>GHz</text>
+	</string>
+	<string id="ui_inv_seconds_short">
+		<text>seg</text>
+	</string>
+	<string id="ui_inv_seconds">
+		<text>segundos</text>
+	</string>
+	
+	<!-- Player states -->
+	<string id="st_ui_main_sensor">
+		<text>%c[0,255,255,255]RADIAÇÃO\n
+		%c[ui_gray_2]Esta estatística determina quanta radiação está atualmente armazenada no corpo do ator.\n
+		A exposição à radiação ionizante representa um risco extremo, talvez até fatal. Por esta razão, a capacidade de medir adequadamente os níveis de radiação é uma habilidade vital. A unidade básica é o millisievert (mSv).\n\n
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Itens Úteis: %c[ui_gray_2]Medicamentos anti-radiação, Cistamina, Iodeto de Potássio, Radioprotetor, Kit Médico AI-2, Kit Médico Científico, Axyltallisal, Estimulante Científico, Kit de Sobrevivência Pequeno\n
+		%c[d_cyan] • %c[0,255,255,255]Equipamento Útil: %c[ui_gray_2]Trajes de proteção, trajes anti-radiação e máscara/aparelho respiratório.\n
+		</text>
+	</string>
+	<string id="ui_inv_burn_protection">
+		<text>%c[0,255,255,255]RESISTÊNCIA A QUEIMADURAS\n
+		%c[ui_gray_2]Esta estatística determina a resistência do ator à anomalia típica de fogo dentro da Zona de Exclusão de Chernobyl:\n
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Equipamento Útil: %c[ui_gray_2]Trajes de proteção\equipamento\armadura.\n
+		</text> 
+	</string>
+	<string id="ui_inv_chemical_burn_protection">
+		<text>%c[0,255,255,255]RESISTÊNCIA QUÍMICA\n
+		%c[ui_gray_2]Esta estatística determina a resistência do ator à anomalia química típica dentro da Zona de Exclusão de Chernobyl:\n
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Itens Úteis: %c[ui_gray_2]Clortetraciclina, Sulfadimetoxina, Antídoto\n
+		%c[d_cyan] • %c[0,255,255,255]Equipamento Útil: %c[ui_gray_2]Trajes de proteção\equipamento\armadura.\n
+		</text>
+	</string>
+	<string id="ui_inv_fire_wound_protection">
+		<text>%c[0,255,255,255]RESISTÊNCIA BALÍSTICA\n
+		%c[ui_gray_2]A resistência balística indica as propriedades anti-balísticas de sua armadura corporal (a capacidade de absorver com segurança a energia cinética de objetos pequenos e de alta velocidade, como balas ou estilhaços). Para fins de avaliação, é utilizado o sistema internacionalmente reconhecido do Instituto Nacional de Justiça Americano (NIJ):\n\n
+		%c[d_cyan] • %c[ui_gray_2] TABELA DE GRADUAÇÃO DE ARMADURA:\n
+		%c[d_cyan] • %c[ui_gray_2] NENHUMA:%c[ui_gray_2] 9x18mm, .45 ACP, 12x70 shot\n
+		%c[d_cyan] • %c[ui_gray_2] CLASSE I:%c[ui_gray_2] 9x18mm +P+, 9x19mm FMJ, 9x19mm JHP, estilhaços de granada\n
+		%c[d_cyan] • %c[ui_gray_2] CLASSE IIA e II:%c[ui_gray_2] 9x18mm RG028, .45 HS, 5.7x28mm SS195, .357 HP, 12x76 slug\n
+		%c[d_cyan] • %c[ui_gray_2] CLASSE IIIA:%c[ui_gray_2] 9x19mm AP, 5.45x39mm FMJ/EP, 5.56x45mm FMJ, 7.62x51mm NATO ball, 9x39mm SP-5, 12x76 dart\n
+		%c[d_cyan] • %c[ui_gray_2] CLASSE III:%c[ui_gray_2] 5.56x45mm EP/AP, 7.62x39mm FMJ/AP, 7.62x54mm ZN1/PP, 7.92x57mm Mauser, 9x39mm SP-6, 12.7x55mm STs-130\n
+		%c[d_cyan] • %c[ui_gray_2] CLASSE IV:%c[ui_gray_2] 5.45x39mm AP, 7.62x51mm NATO AP, 7.62x54mm AP/7H14, 7.92x57mm SA, .338 Lapua Magnum, 12.7x55mm STs-130 VPS\n
+		%c[d_cyan] • %c[ui_gray_2] CLASSE V (exoesqueleto):%c[d_red] classificado\n
+		%c[0,255,255,255]NOTA:\n
+		%c[ui_gray_2]Os níveis de proteção mencionados acima se referem apenas às propriedades de contra-penetração da armadura. O impacto da bala ainda é capaz de infligir danos por meio de trauma contuso devido à pura energia cinética.\n
+		</text>
+	</string>
+	<string id="ui_inv_radiation_protection">
+		<text>%c[0,255,255,255]Resistência à Radiação\n
+		%c[ui_gray_2]Esta estatística determina a resistência do ator à radiação:\n
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Itens Úteis: %c[ui_gray_2]Medicamentos anti-radiação, Cistamina, Iodeto de Potássio, Radioprotetor, Kit Médico AI-2, Kit Médico Científico, Axyltallisal, Estimulante Científico, Kit de Sobrevivência Pequeno.\n
+		%c[d_cyan] • %c[0,255,255,255]Equipamento Útil: %c[ui_gray_2]Trajes de proteção\armadura, trajes anti-radiação e/ou máscara/aparelho respiratório.\n
+		</text>
+	</string>
+	<string id="ui_inv_shock_protection">
+		<text>%c[0,255,255,255]Resistência Elétrica\n
+		%c[ui_gray_2]Esta estatística determina a resistência do ator à anomalia elétrica típica dentro da Zona de Exclusão de Chernobyl:\n
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Equipamento Útil: %c[ui_gray_2]Trajes de proteção\equipamento\armadura.\n
+		</text>
+	</string>
+	<string id="ui_inv_telepatic_protection">
+		<text>%c[0,255,255,255]Resistência Psíquica\n
+		%c[ui_gray_2]Esta estatística determina a resistência do ator aos campos psi dentro da Zona de Exclusão de Chernobyl:\n
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Itens Úteis: %c[ui_gray_2]Etperazina, Psy-block, Pílulas para Dormir, Baseado de Cannabis, Maconha\n
+		</text>
+	</string>
+	<string id="ui_inv_wound_protection">
+		<text>%c[0,255,255,255]Resistência à Ruptura\n
+		%c[ui_gray_2]A resistência à ruptura representa a capacidade de sua armadura de absorver e deslocar o trauma causado por todos os tipos de golpes e impactos físicos. Isso inclui - mas não se limita a - tentativas de socos, chutes, facadas, cortes, mordidas e detritos arremessados telecineticamente.\n
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Equipamento Útil: %c[ui_gray_2]Trajes de proteção\equipamento\armadura.\n
+		</text>
+	</string>
+	<string id="ui_inv_power_restore">
+		<text>%c[0,255,255,255]Recuperação de Stamina\n
+		%c[ui_gray_2]Seu nível de stamina representa a energia física disponível armazenada no corpo do ator. Esta energia é usada para várias finalidades, principalmente para correr. A perda severa de stamina pode causar perda de movimento. Portanto, é vital comer, beber e dormir para recuperar sua energia, e verificar o peso de sua mochila, pois a quantidade carregada influencia a taxa de exaustão. Drogas e artefatos podem fornecer um impulso na recuperação de stamina.\n
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Itens Úteis: %c[ui_gray_2]Injeção de Epinefrina, Comprimidos de Cafeína, Cocaína, Hércules, Injeção de Glicose, Injeção de Glicose Grande, Kit Médico do Exército\n
+		</text>
+	</string>
+	<string id="st_ui_bleeding_sensor">
+		<text>%c[0,255,255,255]Sangramento\n
+		%c[ui_gray_2]O sangramento pode drenar a vitalidade em uma taxa muito rápida se não for tratado prontamente. Ferimentos com sangramento são mais frequentemente o resultado de força física externa penetrando a armadura corporal e rompendo a pele, e às vezes são acompanhados por danos aos órgãos internos. O sangramento também pode ser o efeito de fraturas ósseas expostas causadas por trauma contuso.\n
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Itens Úteis: %c[ui_gray_2]Bandagem, Vinca, Kit Médico do Exército, Kit Médico Científico, Kit de Sobrevivência Pequeno\n
+		</text>
+	</string>
+	<string id="st_ui_health_sensor_inv">
+		<text>%c[0,255,255,255]Saúde\n
+		%c[ui_gray_2]Saúde é a vitalidade geral do ator. A morte ocorrerá se isso chegar a zero.\n
+		No GAMMA, isso é equivalente à saúde geral do corpo para o Sistema de Saúde Corporal.
+		%c[0,255,255,255]Estratégia de Mitigação:\n
+		%c[d_cyan] • %c[0,255,255,255]Itens Úteis: %c[ui_gray_2]Diclofenaco de Sódio, Kit Médico AI-2, Kit Médico do Exército, Kit Médico Científico, Axyltallisal, Estimulante Improvisado, Estimulante Militar, Estimulante Científico, Kit de Sobrevivência Pequeno\n
+		</text>
+	</string>
+	
+	<!-- Item description-->
+	<string id="st_cap_old">
+		<text>Velho</text>
+	</string>
+	<string id="st_cap_verybad">
+		<text>Ruim</text>
+	</string>
+	
+	<string id="st_cap_upgr_1">
+		<text>(Básico)</text>
+	</string>
+	<string id="st_cap_upgr_2">
+		<text>(Avançado)</text>
+	</string>
+	<string id="st_cap_upgr_3">
+		<text>(Ajuste fino)</text>
+	</string>
+	
+	<string id="st_cap_meal_1">
+		<text>(Produzido na Zona)</text>
+	</string>
+	<string id="st_cap_meal_2">
+		<text>(Cozido)</text>
+	</string>
+	<string id="st_cap_meal_3">
+		<text>(Purificado)</text>
+	</string>
+	
+	<string id="st_cap_con_25_o">
+		<text>Rasgado</text>
+	</string>
+	<string id="st_cap_con_50_o">
+		<text>Danificado</text>
+	</string>
+	<string id="st_cap_con_75_o">
+		<text>Arranhado</text>
+	</string>
+	<string id="st_cap_con_100_o">
+		<text>Limpo</text>
+	</string>
+	<string id="st_cap_con_25_w">
+		<text>Deformado</text>
+	</string>
+	<string id="st_cap_con_50_w">
+		<text>Danificado</text>
+	</string>
+	<string id="st_cap_con_75_w">
+		<text>Arranhado</text>
+	</string>
+	<string id="st_cap_con_100_w">
+		<text>Funcional</text>
+	</string>
+
+	<string id="st_ui_armor_static">
+		<text>Condição da armadura</text>
+	</string>
+	<string id="st_weight">
+		<text>PESO</text>
+	</string>
+	<string id="st_weight_full">
+		<text>PESO</text>
+	</string>
+	<string id="ui_ammo_count">
+		<text>Tam. carregador</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>Precisão</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>Dano</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>Manuseio</text>
+	</string>
+	
+	<string id="ui_inv_health">
+		<text>Restauração de saúde</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Recuperação de Stamina</text>
+	</string>
+	
+	<string id="ui_inv_outfit_additional_weight">
+		<text>Peso carregado</text>
+	</string>
+	<string id="ui_inv_outfit_artefact_count">
+		<text>Slots do cinto</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Res. Queimadura</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Res. Química</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Res. Balística</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Res. Radiação Ext.</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Res. Elétrica</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Res. Psíquica</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>Res. Ruptura</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>Res. Explosiva</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>Res. Impacto</text>
+	</string>
+	<string id="ui_inv_outfit_hit_fraction_actor">
+		<text>Força</text>
+	</string>
+	
+	<string id="ui_inv_satiety">
+		<text>Nível de saciedade</text>
+	</string>
+	<string id="ui_inv_outfit_power_restore">
+		<text>Recuperação de Stamina</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Sobrecarga</text>
+	</string>
+	<string id="ui_inv_af_condition">
+		<text>Eficiência</text>
+	</string>
+	<string id="ui_total_weight">
+		<text>Peso:</text>
+	</string>
+	<string id="st_ui_health_sensor">
+		<text>Saúde</text>
+	</string>
+	<string id="ui_ammo_types">
+		<text>Munição</text>
+	</string>
+	<string id="ui_inv_effect_time">
+		<text>Duração</text>
+	</string>
+	
+	<string id="st_itm_desc_properties">
+		<text>PROPRIEDADES</text>
+	</string>
+	<string id="st_itm_desc_details">
+		<text>DETALHES</text>
+	</string>
+	<string id="st_itm_desc_warning">
+		<text>AVISO</text>
+	</string>
+	
+	<string id="st_itm_desc_state_possible">
+		<text>possível</text>
+	</string>
+	<string id="st_itm_desc_state_not_possible">
+		<text>não possível</text>
+	</string>
+	<string id="st_itm_desc_state_avail">
+		<text>incluído</text>
+	</string>
+	<string id="st_itm_desc_state_avail_workshop">
+		<text>disponível (pelo mecânico)</text>
+	</string>
+	<string id="st_itm_desc_state_not_avail">
+		<text>não disponível</text>
+	</string>
+	<string id="st_itm_desc_state_not_included">
+		<text>não incluído</text>
+	</string>
+	<string id="st_itm_desc_state_low">
+		<text>baixo</text>
+	</string>
+	<string id="st_itm_desc_state_average">
+		<text>médio</text>
+	</string>
+	<string id="st_itm_desc_state_high">
+		<text>alto</text>
+	</string>
+	<string id="st_itm_desc_state_slight">
+		<text>leve</text>
+	</string>
+	<string id="st_itm_desc_state_moderate">
+		<text>moderado</text>
+	</string>
+	<string id="st_itm_desc_state_significant">
+		<text>significativo</text>
+	</string>
+	<string id="st_itm_desc_state_increase">
+		<text>incremento</text>
+	</string>
+	<string id="st_itm_desc_state_decrease">
+		<text>redução</text>
+	</string>
+	
+	<string id="st_itm_desc_arty_cont">
+		<text>artefato contido</text>
+	</string>
+	<string id="st_itm_desc_arty_cont_rad">
+		<text>nível de radiação permitido</text>
+	</string>
+	
+	<string id="st_itm_desc_eat_sleepiness">
+		<text>%s sonolência %s</text>
+	</string>
+	<string id="st_itm_desc_eat_thirst">
+		<text>%s sede %s</text>
+	</string>
+	<string id="st_itm_desc_eat_radiation">
+		<text>envenenamento por radiação</text>
+	</string>
+	<string id="st_itm_desc_eat_health">
+		<text>não saudável</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_upgradable">
+		<text>atualizável</text>
+	</string>
+	<string id="st_itm_desc_outfit_heardgear">
+		<text>proteção para cabeça</text>
+	</string>
+	<string id="st_itm_desc_outfit_num_of_slots">
+		<text>anexos para slots extras</text>
+	</string>
+	<string id="st_itm_desc_outfit_carry_weight">
+		<text>incremento de peso carregado</text>
+	</string>
+	<string id="st_itm_desc_outfit_run">
+		<text>correr está</text>
+	</string>
+	<string id="st_itm_desc_outfit_patch_torn">
+		<text>O %s neste traje foi rasgado</text>
+	</string>
+	<string id="st_itm_desc_outfit_faction">
+		<text>facção</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_repair_bonus">
+		<text>bônus de reparo</text>
+	</string>
+	<string id="st_itm_desc_outfit_required_tool">
+		<text>ferramenta necessária</text>
+	</string>
+	
+	<string id="st_itm_desc_workshop_tool">
+		<text>utilizável na oficina do mecânico para substituição de peças e atualizações</text>
+	</string>
+	<string id="st_itm_desc_repair_min_con">
+		<text>não utilizável abaixo do nível de condição</text>
+	</string>
+	<string id="st_itm_desc_repair_base_con">
+		<text>ganho base de condição</text>
+	</string>
+	<string id="st_itm_desc_repair_match">
+		<text>pode reparar materiais usando suas contrapartes</text>
+	</string>
+	
+	<string id="st_itm_desc_part_usable">
+		<text>utilizável em oficinas para substituição de peças</text>
+	</string>
+	<string id="st_itm_desc_part_i">
+		<text>componente base</text>
+	</string>
+	<string id="st_itm_desc_part_w">
+		<text>peça de arma</text>
+	</string>
+	<string id="st_itm_desc_part_o">
+		<text>peça de traje</text>
+	</string>
+	
+	<string id="st_itm_desc_upgr_w">
+		<text>kit de atualização de arma</text>
+	</string>
+	<string id="st_itm_desc_upgr_o">
+		<text>kit de atualização de traje</text>
+	</string>
+	<string id="st_itm_desc_upgr_usable">
+		<text>utilizável em oficinas para instalar atualizações adequadas</text>
+	</string>
+
+<!-- Outros -->
+	<string id="ui_inv_ammo_pistol">
+		<text>Comprar munição básica para pistola (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>Comprar munição de rifle (W)</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Controle de sangramento</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>Cancelar</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>Não é possível comprar arma</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>Restrições de quantidade</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>Padrão (F5)</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>Voltar</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>Comprar lançador de granada para rifle (D)</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>Comprar granadas para lançador (E)</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>Agora</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>Pesada</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>Comprar último equipamento</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>Anterior (F4)</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>Dinheiro</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>Necessário</text>
+	</string>
+	<string id="ui_inv_needs">
+		<text>Necessidades</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>Dinheiro insuficiente</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>Equipamento 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>Equipamento 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>Equipamento 3 (F3)</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Radiação</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>Restrição de rank</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>Taxa de disparo</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>Limpar (C)</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>Rifles de assalto</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>Comprar mira óptica para rifle (S)</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>Vender todos os itens na mochila (X)</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>Rifles</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>Comprar silenciador para pistola (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>Comprar silenciador para rifle (F)</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>Sniper</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>Tempo</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>Já possui um</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>Serviços online S.T.A.L.K.E.R. não estão acessíveis.</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>Não foi possível conectar ao servidor principal.</text>
+	</string>
+	<string id="ui_st_outfit_protect">
+		<text>Proteção:</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>Padrão</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>Equipamento comprado salvo como</text>
+	</string>
+	<string id="ui_inv_survive_surge">
+		<text>Permite sobreviver a uma emissão</text>
+	</string>
+	<string id="st_ui_containers">
+		<text>Contêineres</text>
+	</string>
+	<string id="st_ui_artifacts">
+		<text>Artefatos</text>
+	</string>
+	<string id="st_ui_itm_repair_base">
+		<text>Itens Danificados</text>
+	</string>
+	<string id="st_ui_itm_repair_support">
+		<text>Materiais de Suporte</text>
+	</string>
+	<string id="st_ui_itm_cook_fuel">
+		<text>Combustível</text>
+	</string>
+	<string id="st_ui_itm_cook_food">
+		<text>Receitas</text>
+	</string>
+	<string id="st_ui_repair">
+		<text>Reparar</text>
+	</string>
+	<string id="st_ui_craft">
+		<text>Criar</text>
+	</string>
+	<string id="st_ui_cancel">
+		<text>Cancelar</text>
+	</string>
+	<string id="st_ui_total">
+		<text>Total</text>
+	</string>
+	<string id="st_ui_bonus">
+		<text>Bônus</text>
+	</string>
+	<string id="st_ui_base">
+		<text>Base</text>
+	</string>
+	<string id="st_ui_oldcon">
+		<text>Antigo</text>
+	</string>
+	
+	<!-- Mensagens -->
+	<string id="st_news_dis_items">
+		<text>%c[d_red]Uma ferramenta apropriada de desmontagem é necessária.</text>
+	</string>
+	<string id="st_ui_need_charger">
+		<text>%s é necessário para conduzir eletricidade</text>
+	</string>
+	<string id="st_new_anomaly_map">
+		<text>Novo mapa de anomalia descoberto</text>
+	</string>
+	<string id="ui_st_create_stash">
+		<text>criar esconderijo</text>
+	</string>
+	<string id="ui_st_geiger_mode_1">
+		<text>Modo 1: enquanto ativo</text>
+	</string>
+	<string id="ui_st_geiger_mode_2">
+		<text>Modo 2: sempre</text>
+	</string>
+	<string id="ui_st_geiger_mode_3">
+		<text>Modo 3: ao clicar no botão</text>
+	</string>
+	<string id="ui_st_npc_pda_unkown">
+		<text>PDA não está funcional</text>
+	</string>
+	<string id="ui_st_npc_pda_low_power">
+		<text>BATERIA FRACA</text>
+	</string>
+	<string id="ui_st_npc_pda_access_denied">
+		<text>ACESSO NEGADO</text>
+	</string>
+	<string id="ui_st_npc_pda_strelok">
+		<text>MATE STRELOK</text>
+	</string>
+	<string id="ui_st_battery_more_power">
+		<text>O dispositivo tem mais energia</text>
+	</string>
+	<string id="st_lamp_disconnected">
+		<text>Lanterna desconectada</text>
+	</string>
+	<string id="st_lamp_equipped">
+		<text>Lanterna equipada</text>
+	</string>
+	<string id="st_lamp_power_left">
+		<text>Lanterna tem %s% de energia restante</text>
+	</string>
+	<string id="st_lamp_no_power_left">
+		<text>Lanterna sem energia</text>
+	</string>
+	<string id="st_upd_disconnected">
+		<text>Você não tem um Dispositivo Universal de Energia (UPD)</text>
+	</string>
+	<string id="st_upd_low">
+		<text>Bateria fraca</text>
+	</string>
+	<string id="st_pda_no_power">
+		<text>PDA sem energia</text>
+	</string>
+	<string id="st_pda_no_active">
+		<text>Nenhum PDA ativo</text>
+	</string>
+	
+	<string id="st_ui_scopes">
+		<text>Miras</text>
+	</string>
+	<string id="st_ui_silencer">
+		<text>Silenciador</text>
+	</string>
+	<string id="st_ui_grenade_launcher">
+		<text>Lançador de Granada</text>
+	</string>
+	<string id="st_ui_awr_parts_list">
+		<text>Peças de Reposição</text>
+	</string>
+	<string id="st_ui_repair_kit_list">
+		<text>Kits de Reparo Compatíveis</text>
+	</string>
+	<string id="st_ui_workshop_kit_list">
+		<text>Kit de Oficina Compatível</text>
+	</string>
+	<string id="st_ui_disassemly_list">
+		<text>Componentes</text>
+	</string>
+	<string id="st_ui_upgrade_list">
+		<text>Atualizações</text>
+	</string>
+	<string id="st_ui_arty_rank">
+		<text>rank do artefato</text>
+	</string>
+	<string id="st_ui_artefact">
+		<text>artefato</text>
+	</string>
+	<string id="st_ui_repair_add_condition">
+		<text>Ganho base de condição</text>
+	</string>
+	<string id="st_ui_repair_min_condition">
+		<text>Não utilizável abaixo do nível de condição</text>
+	</string>
+	<string id="st_ui_repair_bonus">
+		<text>bônus de reparo</text>
+	</string>
+	<string id="st_ui_power_loss">
+		<text>perda de energia</text>
+	</string>
+	<string id="st_ui_number_of_uses">
+		<text>Usos</text>
+	</string>
+	<string id="st_ui_repair_parts_include">
+		<text>Materiais Utilizáveis</text>
+	</string>
+	<string id="st_ui_power">
+		<text>Energia</text>
+	</string>
+	<string id="st_ui_amount">
+		<text>Quantidade</text>
+	</string>
+	<string id="st_ui_power_consumption">
+		<text>consumo de energia</text>
+	</string>
+	<string id="st_ui_info">
+		<text>Info</text>
+	</string>
+	<string id="st_ui_inventory_unpack">
+		<text>desempacotar</text>
+	</string>
+	<string id="st_ui_inventory_attach">
+		<text>anexar</text>
+	</string>
+	<string id="st_ui_inventory_view">
+		<text>visualizar</text>
+	</string>
+	<string id="st_ui_container_remove">
+		<text>Remover do Contêiner</text>
+	</string>
+	<string id="st_ui_container_place">
+		<text>Colocar no Contêiner</text>
+	</string>
+	<string id="st_imm_swiss_open">
+		<text>abrir lata</text>
+	</string>
+	<string id="st_item_place">
+		<text>colocar</text>
+	</string>
+	<string id="st_cap_companion_inv">
+		<text>Trocar itens</text>
+	</string>
+	<string id="st_ui_cook_fuel_usable">
+		<text>Combustível utilizável</text>
+	</string>
+	
+
+	<!-- Workshop-->
+	<string id="st_tab_state">
+		<text>ESTADO</text>
+	</string>
+	<string id="st_tab_repair">
+		<text>REPARO</text>
+	</string>
+	<string id="st_tab_upgrade">
+		<text>MELHORIAS</text>
+	</string>
+	<string id="st_tab_craft">
+		<text>FABRICAÇÃO</text>
+	</string>
+	<string id="st_cap_inventory">
+		<text>Inventário</text>
+	</string>
+	<string id="st_cap_menu">
+		<text>Menu de Fabricação</text>
+	</string>
+	<string id="st_cap_recipes">
+		<text>Receitas e guias conhecidos</text>
+	</string>
+	<string id="st_cap_craftables">
+		<text>Lista de itens fabricáveis</text>
+	</string>
+	<string id="st_cap_components">
+		<text>Componentes</text>
+	</string>
+	<string id="st_cap_result">
+		<text>Resultado</text>
+	</string>
+	<string id="st_cap_replace_parts">
+		<text>Peças de reposição</text>
+	</string>
+	<string id="st_cap_upgrades">
+		<text>Melhorias</text>
+	</string>
+	<string id="st_cap_req_toolkit">
+		<text>Kit de ferramentas necessário</text>
+	</string>
+	<string id="st_ui_craft_device">
+		<text>Dispositivos</text>
+	</string>
+	<string id="st_ui_craft_equipment">
+		<text>Equipamento</text>
+	</string>
+	<string id="st_ui_craft_repair">
+		<text>Kits de reparo</text>
+	</string>
+	<string id="st_ui_craft_upgrades">
+		<text>Peças de melhoria</text>
+	</string>
+	<string id="st_ui_craft_medical">
+		<text>Médico</text>
+	</string>
+	<string id="st_ui_craft_ammo">
+		<text>Munição</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_state_intro">
+		<text>A oficina permite que você repare, melhore e fabrique itens por conta própria com a ajuda de kits de ferramentas adequados.\n
+		As ferramentas mostradas acima representam os kits principais disponíveis nesta oficina, que permitem ajustes adicionais para seus itens.\n
+		Selecione uma das abas para continuar.
+		</text>
+	</string>
+	<string id="st_ui_workshop_owner">
+		<text>Esta oficina pertence a %s.</text>
+	</string>
+	<string id="st_ui_workshop_owner_nobody">
+		<text>ninguém</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_intro">
+		<text>Você pode substituir peças danificadas de sua arma ou traje usando peças de reposição e kit de ferramentas adequado.\n
+		Escolha o item que deseja reparar do seu inventário.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_1">
+		<text>Cada item tem seu próprio conjunto de peças e materiais.\n
+		Peças acinzentadas indicam a falta de substituições idênticas em seu inventário.\n
+		Se você tiver a peça de reposição e um "%s" utilizável em sua posse, clique na peça que deseja substituir.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_1">
+		<text>Você não tem peças de reposição em seu inventário para este equipamento.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_1">
+		<text>Peças de reposição podem ser obtidas principalmente através da desmontagem de trajes e armas.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_2">
+		<text>Você não pode substituir peças deste equipamento sem "%s"</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_2">
+		<text>A maioria dos mecânicos vende essas ferramentas. Você também pode obtê-las por outros meios.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_3">
+		<text>Você pode escolher peças de reposição idênticas "%s" do seu inventário.\n
+		Apenas peças com condição superior podem ser usadas para melhorar seu item.\n
+		Peças acinzentadas significam que têm condição pior que a peça do seu item. Não são adequadas para substituição adequada.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_3">
+		<text>A peça de reposição "%s" em seu inventário tem condição pior comparada à usada pelo seu equipamento. Não pode ser usada.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_3">
+		<text>Muitas ferramentas podem reparar estas peças usando contrapartes. A maioria dos mecânicos vende tais ferramentas. Você também pode obtê-las por outros meios.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_4">
+		<text>Peças de reposição estão prontas para serem instaladas, clique no botão "Reparar" para instalar as substituições selecionadas.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgrade_intro">
+		<text>Com os kits de ferramentas corretos em sua posse, você pode instalar melhorias para suas armas e trajes.\n
+		Escolha o item que deseja melhorar do seu inventário.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_1">
+		<text>Cada melhoria requer um conjunto específico de ferramentas do mesmo tipo, além de "%s" utilizável para completar o processo.\n
+		Condições adicionais precisam ser atendidas para que a melhoria seja instalada corretamente.\n
+		Clique na melhoria que deseja instalar no item selecionado.\n
+		Se a melhoria estiver desativada, passe o mouse sobre ela para ver todos os requisitos faltantes.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_1">
+		<text>Você não pode instalar melhorias neste equipamento sem "%s"</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_1">
+		<text>A maioria dos mecânicos vende essas ferramentas. Você também pode obtê-las por outros meios.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_2">
+		<text>Não há melhoria disponível para ser instalada.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_2">
+		<text>Passe o mouse sobre uma melhoria para ver os requisitos faltantes.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_3">
+		<text>Melhoria pronta para instalar. Se terminou, clique no botão "Melhorar" para instalar as melhorias selecionadas.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_intro">
+		<text>Muitos materiais podem ser usados para fabricar vários tipos de itens.\n
+		Receitas e guias que você adquiriu durante sua jornada podem fornecer mais informações para fabricar mais itens.\n
+		Selecione uma entrada do menu de fabricação para ver itens fabricáveis.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_1">
+		<text>Selecione o item que deseja fabricar.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_2">
+		<text>Você ainda não sabe como fabricar "%s".</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_2">
+		<text>Livros guia e receitas têm informações suficientes sobre itens, eles serão úteis para aprender mais sobre esses itens.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_3">
+		<text>"%s" é necessário para fabricar este item usando seus componentes (disponibilidade apenas, pelo jogador ou mecânico)</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_3">
+		<text>Essas ferramentas geralmente são raras de encontrar, fique atento a esses conjuntos durante suas viagens.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_4">
+		<text>Seu inventário está faltando alguns componentes necessários para fabricar este item.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_4">
+		<text>Componentes podem ser obtidos de diferentes itens e materiais ao seu redor. É aconselhável desmontar itens desnecessários para adquirir componentes úteis.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_5">
+		<text>Você tem todos os componentes necessários para fabricar "%s", selecione o botão "Fabricar" se desejar continuar.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_state_1">
+		<text>A oficina permite que você repare, melhore e fabrique itens por conta própria com a ajuda de kits de ferramentas adequados.\n
+		As ferramentas mostradas acima representam os kits principais disponíveis nesta oficina, que permitem ajustes adicionais para seus itens.\n
+		Selecione uma das abas para continuar.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_1">
+		<text>Você pode substituir peças danificadas de sua arma ou traje usando peças de reposição e kit de ferramentas adequado.\n
+		Escolha o item que deseja reparar do seu inventário.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_2">
+		<text>Cada item tem seu próprio conjunto de peças e materiais.\n
+		Peças acinzentadas indicam a falta de substituições idênticas em seu inventário.\n
+		Se você tiver a peça de reposição e um "%s" utilizável em sua posse, clique na peça que deseja substituir.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_3">
+		<text>Você pode escolher peças de reposição idênticas do seu inventário.\n
+		Apenas peças com condição superior podem ser usadas para melhorar seu item.\n
+		Peças acinzentadas significam que têm condição pior que a peça do seu item. Não são adequadas para substituição adequada.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_4">
+		<text>Peças de reposição estão prontas para serem instaladas, clique no botão "Reparar" para instalar as substituições selecionadas.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgr_1">
+		<text>Com os kits de ferramentas corretos em sua posse, você pode instalar melhorias para suas armas e trajes.
+		\nEscolha o item que deseja melhorar do seu inventário.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_2">
+		<text>Cada melhoria requer um conjunto específico de ferramentas do mesmo tipo, além de "%s" utilizável para completar o processo.\n
+		Condições adicionais precisam ser atendidas para que a melhoria seja instalada corretamente.\n
+		Clique na melhoria que deseja instalar no item selecionado.\n
+		Se a melhoria estiver desativada, passe o mouse sobre ela para ver todos os requisitos faltantes.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_3">
+		<text>Melhoria pronta para instalar. Se terminou, clique no botão "Melhorar" para instalar as melhorias selecionadas.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_1">
+		<text>Muitos materiais podem ser usados para fabricar vários tipos de itens.\n
+		Receitas e guias que você adquiriu durante sua jornada podem fornecer mais informações para fabricar mais itens.\n
+		Selecione uma entrada do menu de fabricação para ver itens fabricáveis.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_2">
+		<text>Selecione o item que deseja fabricar.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_3">
+		<text>Para fabricar este item, é necessário um conjunto de componentes específicos.\n
+		Quando você não tiver a quantidade mínima de algum componente, ele será mostrado em vermelho. Assim impedindo o procedimento de fabricação.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_4">
+		<text>Você tem todos os componentes necessários para fabricar este item, selecione o botão "Fabricar" se desejar continuar.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_5">
+		<text>Você não sabe como fabricar este item.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_6">
+		<text>"%s" são necessários nesta oficina para que você possa fabricar este item.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_no_upgr_1">
+		<text>"%s" é necessário para esta melhoria ser instalada.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_2">
+		<text>"%s" é necessário para esta melhoria ser instalada.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_3">
+		<text>Esta oficina não possui as ferramentas necessárias para instalar esta melhoria.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_4">
+		<text>Uma melhoria alternativa já está instalada neste slot.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_5">
+		<text>Não é possível instalar esta melhoria sem instalar as melhorias anteriores.</text>
+	</string>
+	
+	<string id="st_ui_upgr_required_con">
+		<text>Condição mínima necessária</text>
+	</string>
+
+</string_table>

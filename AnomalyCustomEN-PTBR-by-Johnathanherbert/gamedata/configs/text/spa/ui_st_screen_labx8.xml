@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_labx8_pass_to_1st_door">
+		<text>Entrada não identificável detectada. Transmitindo registro de entrada.</text>
+	</string>
+
+</string_table>

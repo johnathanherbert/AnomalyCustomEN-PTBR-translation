@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_trigun">
+		<text>AGL 12.7 Long Colt «Enforcer»</text>
+	</string>
+	<string id="st_wpn_trigun_descr">
+		<text>Apresentando o revólver AGL Arms .45 Long Colt, uma arma formidável projetada para combinar potência e precisão. Com sua construção fina e robusta, este revólver possui uma impressionante capacidade de 8 tiros, garantindo o máximo poder de fogo em situações críticas. Projetado para disparar munição especializada de 12,7 x 55 mm, este revólver oferece excepcional poder de parada e mira, tornando-o a escolha ideal para operações táticas e casos de autodefesa. O AGL Arms 12.7 Long Colt atinge o equilíbrio perfeito entre força bruta e habilidade refinada, oferecendo aos atiradores uma arma confiável e formidável para qualquer encontro de alto risco.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]AGL Arms \n</text>
+	</string>
+	<string id="st_wpn_trigun_alt">
+		<text>AGL 12.7 Long Colt «Tático»</text>
+	</string>
+	<string id="st_wpn_trigun_alt_descr">
+		<text>Apresentando o revólver AGL Arms .45 Long Colt, uma arma formidável projetada para combinar potência e precisão. Com sua construção fina e robusta, este revólver possui uma impressionante capacidade de 8 tiros, garantindo o máximo poder de fogo em situações críticas. Projetado para disparar munição especializada de 12,7 x 55 mm, este revólver oferece excepcional poder de parada e mira, tornando-o a escolha ideal para operações táticas e casos de autodefesa. O AGL Arms 12.7 Long Colt atinge o equilíbrio perfeito entre força bruta e habilidade refinada, oferecendo aos atiradores uma arma confiável e formidável para qualquer encontro de alto risco.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]AGL Arms \n</text>
+	</string>
+	<string id="st_wpn_longcolt">
+		<text>AGL .45 Long Colt</text>
+	</string>
+	<string id="st_wpn_longcolt_descr">
+		<text>Apresentando o revólver AGL Arms .45 Long Colt, uma arma icônica reconhecida por seu status lendário. Fabricado com detalhes meticulosos, este revólver combina design atemporal com funcionalidade incomparável. Com o clássico calibre .45 Long Colt, é capaz de eliminar até os adversários mais formidáveis. Com uma estrutura elegantemente polida e gravuras ornamentadas adornando sua superfície, o AGL Arms .45 Long Colt exala um ar de sofisticação e poder. Seu tambor de seis tiros fornece recarga rápida e confiável, permitindo disparos rápidos quando cada segundo conta. Este revólver, com a sua rica história e presença inconfundível, é um símbolo de força e resistência, pronto para ser empunhado por aqueles que procuram justiça e protegem os inocentes. Reconfigurado para munição 12,7 x 55 mm pelos técnicos da Zona.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]AGL Arms \n</text>
+	</string>
+	<string id="st_wpn_longcolt_gauss">
+		<text>AGL Long Colt «Gauss»</text>
+	</string>
+	<string id="st_wpn_longcolt_gauss_descr">
+		<text>Apresentando o revólver AGL Arms Gauss, uma arma de fogo lendária conhecida por seu design icônico e confiabilidade inabalável. Este revólver exala charme atemporal com seu acabamento metálico brilhante e gravuras complexas, capturando a essência da elegância e do poder. Com capacidade para 6 tiros, oferece o equilíbrio perfeito entre poder de fogo e praticidade. O AGL Arms Gauss está preparado para munições Gauss especializadas, conhecidas por sua aceleração eletromagnética e impacto devastador. Seu cabo ergonômico e gatilho suave garantem manuseio e precisão excepcionais, permitindo ao usuário enfrentar qualquer desafio com confiança. Incorporando um rico legado de habilidade e durabilidade, este revólver é um símbolo de força e justiça.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]AGL Arms \n</text>
+	</string>
+</string_table>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_target_prior_title">
+		<text>Movimentação de NPCs</text>
+	</string>
+	<string id="ui_mcm_menu_target_prior">
+		<text>Movimentação de NPCs</text>
+	</string>
+
+	<!-- prior -->
+	<string id="ui_mcm_target_prior_prior_header">
+		<text>Prioridade de Movimentação</text>
+	</string>
+
+	<string id="ui_mcm_target_prior_ignore_best_target">
+		<text>Chance de não escolher o melhor alvo</text>
+	</string>
+	<string id="ui_mcm_target_prior_ignore_best_target_desc">
+		<text>Dos cinco alvos com maior prioridade: \n 
+				"1" significa que o NPC sempre escolherá aleatoriamente e se moverá mais; \n 
+				"0" significa que o NPC provavelmente permanecerá no mesmo lugar favorito.</text>
+	</string>
+
+	<string id="ui_mcm_target_prior_dist_ext">
+		<text>Poder da distância</text>
+	</string>
+	<string id="ui_mcm_target_prior_dist_ext_desc">
+		<text>Como a distância afeta a prioridade: \n 
+				"0" desativa a distância como fator de prioridade, resultando em movimento mais caótico dos NPCs.</text>
+	</string>
+
+	<string id="ui_mcm_target_prior_random_range">
+		<text>Mais aleatoriedade</text>
+	</string>
+	<string id="ui_mcm_target_prior_random_range_desc">
+		<text>Intervalo aleatório para cada alvo possível: \n 
+				"0" significa sem aleatoriedade; \n 
+				"0.25" escolherá um número aleatório entre 0.75 e 1.25 e multiplicará a prioridade de cada alvo por esse valor.</text>
+	</string>
+
+	<!-- misc -->
+	<string id="ui_mcm_target_prior_misc_header">
+		<text>Diversos</text>
+	</string>
+
+	<string id="ui_mcm_target_prior_mutant_transition">
+		<text>Permitir transição de nível para mutantes</text>
+	</string>
+	<string id="ui_mcm_target_prior_mutant_transition_desc">
+		<text>Mutantes agora podem mudar de níveis como stalkers. Muito caótico porque usa cálculos de prioridade padrão! \n 
+				A lista negra de transição de mutantes está na tabela "local mutants_blacklist_levels" do script principal.</text>
+	</string>
+
+	<string id="ui_mcm_target_prior_replace_spawns">
+		<text>Substituição de esquadrões baseada em rank</text>
+	</string>
+	<string id="ui_mcm_target_prior_replace_spawns_desc">
+		<text>Se um esquadrão de alto rank tentar spawnar no sul - será substituído por outro esquadrão com rank que se encaixe na tabela de movimentação. \n 
+				Se você usa o addon "ZCP" e quer manter seus spawns, é melhor desabilitar isso (NPCs ainda se moverão de acordo com minha tabela).</text>
+	</string>
+
+	<!-- debug -->
+	<string id="ui_mcm_target_prior_dbg_header">
+		<text>Modos de depuração</text>
+	</string>
+
+	<string id="ui_mcm_target_prior_debug_targets">
+		<text>Depurar alvos</text>
+	</string>
+	<string id="ui_mcm_target_prior_debug_targets_desc">
+		<text>Exibe os 5 alvos com maior prioridade, seus valores e qual o NPC escolheu.</text>
+	</string>
+
+	<string id="ui_mcm_target_prior_debug_squads">
+		<text>Depurar substituição de esquadrões</text>
+	</string>
+	<string id="ui_mcm_target_prior_debug_squads_desc">
+		<text>Exibe os esquadrões que foram substituídos.</text>
+	</string>
+
+</string_table>

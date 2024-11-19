@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_dai_disassemble_all">
+		<text>desmontar tudo [!]</text>
+	</string>
+
+	<string id="st_dai_disassemble_all_junk">
+		<text>desmontar todo lixo [!]</text>
+	</string>
+
+</string_table>

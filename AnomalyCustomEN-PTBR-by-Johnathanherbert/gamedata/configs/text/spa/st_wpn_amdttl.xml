@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+			<string id="st_wpn_amd65">
+		<text>AMD-65 Húngaro</text>
+	</string>
+	<string id="st_wpn_amd65_descr">
+		<text>O AMD-65 é uma variante licenciada do venerável fuzil AKM de fogo seletivo, fabricada na Hungria para uso pelas unidades de infantaria blindada e paraquedistas ("descida") das Forças de Defesa Húngaras. O design do rifle é adequado para uso externo como rifle de infantaria, mas também pode ser usado dentro dos limites de um veículo blindado como arma de apoio de fogo. Isso é possível devido ao coronha dobrável lateral que o torna mais compacto. O cano de 12,6 polegadas também é relativamente curto para o cartucho 7,62×39mm. O mecanismo de operação não requer uma câmara de expansão de gás no cano, como no AKS-74U para garantir um funcionamento confiável, mas usa um freio de boca especialmente projetado. Reduz o flash do cano, mas torna a arma mais barulhenta. O AMD-65, junto com o anterior AKM-63, foi amplamente substituído no serviço militar húngaro pelo AK-63, uma cópia mais tradicional do AKM com menor custo de fabricação.</text>
+	</string>
+			<string id="st_wpn_tantal88">
+		<text>FB Tantal 88</text>
+	</string>
+	<string id="st_wpn_tantal88_descr">
+		<text>O Karabinek Wzor 1988 (Carabina Modelo 1988) Tantal é um fuzil de assalto 5.45×39mm projetado e produzido na Polônia no final dos anos 1980. O Tantal é uma arma de fogo seletivo operada por pistão a gás que direciona os gases de escape através de uma porta no cano para um cilindro de gás acima do cano. O cano é travado contra seu eixo longitudinal por um ferrolho rotativo à direita. Um extrator de mola está contido dentro da cabeça do ferrolho, e um ejetor fixo dentro do receptor. \n \n %c[ui_gray_2]ACESSÓRIOS: \n%c[d_purple] - %c[ui_gray_2] Silenciador TGP-A \n \n</text>
+	</string>
+</string_table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+		<string id="st_wpn_mp9">
+		<text>Brugger Thomet MP9</text>
+	</string>
+	<string id="st_wpn_mp9_descr">
+		<text>A Brugger Thomet MP9 (Maschinenpistole 9mm, "pistola-metralhadora" em alemão) é uma submetralhadora com câmara para o cartucho 9x19mm Parabellum, projetada e fabricada pela Brugger Thomet.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: EOT, EOT2, OKP2, KEMPER, C-MORE, EKP8_18, AIM LOW, AC10632, COMPM4S, HE510, EXPS3\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador 9mm\n</text>
+	</string>	
+</string_table>

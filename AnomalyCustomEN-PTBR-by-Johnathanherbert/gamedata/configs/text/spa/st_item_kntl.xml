@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_streetsweeper">
+		<text>Armsel Protecta</text>
+	</string>
+	<string id="st_wpn_streetsweeper_aim">
+		<text>Armsel Protecta Personalizada</text>
+	</string>
+	<string id="st_wpn_streetsweeper_nimble">
+		<text>Protecta de Mangun</text>
+	</string>
+	<string id="st_wpn_streetsweeper_descr">
+		<text>A única espingarda calibre 12 alimentada por cilindro rotativo, desenvolvida para controle de tumultos e combate, é uma força a ser reconhecida em confrontos a curta distância. Com seu distintivo carregador tipo tambor, capacidade de tiro rápido e dispersão devastadora, é a escolha preferida para aqueles que preferem confrontos rápidos e poderosos no campo de batalha urbano.</text>
+	</string>
+	<string id="st_wpn_streetsweeper_aim_descr">
+		<text>A única espingarda calibre 12 alimentada por cilindro rotativo, desenvolvida para controle de tumultos e combate, é uma força a ser reconhecida em confrontos a curta distância. Com seu distintivo carregador tipo tambor, capacidade de tiro rápido e dispersão devastadora, é a escolha preferida para aqueles que preferem confrontos rápidos e poderosos no campo de batalha urbano.\n
+        %c[d_purple] • %c[ui_gray_2] Esta variante é altamente modernizada. O ajuste das peças da arma foi melhorado e suas características foram aumentadas. Está equipada com um guarda-mão tático para melhor ergonomia, coronha dobrável nova e miras de trítio verde ASh12 com possibilidade de instalar miras colimadoras.\n		
+        %c[d_purple] • %c[ui_gray_2] Miras: Aimpoint T1, Deltapoint, Docter III, Trijicon RMR, 1P76 Rakurs.\n </text>
+	</string>
+	<string id="st_wpn_streetsweeper_nimble_descr">
+		<text>A única espingarda calibre 12 alimentada por cilindro rotativo, desenvolvida para controle de tumultos e combate, é uma força a ser reconhecida em confrontos a curta distância. Com seu distintivo carregador tipo tambor, capacidade de tiro rápido e dispersão devastadora, é a escolha preferida para aqueles que preferem confrontos rápidos e poderosos no campo de batalha urbano.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+        %c[d_purple] • %c[ui_gray_2] Versão personalizada modernizada pelo mecânico da facção DUTY, Sargento "Mangun" Gromov e disponível para encomenda com Nimble. O ajuste das peças da arma foi melhorado e suas características foram aumentadas. Adicionado modo de tiro automático e Taxa de Disparo Aumentada. Está equipada com um guarda-mão tático para melhor ergonomia, coronha telescópica dobrável tipo AR, novas miras de trítio (Amarelo) e dispositivo Laser/Lanterna Rheinmetall Vario-Ray LLM.\n		
+        %c[d_purple] • %c[ui_gray_2] Miras: Aimpoint T1, Deltapoint, Docter III, Trijicon RMR, Barska AC, C-more, EOTech XPS, Leupold LCO, Holosun HE510, Razor UH-1, 1P76 Rakurs, EKP Kobra, OKP-7.\n </text>
+  	</string>
+
+</string_table>

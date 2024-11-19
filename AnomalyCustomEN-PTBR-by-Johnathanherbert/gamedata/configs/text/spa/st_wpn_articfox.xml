@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+
+<string id="st_wpn_sig_artic">
+		<text>SIG Sauer SIG516 "Arctic Fox"</text>
+	</string>
+	<string id="st_wpn_sig_artic_descr">
+		<text>O SIG516 "Arctic Fox" é uma variante especializada do renomado rifle SIG516, projetado para melhorar a furtividade e versatilidade em operações táticas. Equipado com silenciador integrado, reduz significativamente o ruído do disparo e suprime a identificação acústica, permitindo confrontos discretos. Complementando suas capacidades silenciosas, a variante Arctic Fox também incorpora miras anguladas, permitindo uma transição rápida entre a mira principal e as miras de ferro secundárias, facilitando a rápida aquisição de alvos em ambientes fechados. Com sua confiabilidade robusta, recursos avançados e adaptabilidade, o SIG516 "Arctic Fox" garante desempenho ideal para operadores que necessitam de um rifle silencioso com opções versáteis de mira.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]SIG Sauer \n</text>
+	</string>	
+</string_table>

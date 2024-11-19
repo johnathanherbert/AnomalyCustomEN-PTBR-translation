@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor(es) Original(is) : NLTP_ASHES                                                                         -->
+<!--    Editado : N/A                                                                                               -->
+<!--    Data : 13/02/2024                                                                                           -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)         -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para a aba do Western Goods no Menu de Configuração do Mod.                            -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <!--=============================================================================================================-->
+    <!--    STRINGS PRINCIPAIS                                                                                       -->
+    <!--=============================================================================================================-->
+
+    <!-- Título da Página -->
+    <string id="ui_mcm_western_goods_title">
+        <text>Western Goods</text>
+    </string>
+
+    <!-- Título do Menu -->
+    <string id="ui_mcm_menu_western_goods">
+        <text>Western Goods</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    CONFIGURAÇÕES GERAIS                                                                                     -->
+    <!--=============================================================================================================-->
+
+    <!-- Título da Seção -->
+    <string id="ui_mcm_western_goods_general_settings_title">
+        <text>CONFIGURAÇÕES GERAIS</text>
+    </string>
+
+    <!-- Emissões Guiadas -->
+    <string id="ui_mcm_western_goods_guided_surge">
+        <text>Emissões/tempestades psi guiadas</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_guided_surge_desc">
+        <text>Se ativado, quando ocorrer uma emissão/tempestade psi, você receberá uma tarefa no seu PDA, e essa tarefa apontará para o abrigo mais próximo. Se desativado, você ainda terá a tarefa, mas ela não indicará o abrigo mais próximo. O Localizador GPS pode ser usado para localizar o abrigo mais próximo.</text>
+    </string>
+
+    <!-- Tarefas Guiadas -->
+    <string id="ui_mcm_western_goods_guided_tasks">
+        <text>Tarefas guiadas</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_guided_tasks_desc">
+        <text>Parte das tarefas são intencionalmente não guiadas, para incentivar a exploração e o pensamento. Você pode alterar essa configuração em tempo real para ter um marcador no seu PDA para seu objetivo.</text>
+    </string>
+
+    <!-- Regeneração Psi das Revistas -->
+    <string id="ui_mcm_western_goods_magazine_psi_regen">
+        <text>Fator de regeneração psi ao ler revistas</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_magazine_psi_regen_desc">
+        <text>Define o fator pelo qual multiplicar sua regeneração de saúde psi (saúde mental) quando você está lendo uma revista.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    TECLAS DE ATALHO                                                                                         -->
+    <!--=============================================================================================================-->
+
+    <!-- Título da Seção -->
+    <string id="ui_mcm_western_goods_keybindings_title">
+        <text>TECLAS DE ATALHO</text>
+    </string>
+
+    <!-- Ordem de Ataque do Helicóptero -->
+    <string id="ui_mcm_western_goods_heli_attack">
+        <text>Ordenar helicóptero para atacar</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_heli_attack_desc">
+        <text>Tecla usada para enviar uma ordem de ataque ao helicóptero. Mire em um alvo e use a tecla para enviar a ordem.</text>
+    </string>
+
+    <!-- Visão Noturna do Telêmetro -->
+    <string id="ui_mcm_western_goods_rangefinder_nv">
+        <text>Alternar cor da retícula do Telêmetro</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_rangefinder_nv_desc">
+        <text>Tecla usada para alternar a cor (vermelho/verde) da retícula do Telêmetro SigSauer KILO5K.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    CONFIGURAÇÕES DE SAQUE                                                                                   -->
+    <!--=============================================================================================================-->
+
+    <!-- Título da Seção -->
+    <string id="ui_mcm_western_goods_loot_settings_title">
+        <text>CONFIGURAÇÕES DE SAQUE</text>
+    </string>
+
+    <!-- Chance de Saque do Comerciante -->
+    <string id="ui_mcm_western_goods_trader_loot_factor">
+        <text>Fator de saque do comerciante</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_trader_loot_factor_desc">
+        <text>Define o fator que afeta a chance de aparecimento de itens nos comerciantes. Isso afeta apenas a probabilidade de aparecimento, não a quantidade.</text>
+    </string>
+
+    <!-- Chance de Saque em Cadáveres -->
+    <string id="ui_mcm_western_goods_corpse_loot_factor">
+        <text>Fator de saque em cadáveres</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_corpse_loot_factor_desc">
+        <text>Define o fator que afeta a chance de aparecimento de itens em cadáveres. Isso afeta apenas a probabilidade de aparecimento, não a quantidade.</text>
+    </string>
+
+    <!-- Itens Por Cadáver -->
+    <string id="ui_mcm_western_goods_max_item_per_corpse">
+        <text>Número máximo de itens por cadáver</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_max_item_per_corpse_desc">
+        <text>Define a quantidade máxima de itens X que podem aparecer em um único cadáver. O jogo selecionará X itens para aparecer e então executará as taxas de drop para cada um dos itens selecionados. Em termos, você pode obter de 0 a X itens.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    CONFIGURAÇÕES DE COMPATIBILIDADE                                                                         -->
+    <!--=============================================================================================================-->
+
+    <!-- Título da Seção -->
+    <string id="ui_mcm_western_goods_compatibility_title">
+        <text>CONFIGURAÇÕES DE COMPATIBILIDADE</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--     CONFIGURAÇÕES TÉCNICAS                                                                                  -->
+    <!--=============================================================================================================-->
+
+    <!-- Título da Seção -->
+    <string id="ui_mcm_western_goods_technical_settings_title">
+        <text>CONFIGURAÇÕES TÉCNICAS</text>
+    </string>
+
+    <!-- Modo de Depuração -->
+    <string id="ui_mcm_western_goods_debug_mode">
+        <text>Modo de depuração</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_debug_mode_desc">
+        <text>Faz o addon imprimir algumas informações no console/logs, para referência posterior ao tentar identificar problemas.</text>
+    </string>
+
+    <!-- Remoção do Addon -->
+    <string id="ui_mcm_western_goods_addon_removal">
+        <text>Remoção do addon</text>
+    </string>
+
+    <string id="ui_mcm_western_goods_addon_removal_desc">
+        <text>Permite uma remoção segura do addon. Ative esta configuração e depois salve seu jogo. Após isso, você pode remover o addon e carregar esse save novamente, e continuar jogando sem o Western Goods.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    INTEGRAÇÃO DE TECLAS DO SELETOR DE DISPOSITIVOS                                                         -->
+    <!--=============================================================================================================-->
+
+    <string id="ui_mcm_detector_selector_keybind_wg_gps">
+        <text>Tecla de seleção do Localizador GPS</text>
+    </string>
+
+    <string id="ui_mcm_detector_selector_keybind_wg_minedetect">
+        <text>Tecla de seleção do Detector de Minas</text>
+    </string>
+
+</string_table>

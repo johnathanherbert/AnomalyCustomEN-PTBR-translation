@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+<string id="st_wpn_mp9_n">
+		<text>MBS</text>
+	</string>
+	<string id="st_wpn_mp9_n_descr">
+		<text>A MP9 é uma submetralhadora compacta e versátil, conhecida por sua confiabilidade e design ergonômico. Desenvolvida pela empresa suíça Brügger &amp; Thomet, a MP9 ganhou popularidade como uma arma de fogo confiável nos círculos militares e policiais. Com um sistema de recuo simples e câmara em Parabellum 9 x 19mm, a MP9 possui alta cadência de tiro e recuo gerenciável. Seu tamanho compacto, coronha dobrável e controles ambidestros a tornam ideal para situações de combate em espaços fechados. A construção em polímero da arma contribui para sua leveza, melhorando sua portabilidade e manobrabilidade. Altamente reconhecida pelo seu desempenho, a MP9 tornou-se a escolha preferida das unidades das forças especiais e do pessoal de segurança em todo o mundo.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Suíça \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Brügger &amp; Thomet \n</text>
+	</string>
+
+<string id="st_wpn_mp9">
+		<text>MP9 "Tático"</text>
+	</string>
+	<string id="st_wpn_mp9_descr">
+		<text>A MP9 é uma submetralhadora compacta e versátil, conhecida por sua confiabilidade e design ergonômico. Desenvolvida pela empresa suíça Brügger &amp; Thomet, a MP9 ganhou popularidade como uma arma de fogo confiável nos círculos militares e policiais. Com um sistema de recuo simples e câmara em Parabellum 9 x 19mm, a MP9 possui alta cadência de tiro e recuo gerenciável. Seu tamanho compacto, coronha dobrável e controles ambidestros a tornam ideal para situações de combate em espaços fechados. A construção em polímero da arma contribui para sua leveza, melhorando sua portabilidade e manobrabilidade. Esta combinação de poder de fogo, precisão e manobrabilidade faz da MP9 "Tático" a escolha preferida para unidades militares e policiais de elite que operam em ambientes dinâmicos e altamente perigosos.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Suíça \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Brügger &amp; Thomet \n</text>
+	</string>
+
+<string id="st_mag_mp9_short">
+		<text>Carregador de MP9</text>
+	</string>
+	<string id="st_mag_mp9_short_descr">
+		<text>Carregador padrão para submetralhadora MP9. Contém 30 cartuchos de 9 x 19 mm.\n \n</text>
+	</string>	
+	
+	<string id="st_mag_mp9_long">
+		<text>Carregador ampliado de MP9</text>
+	</string>
+	<string id="st_mag_mp9_long_descr">
+		<text>Carregador padrão para a submetralhadora MP9 "Tático". Contém 40 cartuchos de 9 x 19 mm.\n \n</text>
+	</string>
+	
+</string_table>

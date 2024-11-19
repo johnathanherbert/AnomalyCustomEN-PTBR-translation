@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_extra_level_transitions_title">
+		<text>Transições de Nível Extra</text>
+	</string>
+	<string id="ui_mcm_menu_extra_level_transitions">
+		<text>Transições de Nível</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_enable_time_advance">
+		<text>Ativar Avanço do Tempo</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_enable_time_advance_desc">
+		<text>O tempo será avançado nas transições de nível</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_delete_level_transitions">
+		<text>Excluir Transições de Nível</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_delete_level_transitions_desc">
+		<text>As transições de nível extras serão excluídas do jogo. Esta opção é destinada para remoção segura do mod</text>
+	</string>
+	
+</string_table>

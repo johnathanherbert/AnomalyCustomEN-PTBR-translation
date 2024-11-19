@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_title">
+		<text>GBOOBS Recuo Aprimorado Revisado</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_grok_bo_enhanced_recoil">
+		<text>Recuo GBOOBS</text>
+	</string>
+
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_enabled">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_effect_power">
+		<text>Força do Recuo</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_gun_effect_power">
+		<text>Força do Movimento da Arma</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_pp_power">
+		<text>Força dos Efeitos de Pós-processamento</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_upgrades_power">
+		<text>Influência das melhorias</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_upgrades_power_desc">
+		<text>Melhorias de manuseio e recuo podem reduzir o recuo aprimorado. Este parâmetro define o quanto as melhorias podem influenciar o recuo aprimorado</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_condition_power">
+		<text>Influência da condição</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_condition_power_desc">
+		<text>Condição baixa aumentará o recuo. Condição ideal o reduzirá.</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_mcAnyMove_power">
+		<text>Aumentar recuo ao se mover</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_mcSprint_power">
+		<text>Aumentar recuo ao correr</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_mcProne_power">
+		<text>Diminuir recuo ao deitar</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_mcCrouch_power">
+		<text>Diminuir recuo ao agachar</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_mcJump_power">
+		<text>Aumentar recuo ao pular</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_mcZoom_power">
+		<text>Diminuir recuo ao mirar</text>
+	</string>
+	<string id="ui_mcm_demonized_grok_bo_enhanced_recoil_fov_changer">
+		<text>Efeito de Campo de Visão</text>
+	</string>
+		
+</string_table>

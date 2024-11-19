@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="igi_task_text_done">
+		<text>Trabalho concluído. Hora de retornar ao contratante.</text>
+	</string>
+	<!-- textos b?sicos -->
+	<string id="igi_task_text_title">
+		<text>Tarefas Igi: Título não encontrado</text>
+	</string>
+	<string id="igi_task_text_descr">
+		<text>Tarefas Igi: Descrição não encontrada</text>
+	</string>
+	<string id="igi_task_text_job_descr">
+		<text>Tarefas Igi: Descrição do trabalho não encontrada</text>
+	</string>
+	<string id="igi_task_text_finish">
+		<text>Tarefas Igi: Conclusão não encontrada, mas parabéns mesmo assim</text>
+	</string>
+	
+	<!-- Interface do Usuário -->
+	<string id="igi_task_text_targets">
+		<text>Alvo</text>
+	</string>
+	<string id="igi_task_text_factions">
+		<text>Facção</text>
+	</string>
+	<string id="igi_task_text_locations">
+		<text>Localização</text>
+	</string>
+	<string id="igi_task_text_treasure_unique">
+		<text>Algo valioso</text>
+	</string>
+</string_table>

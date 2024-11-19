@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--Traduzido por johnathanherbert-->
+
+<!--
+	Weapons Attachments
+-->
+<string_table>
+  <string id="st_addon_scope_exps3">
+    <text>EOTech EXPS3</text>
+  </string>
+  <string id="st_addon_scope_exps3_descr">
+    <text>Uma mira holográfica de nível militar projetada para combates de curta distância com alvos em movimento rápido.\n \n
+%c[0,255,255,255]COMPATIBILIDADE:\n
+%c[d_cyan] • %c[ui_gray_2]Trilho Picatinny/Weaver \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Ampliação: %c[ui_gray_2]0 (colimador) \n</text>
+  </string>
+  <string id="st_addon_scope_he510">
+    <text>Holosun HE510</text>
+  </string>
+  <string id="st_addon_scope_he510_descr">
+    <text>A HE510C é uma mira reflex versátil de topo aberto projetada para armas longas. É ideal para carabinas, carabinas de calibre de pistola e espingardas graças ao seu design durável. Possui caixa de alumínio com tampa de titânio para maior resistência a impactos e inclui montagem QD para miras simultâneas (altura do ponto de 3,5 cm).\n \n
+%c[0,255,255,255]COMPATIBILIDADE:\n
+%c[d_cyan] • %c[ui_gray_2]Trilho Picatinny/Weaver \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Ampliação: %c[ui_gray_2]0 (colimador) \n</text>
+  </string>
+  <string id="st_addon_scope_bravo4">
+    <text>SIG Sauer BRAVO4</text>
+  </string>
+  <string id="st_addon_scope_bravo4_descr">
+    <text>A primeira mira de combate de campo amplo do mundo. Com um design radicalmente novo para atiradores MSR/AR profissionais e civis, o BRAVO4 oferece um campo de visão 42% mais amplo do que as atuais miras de combate.\n \n%c[0,255,255,255]COMPATIBILIDADE:\n
+%c[d_cyan] • %c[ui_gray_2]Trilho Picatinny/Weaver \n %c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Ampliação: %c[ui_gray_2]4,0x \n
+%c[d_cyan] • %c[0,255,255,255]Retículo: %c[ui_gray_2]BRAVO4</text>
+  </string>
+  <string id="st_addon_scope_hamr">
+    <text>Leupold Mark 4 HAMR</text>
+  </string>
+  <string id="st_addon_scope_hamr_descr">
+    <text>A palavra "resistente" é insuficiente quando se trata de descrever o Leupold Mark 4 HAMR, uma mira que é tão devastadoramente eficaz quanto robusta. Compacta e pronta para combate, a Mira Multi-Range de Alta Precisão (HAMR) foi projetada para tiro preciso de médio alcance e rápida aquisição de alvos em plena luz do dia, pouca luz e à noite. O HAMR lhe dará vantagem em qualquer cenário tático de curto e médio alcance. Inclui uma mira vermelha DeltaPoint de 7,5 MOA para aquisição imediata do alvo quando necessário.\n \n%c[0,255,255,255]COMPATIBILIDADE:\n
+%c[d_cyan] • %c[ui_gray_2]Trilho Picatinny/Weaver \n %c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Ampliação: %c[ui_gray_2]4,0x \n
+%c[d_cyan] • %c[0,255,255,255]Retículo: %c[ui_gray_2]HAMR</text>
+  </string>
+  <string id="st_addon_scope_razorhd">
+    <text>Vortex Razor HD Gen II</text>
+  </string>
+  <string id="st_addon_scope_razorhd_descr">
+    <text>O Gen II-E 1-6 é uma solução óptica premium para aplicações de curto e médio alcance. Do ponto de vista óptico, oferece alto nível de clareza, resolução, precisão de cores, transmissão de luz e nitidez de ponta a ponta. A caixa ocular ultradurável com relevo ocular generoso gera uma imagem visual semelhante a um head-up display para transições rápidas e monitoramento ideal do ambiente circundante. O ponto central iluminado oferece aos usuários a máxima versatilidade em combate próximo.\n \n%c[0,255,255,255]COMPATIBILIDADE:\n
+%c[d_cyan] • %c[ui_gray_2]Trilho Picatinny/Weaver \n %c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Ampliação: %c[ui_gray_2]6,0x \n
+%c[d_cyan] • %c[0,255,255,255]Retículo: %c[ui_gray_2]Mil-dot</text>
+  </string>
+</string_table>

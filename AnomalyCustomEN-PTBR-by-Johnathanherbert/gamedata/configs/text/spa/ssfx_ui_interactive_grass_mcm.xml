@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+- @ Versão: SCREEN SPACE SHADERS - ATUALIZAÇÃO 16
+- @ Descrição: Grama Interativa - strings MCM
+- @ Autor: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<!-- Traduzido por johnathanherbert -->
+
+
+
+<string_table>
+
+	<!-- Botão -->
+	<string id="ui_mcm_ssfx_module_inter_grass">
+		<text>Grama Interativa</text>
+	</string>
+
+	<!-- Configurações da Grama Interativa -->
+	<string id="ui_mcm_ssfx_module_inter_grass_title">
+		<text>Configurações da Grama Interativa</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_mcm">
+		<text>Ativado</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_mcm_desc">
+		<text>[ REQUER REINÍCIO ] Ativar/Desativar grama interativa.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_max_entities_mcm">
+		<text>Número máximo de interações</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_max_entities_mcm_desc">
+		<text>[ REQUER REINÍCIO ] Número máximo de interações simultâneas. Valores mais altos podem diminuir o desempenho.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_max_distance_mcm">
+		<text>Distância máxima</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_max_distance_mcm_desc">
+		<text>Distância máxima para renderizar as interações com a grama.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_player_mcm">
+		<text>Interação do jogador</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_player_mcm_desc">
+		<text>Ativar/Desativar a interação do jogador com a grama.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_mutants_mcm">
+		<text>Onda de choque de mutantes</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_mutants_mcm_desc">
+		<text>Ativar/Desativar efeitos de onda de choque de Pseudogigantes e Burers.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_radius_mcm">
+		<text>Raio de curvatura</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_radius_mcm_desc">
+		<text>Ajusta o raio do efeito de curvatura quando personagens andam sobre a grama.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_horizontal_str_mcm">
+		<text>Força horizontal</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_horizontal_str_mcm_desc">
+		<text>Ajusta a força do deslocamento horizontal quando personagens andam sobre a grama.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_vertical_str_mcm">
+		<text>Força vertical</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_vertical_str_mcm_desc">
+		<text>Ajusta a força do deslocamento vertical quando personagens andam sobre a grama.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_explosions_str_mcm">
+		<text>Intensidade das explosões</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_explosions_str_mcm_desc">
+		<text>Opção para ajustar a intensidade geral da onda de choque.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_explosions_speed_mcm">
+		<text>Velocidade das explosões</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_explosions_speed_mcm_desc">
+		<text>Opção para ajustar a velocidade de propagação da onda de choque.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_shooting_str_mcm">
+		<text>Força dos disparos</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_shooting_str_mcm_desc">
+		<text>Força do deslocamento gerado pelos disparos de armas de fogo.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_shooting_range_mcm">
+		<text>Alcance dos disparos</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_shooting_range_mcm_desc">
+		<text>Alcance do deslocamento do efeito de disparo.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_anomalies_mcm">
+		<text>Interação com anomalias</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_anomalies_mcm_desc">
+		<text>Ativar/desativar a interação entre a grama e as anomalias.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_inter_grass_anomalies_distance_mcm">
+		<text>Distância máxima das anomalias</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_anomalies_distance_mcm_desc">
+		<text>Este valor define a distância máxima para renderizar as interações entre anomalias e grama.</text>
+	</string>
+
+</string_table>

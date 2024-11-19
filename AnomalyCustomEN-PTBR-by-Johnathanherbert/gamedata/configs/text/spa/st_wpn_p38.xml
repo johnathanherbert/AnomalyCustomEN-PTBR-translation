@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+<string id="st_wpn_p38">
+		<text>Walther P38</text>
+	</string>
+	<string id="st_wpn_p38_descr">
+		<text>A Walther P38 é uma pistola semiautomática de 9 mm desenvolvida pela Carl Walther GmbH como pistola de serviço da Wehrmacht no início da Segunda Guerra Mundial. O objetivo era substituir a cara Luger P08, cuja produção estava programada para terminar em 1942. A P38 era um projeto de pistola semiautomática de vanguarda, que introduziu características técnicas que ainda hoje são usadas nas atuais pistolas semiautomáticas comerciais e militares, incluindo a Beretta 92FS e sua subvariante M9 adotada pelo Exército dos Estados Unidos em 1985.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Alemanha \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Walther \n</text>
+	</string>
+	<string id="st_mag_p38_default">
+		<text>Carregador da Walther P38</text>
+	</string>
+	<string id="st_mag_p38_default_descr">
+		<text>Carregador de metal estampado para a pistola Walther P38. Comporta 8 cartuchos de 9 x 19 mm Parabellum.\n   \n</text>
+	</string>
+</string_table>

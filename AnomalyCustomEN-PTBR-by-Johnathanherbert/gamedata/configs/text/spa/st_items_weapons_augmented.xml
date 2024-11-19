@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_aug_a1">
+		<text>Steyr AUG A1</text>
+	</string>
+	<string id="st_wpn_aug_a1_descr">
+		<text>Steyr AUG A1 na configuração padrão do Exército Austríaco (cor bege). O AUG é um fuzil de assalto bullpup austríaco de 5.56mm, projetado na década de 1960 pela Steyr Mannlicher GmbH &amp; Co KG (anteriormente Steyr-Daimler-Puch). O AUG (Armee-Universal-Gewehr "fuzil universal do exército") foi adotado pelo Exército Austríaco como StG 77 (Sturmgewehr 77) em 1978, onde substituiu o fuzil automático StG 58 de 7.62mm (uma FAL fabricada sob licença). Em produção desde 1978, é a arma padrão do Bundesheer Austríaco e várias unidades policiais nacionais. Entusiastas de armas apreciam este fuzil simplesmente pela mira telescópica integrada.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Mira telescópica 1.5x (integrada).\n \n</text>
+	</string>
+
+	<string id="st_wpn_aug_a2">
+		<text>Steyr AUG A2</text>
+	</string>
+	<string id="st_wpn_aug_a2_descr">
+		<text>O AUG A2 é uma melhoria do A1, introduzido em 1997, uma das principais diferenças é a substituição da mira telescópica integrada por um trilho Picatinny, permitindo a adição de todos os tipos de miras de ferro e reflexivas, bem como miras telescópicas. É um fuzil comum de se encontrar no mercado negro, e muito confiável.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Miras telescópicas ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical.\n \n</text>
+	</string>
+
+	<string id="st_wpn_aug_a3">
+		<text>Steyr AUG A3</text>
+	</string>
+	<string id="st_wpn_aug_a3_descr">
+		<text>O Steyr AUG A3 é uma melhoria adicional tanto do A1 quanto do A2, introduzido em 2005. É também o fuzil padrão atual do Exército Austríaco, substituindo tanto o A1 quanto o A2. Possuindo a mesma integração do trilho Picatinny do A2 em todo comprimento, além de vir com um liberador de ferrolho externo localizado acima do compartimento do carregador, o fuzil é facilmente capaz de acomodar qualquer mira de ferro ou reflexiva, incluindo qualquer mira telescópica. É a iteração moderna do AUG, portanto o fuzil mais comum, mas isso não o torna uma mercadoria comum na Zona.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Miras telescópicas: Todas para picatinny/weaver (exceto Miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa) e OKP-7.\n \n</text>
+	</string>
+
+	<string id="st_wpn_aug_thales">
+		<text>Thales F90</text>
+	</string>
+	<string id="st_wpn_aug_thales_descr">
+		<text>O Thales F90, também conhecido como EF88, é uma melhoria da versão australiana do AUG, o F88 Austeyr. Produzido em 2012 e destinado a substituir o F88, este é o AUG mais moderno que se pode encontrar, tendo muitas melhorias baseadas no desempenho do próprio F88, o que aumenta sua ergonomia e confiabilidade. O cano único oferece muito melhor controle de recuo e precisão, enquanto o guarda-mão personalizado permite melhor manuseio. Uma arma incrivelmente rara, trazida por alguns ex-operadores especiais australianos, pelo preço justo.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Miras telescópicas: Todas para picatinny/weaver (exceto Miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa) e OKP-7.\n \n</text>
+	</string>
+
+	<string id="st_wpn_aug_9mm">
+		<text>Steyr AUG A3 9mm XS</text>
+	</string>
+	<string id="st_wpn_aug_9mm_descr">
+		<text>Também conhecido como Steyr AUG Para, embora esse seria para a variante original que não tinha trilhos Picatinny, um cano diferente e mira telescópica &amp; guarda-mão integrados. O AUG 9mm é, simplesmente, uma variante submetralhadora do AUG em calibre 9x19 Parabellum, produzida desde 1988. Vem com um cano único diferente, ferrolho e carregador, embora um carregador TMP possa ser compatível. Esta arma foi feita para, como o nome indica, Paraquedistas. Existem kits para transformar qualquer AUG A3 em AUG 9mm e vice-versa. É uma submetralhadora confiável, em formato bullpup, motivo pelo qual é popular entre os membros da Liberdade.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19\n
+		%c[d_purple] • %c[ui_gray_2] Miras telescópicas ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical.\n \n</text>
+	</string>
+
+</string_table>

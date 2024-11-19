@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_fps_based_mblur">
+		<text>Desfoque de Movimento Baseado em FPS</text>
+	</string>
+
+	<string id="ui_mcm_fps_based_mblur_title">
+		<text>Desfoque de Movimento Baseado em FPS</text>
+	</string>
+
+	<string id="ui_mcm_fps_based_mblur_ENABLED">
+		<text>Ativado</text>
+	</string>
+
+	<string id="ui_mcm_fps_based_mblur_BASE_MBLUR">
+		<text>Quantidade de Desfoque de Movimento</text>
+	</string>
+
+	<string id="ui_mcm_fps_based_mblur_BASE_MBLUR_desc">
+		<text>
+			O Desfoque de Movimento nas Configurações é inútil, então edite a quantidade de Desfoque de Movimento aqui.\nAtenção! r2_mblur é multiplicado por 10 no shader, então continue editando a quantidade de Desfoque de Movimento aqui mesmo se você desativou o mod pela opção.
+		</text>
+	</string>
+
+	<string id="ui_mcm_fps_based_mblur_BASE_FPS">
+		<text>FPS Base</text>
+	</string>
+
+	<string id="ui_mcm_fps_based_mblur_BASE_FPS_desc">
+		<text>
+			Mín 0      Máx 1000   Padrão 50\nNa verdade é o segundo controle deslizante que controla a quantidade de Desfoque de Movimento
+		</text>
+	</string>
+
+	<string id="ui_mcm_fps_based_mblur_DEBUG">
+		<text>Depuração</text>
+	</string>
+
+	<string id="ui_mcm_fps_based_mblur_DEBUG_desc">
+		<text>Ativa algumas informações de depuração que tornam os logs muito grandes, então não mexa nisso a menos que seja necessário.</text>
+	</string>
+</string_table>

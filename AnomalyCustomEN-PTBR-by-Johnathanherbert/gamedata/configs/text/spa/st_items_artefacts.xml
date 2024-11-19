@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Artefatos (ativos)
+-->
+
+<string_table>
+	<string id="st_af_itcher_name">
+		<text>Itcher</text>
+	</string>  
+	<string id="st_af_itcher_descr">
+		<text>
+		Uma formação de poderes elementais. O Itcher consiste em duas camadas separadas. A superfície é uma rocha metamórfica dura e densa com cicatrizes profundas cobrindo todo o corpo. Completamente inativo e não possui propriedades notáveis. Por outro lado, o núcleo macio e brilhante amarelo é de natureza orgânica desconhecida. Consome ativamente o calor excessivo e permanece frio o tempo todo.
+		\nNo entanto, não é recomendado se aproximar de anomalias químicas e ácidas quando estiver de posse do artefato, pois aumentará os efeitos adversos de ácidos e toxinas na corrente sanguínea do usuário.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.
+		</text>
+	</string> 
+
+	<string id="st_af_pin_name">
+		<text>Pin</text>
+	</string>  
+	<string id="st_af_pin_descr">
+		<text>
+		Um pequeno artefato formado por anomalias elementais na Zona sob temperaturas extremas. A aparência deste artefato sugere que era um órgão de uma planta vascular. Estudos posteriores mostraram que outros tecidos orgânicos estão fundidos profundamente em seu interior.
+		\nO caule não possui propriedades úteis. Pelo contrário, os pequenos alfinetes reduzem a temperatura do corpo do usuário e resfriam todos os objetos em suas proximidades.
+		\nEste artefato oferece uma leve proteção psi, pois ressoará sob a influência de ondas psi. Por outro lado, não é recomendado se aproximar de anomalias químicas e ácidas quando estiver de posse do artefato, pois aumentará os efeitos adversos de ácidos e toxinas na corrente sanguínea do usuário.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string>  
+	
+	<string id="st_af_cristall_name">
+		<text>Cristal</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>
+		Este artefato é formado em zonas anômalas com intensa atividade elemental. Consome ativamente o calor excessivo e permanece frio o tempo todo.
+		\nTambém protegerá o usuário contra correntes elétricas. Por outro lado, a exposição a tais ambientes faz com que o artefato aumente a condutividade devido a um mecanismo ainda desconhecido. Por esta razão, é necessário pesar os prós e contras do Cristal quando nas proximidades de áreas de alta condutividade.
+		\nEste artefato também é muito procurado por joalheiros fora da Zona, pois seu núcleo interno não é radioativo e é considerado de beleza excepcional se polido e refinado. Apenas o primeiro 1 cm de sua camada externa emite radiação.
+		\nNo entanto, é altamente aconselhável proceder com cautela ao planejar levar o artefato ao mercado, pois a exposição prolongada mesmo a quantidades mínimas de materiais radioativos pode resultar na morte do usuário. Coberto com camada muito dura. Relativamente pesado devido à alta densidade.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_fireball_name">
+		<text>Bola de Fogo</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>
+		É um artefato esférico feito de cristal de cor vermelha, criado na anomalia térmica e elemental.
+		\nPossui uma propriedade única: mantém uma temperatura constante de 75 graus Fahrenheit/24 graus Celsius, independentemente de seu ambiente. Isso permite que absorva calor de suas proximidades e crie um pequeno bolsão ao redor do usuário que impede que as chamas danifiquem o corpo.
+		\nUm efeito perigoso deste artefato é o fato de que aumentará a condutividade elétrica, então a probabilidade de eletrocução ao usar este artefato é muito maior, especialmente durante tempestades e nas proximidades de anomalias elétricas. É bastante pesado devido à alta densidade do material cristalino.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_blood_name">
+		<text>Sangue de Pedra</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>
+		Uma formação avermelhada de plantas fossilizadas comprimidas, solo e detritos animais. Pode neutralizar parcialmente venenos químicos absorvendo-os e reduzindo o nível geral de toxicidade na corrente sanguínea do usuário. Bastante difundido e não muito eficaz, pois faz com que queimaduras químicas supurem. Pegará fogo quando exposto a chama aberta ou até mesmo entrará em combustão espontânea.
+		\nOutro efeito positivo possuído por este artefato é que acelera a coagulação se usado próximo ao corpo. Embora não seja recomendado manter este artefato em sua posse por longos períodos, pois coágulos sanguíneos podem ser perigosos para sua saúde.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_mincer_meat_name">
+		<text>Pedaço de Carne</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>
+		Este artefato tem textura macia, porosa, semelhante à pele e dizem que é capaz de comprimir. Assemelha-se e age como uma esponja neste aspecto, mas revela suas características especiais apenas quando exposto a certas condições externas.
+		\nPrimeiramente, para levar adiante a metáfora da esponja, os poros em sua superfície são conhecidos por absorver pequenas quantidades de toxicidade do ambiente.
+		\nEm segundo lugar, o artefato amplifica levemente os efeitos danosos dos campos psi em organismos vivos ao absorver energia psi e emiti-la a uma taxa pequena.
+		\nEm terceiro lugar, o Pedaço de Carne também é conhecido por ser um condutor de eletricidade muito semelhante à pele de uma criatura viva.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_bracelet_name">
+		<text>Bracelete</text>
+	</string>  
+	<string id="st_af_bracelet_descr">
+		<text>
+		O Bracelete é formado a partir de espécies comuns de plantas briófitas sob alta exposição a anomalias radioativas e químicas, o que explica sua natureza orgânica.
+		\nFornece proteção substancial contra todos os tipos de ácidos, aumentando gradualmente seu pH até o nível da água (pH 7).
+		\nQuando usado, o artefato também é conhecido por contrariar levemente os efeitos nocivos de anomalias psi ou ondas psi de alguns mutantes.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string>  
+	
+	<string id="st_af_baloon_name">
+		<text>Bolha</text>
+	</string>
+	<string id="st_af_baloon_descr">
+		<text>
+		Um composto de várias formações orgânicas ocas, este artefato emite uma substância gasosa que pode neutralizar partículas químicas ou tóxicas dentro do corpo sem danificá-lo. Assim, fornecendo um grande nível de proteção tóxica e química.
+		\nTambém mantém uma temperatura constante independentemente de seu ambiente. Isso permite que absorva calor de suas proximidades e crie um pequeno bolsão ao redor do usuário que impede que as chamas danifiquem o corpo.
+		\nAlém disso, a Bolha, no entanto, possui numerosas propriedades negativas. Por exemplo, amplifica muito os efeitos das ondas psi, bem como campos produzidos por mutantes e anomalias. Esta desvantagem não deve ser levada levemente: alguns stalkers relataram que a influência psi era tão potente quando na posse de uma Bolha que sentiam suas cabeças rachando por dentro e a única coisa que podiam fazer era gritar de dor e correr o mais longe possível.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_electra_sparkler_name">
+		<text>Faísca</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>
+		Este artefato tem a aparência de teias de aranha translúcidas. Assim como a seda proteinácea da aranha, é pegajoso e tem propriedades de cola.
+		\nPode ser encontrado mais comumente em ou perto de anomalias elétricas e parece ter absorvido certas características delas: é capaz de suavizar flutuações na densidade do campo elétrico e age como um resistor fraco, protegendo o usuário da eletricidade e reduzindo seus efeitos danosos.
+		\nPor outro lado, deve-se notar que a presença deste artefato aumenta a corrosividade dos ácidos, levando à deterioração acelerada do equipamento e maior dano aos tecidos de qualquer organismo vivo.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_sponge_name">
+		<text>Esponja</text>
+	</string>  
+	<string id="st_af_sponge_descr">
+		<text>
+		A Esponja sempre foi tema de debate entre os Ecologistas. Alguns sugerem que este artefato é derivado de forma básica de organismos, enquanto outros acreditam que é uma forma de vida avançada com autoconsciência herdada de criaturas vivas.
+		\nApesar das teorias em torno do artefato, todos concordam em uma coisa: ele se move. A esponja às vezes tenta "agarrar" um objeto que toca. Colocá-la em um recipiente pode ser uma tarefa difícil, como se quisesse escapar.
+		\nEste artefato age como um poderoso resistor e absorverá até doses letais de eletricidade. Por outro lado, pegará fogo quando exposto a chama aberta ou até mesmo entrará em combustão espontânea.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string> 
+	
+	<string id="st_af_ring_name">
+		<text>Anel</text>
+	</string>  
+	<string id="st_af_ring_descr">
+		<text>
+		Um artefato muito pequeno de natureza elétrica. Difícil de detectar. Consiste em dois materiais em forma de anel de natureza orgânica, daí o nome dado.
+		Quando o Anel gira, ele nunca para de girar, desafiando a primeira lei da termodinâmica. Cientistas sugerem que este artefato herda propriedades gravitacionais das anomalias Vórtice.
+		\nO anel externo tem alta condutividade. Absorve corrente elétrica de fontes relativas e então a aterra no anel interno. Apesar da função básica, o mecanismo por trás do desaparecimento da energia elétrica dentro do segundo anel ainda é desconhecido.
+		\nPor outro lado, o Anel é inflamável. A exposição prolongada pode aumentar sua inflamabilidade e fazer com que se incendeie.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string> 
+	
+	<string id="st_af_electra_flash_name">
+		<text>Flash</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>
+		Este artefato é muito similar em aparência ao Luar e se assemelha a um globo de plasma ou uma lâmpada de plasma.
+		\nSendo um poderoso resistor, é bem conhecido por sua capacidade de proteger seu usuário de doses letais de energia elétrica ou psiônica.
+		\nQuando usado, é conhecido por contrariar levemente os efeitos nocivos de anomalias psi ou ondas psi de certos mutantes. Flash age como um poderoso resistor e absorverá até doses letais de eletricidade.
+		\nNo entanto, também dificulta o processo de cura, portanto cautela é aconselhável especialmente quando ferido ou sangrando. Este artefato também é extremamente leve e muito portátil.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_cristall_flower_name">
+		<text>Flor de Pedra</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>
+		Este artefato se assemelha a queijo derretido entremeado com pedras semelhantes a safira. Apenas a casca externa amarela do artefato parece emitir radiação e através de processamento cuidadoso é possível extrair as partes azuis não radioativas para joalheria e outros fins industriais. Isso se deve ao fato de que se limpo adequadamente e polido, a comparação com safira torna-se muito mais explícita: as pedras são tão duras e duráveis quanto esta bela gema. Esta qualidade delas e sua aparência as tornam pedras preciosas perfeitas e joalheiros de todo o mundo se esforçam para tê-las em estoque.
+		\nA utilidade do artefato, no entanto, não se limita às suas aplicações industriais. Há evidências científicas sugerindo que as pedras semelhantes a safira protegem efetivamente das ondas psi, enquanto a casca externa aumenta levemente a resistência à toxicidade.
+		\nNo entanto, pode fazer com que objetos em suas proximidades se aqueçam e em casos extremos se incendeiem junto com o artefato. Por esta razão, é seguro concluir que ele absorve calor e é capaz de transmiti-lo a outros objetos.
+		\nDevido à sua densidade, o peso do artefato aumentou além dos padrões normais, e assim é uma das criações anômalas mais pesadas da Zona.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_lobster_eyes_name">
+		<text>Olhos de Lagosta</text>
+	</string>  
+	<string id="st_af_lobster_eyes_descr">
+		<text>
+		Como o nome sugere, este artefato tem a forma de dois ovos fundidos juntos. A superfície externa é muito espessa, a alta densidade de sua formação pode ser a razão por trás de sua cor profunda.
+		\nEste artefato oferece um pouco mais de proteção psi que seu primo, a Flor de Pedra. Ele ressoa sob a influência de ondas psi até certo grau e absorve o efeito perigoso.
+		\nOutra propriedade positiva é a capacidade de consumir calor excessivo enquanto permanece frio o tempo todo.
+		\nDevido à densidade da superfície, os Olhos de Lagosta são bastante pesados.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string> 
+	
+	<string id="st_af_electra_moonlight_name">
+		<text>Luar</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>
+		Este único artefato psio-estático elemental pode ressoar sob a influência de ondas psi. Stalkers aprenderam a sintonizar o artefato para que ele ressoe em fase oposta à fonte principal de emissões, neutralizando significativamente seus efeitos. Este orbe de beleza considerável também aumenta a proteção elétrica reduzindo a condutividade no corpo quando exposto a altos níveis de eletricidade.
+		\nDeve-se notar que o Luar pegará fogo quando exposto a chama aberta ou até mesmo entrará em combustão espontânea.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_black_spray_name">
+		<text>Spray Negro</text>
+	</string>  
+	<string id="st_af_black_spray_descr">
+		<text>
+		Sendo um artefato raro, pouco se sabe sobre suas propriedades e origens.
+		\nO Spray Negro compartilha uma forma similar a outros artefatos semelhantes a safira. No entanto, a natureza orgânica do caule (que compartilha propriedades similares aos artefatos Pin) sugere que é formado a partir de plantas vasculares sob exposição a campos psi perigosos e ondas eletromagnéticas.
+		\nOutra propriedade única é a capacidade de atrasar a transmissão da luz que entra nele. O dito mecanismo misterioso é aplicado às ondas psi que cercam o artefato também. Por esta razão particular, o Spray Negro neutraliza significativamente interferências psi em um grande raio.
+		\nEstas propriedades benéficas, no entanto, têm um preço. Este artefato é extremamente perigoso quando exposto em ambientes tóxicos, pois amplifica seu efeito e aumenta sua potência. Ao explorar áreas tóxicas, é altamente recomendável manter o artefato em sua mochila.
+		\nDevido à bela aura azul que emite, é muito procurado por joalheiros de todo o mundo.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.
+		</text>
+	</string>  
+	
+	<string id="st_af_medusa_name">
+		<text>Jellyfish</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>
+		Jellyfish is known for being one of the first wonders ever brought to the outside world from the Zone. Despite being studied extensively by many, little is known about the nature of this common artefact. Because of its ability to affect its surroundings many call it a portable anomaly. Medusa creates a strong, fluctuating gravitational field that makes it difficult to wield and transport. On the other hand, the field itself protects the user from various physical hazards. It is advised to avoid using the artefact for too long. To create the odd, slimy secretion that covers its surface it uses moisture from nearby environment - including living creatures. The substance itself is useful for protection against thermal hazards and for cooling the body during physical strain, but has a strong psychedelic effect.\n \nHas no radiation output.
+		</text>
+	</string>
+	
+	<string id="st_af_vyvert_name">
+		<text>Wrenched</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>
+		Wrenched is a grim reminder of what effect the Zone has on living things. Gravitational abnormalities shifted, squeezed and bent a bunch of plant roots and branches together, creating a dense, heavy, gruesome nest. But judging the book by its cover is not always good in the Zone. What the artefact lacks in looks, it makes up in its properties. Wrenched gained the ability to affect gravity themselves, creating a small protective field around the user, which helps against many physical dangers. The field also discards toxic particles around it, which stalkers take advantage of while diving into certain anomaly fields. One should remember to take the artefact off their belt before dealing with electrical currents, as Wrenched acts as a strong conductor. Reportedly the gravitational disturbances also increase the user’s blood pressure, which proves to be problematic when trying to close up bleeding wounds.\n \nHas no radiation output.
+		</text>
+	</string>
+	
+	<string id="st_af_empty_name">
+		<text>Empty</text>
+	</string>  
+	<string id="st_af_empty_descr">
+		<text>
+		Two discs of organic origin, suspended in a mirrored state against one another. Any attempt at changing the position of one without the other is made practically impossible due to a gravitational force emerging from the empty space between the discs. As a result the artifact can be used as a crude ballistic shield. To sustain itself Empty drains energy from nearby living things and electric currents. Scientists believe that the artifact emits psionic waves and radiation as a result of its metabolic processes and experienced stalkers wear it in pair with psy resitance artifacts to counter its drain on mental health. All those mysterious properties made it a valuable trophy for artefact hunters, whether they want it for personal use or to sell it for a hefty price.\n \nRadiation output is average on the artefact radiation scale.
+		</text>
+	</string> 
+ 	
+	<string id="st_af_full_empty_name">
+		<text>Full Empty</text>
+	</string>  
+	<string id="st_af_full_empty_descr">
+		<text>
+		Full Empty is a very rare result of Empty’s interaction with other gravitational fields. It is believed that anomalous gravitational hyperactivity during an emission is able to overcome Empty’s own force field and thrust matter between the two discs. The artefact becomes very heavy due to high density of the new content that is suspended and unable to escape the centre. Scientists determined that the inside of Full Empty is very likely to be of organic origin, suggesting the possibility of mutants being pulled into the artefact and turned into a molecular mush. Rumors started spreading about stalkers themselves getting sucked inside their own Empties, probably in hopes of swindling some scared folk out of their artefacts for cheap. Besides the excessive weight, Full Empty gained an even stronger gravitational force of its own, while changing the output of negative psi waves into a positive one, together with an increased emission of radioactive particles.\n \nRadiation output is high on the artefact radiation scale.
+		</text>
+	</string> 
+	
+	<string id="st_af_night_star_name">
+		<text>Nightstar</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>
+		This glowing artefact can generate a local directed low-gravity field. Widely used by stalkers along with Gravi, a similar artefact, to increase maximum load.
+		\nDue to its beautiful inner core it is highly sought after by jewellers all over the world, however it is best to proceed with caution as unskilled treatment can cause the artefact to explode with power sufficient to level a small building. It is thus highly advised to perform the polishing by means of specialised machinery, which minimises the probability of explosion. Moreover, only the outer core of the artefact emits radiation.
+		\nNightstar will also absorb toxic and chemical agents from the environment, which makes it a valuable artefact for artefact hunters, although the amount of toxicity absorbed is negligible. It is, however, relatively cheap and even stalkers with pretty tight budgets can afford it if opportunity to buy it arises. 
+		\nThat being said, Nightstar emits odour of burning flesh when in the closest proximity of heat source. Prolonged exposure may enhance its flammability and cause it to ignite.
+		\n \nRadiation output is low on the artefact radiation scale.
+		</text>
+	</string>
+	
+	<string id="st_af_gravi_name">
+		<text>Gravi</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>
+		Gravi is formed from metallic substances exposed to prolonged gravitation. This makes it capable of sustaining an powerful anti-gravitational field, which causes it to have various properties, among others reducing weight of all objects in its close proximity. For a long time, the artefact was a mystery, and it was scientist Sakharov at Yantar who first discovered that Gravi creates a minute singularity field of anti-gravitational nature, the phenomenon which occurs in intervals of 30 minutes.
+		\nA dangerous effect of this artefact is the fact that it will increase electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies.
+		\nAnother downside is that it will increase the negative effects of psy-waves and is a potent conductor.
+		\n \nRadiation output is average on the artefact radiation scale.
+		</text>
+	</string>
+	
+	<string id="st_af_gold_fish_name">
+		<text>Goldfish</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>
+		Goldfish gained its name due to its looks and rarity. It is believed that the artefact is created when a very strong electrical current is met with an extreme temperature. Some stalkers try to note down lighting strikes hitting near certain anomaly fields in hopes of finding one of these, despite the method being doubted by many. Those desperate attempts are, however, justified - Goldfishes fetch a great price due to their low radiation output and ability to generate a very strong, focused, gravitational force. The most rudimentary use for such property is to lessen the strain a heavy backpack has on your back, but it’s best to avoid using it while exploring unfamiliar areas. The artefact accelerates solid objects traveling near it, making bullets, claws and shrapnels pose a much bigger threat. It also attracts radioactive particles from the air, which increases the likelihood of radiation sickness occurring. One extra thing of note is the fact that many stalkers consider the artefact to be their “lucky charm” that helps them stay calm, however that supposed property remains to be confirmed by scientific research.
+		\n \nRadiation output is surprisingly low on the artefact radiation scale.
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_glassbeads_name">
+		<text>Mama's Beads</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>
+		Shaped like a DNA helix, Mama's Beads are created near the anomalous thermo-chemical fields. One of their most characteristic features is that they constantly pulsate, generating emissions beneficial to the human body. These emissions increase the metabolism of any living creature, accelerating coagulation and healing of wounds. The mechanism behind the effects of this artefact is still unknown.
+		\nMama's Beads also possess potent protective qualities: they are able to shield the body from heat by increasing its thermo-regulation.
+		\nOn the other hand, it should be noted that the presence of this artefact increases electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies.
+		\nThe weight is also quite high for such a small artefact, which leads to a conclusion that is of high density.
+		\n \nRadiation output is low on the artefact radiation scale.
+		</text>
+	</string>
+	
+	<string id="st_af_eye_name">
+		<text>Olho</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>
+		Este artefato, que se assemelha ao olho humano, aumenta consideravelmente o metabolismo do corpo, ajudando na cicatrização mais rápida de ferimentos. Stalkers experientes dizem que o Olho também traz sorte. Independentemente da validade dessa afirmação, seus efeitos positivos são realmente bastante potentes.
+		\nEste artefato alivia a dor e é extremamente útil no tratamento de feridas.
+		\nQuando usado, é conhecido por contrariar levemente os efeitos nocivos de anomalias psi ou ondas psi de certos mutantes.
+		\nEssas qualidades benéficas, no entanto, têm um preço. Este artefato é extremamente perigoso quando exposto a anomalias químicas, pois amplifica sua toxicidade e aumenta sua potência. Por isso, é altamente recomendável manter o artefato em sua mochila, nunca no corpo, ao explorar áreas tóxicas, a menos que você tenha um desejo de morte.
+		\nO artefato também é conhecido coloquialmente como "olho de cobre", pois conduz eletricidade e amplifica seus efeitos perigosos da mesma forma que o cobre.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_fire_name">
+		<text>Chama</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>
+		Este artefato se forma em áreas de alta atividade elemental. Produz poderosas emissões infravermelhas que intensificam os processos metabólicos, curando feridas diante dos olhos de seu portador.
+		\nSuas capacidades de cura são ainda mais fortes do que no caso do Olho, pois dizem que stalkers em posse deste artefato sobreviveram a ferimentos causados por quimeras. Graças a isso, ganhou a reputação de um artefato milagroso.
+		\nMuitos stalkers devem suas vidas a ele, e a maioria dos caçadores veteranos de mutantes o carrega caso encontrem perigo. No entanto, compartilha não apenas propriedades positivas, mas também negativas de seu primo: entrar em um campo psi com este artefato no cinto é suicídio. Ele absorverá energia psi e a emitirá a uma taxa considerável.
+		\nAlém disso, é altamente aconselhável proceder com cautela ao planejar levar o artefato ao mercado, pois a exposição prolongada a quantidades mínimas de materiais radioativos pode resultar na morte do usuário.
+		\nTambém pode ser usado como uma espécie de kit médico reutilizável, já que cura feridas muito rapidamente.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_battery_name">
+		<text>Bateria</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>
+		\nO artefato é bastante popular na Zona e é valorizado por seus residentes e visitantes por suas propriedades energizantes, embora tenha um efeito adverso no corpo quando usado por períodos prolongados.
+		\nDeve-se notar, no entanto, que este artefato dificulta a coagulação do sangue e aumenta a taxa de sangramento de feridas abertas. Por outro lado, sendo um poderoso resistor, é bem conhecido por sua capacidade de proteger seu usuário de doses letais de eletricidade.
+		\nSendo um artefato de natureza elétrica, é bem conhecido por sua capacidade de proteger seu usuário de doses letais de eletricidade. Por outro lado, deve-se notar que a Bateria absorve calor e é capaz de transmiti-lo a outros objetos.
+		\nEste artefato também é extremamente leve e muito portátil.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_dummy_name">
+		<text>Concha</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>
+		A Concha é composta por dois discos de cor azulada conectados por material semitransparente de natureza desconhecida.
+		\nEste estranho artefato foi considerado desprovido de quaisquer propriedades úteis por muitos cientistas por muito tempo. Apenas recentemente foi descoberto que é realmente bastante benéfico.
+		\nQuando o artefato entra em contato com o corpo, fará com que a pessoa se sinta rejuvenescida e, assim, aumenta a recuperação de resistência. Este efeito, em alguns stalkers, induziu hiperatividade. Uma desvantagem deste artefato, no entanto, é que ele reduz o número de plaquetas no sangue, aumentando assim a taxa de sangramento.
+		\nFornece um nível considerável de proteção psi e absorve interferência eletromagnética, atuando como material de aterramento.
+		\nPegará fogo quando exposto a chama aberta ou até mesmo entrará em combustão espontânea. Deve-se ter cuidado ao se aproximar de fontes de calor com este artefato.
+		\nA Concha é extremamente leve e muito portátil.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_ice_name">
+		<text>Floco de Neve</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>
+		Também conhecido coloquialmente como "Floco de Neve Radioativo". À primeira vista, este artefato se assemelha a um Kolobok branco.
+		\nGraças às suas propriedades únicas, o artefato pode aumentar significativamente o tônus muscular do portador, melhorando assim muito a recuperação de resistência. Devido à sua alta radioatividade, stalkers em sua posse são às vezes chamados jocosamente de "Flocos de Neve Radioativos".
+		\nQuando confrontado com a decisão de carregá-lo no cinto durante uma missão, você deve pesar cuidadosamente seus prós e contras: vale a pena ter maior resistência e alta proteção contra eletricidade ao custo de estar constantemente exposto à sua radiação mortal? Mesmo que você esteja determinado a levá-lo com você, deve-se notar que não deve ser usado em longas excursões à Zona.
+		\nFloco de Neve, no entanto, tem uma grande desvantagem: interage com fontes de energia circundantes absorvendo e amplificando seus efeitos. Por esta razão, aproximar-se de fontes de calor, áreas tóxicas e campos psi enquanto segura este artefato é suicídio.
+		\nÉ tão leve quanto um floco de neve e muito fácil de carregar.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_soul_name">
+		<text>Alma</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>
+		Alma é um artefato orgânico único com propriedades igualmente únicas: secreta uma gosma viscosa que aumenta dramaticamente a taxa de recuperação de feridas. Graças ao seu preço razoável e aparência atraente, este artefato é um item valioso para colecionadores.
+		\nAplicar sua substância pegajosa em feridas alivia a dor e acelera o processo de cura.
+		\nTambém reduz os efeitos das ondas psi e seus danos ao cérebro. Mas deve-se saber que a Alma drena energia de seu usuário. O artefato não tem alta densidade e, portanto, não é muito pesado.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_fuzz_kolobok_name">
+		<text>Kolobok</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>
+		Um artefato relativamente raro que se forma em áreas químicas, o Kolobok é altamente valorizado por sua capacidade de curar a maioria dos tipos de feridas e parar sangramentos em questão de minutos.
+		\nPor razões desconhecidas, cientistas estão espalhando rumores entre stalkers de que o artefato modifica o código genético do portador, o que não é comprovado e deve ser considerado como uma tentativa consciente de monopolizar o fornecimento do artefato pela comunidade científica. Isso não significa, no entanto, que seja completamente inofensivo.
+		\nUma desvantagem deste artefato é o fato de que ele interagirá com partículas radioativas, então é melhor evitar campos de radiação quando estiver em posse do artefato, especialmente porque seus efeitos negativos não são equilibrados com os positivos. Também reduzirá a recuperação de energia, que é o resultado de seus apêndices pontiagudos como agulhas. As agulhas causam feridas pequenas e de rápida cicatrização que trazem dor constante e coceira, reduzindo assim a resistência.
+		\nEste artefato também enfraquece a proteção contra calor e ácidos devido à sua alta inflamabilidade.
+		\nLeve e não muito pesado para carregar.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_glass_name">
+		<text>Lanterna</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>
+		Lanterna é um dos artefatos mais procurados. Muitos caçadores de artefatos experientes nunca tiveram a chance de olhar para um, muito menos encontrá-lo. O belo espetáculo de luzes emitidas por ele é combinado com propriedades igualmente maravilhosas. Uma única Lanterna pode trazer uma pessoa moribunda da beira da morte em questão de minutos. Alguns estudos relataram que pode até reverter os processos de envelhecimento das células, possivelmente tornando alguém eternamente jovem. Isso, por sua vez, fez a demanda e, consequentemente, os preços atingirem o absurdo no mundo exterior. Tudo isso, no entanto, não vem sem desvantagens. O artefato exige grandes quantidades de energia de seu hospedeiro, fazendo com que o usuário fique extremamente exausto mesmo após realizar o exercício mais básico. Também parece ter efeito adverso na estrutura óssea – o esqueleto do usuário se torna excepcionalmente frágil, causando fraturas mesmo com lesões muito leves. Como tal, Lanternas só devem ser usadas quando absolutamente necessário, em ambiente seguro.\n \nNão tem emissão de radiação.
+		</text>
+	</string>
+	
+	<string id="st_af_compass_name">
+		<text>Bússola</text>
+	</string>
+	<string id="st_af_compass_descr">
+		<text>
+		Um artefato muito raro. Já faz alguns anos desde que um foi encontrado.
+		\nPode localizar lacunas em campos de anomalia. Acredita-se que pode ajudar alguém a atravessar os campos de anomalia mais complexos completamente ileso. No entanto, muito poucos sabem como manuseá-lo adequadamente.
+		\nA Bússola mostrou algumas propriedades únicas nos últimos experimentos. Pode interagir com objetos em movimento, fazendo com que alguns desapareçam completamente. Ou talvez se teletransportem?
+		\nTambém enfraquece o corpo drenando resistência e aumentando a taxa de sangramento constantemente. Mas o maior problema, no entanto, é a perigosa emissão de radiação que este artefato emite em comparação com a escala de radiação de artefatos.
+		\nSegurar este artefato perto do corpo causará morte em questão de poucos minutos.
+		</text>
+	</string>
+	
+	<string id="st_af_oasis_heart_name">
+		<text>Coração do Oásis</text>
+	</string>
+	<string id="st_af_oasis_heart_descr">
+		<text>
+		Este artefato foi encontrado no centro do lendário Oásis. Parece que o Coração é uma planta cristalizada, que adquiriu as propriedades curativas do Oásis.
+		\nNão só aumenta dramaticamente a taxa de recuperação de feridas e o processo de cura, mas também fornece ao corpo uma forte fonte de energia. É um verdadeiro milagre.
+		\nDito isso, o Oásis é muito sensível a fontes externas de energia e ao ambiente circundante. Por esta razão, interagir com campos de anomalia trará morte ao portador.
+		\n \nA emissão de radiação é a mais alta na escala de radiação de artefatos.
+		</text>
+	</string>
+	
+	<string id="st_af_death_lamp_name">
+		<text>Lâmpada da Morte</text>
+	</string>  
+	<string id="st_af_death_lamp_descr">
+		<text>
+		"Grande, vermelha e amaldiçoada."
+		\nÉ assim que os locais preferem descrever a Lâmpada da Morte, enquanto alguns se referem a ela como a "Semente de Satã". Muitos comerciantes acreditam nos rumores que cercam o artefato, recusando-se assim a comprá-lo.
+		Pouco se sabe sobre suas origens, e nada de valor foi descoberto até agora.
+		\nA Lâmpada da Morte foi descoberta pela primeira vez há alguns anos por um grupo de três stalkers experientes. Pouco depois de entregar o artefato aos Ecologistas em Yantar, dois deles foram encontrados mortos com uma expressão horrível em seus rostos. Nada se sabe sobre o destino do terceiro stalker.
+		\nApós o acidente, membros da equipe científica que estudaram o artefato relataram ter distúrbios de pesadelo nos dias seguintes.
+		\nAlém dos efeitos misteriosos, o artefato drena vitalidade e força de vontade do usuário, frequentemente em uma escala que induz tontura e, em casos extremos, faz com que o usuário desmaie.
+		\n \nA emissão de radiação é a mais alta na escala de radiação de artefatos.
+		</text>
+	</string> 
+	
+	<string id="st_af_monolith_name">
+		<text>Esmeralda Volat</text>
+	</string>
+	<string id="st_af_monolith_descr">
+		<text>As origens de artefatos como este são um mistério, pois raramente são encontrados fora das partes mais ao norte da Zona.
+		\nEste artefato único projeta um campo sem contato que inibe fenômenos anômalos próximos. Isso concede ao usuário um nível notável de proteção contra a maioria dos perigos ambientais da Zona. Também é um dos poucos artefatos ativos que podem ser manuseados com segurança sem contêineres de chumbo.
+		No entanto, quando você o segura, sua carne fica seca e escamosa, seus ossos duros e rígidos, os ligamentos em suas articulações rangentes e quebradiços. Armadura espessa ou grande vitalidade sobrenatural seria necessária para qualquer um que pretenda usar este artefato em batalha.</text>
+	</string>
+	
+	<string id="st_af_black_name">
+        <text>Pedra Negra</text>
+    </string>
+    <string id="st_af_black_descr">
+        <text>Verdadeiramente, uma coisa incrível. A Pedra Negra protege contra adversidades amplamente consideradas, mas em vez disso está matando lentamente o proprietário. Alguns stalkers suspeitam que o artefato é um fragmento do Monólito.</text>
+    </string>
+	
+	<!-- MLR -->
+	<string id="st_af_misery_bread_name">
+		<text>Pão anômalo</text>
+	</string>
+	<string id="st_af_misery_bread_descr">
+		<text>Um pedaço de pão tão escuro quanto a alma da pessoa que o deixou.\n \n%c[ui_gray_2]PROPRIEDADES:\n%c[ui_white] • %c[ui_gray_2] artefato\n%c[d_cyan] • %c[ui_gray_2] anexável</text>
+	</string>
+</string_table>

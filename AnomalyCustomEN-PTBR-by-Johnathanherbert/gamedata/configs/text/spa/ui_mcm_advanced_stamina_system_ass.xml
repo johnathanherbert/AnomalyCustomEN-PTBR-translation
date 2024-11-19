@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_advanced_stamina_system_title">
+		<text>Sistema Avançado de Stamina</text>
+	</string>
+	<string id="ui_mcm_menu_advanced_stamina_system">
+		<text>ASS</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_satiety_limit">
+		<text>Ativar limite de stamina por saciedade</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_satiety_limit_modifier">
+		<text>Modificador do limite de saciedade</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_blood_loss_limit">
+		<text>Ativar limite de saúde dependendo do nível de sangue</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_blood_loss_limit_desc">
+		<text>Ao receber um sangramento, seu personagem perderá sangue, o que reduzirá o máximo de saúde possível. Para restaurar o limite, você precisa comer uma refeição substancial, ou melhor ainda, comer uma barra de proteína ou usar uma seringa de glicose</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_blood_loss_limit_modifier">
+		<text>Modificador de perda de sangue</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_thirst_drain">
+		<text>Ativar drenagem e aumento de stamina por sede</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_thirst_drain_desc">
+		<text>Sem sede você recebe um aumento de stamina que diminui linearmente com o aumento da sede. A partir do ícone cinza você recebe penalidade</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_thirst_drain_modifier">
+		<text>Modificador de efeito</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_sleep_drain">
+		<text>Ativar drenagem e aumento de stamina por sono</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_sleep_drain_desc">
+		<text>Sem sono você recebe um aumento de stamina que diminui linearmente com o aumento do sono. A partir do ícone cinza você recebe penalidade</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_sleep_drain_modifier">
+		<text>Modificador de efeito</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_uphill_drain">
+		<text>Ativar drenagem e aumento de stamina ao subir/descer uma colina</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_uphill_drain_modifier">
+		<text>Modificador de efeito</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_uphill_speed_modifier">
+		<text>Ativar modificador de velocidade ao subir/descer uma colina</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_uphill_speed_modifier_modifier">
+		<text>Modificador de efeito</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_material_drain">
+		<text>Ativar drenagem e aumento de stamina baseado no material sob os pés</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_material_drain_modifier">
+		<text>Modificador de efeito</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_stamina_speed_modifier">
+		<text>Ativar modificador de velocidade baseado na stamina</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_stamina_speed_modifier_desc">
+		<text>Com a diminuição da stamina sua velocidade será reduzida, começando a partir do meio da barra de stamina</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_stamina_speed_modifier_modifier">
+		<text>Modificador de efeito</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_debug_mode">
+		<text>Modo de depuração</text>
+	</string>
+	
+</string_table>

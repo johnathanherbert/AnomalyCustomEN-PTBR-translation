@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Itens da facção Sin
+-->
+
+<string_table>
+
+	<string id="helm_induction">
+		<text>Máscara da Indução</text>
+	</string>
+	<string id="helm_induction_descr">
+		<text>%c[ui_gray_1]Esta máscara de gás, baseada no modelo GP-10, foi projetada para ser usada pelos iniciados do Sin. Usá-la faz você se sentir estranhamente tranquilo... a salvação finalmente está chegando!\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] efeito de cura passiva\n
+		</text>
+	</string>
+
+	<string id="st_yellow_herb">
+		<text>Erva da Pureza</text>
+	</string>
+	<string id="st_yellow_herb_descr">
+		<text>Suplementos herbais amarelos especiais desenvolvidos pelos alquimistas do Sin. Capaz de limpar completamente o sistema de toxinas, embora tenha um custo, como dizem os sacerdotes do Sin, "Primeiro, haverá dor. Depois, haverá escuridão."\n \n
+		%c[d_red]AVISO:\n \n%c[default]Certifique-se absolutamente que sua saúde está em boas condições antes do uso. Se sua vontade for fraca, você morrerá.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] medicamento\n
+		%c[d_blue] • %c[ui_gray_2] item sagrado\n
+		%c[d_blue] • %c[ui_gray_2] uso rápido (erva)\n
+		%c[d_red] • %c[ui_gray_2] causa dor imensa ao consumir\n
+		%c[d_red] • %c[ui_gray_2] tempo prolongado de recuperação do corpo\n
+		</text>
+	</string>
+
+	<string id="st_green_herb">
+		<text>Erva da Existência</text>
+	</string>
+	<string id="st_green_herb_descr">
+		<text>Suplementos herbais verdes especiais. Usado em campo pelos membros do Sin para fins medicinais. Dizem que regenera rapidamente o tecido danificado através de um processo radioativo desconhecido.\n \n
+		%c[ui_gray_3]CURA:\n
+		%c[d_red] • %c[ui_gray_2] Restaura 2%hp/s, total 100%\n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] medicamento\n
+		%c[d_blue] • %c[ui_gray_2] valioso\n
+		%c[d_blue] • %c[ui_gray_2] item sagrado\n
+		%c[d_blue] • %c[ui_gray_2] uso rápido (erva)\n
+		%c[d_red] • %c[ui_gray_2] tempo prolongado de recuperação do corpo\n
+		</text>
+	</string>
+
+	<string id="st_red_herb">
+		<text>Erva do Sangue</text>
+	</string>
+	<string id="st_red_herb_descr">
+		<text>Ervas trituradas em forma de pílula. Tratadas por meios desconhecidos pelos alquimistas do Sin. Aumenta o metabolismo e o foco, levando a um melhor desempenho durante combate e viagens prolongadas. Dizem induzir uma sensação de calma e clareza.\n \n
+		%c[ui_gray_3]CURA:\n
+		%c[d_red] • %c[ui_gray_2] Restaura 0.04%hp/s, total 100%\n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] medicamento\n
+		%c[d_blue] • %c[ui_gray_2] item sagrado\n
+		%c[d_blue] • %c[ui_gray_2] uso rápido (erva)\n
+		%c[d_blue] • %c[ui_gray_2] longa duração\n
+		%c[d_red] • %c[ui_gray_2] pode induzir uma sensação temporária de náusea em alguns indivíduos\n
+		</text>
+	</string>
+
+	<string id="st_holy_bandage">
+		<text>Bandagem Abençoada</text>
+	</string>
+	<string id="st_holy_bandage_descr">
+		<text>Uma bandagem elástica usada para estancar sangramento e prevenir infecção de ferimentos. Foi levemente revestida com uma substância especial para purificar o local da lesão.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item de primeiros socorros\n
+		%c[d_blue] • %c[ui_gray_2] uso rápido (curativo adesivo)\n
+		%c[d_blue] • %c[ui_gray_2] item sagrado\n
+		%c[d_red] • %c[ui_gray_2] levemente alcoólico\n
+		</text>
+	</string>
+
+	<string id="mutant_god_hand">
+		<text>Mão de Deus</text>
+	</string>
+	<string id="mutant_god_hand_description">
+		<text>Uma mão decepada. É considerada entre os membros do Sin como um amuleto da sorte.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] parte do corpo mutante\n
+		%c[d_cyan] • %c[ui_gray_2] item sagrado\n</text>
+	</string>
+	
+	<string id="st_elixir_sleep">
+		<text>Elixir do Sono</text>
+	</string>
+	<string id="st_elixir_sleep_descr">
+		<text>O Elixir do Sono é uma bebida que melhora a conexão com a Consciência-Total, induzindo um estado de profunda calma.\n \n
+		%c[ui_gray_3]NOTA:\n \n
+		%c[ui_gray_1]Embora esta bebida seja produzida pelo Sin, não tem efeitos negativos em não-membros do Sin.\n \n
+		%c[ui_gray_3]CURA:\n
+		%c[d_red] • %c[ui_gray_2] Restaura 1%hp/s, total 100%\n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] bebida\n
+		%c[d_blue] • %c[ui_gray_2] depressivo\n
+		%c[d_blue] • %c[ui_gray_2] medicamento\n
+		%c[d_blue] • %c[ui_gray_2] item sagrado\n
+		%c[d_red] • %c[ui_gray_2] substância muito forte\n
+		</text>
+	</string>
+
+	<string id="st_elixir_small">
+		<text>Elixir do Iniciado</text>
+	</string>
+	<string id="st_elixir_small_descr">
+		<text>O Elixir é uma bebida que purifica a alma e fornece nutrição e força àqueles que deus considera dignos. Você recebeu esta garrafa como um iniciado do Sin, e nas palavras dos grandes volkhevs, "Prepare-se para receber este presente divino."\n \n
+		%c[ui_gray_3]NOTA:\n \n
+		%c[ui_gray_1]Esta bebida é extremamente complicada de criar, e apenas os alquimistas de alto nível do Sin são capazes de ter uma chance de fazê-la corretamente. Se o processo de criação do Elixir for errado em qualquer ponto, o resultado é uma substância altamente tóxica e perigosa, capaz de mutar qualquer indivíduo muito além do ponto de retorno, matando-o lenta e dolorosamente.\n \n
+		%c[ui_gray_3]CURA:\n
+		%c[d_red] • %c[ui_gray_2] Restaura 1.8%hp/s, total 60%\n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] bebida\n
+		%c[d_blue] • %c[ui_gray_2] estimulante\n
+		%c[d_blue] • %c[ui_gray_2] medicamento\n
+		%c[d_blue] • %c[ui_gray_2] item sagrado\n
+		</text>
+	</string>
+
+	<string id="st_elixir">
+		<text>O Elixir</text>
+	</string>
+	<string id="st_elixir_descr">
+		<text>Fortaleça sua determinação.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] bebida\n
+		%c[d_blue] • %c[ui_gray_2] medicamento\n
+		%c[d_blue] • %c[ui_gray_2] item sagrado\n
+		%c[d_red] • %c[ui_gray_2] substância muito forte\n
+		%c[d_red] • %c[ui_gray_2] causa um obscurecimento de consciência de curto prazo\n
+		</text>
+	</string>
+
+	<string id="st_elixir_bad">
+		<text>Elixir Corrompido</text>
+	</string>
+	<string id="st_elixir_bad_descr">
+		<text>O Elixir é uma bebida que, segundo o Sin, "purifica a alma e fornece nutrição e força àqueles que deus considera dignos." É extremamente perigoso e tóxico para seres humanos normais, sem mencionar seu uso na lavagem cerebral de stalkers inocentes para se juntarem àquele culto terrível.\n \n
+		%c[d_red]AVISO:\n \n%c[default]Contém compostos que certamente o matarão. Melhor não beber.\n \n
+		%c[ui_gray_3]NOTA:\n \n
+		%c[ui_gray_1]Esta bebida é frequentemente encontrada em membros mortos do Sin. Embora este exemplar esteja estragado, ainda pode ser vendido por um preço decente para Ecologistas e membros do Clear Sky.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] bebida\n
+		%c[d_red] • %c[ui_gray_2] substância muito forte\n
+		%c[d_red] • %c[ui_gray_2] causa um obscurecimento de consciência de longo prazo\n
+		%c[d_red] • %c[ui_gray_2] extremamente letal\n
+		</text>
+	</string>
+
+</string_table>

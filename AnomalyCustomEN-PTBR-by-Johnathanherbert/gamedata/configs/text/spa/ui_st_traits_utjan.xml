@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_traits_use_respec">
+		<text>Beber</text>
+	</string>
+	<string id="st_itm_desc_trait_respec">
+		<text>Sunset Sarsaparilla é uma bebida gaseificada de salsaparrilha. \n
+A Sunset Sarsaparilla Company foi fundada em 1918, tornando-se conhecida desde então nos antigos Estados Unidos por seu refrigerante com sabor de salsaparrilha.
+\n\n
+%c[ui_gray_3]CARACTERÍSTICAS:\n
+%c[d_blue] • %c[ui_gray_2] Beber \n
+%c[d_blue] • %c[ui_gray_2] Importar \n
+%c[d_blue] • %c[ui_gray_2] Boa qualidade \n
+%c[d_red] • %c[ui_gray_2] Pode causar insuficiência renal \n
+\n\n
+%c[ui_gray_3]Beba isto para redefinir seus recursos</text>
+	</string>
+	<string id="st_itm_name_trait_respec">
+		<text>Sunset Sarsaparilla</text>
+	</string>
+
+	<string id="st_btn_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="st_btn_disable">
+		<text>Desativar</text>
+	</string>
+	
+	<string id="st_btn_learn">
+		<text>Aprender</text>
+	</string>
+	<string id="st_btn_learn_learned">
+		<text>Aprendido</text>
+	</string>
+	<string id="st_btn_learn_locked">
+		<text>Bloqueado</text>
+	</string>
+	
+	<string id="st_requires_trait">
+		<text>Requer a característica</text>
+	</string>
+	
+	<string id="st_traits_reminder">
+		<text>Você tem pontos de característica não gastos!</text>
+	</string>
+	
+	<string id="st_traits_title">
+		<text>Características</text>
+	</string>
+	
+	<string id="st_traits_total_level">
+		<text>Nível total</text>
+	</string>
+	
+	<string id="st_traits_avail_txt">
+		<text>Pontos de característica:</text>
+	</string>
+	
+	<string id="st_trait_name_strong_back">
+		<text>Costas Fortes</text>
+	</string>
+	<string id="st_trait_desc_strong_back">
+		<text>"Você tem costas extra fortes para carregar equipamentos"\n \nAumenta seu peso transportável em 4 kg</text>
+	</string>
+	
+	<string id="st_trait_name_pack_mule">
+		<text>Mula de Carga</text>
+	</string>
+	<string id="st_trait_desc_pack_mule">
+		<text>"Você não precisa sempre pegar todo o saque..."\n \nAumenta seu peso transportável em 8 kg \n Reduz sua velocidade de corrida em 4%</text>
+	</string>
+
+	<string id="st_trait_name_strider">
+		<text>Andarilho</text>
+	</string>
+	<string id="st_trait_desc_strider">
+		<text>"Tenho que andar rápido... \n Não quero me atrasar para a reunião"\n \nAumenta sua velocidade de movimento em 6% \n Reduz seu peso transportável em 1 kg</text>
+	</string>
+	
+	<string id="st_trait_name_sprinter">
+		<text>Velocista</text>
+	</string>
+	<string id="st_trait_desc_sprinter">
+		<text>"Tenho que correr rápido... \n Não quero ser pego por uma emissão"\n \nAumenta sua velocidade de corrida em 8% \n Reduz seu peso transportável em 2 kg</text>
+	</string>
+	
+	<string id="st_trait_name_mutant_resist">
+		<text>Pele Dura</text>
+	</string>
+	<string id="st_trait_desc_mutant_resist">
+		<text>"Sua pele ficou endurecida por lutar contra mutantes"\n \nMutantes causam 10% menos dano</text>
+	</string>
+	
+	<string id="st_trait_name_melee_mutant">
+		<text>Caçador de Mutantes</text>
+	</string>
+	<string id="st_trait_desc_melee_mutant">
+		<text>"Por que desperdiçar balas quando você pode esfaquear?"\n \nVocê causa 15% mais dano corpo a corpo aos mutantes</text>
+	</string>
+	
+	<string id="st_trait_name_faction_cashback_self">
+		<text>Rosto Amigável</text>
+	</string>
+	<string id="st_trait_desc_faction_cashback_self">
+		<text>"Os comerciantes da sua facção ficam sempre felizes em ver você"\n \nVocê consegue preços 5% melhores com os comerciantes da sua própria facção</text>
+	</string>
+	
+	<string id="st_trait_name_faction_cashback_other">
+		<text>Comerciante Errante</text>
+	</string>
+	<string id="st_trait_desc_faction_cashback_other">
+		<text>"Você sabe negociar com estranhos"\n \nVocê consegue preços 5% melhores de comerciantes que não são da sua facção</text>
+	</string>
+	
+	<string id="st_trait_name_psy_resist_controller">
+		<text>Mente Cansada</text>
+	</string>
+	<string id="st_trait_desc_psy_resist_controller">
+		<text>"Sua mente não é a mesma de quando você entrou na Zona..."\n \nOs ataques psíquicos dos Controllers causam 25% menos dano</text>
+	</string>
+	
+	<string id="st_trait_name_tinkering_armor">
+		<text>Fabricante de Armadura</text>
+	</string>
+	<string id="st_trait_desc_tinkering_armor">
+		<text>"Se você não quer consertar sua armadura com tanta frequência, tente não ser atingido"\n \nVocê tem 15% mais probabilidade de não gastar o uso de seu kit de reparo ao consertar armaduras e capacetes</text>
+	</string>
+	
+	<string id="st_trait_name_tinkering_weapon">
+		<text>Armeiro</text>
+	</string>
+	<string id="st_trait_desc_tinkering_weapon">
+		<text>"Matar Tushkans no carro prejudica a arma"\n \nVocê tem 15% mais chances de não gastar o uso do seu kit de reparo ao consertar armas</text>
+	</string>
+	
+	<string id="st_trait_name_medicine_boost">
+		<text>Medicamento</text>
+	</string>
+	<string id="st_trait_desc_medicine_boost">
+		<text>"Parabéns, você encontrou a cura para buracos de bala"\n \nAo usar um item médico, você ganha 10% do total de saúde e radiação restaurada como bônus</text>
+	</string>
+	
+	<string id="st_trait_name_mag_loading_bonus">
+		<text>Carregador Rápido</text>
+	</string>
+	<string id="st_trait_desc_mag_loading_bonus">
+		<text>"Pegue um monte de balas e coloque-as lá dentro"\n \nVocê insere balas em carregadores 25% mais rápido</text>
+	</string>
+	
+	<string id="st_trait_name_mag_unloading_bonus">
+		<text>Acumulador de Balas</text>
+	</string>
+	<string id="st_trait_desc_mag_unloading_bonus">
+		<text>"Você acha que é uma boa ideia descarregar compulsivamente qualquer carregador que encontrar"\n \nVocê remove balas dos carregadores 30% mais rápido</text>
+	</string>
+
+	<string id="st_trait_name_lockpicking_bonus">
+		<text>Chaveiro</text>
+	</string>
+	<string id="st_trait_desc_lockpicking_bonus">
+		<text>"O que está na caixa?"\n \nDificuldade da Caixa de Recompensa reduzida em 10%</text>
+	</string>
+	
+	<string id="st_trait_name_melee_defense">
+		<text>Corpo a Corpo Defensivo</text>
+	</string>
+	<string id="st_trait_desc_melee_defense">
+		<text>"De alguma forma, sacar a faca faz com que até as explosões doam menos"\n \nVocê sofre 20% menos dano de golpes físicos enquanto empunha uma arma corpo a corpo</text>
+	</string>
+	
+	<string id="st_trait_name_lone_stalker">
+		<text>Stalker Solitário</text>
+	</string>
+	<string id="st_trait_desc_lone_stalker">
+		<text>"Quem precisa de amigos?"\n \nQuando você não tem companheiros, seu peso aumenta em 5 kg e você sofre 10% menos dano</text>
+	</string>
+	
+	<string id="st_trait_name_squad_leader">
+		<text>Líder de Esquadrão</text>
+	</string>
+	<string id="st_trait_desc_squad_leader">
+		<text>"Explorar a Zona é mais seguro quando você tem carne... um esquadrão!"\n \nSeus companheiros causam 15% mais dano e recebem 25% menos dano</text>
+	</string>
+	
+	<string id="st_trait_name_small_guns_reload">
+		<text>Pistoleiro</text>
+	</string>
+	<string id="st_trait_desc_small_guns_reload">
+		<text>"Arma na mão... e carregadores"\n \nRecarregue pistolas e submetralhadoras 25% mais rápido</text>
+	</string>
+	
+	<string id="st_trait_name_big_guns_reload">
+		<text>Especialista em Armas Longas</text>
+	</string>
+	<string id="st_trait_desc_big_guns_reload">
+		<text>"Que necessidade você tem de recarregar em combate total depois de disparar apenas 2 balas de um carregador de 30 tiros?"\n \nRecarregue rifles, fuzis de precisão e espingardas 15% mais rápido</text>
+	</string>
+	
+	<string id="st_trait_name_sidearm_quickdraw">
+		<text>Saque Rápido</text>
+	</string>
+	<string id="st_trait_desc_sidearm_quickdraw">
+		<text>"Lembre-se, sacar sua pistola é sempre mais rápido do que recarregar"\n \nVocê guarda armas que não sejam pistolas no coldre 25% mais rápido e saca pistolas 50% mais rápido</text>
+	</string>
+	
+	<string id="st_trait_name_butcher">
+		<text>Açougueiro</text>
+	</string>
+	<string id="st_trait_desc_butcher">
+		<text>"Corte cuidadosamente o cadáver mutante para tirar o máximo proveito dele"\n \nVocê tem 50% de chance de obter uma parte mutante adicional ao esfolar</text>
+	</string>
+	
+	<string id="st_trait_name_tinkering_parts">
+		<text>Restaurador de Peças</text>
+	</string>
+	<string id="st_trait_desc_tinkering_parts">
+		<text>"Os stalkers invejam seu equipamento impecável"\n \nVocê tem 25% mais probabilidade de não desperdiçar o uso de seu kit de reparo ao consertar peças e ferramentas</text>
+	</string>
+	
+	<string id="st_trait_name_pain_rush">
+		<text>Adrenalina</text>
+	</string>
+	<string id="st_trait_desc_pain_rush">
+		<text>"AAAAAAAHHH!"\n \nVocê se move mais rápido por 10 segundos quando sofre dano \n Até 25% mais rápido</text>
+	</string>
+	
+	<string id="st_trait_name_pain_train">
+		<text>Trem da Dor</text>
+	</string>
+	<string id="st_trait_desc_pain_train">
+		<text>"AAAAAAAAAAAHHHHHHHHHH!!!" \n \nO bônus de Adrenalina também concede até 5% de regeneração de resistência por segundo \n Adrenalina dura 5 segundos a mais</text>
+	</string>
+	
+	<string id="st_trait_name_predator">
+		<text>Predador</text>
+	</string>
+	<string id="st_trait_desc_predator">
+		<text>"Não tenho tempo para sangrar"\n \nMatar stalkers e mutantes reduz o sangramento em até 5% em 10 segundos</text>
+	</string>
+	
+	<string id="st_trait_name_bloodlust">
+		<text>Sede de Sangue</text>
+	</string>
+	<string id="st_trait_desc_bloodlust">
+		<text>"Se sangrar, podemos matá-lo"\n \nO bônus Predador também melhora a habilidade de manuseio de armas \n Recarregamento e coldre/saque até 25% mais rápidos</text>
+	</string>
+	
+	<string id="st_trait_name_thick_skull">
+		<text>Cabeça Dura</text>
+	</string>
+	<string id="st_trait_desc_thick_skull">
+		<text>"Talvez seja a radiação ou apenas a Zona, mas seu crânio ficou mais grosso..."\n \nVocê sofre 10% menos danos na cabeça \n Os preços de venda são 3% piores</text>
+	</string>
+</string_table>

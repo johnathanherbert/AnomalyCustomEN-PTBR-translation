@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_spirit_vodka">
+        <text>Tem algo para beber? Se tiver, bem... vou garantir que haja alguns 'erros contábeis' no inventário de munição.</text>
+    </string>
+    <string id="st_spirit_vodka_basic">
+        <text>Temos um excesso desses uniformes antigos por aqui. A maioria não serve em nenhum novato, e eles definitivamente vão tentar trocar por algo melhor quando tiverem chance. Vou deixar um escapar para você por algumas garrafas de Nemiroff.</text>
+    </string>
+    <string id="st_spirit_vodka_berill">
+        <text>Ei stalker, hoje é seu dia de sorte. Recebemos uma nova remessa de Berills e parece que houve uma discrepância. Sobrou um, como você pode ver. Pode ser seu... por um preço.</text>
+    </string>
+    <string id="st_spirit_vodka_skat">
+        <text>Ei stalker, tenho ouvido falar do bom trabalho que você tem feito para os cientistas aqui. Resumindo - um cara das forças especiais acidentalmente se eletrocutou, e deixou sua armadura conosco. Se você não se importar com o cheiro de cabelo queimado, vai te servir muito bem. Você sabe como é... garrafas primeiro.</text>
+    </string>
+    <string id="st_spirit_vodka_done">
+        <text>Obrigado, stalker. Vamos brindar a você.</text>
+    </string>
+
+    <string id="st_peregrine_food">
+        <text>A vodka não é só para beber, sabe - é muito útil para higienizar ferramentas. De qualquer forma, ficar aqui é chato sem algo para beliscar. Me traga algo e vou te passar algumas placas de armadura.</text>
+    </string>
+
+    <string id="st_sakharov_parts">
+        <text>Como parte não oficial do programa de compensação por coleta de amostras, disponibilizei para troca uma seleção limitada de nossos suprimentos médicos de campo. Caso você encontre amostras raras de mutantes, trocaremos com prazer alguns de nossos itens médicos por elas.</text>
+    </string>
+    
+    <string id="st_sakharov_parts_done">
+        <text>Excelente trabalho, stalker. Faça bom uso desses suprimentos.</text>
+    </string>
+</string_table>

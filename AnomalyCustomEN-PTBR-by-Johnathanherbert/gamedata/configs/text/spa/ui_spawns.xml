@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_st_pumping_station">
+		<text>Estação de Bombeamento (Pântano)</text>
+	</string>
+	<string id="ui_st_train_hangar">
+		<text>Hangar do Trem (Lixão)</text>
+	</string>
+	<string id="ui_st_village_ruins">
+		<text>Vila Krovosos (Depósitos Militares)</text>
+	</string>
+
+</string_table>

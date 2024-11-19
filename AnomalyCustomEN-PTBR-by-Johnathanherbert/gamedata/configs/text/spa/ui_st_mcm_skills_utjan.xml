@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_medicine">
+        <text>Multiplicador de experiência em Medicina</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_insanity">
+        <text>Multiplicador de experiência em Insanidade</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_tinkering">
+        <text>Multiplicador de experiência em Ajustes</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_bartering">
+        <text>Multiplicador de experiência em Barganha</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_reloading">
+        <text>Multiplicador de experiência em Manuseio de Armas</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_magloading">
+        <text>Multiplicador de experiência em Recarga</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_lockpicking">
+        <text>Multiplicador de experiência em Arrombamento</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_traits_gain_mult">
+        <text>Multiplicador de ganho de pontos de características</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_title">
+        <text>Configuração da Expansão de Habilidades</text>
+    </string>
+     <string id="ui_mcm_menu_ut_skill_system">
+        <text>Expansão de Habilidades</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_traits_keybind">
+        <text>Tecla para menu de características</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_purge_ut_skills">
+        <text>Desinstalar Expansão de Habilidades</text>
+    </string>
+</string_table>

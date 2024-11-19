@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_tag_new">
+		<text>Novo</text>
+	</string>
+	<string id="st_tag_easy">
+		<text>Fácil</text>
+	</string>
+	<string id="st_tag_medium">
+		<text>Médio</text>
+	</string>
+	<string id="st_tag_hard">
+		<text>Difícil</text>
+	</string>
+	<string id="st_tag_machine">
+		<text>Máquina</text>
+	</string>
+	<string id="st_tag_anime">
+		<text>Anime</text>
+	</string>
+	<string id="st_tag_movies">
+		<text>Filmes</text>
+	</string>
+	<string id="st_tag_games">
+		<text>Jogos</text>
+	</string>
+	<string id="st_tag_classical">
+		<text>Clássico</text>
+	</string>
+	<string id="st_tag_stalker">
+		<text>S.T.A.L.K.E.R.</text>
+	</string>
+</string_table>

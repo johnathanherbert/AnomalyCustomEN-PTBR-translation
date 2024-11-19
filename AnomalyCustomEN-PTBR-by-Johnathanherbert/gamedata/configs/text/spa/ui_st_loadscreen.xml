@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ls_header">
+		<text>Anomaly Custom (traduzido por johnathanherbert)</text>
+	</string>
+	<string id="ls_tip_number">
+		<text>Histórias da Zona #</text>
+	</string>
+	<string id="ls_tip_1">
+		<text>Eu costumava viajar com um grupo de stalkers em Zaton. Nós costumávamos defender o Shevchenko de bandidos e ocasionais matilhas de cães selvagens. Um dia eu peguei um trabalho perto da Floresta de Ferro, animado para contar a eles como quase morri, cheguei ao Shevchenko para vê-los sendo assassinados por soldados do Duty. O Duty atirou em um deles quando foram pegos em fogo cruzado com mercenários. Meus amigos estavam apenas se defendendo, droga! Desde então tenho caçado soldados do Duty usando os rifles dos meus irmãos caídos.</text>
+	</string>
+	<string id="ls_tip_2">
+		<text>Vim para a Zona tentando encontrar um novo artefato e ficar rico no norte! Não fazia ideia que o Monolith reativaria o Brain Scorcher e invadiria. Eu daria qualquer coisa para deixar este lugar amaldiçoado por Deus e voltar para casa.</text>
+	</string>
+	<string id="ls_tip_3">
+		<text>"Embora seja um notório vigarista que explora ao máximo vocês stalkers novatos, Sidorovich suborna o Exército para não descer e devastar Cordon, então talvez você devesse ser um pouco mais grato." O stalker veterano disse ao ouvir um novato no 100 Rads falando sobre dar uma "lição de vida" ao Sid.</text>
+	</string>
+	<string id="ls_tip_4">
+		<text>Tudo que me lembro era escuridão e o frio se infiltrando em mim quando o vi... Uma luz brilhante que me encheu de calor e falou comigo. "Venha até mim, você receberá o que merece." Às vezes vejo imagens de um homem mais velho com lágrimas escorrendo pelo rosto dizendo "não vá, ficaremos bem." Aquele era meu pai? De qualquer forma não importa, o Monolith deve ser defendido dos hereges.</text>
+	</string>
+	<string id="ls_tip_5">
+		<text>"Aqui é o General Tachenko, onde vocês estão! Quais são suas coordenadas, vamos extraí-los, só precisamos de uma resposta, maldição!" O General Tachenko bateu com o punho na mesa com raiva. "Acabamos de perder uma unidade inteira e agora a Freedom tem controle total sobre Yanov!"</text>
+	</string>
+	<string id="ls_tip_6">
+		<text>Trapper é uma lenda! Aquele homem sobreviveu a um ataque noturno de duas Quimeras ao mesmo tempo. Nunca vou esquecer de vê-lo mancando para Yanov mal se agarrando à vida. Doc o remendou bem, mas eles não podem consertar as memórias de ver seu parceiro "Fox" sendo mutilado. Ele se aposentou depois disso, e sinceramente não o culpo.</text>
+	</string>
+	<string id="ls_tip_7">
+		<text>Há rumores de cavalos mutados nas partes norte da zona. Eu nunca vi um, mas ouvi outros stalkers dizendo que eles vagam durante a noite. Pessoalmente, acho que se eles existem, precisam ser libertados de seu sofrimento.</text>
+	</string>
+	<string id="ls_tip_8">
+		<text>"Existe um lugar ao norte livre de radiação e com mais artefatos do que qualquer stalker poderia carregar. É chamado de Oásis e eu vou encontrá-lo!" Os outros stalkers na fogueira riram enquanto outro diz "Vai me dizer que os peidos da Hip cheiram a Lilás e Groselhas também?"</text>
+	</string>
+	<string id="ls_tip_9">
+		<text>Agora entendo porque são chamados de anarquistas. Estávamos em uma viagem de rotina para entregar suprimentos médicos à base em Agroprom quando vimos. Havia um flesh morto na beira da estrada sozinho. Ninguém pensou nada disso até que de repente houve uma explosão enorme e soldados da "Freedom" vieram roubar nossos suprimentos e matar sobreviventes. Não sei por que me pouparam...</text>
+	</string>
+	<string id="ls_tip_10">
+		<text>Vi um caminhão da morte hoje no meu caminho para o Norte. Não podia acreditar no início, mas reconheci o motorista. Ele desapareceu alguns meses atrás quando o Brain Scorcher foi ligado novamente... Como ele não é um zumbi e por que dirige um caminhão agora?</text>
+	</string>
+	<string id="ls_tip_11">
+		<text>"Seu artefato como prometido." O stalker disse com um grande sorriso. "Uau, que negócio! Veja, o cara de quem você pegou isso era um ladrão que estava roubando lotes do meu chá à noite, então demos a ele um artefato para entregar aos cientistas em Yanov em troca de um fornecimento vitalício. Sabíamos que ele não voltaria, mas agora encontramos o assassino que está matando outros loners."</text>
+	</string>
+	<string id="ls_tip_12">
+		<text>O som do choro de uma criança encheu a sala "Que diabos é isso? Parem de falar, se virem algo se mover atirem até cair e depois mais duas vezes" disseram dois mercenários. Pouco depois os choros pararam, e o som de um rugido furioso foi ouvido.</text>
+	</string>
+	<string id="ls_tip_13">
+		<text>Existe uma lenda de um stalker que vive na Floresta Vermelha chamado Miyamoto Ronin. O cara carrega uma espada em vez de uma faca. Ninguém o vê há anos e a maioria pensa que ele morreu em uma emissão, mas alguns stalkers relatam corpos sendo encontrados na floresta com cortes gigantes em seus peitos finos demais para ser uma garra de quimera.</text>
+	</string>
+	<string id="ls_tip_14">
+		<text>Alguns dizem que os Pseudogigantes são criminosos que foram resultados de testes genéticos feitos nos laboratórios. Mesmo que os rumores sejam falsos, ainda não quero ver um, muito menos estar a distância de tiro. Você viu o que eles podem fazer com stalkers? Vamos apenas dizer que eles parecem chiclete deixado na calçada.</text>
+	</string>
+	<string id="ls_tip_15">
+		<text>Estávamos em posição prontos e esperando o alvo passar pela área. Tínhamos rastreado seus movimentos por semanas. Perguntei à nossa equipe de atiradores se estavam em posição, mas tudo que ouvimos foi "Nós te agradecemos oh Monolith..." Não sei o que foi dito depois porque tudo que podia ouvir eram balas atingindo o concreto na nossa frente e um feixe de luz atingiu o novato ao meu lado. Num piscar de olhos a metade superior dele não era nada além de pó e cinzas enchendo a sala.</text>
+	</string>
+	<string id="ls_tip_16">
+		<text>Que diabos você quer dizer com não tem Café! Você está me dizendo que podemos importar galões de Vodka, Cerveja, água com gás e energéticos, mas não posso conseguir alguns grãos de Café neste lugar amaldiçoado por Deus?</text>
+	</string>
+	<string id="ls_tip_17">
+		<text>"O que trouxe você para a Zona" perguntou um dos stalkers ao redor da fogueira. O primeiro disse por dinheiro, o segundo disse que estava fugindo da prisão perpétua. O último abaixou a cabeça e disse "Estou procurando meu pai. Ele era um renomado Ecologista que desapareceu há quase 3 anos."</text>
+	</string>
+	<string id="ls_tip_18">
+		<text>Ele estava em transe profundo pedindo ao Monolith para falar conosco. Foi então que ouvimos sua voz. Ele falou em um tom tão divino que não havia como negarmos o chamado. O Monolith havia falado com seus filhos novamente e cumpriremos seus desejos. Aqueles que desejam prejudicar o Monolith verão sua luz ou morrerão uma morte de herege.</text>
+	</string>
+	<string id="ls_tip_19">
+		<text>Você acha que tem uma vida difícil só porque perdeu algum dinheiro em uma aposta? Eu vim aqui para ajudar a salvar o mundo dos mutantes da zona e o Duty me nomeou como lavador de pratos no 100 Rads.</text>
+	</string>
+	<string id="ls_tip_20">
+		<text>"Eles não me pagam o suficiente para essa merda. Então não aceite o trabalho, não me importo! Tenho 10 outros grupos que estariam mais que dispostos a aceitar o trabalho então ou se prepare ou dê o fora." Dushman disse isso ao mercenário relutante que começou a inspecionar seu rifle.</text>
+	</string>
+	<string id="ls_tip_21">
+		<text>Há rumores que esse cara Strelok está tentando destruir a Zona. Não sei se gosto dele ou não, sim ele desligou o Brain Scorcher mas o que vamos fazer sem a Zona? Também ouvi que ele realmente encontrou o Wish Granter e fez um desejo, mas qualquer um que pergunta recebe "Não me lembro." Como você esquece algo assim?</text>
+	</string>
+	<string id="ls_tip_22">
+		<text>"Olha, aqui está o acordo. Vocês entram e 'liberam' aqueles suprimentos médicos para nós e em troca ficam com qualquer coisa nos corpos e uma onça de uma boa ganja para cada um que voltar." O bandido sorriu e concordou sabendo que este trabalho seria uma pontuação fácil.</text>
+	</string>
+	<string id="ls_tip_23">
+		<text>Senhor, eu vi com meus próprios olhos. Eles literalmente têm um exército e estão recrutando mais a cada dia. Eles são organizados, estruturados, e seja lá o que fala com eles é muito real pois estava me chamando também. "O que ele disse cabo?" Não faço ideia, não falo russo e sinceramente acho que eles sabiam que eu estava lá.</text>
+	</string>
+	<string id="ls_tip_24">
+		<text>"Você garantiu o prédio Dimitri?" "Sim, até coloquei um arame de tropeço na escada e um segundo no andar abaixo de nós para enganá-los. "Bom podemos respirar um pouco mais tranquilos. Agora vamos pegar aquele atirador."</text>
+	</string>
+	<string id="ls_tip_25">
+		<text>Operações Spetsnaz não são brincadeira dentro da zona. Cada membro está no mesmo nível se não melhor que o stalker mais experiente. Vi um único operativo eliminar um esquadrão inteiro de mercenários uma vez. Graças a Deus vi tudo pelo binóculo.</text>
+	</string>
+	<string id="ls_tip_26">
+		<text>Ele pode não parecer às vezes e especialmente não com esses trabalhos que nos dá, mas Sakharov realmente se importa conosco. O velho está por aqui desde o início da zona coletando dados de pesquisa e às vezes isso significa que precisamos fazer missões arriscadas.</text>
+	</string>
+	<string id="ls_tip_27">
+		<text>Eu tinha visto mortes suficientes. Tinha passado anos aqui na zona sendo exposto à radiação tudo por tesouros que nunca poderia levar para casa. Arrumei meu equipamento, parti para voltar ao sul, e montei uma pequena cozinha. Stalkers, bandidos, até o exército ocasionalmente vem para uma refeição e uma bebida gelada. Não me importo quem vem desde que não tragam problemas.</text>
+	</string>
+	<string id="ls_tip_28">
+		<text>"Apenas jogue-o no vórtice e seja rápido sobre isso, ouvi Sakharov dizendo aos cientistas sobre uma possível tempestade psi hoje." Imediatamente após dizer isso uma onda de corvos voou sobre nossas cabeças. Os stalkers largaram o corpo no meio do arremesso e começaram a correr por segurança. Uma Emissão estava chegando.</text>
+	</string>
+	<string id="ls_tip_29">
+		<text>Isso é apenas um nome bobo, a Vila dos Bloodsuckers foi eliminada anos atrás, apenas se acalme. Há um esconderijo gordo com um artefato naquela torre e vamos pegá-lo. Aquele pobre stalker ainda estaria aqui hoje se eu não fosse tolo demais para ouvir.</text>
+	</string>
+	<string id="ls_tip_30">
+		<text>"Senhor, por que você está atirando nos zumbis? O comando nos deu ordens claras para pegar o alvo e preparar para extração o mais rápido possível." "Estas eram pessoas que tinham esperanças, sonhos, empregos e tudo mais que nós temos. Agora são apenas cadáveres ambulantes vivendo em constante dor e sofrimento. É um destino pior que a morte e se isso acontecer comigo, espero que você faça o mesmo."</text>
+	</string>
+	<string id="ls_tip_31">
+		<text>"Que diabos você está fazendo cara?" Meditando, ajuda a limpar a mente antes da batalha e me ajuda a aceitar que nunca verei minha casa novamente. Matar é algo que sempre nos disseram para não fazer lá no Leste, mas não vim aqui por escolha.</text>
+	</string>
+	<string id="ls_tip_32">
+		<text>"O Sujeito foi sedado e está pronto para injeção. Coitado deve ter feito algo realmente perverso para nos darem um sujeito de teste humano." Durante a fúria do detento objetos começaram a se levantar no ar e se esmagarem contra a janela do deck de observação. "O teste foi um sucesso" disse o cientista.</text>
+	</string>
+	<string id="ls_tip_33">
+		<text>Não cuspa em suas lentes isso não vai ajudar com o embaçamento. Pare de ser mão de vaca e compre um equipamento melhor ou carregue menos se não consegue controlar sua respiração.</text>
+	</string>
+	<string id="ls_tip_34">
+		<text>Quem te disse que o Monolith são apenas lunáticos sem cérebro é tão tolo quanto eles são. Eles têm mais estrutura e organização que o Duty ou o exército. Eles têm patentes, rituais e são insanamente bem armados. É seu compromisso com o Monolith que guardam que os torna tão assustadores e "lunáticos".</text>
+	</string>
+	<string id="ls_tip_35">
+		<text>Tudo estava indo tão bem até ouvirmos o ping metálico de uma bala rasgando o capacete do sargento, depois ouvimos o rifle. Foi quando soubemos que estávamos com problemas. Não tínhamos ideia de onde veio o tiro ou quão longe eles realmente estavam. Tudo que sabíamos era que éramos patos sentados se ficássemos parados.</text>
+	</string>
+	<string id="ls_tip_36">
+		<text>"Granadas não são baratas, mas podem significar a diferença entre vida e morte. Termite é minha preferência quando se trata de limpar salas." Ele sussurrou isso enquanto casualmente jogava uma granada pela janela do prédio ao lado. O cheiro de carne queimada ainda me assombra.</text>
+	</string>
+	<string id="ls_tip_37">
+		<text>"Meu avô lutou na grande guerra. O velho me ensinou o que é melhor para o mundo, mas você é um dos bons, acho que ele estava errado sobre só os mortos serem bons." "Uau, o meu também! Ele era um comissário e carregava uma PPSH. Ele vai ficar feliz quando eu mostrar mais uma marca na coronha."</text>
+	</string>
+	<string id="ls_tip_38">
+		<text>O homem se levantou depois que alcançou o topo da colina do campo gramado. Quando o fez 3 helicópteros passaram por ele em velocidade máxima. "Que a misericórdia de Deus esteja com vocês" ele disse enquanto continuava em frente. "Ganhei o suficiente para me aposentar cedo só queria que os amigos que fiz na Zona tivessem vindo comigo."</text>
+	</string>
+	<string id="ls_tip_39">
+		<text>Foi bom descansar junto à fogueira e pela primeira vez em semanas realmente relaxar. Tínhamos estado em fuga por tanto tempo que esqueci como era dormir mais de 4 horas. Acendi o baseado que estava guardando desde antes de nossa viagem. Ver a empolgação em seus rostos naquele momento me fez esquecer os horrores que tínhamos acabado de suportar.</text>
+	</string>
+	<string id="ls_tip_40">
+		<text>Lembro quando a Zona era algo que só os locais vinham. Agora parece que todo mundo e seu irmão querem fazer sua reivindicação na zona. Inferno, até as Nações Unidas estão tentando pegar um pedaço da ação agora. Se me perguntarem esses estrangeiros precisam voltar para casa, estávamos melhor sem eles!</text>
+	</string>
+	<string id="ls_tip_41">
+		<text>Forester está aqui desde antes do incidente, antes da Zona, quando esta floresta era pacífica e um lugar agradável para visitar. A Zona até lhe deu o dom de encontrar caminhos perfeitos por cuidar tão bem da floresta. Agora o velho conserta armas e espera a Zona "cobrar seu preço" por seu dom.</text>
+	</string>
+	<string id="ls_tip_42">
+		<text>O que eles não te dizem quando você vem aqui é o quanto você sentirá falta das pequenas coisas que tomava como garantidas. Vento soprando em seu rosto, o cheiro das flores, e o que mais sinto falta é ver rostos passando. Essas máscaras de gás nos mantêm vivos sim, mas tiram tanto de nossa humanidade.</text>
+	</string>
+	<string id="ls_tip_43">
+		<text>O que aconteceu com Strider e o resto de seu grupo? Ouvi dizer que ele começou sua própria facção de soldados Monolith que "acordaram?" Cara sua suposição é tão boa quanto a minha. Nunca nem ouvi o cara, mas se eu ver alguém em armadura Monolith não vou verificar se eles estão "acordados" ou não, vou atirar.</text>
+	</string>
+	<string id="ls_tip_44">
+		<text>Por que é que esses cientistas querem que tragamos esses "preciosos artefatos" mas não nos dão um detector decente para encontrar as malditas coisas! Bem, talvez você devesse parar de esperar que as coisas sejam dadas a você e comprar um você mesmo. Não há garantia que você voltará então por que investir em um detector decente quando você comprará um você mesmo se viver o suficiente.</text>
+	</string>
+	<string id="ls_tip_45">
+		<text>Sei que não devemos perguntar, mas está tudo bem? Seus carregamentos de munição e explosivos dobraram e você pediu armas suficientes para armar um exército literal. O homem não disse uma palavra simplesmente entregou a maleta carregada de rublos. Quando ele se afastou o ouvi sussurrar algo... alguma merda sobre um monolith.</text>
+	</string>
+	<string id="ls_tip_46">
+		<text>Sim, posso consertar isso eu costumava ser um engenheiro fora da zona. "Que diabos te trouxe aqui?" perguntou o homem. Bem, eu costumava ser pai, mas alguns bandidos mataram minha filha e eu simplesmente surtei. Vi vermelho e a próxima coisa que soube havia corpos e o que costumavam ser pessoas por toda parte. Não me lembro muito só de calmamente sentar ao lado de algum pobre garoto enquanto ele sangrava até a morte enquanto eu lia a história de dormir favorita da minha filha.</text>
+	</string>
+	<string id="ls_tip_47">
+		<text>Sinto falta dele todos os dias. Ainda não fui caçar artefatos desde sua morte. Dói demais pensar em como ele ficava tão animado quando víamos aquele ponto no detector. Enterrei ele com nosso detector, a foto de sua esposa e sua PKM. Carrego seu patch no bolso para me lembrar que tudo pode acabar em um instante. Deus, sinto falta dele por que você teve que levá-lo e não a mim? Ele era um stalker tão bom.</text>
+	</string>
+	<string id="ls_tip_48">
+		<text>Ok deixa eu ver se entendi direito. Você quer que eu vá não só para território Monolith, mas Limansk de todos os lugares. Mate um pregador Monolith que tem um Norosog modificado e volte com seu livro? Você está fora de si se acha que vou fazer isso por menos de 6 dígitos em USD.</text>
+	</string>
+	<string id="ls_tip_49">
+		<text>Lá estávamos nós encurralados na estação de bombeamento. Renegados por toda parte e balas voando para todo lado. Eu tinha acabado de ver o cara ao meu lado ser abatido no segundo que levantou a cabeça para dar fogo de cobertura. Foi quando ouvimos. Explosão após explosão seguida pelo som de nosso antes inimigo mortal vindo em nosso auxílio. Alguns soldados da Freedom ouviram nosso S.O.S. e vieram nos ajudar.</text>
+	</string>
+	<string id="ls_tip_50">
+		<text>Se você acha que o Monolith é maluco deixa eu te contar sobre esse grupo chamado Sin. Esses Pecadores são malucos que acham que a Zona deveria consumir o mundo inteiro e que é a melhor coisa que aconteceu à humanidade. Eles dizem que abraçar a Zona como um presente é o caminho para a iluminação. Eu pessoalmente digo que o mundo estaria melhor sem este lugar.</text>
+	</string>
+	<string id="ls_tip_51">
+		<text>O clique do Contador Geiger foi de um clique ocasional para uma nota constante e o que parecia surgir do nada agora estava flutuando diante deles. "Esta é a pontuação que precisávamos rapazes é hora de ir para Yantar e finalmente deixar a Zona."</text>
+	</string>
+	<string id="ls_tip_52">
+		<text>O Complexo de Antenas Krug costumava ser um covil de Bloodsuckers. Um stalker passou por lá um dia e envenenou os pequenos bastardos garantindo que nunca mais seriam uma ameaça. Alguns dizem que ele era na verdade um soldado disfarçado, mas não acredito nisso. Eles não teriam motivo para estar tão longe em Zaton.</text>
+	</string>
+	<string id="ls_tip_53">
+		<text>Lembro quando Meadows costumava ser um lugar pacífico onde você podia relaxar durante o dia. Stalkers e Bandidos não achavam que valia a pena passar por lá. Queria que ainda fosse assim, se não são bandidos tentando tomar a fábrica parece que mutantes estão querendo construir um novo ninho lá.</text>
+	</string>
+	<string id="ls_tip_54">
+		<text>Lá estava eu escondido em um arbusto. Mercenários aparentemente estavam atrás do mesmo documento que eu. Tinha sido um impasse tão longo, mas eles mal suspeitavam que eu por acaso sempre carregava um IED comigo. Ouvi um estrondo alto e quando a poeira baixou eu tinha pulado pela janela e corrido. Não esperava uma horda de zumbis indo em direção à explosão no entanto.</text>
+	</string>
+	<string id="ls_tip_55">
+		<text>Maldita munição barata como diabos você consegue travar uma Kalashnikov! Juro por deus se sairmos dessa troca de tiros vou esmagar a cara daquele gordo bastardo por essa.</text>
+	</string>
+	<string id="ls_tip_56">
+		<text>Embora frequentemente negligenciada como profissão, mensageiros são uma das profissões mais essenciais e respeitadas na Zona. Conheci alguns caras lá no 100 Rads que costumavam transportar suprimentos de um lado para outro para o negócio de chá do Beard. Aqueles caras se aposentaram depois de apenas um ano no trabalho. "Então por que eles não foram embora?" Eles foram os caras agora são donos de uma loja de sapatos em Paris.</text>
+	</string>
+	<string id="ls_tip_57">
+		<text>UAUU! Visão Noturna legal cara não posso acreditar que não é verde ou só preto e branco como você sempre vê. Sim, é legal, mas não é perfeita. Tem uma visão mais limitada e não é tão brilhante quanto FLIR ou as coisas antigas, mas funciona melhor que praticamente qualquer outra coisa em alcance médio a curto.</text>
+	</string>
+	<string id="ls_tip_58">
+		<text>Pare de fechar seu olho quando está mirando pela mira. Se você mantém um olho fechado, limita sua visão significativamente e você nunca sabe quando alguém ou algo vai tentar se esgueirar até você.</text>
+	</string>
+	<string id="ls_tip_59">
+		<text>É uma armadilha! Foi tudo que tive tempo de dizer antes do novato se aproximar de um soldado Monolith ferido. Em um instante houve um estrondo alto e o stalker na minha frente não era nada além de uma fina névoa vermelha cobrindo a sala. Fui lançado do prédio para o teto de um carro estacionado na rua. Minhas costas ainda doem, mas ainda estou vivo.</text>
+	</string>
+	<string id="ls_tip_60">
+		<text>Você acha que vai ter sinal aqui? O turista tirou seu telefone para tirar uma foto para mídia social e esse foi o exato momento que eu soube que a Vila dos Novatos estava se tornando uma armadilha para turistas. Quando encontramos um bando de zumbis, deixei um agarrá-lo antes de enfiar meu Ka-Bar em sua cabeça. Ele precisava de uma boa dose de realidade.</text>
+	</string>
+	<string id="ls_tip_61">
+		<text>Comerciantes no ramo alimentício como Barkeep, Beard e até Sid conseguiram desestabilizar o mercado de alimentos dentro da zona ao ponto de ser mais barato comprar comida importada do que cozinhar por conta própria. Esses comerciantes também são os únicos com conexões com preços de alimentos no atacado na Zona.</text>
+	</string>
+	<string id="ls_tip_62">
+		<text>Quero conhecer o gênio que pensou em construir o Sarcófago. Foi ótimo na prática, tentando conter os níveis de radiação para que não se espalhasse, mas tudo que conseguiram fazer com sucesso foi dar ao Monolith um bunker literal para planejar ataques.</text>
+	</string>
+	<string id="ls_tip_63">
+		<text>Conheci um stalker uma vez que transformou um estojo de bala em um isqueiro. Tentei comprar a coisa dele e até ofereci brincando trazer um estojo meu para ele fazer outro, mas ele recusou. Vi ele não faz muito tempo em Yanov. Ele disse que estava a caminho das periferias pelo túnel subterrâneo.</text>
+	</string>
+	<string id="ls_tip_64">
+		<text>O que eu não daria por um banho quente e um refrigerante gelado. Este lugar cobra um preço emocional tão alto que muitas vezes faz você negligenciar a saúde física também. "Aqui, espero que isso ajude mesmo que um pouco." um stalker mais velho coloca um artefato estranho perto da bebida do homem e em momentos a bebida começou a gelar.</text>
+	</string>
+	<string id="ls_tip_65">
+		<text>Os soldados do Duty atiravam sem parar. Foi ao ponto que a fumaça ficou tão densa que não conseguiam mais ver, e o cheiro distinto de pólvora se espalhava por todo Rostock. Algo estava errado; uma matilha de cães selvagens é uma coisa, mas estes eram zumbis guiados por nada além de uma fome insaciável.</text>
+	</string>
+	<string id="ls_tip_66">
+		<text>O stalker lentamente tirou sua máscara. O som do Contador Geiger tinha diminuído e em seus momentos finais ele sentiu uma estranha sensação de calma e paz. Segurando uma foto de sua família ele sussurrou, "Mal posso esperar para ver vocês novamente."</text>
+	</string>
+	<string id="ls_tip_67">
+		<text>"Você é um verdadeiro pedaço de merda sabia disso?" O Stalker com suas mãos e pés amarrados como um porco foi jogado escada abaixo. "Não se preocupe vamos manter você vivo, mas apenas lembre-se que o Owl sempre faz as pessoas falarem mais cedo ou mais tarde."</text>
+	</string>
+	<string id="ls_tip_68">
+		<text>A visão de traçantes vermelhos e verdes encheu o céu noturno. "Quantos deles tem ele gritou?" Como diabos eu vou saber só continue atirando. O impasse entre Duty e Freedom no Cemitério de Caminhões tinha chegado ao limite e uma guerra total começou.</text>
+	</string>
+	<string id="ls_tip_69">
+		<text>Três helicópteros voaram rapidamente pousando para desembarcar a infantaria dentro. O pelotão não tinha ideia que estava caminhando direto para uma emboscada. Um infiltrado em sua unidade tinha informado seus aliados sobre o ataque iminente.</text>
+	</string>
+	<string id="ls_tip_70">
+		<text>O Duty tinha arranjado uma reunião com alguns bandidos locais. Um acordo foi feito onde bandidos receberiam propina de membros do Duty para parar de lançar emboscadas contra eles em troca de pagamentos recorrentes. Eles sabiam que todos seriam processados se isso fosse descoberto, mas não se importavam pessoas demais tinham morrido em Garbage.</text>
+	</string>
+	<string id="ls_tip_71">
+		<text>Era uma missão de rotina. Deveríamos ir e eliminar uma matilha de animais selvagens que estavam dando problemas para os cientistas locais. Nunca tínhamos estado em Yantar, mas todos tinham ouvido falar da Máquina Milagrosa. Não sabíamos das alucinações que causava ou do fato do lugar estar infestado de Snorks. Ganhei um novo nível de respeito por aqueles cientistas.</text>
+	</string>
+	<string id="ls_tip_72">
+		<text>Professor Herman olhou para o objeto brilhante com puro espanto. Ele tinha perdido a esperança de que existisse, mas lá estava encarando ele. "O Oásis é real? Como isso é possível? Talvez isso me consiga aquele Prêmio Nobel e melhor financiamento para este projeto." Ele pensou consigo mesmo ainda em assombro.</text>
+	</string>
+	<string id="ls_tip_73">
+		<text>A vila de Kopachy é dinheiro fácil Alex, estou te dizendo. Todo mundo está tão assustado com a radiação que esquecem do saque grátis que os zumbis estão carregando. Se formos lá prometo que voltaremos vivos e muito mais ricos.</text>
+	</string>
+	<string id="ls_tip_74">
+		<text>As coisas nem sempre foram tão ruins disse Owl. Há muito tempo um stalker passou por aqui e realmente ajudou a reduzir a população de mutantes. Infelizmente, isso foi há muito tempo e parece que os mutantes estão se reproduzindo em números recordes agora.</text>
+	</string>
+	<string id="ls_tip_75">
+		<text>Parece que a cada ano mais e mais stalkers estão vindo para a Zona. Costumava haver apenas algumas centenas de nós vagando por aí e se sentia tão conectado. Agora parece que milhares entram todo ano e isso não fez nada além de irritar a zona.</text>
+	</string>
+	<string id="ls_tip_76">
+		<text>Enquanto estava lá, tive a ideia de me virar e olhar para trás uma última vez. Estive aqui por tanto tempo que não sei se consigo sobreviver lá fora novamente, mas meu tempo aqui acabou. Parto sem grandes riquezas ou posses valiosas. Em vez disso, saio daqui rico em memórias e histórias para contar aos meus netos quando os vir.</text>
+	</string>
+	<string id="ls_tip_77">
+		<text>"Já houve sangue suficiente derramado hoje e estou cansado de ver vocês jovens morrendo." O médico era um homem velho que tinha servido como médico de combate no Afeganistão. Ele não se importava de qual facção os soldados eram, ajudava qualquer um que pudesse salvar e realizava os últimos ritos para os que estavam muito longe enquanto lhes dava morfina. Stalkers de toda parte trazem suprimentos médicos para ele como agradecimento por suas ações.</text>
+	</string>
+	<string id="ls_tip_78">
+		<text>Butcher é considerado uma lenda nas partes sul da zona. Quando ele chegou Garbage estava infestada de mutantes e a área era inabitável para stalkers. Não acredito nas histórias que alguns contam que ele limpou sozinho, mas ele tem muitas histórias e ainda mais informações sobre caça a mutantes.</text>
+	</string>
+	<string id="ls_tip_79">
+		<text>"Tem um guarda que vai deixar vocês passar só me sigam já transformei centenas de pessoas em stalkers este ano e ainda é só maio." O esquadrão todo pegou suas carteiras e entregou ao soldado o pagamento solicitado pela passagem e após uma curta caminhada eles estavam agora em Cordon.</text>
+	</string>
+	<string id="ls_tip_80">
+		<text>"Você está procurando explicações e razões onde não há nenhuma! Agora cale a boca e atire em qualquer coisa que passar por aquela porta" disse Mathias enquanto as dobradiças da porta do cofre começavam a chacoalhar e a porta começava a ceder.</text>
+	</string>
+	<string id="ls_tip_81">
+		<text>São as pequenas coisas que ainda nos lembram que somos humanos. Precisamos lembrar disso aqui na Zona. Uma vida de matar e tentar sobreviver pode nos fazer esquecer que atrás daquela máscara está outra pessoa igual a mim e você.</text>
+	</string>
+	<string id="ls_tip_82">
+		<text>Sabe qual a diferença entre guerra e Inferno? Só os merecedores vão para o Inferno. Dito isso a diferença entre guerra e a Zona é que homens são os únicos monstros na guerra. "Veja, essa merda aqui é por que todo mundo começou a te chamar de filósofo" disse o outro stalker visivelmente confuso na fogueira.</text>
+	</string>
+	<string id="ls_tip_83">
+		<text>Estou começando a me preocupar com você e seu... problema. "Sim, eu tenho um problema! Estou preso aqui na Zona, e acabou minha bebida! Agora se faça útil e me traga mais cerveja." disse o stalker bêbado enquanto quebrava uma garrafa vazia de cerveja na parede.</text>
+	</string>
+	<string id="ls_tip_84">
+		<text>Você ouviu falar do esquadrão que ficou sem munição e carregou para o combate com facas e machados? Foi um banho de sangue total tinha membros por todo lado e sangue literalmente correndo pela rua. Se a zona continuar se expandindo este é o destino que todos estamos destinados?</text>
+	</string>
+	<string id="ls_tip_85">
+		<text>"É perigoso ir sozinho, leve isto." disse o stalker depois de entregar um pente para o SKS de seu amigo. "Eu juro que se você fizer mais uma citação idiota de videogame, vou te dar um tapa." o outro respondeu com um sorriso no rosto e uma risada depois.</text>
+	</string>
+	<string id="ls_tip_86">
+		<text>Não há deuses ou reis aqui na Zona, apenas homens... ah, e a Hip, mas ela não sai da Vila dos Novatos então ela realmente conta?</text>
+	</string>
+	<string id="ls_tip_87">
+		<text>Você pensaria que os animais na Zona tentariam hibernar, mas assim como o resto da Zona as regras da natureza não se aplicam a este lugar. Quando o Inverno chega fica um pouco mais fácil porque os Bloodsuckers ainda deixam pegadas.</text>
+	</string>
+	<string id="ls_tip_88">
+		<text>Se alguém disser que não há uma sinfonia na guerra, nunca viu combate. O som das metralhadoras atirando se torna rítmico com botas marchando pelo campo de batalha, facas rasgando armaduras e carne. Tudo começa a soar como música criada pela orquestra do diabo.</text>
+	</string>
+	<string id="ls_tip_89">
+		<text>Lukash posso fazer uma pergunta? "O que foi irmão?" Qual é o preço de uma milha? "hã?" Temos lutado por tanto tempo e não ganhamos terreno. Estou com a Freedom desde o início, e devo ter visto mais de mil homens marcharem para a morte, chegou ao ponto que nem tento mais aprender seus nomes, não há sentido. Então pergunto novamente, qual é o preço de uma milha? "Eu... acho que é hora de negociarmos paz com os mercenários" disse Lukash, assim terminando a guerra entre os dois.</text>
+	</string>
+	<string id="ls_tip_90">
+		<text>O stalker se inclinou ao lado de outro que estava sentado no chão soluçando profusamente. "Está tudo bem, você fez o que precisava fazer, era sua vida ou a dele." o stalker tirou sua máscara, alcançou sua bolsa e entregou ao stalker chorando um pedaço de chocolate. "Não deixe ninguém te enganar, todos nós já estivemos no seu lugar e qualquer um que diga que foi fácil é um maldito mentiroso. Você nunca vai superar isso, mas vai ficar mais fácil, eu prometo."</text>
+	</string>
+	<string id="ls_tip_91">
+		<text>Deixei a zona há 10 anos, mas ela ainda me assombra. Toda noite sonho com aquela noite fatídica e como trapaceei a morte. Ainda não entendo como consegui sobreviver, mas deixou uma marca que nunca vai curar. Outro dia os vizinhos devem ter comprado uma nova arma porque os tiros soavam tão próximos. Minha esposa conseguiu me trazer de volta e quando voltei a mim, estava me escondendo atrás da casa agarrando um pedaço de pau como se fosse meu rifle.</text>
+	</string>
+	<string id="ls_tip_92">
+		<text>Existe um equívoco comum de que há apenas algumas centenas na zona. Quando stalkers primeiro se registram na rede ela dá um número estimado, mas há 7 bilhões de pessoas nesta rocha. Se você pensa por um momento que há menos de mil pessoas na zona de exclusão em qualquer dia você é simplesmente um tolo.</text>
+	</string>
+	<string id="ls_tip_93">
+		<text>Chamávamos ele de Texas porque ele nunca calava a boca sobre como as coisas eram em casa. Ele falava sem parar sobre a vida "no oeste no deserto" e como ia levar um artefato para casa depois que ficasse rico. O idiota não conseguia atirar direito nem para salvar sua vida, mas adorávamos tê-lo por perto e ele sabia cozinhar. Sinto falta daquele cara; não posso acreditar que ele viveu o suficiente para ver seu sonho se realizar.</text>
+	</string>
+	<string id="ls_tip_94">
+		<text>Estamos defendendo a barreira há horas, as metralhadoras todas superaqueceram e as munições estão acabando. Eles continuam vindo e não se importam se vivem ou morrem. "Merda acabou minha munição... Irmãos fumem um extra por mim hoje à noite!" O stalker era um fabricante de bombas e quando o vimos puxar o pino de uma granada, sabíamos o resultado final. Ele se foi em uma tremenda explosão e a cratera na estrada é onde aqueles zumbis o derrubaram. Ele salvou nossas vidas naquela manhã.</text>
+	</string>
+	<string id="ls_tip_95">
+		<text>Há muito tempo ouvi que a guerra nunca muda, mas não acredito nisso. Meu pai lutou em ambas as guerras da Chechênia. Na primeira vez nossa vila o elogiou como herói e garantiu que fôssemos alimentados e cuidados. Na segunda guerra fomos desgraçados. O ancião da vila nos rejeitou e chamou meu pai de fracassado. Pai não estava bem antes daquele dia. O que quer que ele tenha visto naquela o mudou. Viemos para cá exilados para a Zona como animais imundos, mas aqui conseguimos um novo começo. Estou fazendo meu melhor para cuidar dele e vamos consertar uma casa em Meadows em breve.</text>
+	</string>
+	<string id="ls_tip_96">
+		<text>Quando o Coronel entrou na sala, podíamos perceber que algo não estava certo. Era apenas o jeito que ele estava agindo, e você podia cortar a tensão no ar com uma faca. Ninguém viu vindo quando ele sacou sua Makarov e atirou duas vezes na cabeça do nosso Sargento. "Alguém mais está se sentindo como vender armas para stalkers agora?"</text>
+	</string>
+	<string id="ls_tip_97">
+		<text>Você não acredita realmente que há uma rocha alienígena no centro da Zona, acredita? "Você olhou em volta ultimamente? Nenhum Deus permitiria que este lugar existisse e não há como algo desta Terra ter trazido a Zona sobre nós! Vou com eles, e vamos descobrir por nós mesmos agora você pode vir junto ou ficar aqui não me importo." Estou feliz por não ter ido com ele...</text>
+	</string>
+	<string id="ls_tip_98">
+		<text>"Abaixe-se e não pare de se mover." O atirador nos tinha na mira e estava dando fogo de supressão, mas Pavlov não se importava. "Esses tolos pensam que nunca levei tiro antes, mas sou soldado desde os 6 anos!" Pavlov não era seu nome verdadeiro, mas ninguém sabia pronunciar seu nome real. O pobre cara me contou uma vez que era uma criança soldado que costumava viver em um lugar chamado "Congo." Aparentemente, ele fugiu para a zona e aprendeu russo enquanto estava aqui.</text>
+	</string>
+	<string id="ls_tip_99">
+		<text>"Pare de mirar na cabeça mire na base do pescoço e você vai acertar mais tiros." Caçar pessoas nunca foi algo que eu quis treinar. Na verdade, eu costumava ser pacifista mas durante a ocupação nosso povo estava sendo cercado e massacrado como gado e qualquer oposição era executada publicamente. Sinto falta de casa, mas nunca posso voltar. Ainda sonho em deixar este lugar e ajudar outros em vez de tirar suas vidas.</text>
+	</string>
+	<string id="ls_tip_100">
+		<text>Há um velho conto que diz para nunca beber Vodka da bolsa de um stalker morto. Dizem que dá azar, mas bebida muda tanto de mãos na zona que não há como saber quantas vezes um stalker morreu com a garrafa que você segura agora.</text>
+	</string>
+	<string id="ls_tip_101">
+		<text>Não é só a Rússia ou a ONU lançando operações especiais na Zona. SAS, GIGN, caramba, já vi até agentes da Blackwater passarem por Dead City procurando informação, munição ou precisando de um médico. Eu mexi alguns pauzinhos sérios para conseguir um leitor de cartão na zona, mas qualquer coisa que eles precisem eles sempre estão dispostos a pagar um bom preço e construímos uma reputação sólida com essas organizações.</text>
+	</string>
+	<string id="ls_tip_102">
+		<text>Não é todo dia que um Stalker recebe o nome "Red", mas quando recebem você sabe que seu destino será ruim. Lembro quando Red veio para a zona. Ele estava aqui para ganhar dinheiro para a quimioterapia da filha e talvez encontrar uma cura. Sakharov disse que havia esperança, mas seria perigoso e envolvia uma viagem ao norte perto da CNPP. Três meses se passaram onde ele estava desaparecido em ação até ontem à noite quando o vi em Limansk usando armadura do Monolith...</text>
+	</string>
+	<string id="ls_tip_103">
+		<text>Chamávamos ele de desastrado porque ele nunca conseguia segurar nada. Se você precisava perder algo você garantia de dar para ele. Lembro uma vez vendo ele voltando para o armazém com a arma que Screw tinha acabado de consertar antes de sua viagem. O cano estava literalmente derretido e tão danificado que não disparava. Aparentemente ele conseguiu deixar cair em uma anomalia fruit punch e pegou o que sobrou dela.</text>
+	</string>
+	<string id="ls_tip_104">
+		<text>Eu tinha dinheiro suficiente para comprar munição ou uma refeição para a noite. As dores da fome são horríveis e podem dificultar a mira às vezes, mas prefiro estar com fome e poder caçar minha próxima refeição do que estar sem munição e esperar que um companheiro stalker seja legal o suficiente para compartilhar com você.</text>
+	</string>
+	<string id="ls_tip_105">
+		<text>Deixa eu te contar um pequeno segredo que aprendi da pior maneira. Estrôncio que estava no reator tem um gosto metálico e Plutônio tem gosto doce. Se você alguma vez se encontrar sem seu Contador Geiger e começar a sentir gostos estranhos você está em um bolsão de radiação.</text>
+	</string>
+	<string id="ls_tip_106">
+		<text>Acho que sinto mais falta de pescar da minha vida fora da zona. Nunca me importei antes, mas só o pensamento de estar ao lado de água livre de radiação e sem uma preocupação no mundo além de pegar comida parece o paraíso para mim agora.</text>
+	</string>
+	<string id="ls_tip_107">
+		<text>Os ratos por si só não são nada além de uma praga. Mesmo quando há alguns deles, um bom chute na cabeça os derruba, mas quando viajam em matilhas podem comer um stalker vivo... Nunca vou esquecer quando peguei um trabalho em um dos laboratórios que algum loner pensou que poderia limpar sozinho eu acho. Aqueles ratos o limparam por completo. Tudo que sobrou foi seu patch e pedaços de roupa.</text>
+	</string>
+	<string id="ls_tip_108">
+		<text>"Você sabe que essas coisas vão te matar, né?"... Sério? Existem anomalias que podem te matar quase instantaneamente, ar radioativo em doses letais, mutantes que podem arrancar a carne dos ossos, e tempestades psi que podem literalmente fritar seu cérebro e você está preocupado com meu cigarro?</text>
+	</string>
+	<string id="ls_tip_109">
+		<text>"Você acredita em fantasmas?" Acho que foi porque eu estava cansado, mas podia jurar que há alguns dias vi um nos arredores. Era um Monolith, quase atirei nele, ele estava no chão rezando e então pareceu desaparecer no ar. "Não foi porque você estava cansado, eu também o vi."</text>
+	</string>
+	<string id="ls_tip_110">
+		<text>Nunca vou esquecer meu primeiro dia na zona. Eu estava tão faminto que estava pronto para comer qualquer coisa. Os rapazes e eu decidimos fazer bacon de flesh. Meu Deus como essas coisas fedem para um stalker novato; quase vomitei na minha máscara. Dito isso, como é gostoso!</text>
+	</string>
+	<string id="ls_tip_111">
+		<text>Embora a maioria esteja aqui porque irritou alguém mais alto na hierarquia e tendem a ser tão corruptos quanto um político, não subestime os militares. Perdi amigos em armadilhas clássicas de pinça. Só porque eles estão aqui não significa que não são bem treinados.</text>
+	</string>
+	<string id="ls_tip_112">
+		<text>Ainda não posso acreditar que aquele velho maluco está vivo! Você pensaria que um homem da idade dele já teria batido as botas lá no Norte, mas ele me mandou uma mensagem há alguns dias falando sobre outra caçada bem-sucedida de Quimera.</text>
+	</string>
+	<string id="ls_tip_113">
+		<text>Você ouviu sobre aquele assassino contratado na base da Freedom? "Aquele que viu seus amigos serem mortos pelo Duty?" Sim, esse cara! cara você não vai acreditar, mas ele foi embora. Ele arrumou suas coisas hoje cedo e Garry está escoltando ele para o sul através da Floresta Vermelha... Vou sentir falta daquele cara.</text>
+	</string>
+	<string id="ls_tip_114">
+		<text>Ele estava completamente alheio. Fiquei lá com minha mira apontada para a base do pescoço dele como fui treinado. "Aperte o gatilho, apenas um aperto rápido e acabou. Você já fez isso inúmeras vezes antes, o que torna isso diferente?" Não sei por quê, mas não consegui assistir. Fechei os olhos e apertei o gatilho; ouvi meu PDA apitar alguns momentos depois e soube que o trabalho estava feito.</text>
+	</string>
+	<string id="ls_tip_115">
+		<text>Eles nos disseram que eram 3.6 roentgens por hora. Anos depois descobriríamos que eram cerca de 5.6 por segundo em algumas áreas. Por que decidi voltar aqui nunca vou saber, talvez eu só tenha um desejo de morte? De qualquer forma chega de conversa, coloque o scanner perto daquela Fruit Punch logo para podermos sair daqui.</text>
+	</string>
+	<string id="ls_tip_116">
+		<text>Seu idiota estúpido por que não nos disse que não sabia ler um mapa quando demos a você! Por que você está rindo hein? Estamos literalmente perdidos no Norte e caso você não tenha percebido não somos exatamente bem-vindos pelos locais. "Cëàâà Ìîíîëèòó!" Foi tudo que ele tinha a dizer. Não sei o que isso significa, mas o que sei é que ele nos levou para uma emboscada.</text>
+	</string>
+	<string id="ls_tip_117">
+		<text>"Você acha que consigo acertar aquele helicóptero daqui?" Se você errar estamos garantidamente mortos então não. "Ok então vá se esconder naquela casa e quando eu acertar você paga as bebidas hoje à noite." Nunca estive tão bêbado antes! Aquele idiota foi crivado de balas antes que pudesse chegar à cobertura, vendi o equipamento que consegui recuperar e comprei bebidas com isso. Ele acertou o helicóptero, a propósito.</text>
+	</string>
+	<string id="ls_tip_118">
+		<text>Conforme nos aproximávamos do fogo o cheiro de carne queimada ficava cada vez mais forte. Não sobrou nada além de corpos carbonizados e escombros espalhados pelo complexo da fábrica. Meadows costumava ser um lugar pacífico, havia alguns stalkers que ficavam por aqui tentando começar uma nova vida. Quem fez isso e por quê? Um lugar antes alegre tinha se tornado apenas mais uma triste história da vida na zona.</text>
+	</string>
+	<string id="ls_tip_119">
+		<text>"Isso é mais de 300% de lucro para sua bunda gorda! O que você acha que não sabemos sobre seus preços? Não sei se você precisa desse dinheiro extra para manter essa cabeça careca encerada ou o quê, mas você pode mudar seus preços ou encontrar um novo fornecedor." Sidorovich, sabendo que não podia recusar a oferta, relutantemente fez uma nova proposta.</text>
+	</string>
+	<string id="ls_tip_120">
+		<text>"Kahn ich eine Zigarette haben?" O quê? "Kahn ich eine Zigarette haben?" De novo, eu falo inglês. Esses novos caras da cidadela não falavam uma palavra de inglês pelo visto, mas até agora parecem se virar bem em uma briga então talvez vivam mais que o último grupo.</text>
+	</string>
+	<string id="ls_tip_121">
+		<text>"Esta igreja é linda! Não consigo imaginar como ela era..." Quieto, você está ouvindo isso? "Não." Exatamente agora pare de falar. Clear Sky vai esperar que estejamos na igreja e estará nos observando daquela torre. Agora estou cansado deste rifle quebrado, preciso de algo novo, e sei que aquela patrulha terá alguns brinquedos novos se conseguirmos fazer isso.</text>
+	</string>
+</string_table>

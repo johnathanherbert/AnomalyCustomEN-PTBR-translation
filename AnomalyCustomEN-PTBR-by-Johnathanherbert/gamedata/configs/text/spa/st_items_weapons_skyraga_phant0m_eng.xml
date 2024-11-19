@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+		<string id="st_wpn_m4_skyraga_tac_30">
+		<text>M4 Skyraga Tática</text>
+	</string>	
+			<string id="st_wpn_m4_skyraga_tac_30_descr">
+		<text>Colt M4A1 - um rifle de assalto (carabina), projetado nos EUA com base na plataforma AR-15 para munição 5.56x45 OTAN. Foi desenvolvido principalmente para uso por operadores de veículos e equipes de combate que necessitavam de uma arma mais compacta e leve que um rifle padrão de comprimento total, mas usando a mesma munição. Estas M4s, no entanto, foram altamente modificadas pelas Tropas de Choque Mercenárias que costumam portá-las. Agora apresentam um Ferrolho Mais Leve para uma Taxa de Disparo Mais Alta, Função de Rajada de 5 Tiros, Empunhadura Frontal, Laser AN/PEQ-15 e Lanterna IR, Miras Noturnas e um Carregador Padrão de 30 Tiros. Eficaz tanto para combate extremo a curta distância quanto para tiros de precisão a média distância. Este rifle é frequentemente considerado uma "Vassoura de Trincheira Moderna", uma homenagem à submetralhadora Thompson 1921.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser tanto em banda visível quanto IR com lanterna IR.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny (exceto Miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+		%c[d_purple] • %c[ui_gray_2] Carregador: Carregador Box de 30 Tiros\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor e Freio Daniel Defense DDwave\n </text>
+		</string>
+	
+		<string id="st_wpn_m4_skyraga_tac_40">
+		<text>M4 Skyraga "Vassoura de Trincheira"</text>
+	</string>	
+			<string id="st_wpn_m4_skyraga_tac_40_descr">
+		<text>Colt M4A1 - um rifle de assalto (carabina), projetado nos EUA com base na plataforma AR-15 para munição 5.56x45 OTAN. Foi desenvolvido principalmente para uso por operadores de veículos e equipes de combate que necessitavam de uma arma mais compacta e leve que um rifle padrão de comprimento total, mas usando a mesma munição. Estas M4s, no entanto, foram altamente modificadas pelas Tropas de Choque Mercenárias que costumam portá-las. Agora apresentam um Ferrolho Mais Leve para uma Taxa de Disparo Mais Alta, Função de Rajada de 5 Tiros, Empunhadura Frontal, Laser AN/PEQ-15 e Lanterna IR, Miras Noturnas e um Carregador Estendido de 40 Tiros. Eficaz tanto para combate extremo a curta distância quanto para tiros de precisão a média distância. Este rifle é frequentemente considerado uma "Vassoura de Trincheira Moderna", uma homenagem à submetralhadora Thompson 1921.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser tanto em banda visível quanto IR com lanterna IR.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny (exceto Miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+		%c[d_purple] • %c[ui_gray_2] Carregador: Carregador Box Estendido de 40 Tiros\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor e Freio Daniel Defense DDwave\n </text>
+		</string>
+
+		<string id="st_wpn_m4_skyraga_tac_60">
+		<text>M4 Skyraga "Vassoura de Trincheira"</text>
+	</string>	
+			<string id="st_wpn_m4_skyraga_tac_60_descr">
+		<text>Colt M4A1 - um rifle de assalto (carabina), projetado nos EUA com base na plataforma AR-15 para munição 5.56x45 OTAN. Foi desenvolvido principalmente para uso por operadores de veículos e equipes de combate que necessitavam de uma arma mais compacta e leve que um rifle padrão de comprimento total, mas usando a mesma munição. Estas M4s, no entanto, foram altamente modificadas pelas Tropas de Choque Mercenárias que costumam portá-las. Agora apresentam um Ferrolho Mais Leve para uma Taxa de Disparo Mais Alta, Função de Rajada de 5 Tiros, Empunhadura Frontal, Laser AN/PEQ-15 e Lanterna IR, Miras Noturnas e um Carregador Tambor de Alta Capacidade de 60 Tiros. Eficaz tanto para combate extremo a curta distância quanto para tiros de precisão a média distância. Este rifle é frequentemente considerado uma "Vassoura de Trincheira Moderna", uma homenagem à submetralhadora Thompson 1921.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser tanto em banda visível quanto IR com lanterna IR.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny (exceto Miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+		%c[d_purple] • %c[ui_gray_2] Carregador: Carregador Tambor de 60 Tiros\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor e Freio Daniel Defense DDwave\n </text>
+		</string>
+	
+	</string_table>

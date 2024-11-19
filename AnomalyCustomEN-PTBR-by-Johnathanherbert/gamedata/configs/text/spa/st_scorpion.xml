@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_scorpion">
+		<text>Submetralhadora Scorpion EVO</text>
+	</string>
+	<string id="st_wpn_scorpion_descr">
+		<text>A Scorpion EVO 3 é uma carabina de 9mm fabricada pela ?eská Zbrojovka Uherský Brod. A variante de tiro seletivo da submetralhadora é designada A1, e a variante semiautomática é designada S1. A designação EVO 3 indica que esta arma é a terceira geração da linha de submetralhadoras compactas da CZ, iniciada pela Škorpion vz. 61, com a qual não tem relação mecânica.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] NENHUM\n</text>
+	</string>
+</string_table>

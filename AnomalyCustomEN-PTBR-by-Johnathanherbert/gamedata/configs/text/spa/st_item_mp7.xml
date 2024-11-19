@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--! Traduzido por johnathanherbert -->
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_mp7_descr_new">
+		<text>A Heckler &amp; Koch MP7 é uma arma de defesa pessoal alemã projetada e fabricada pela Heckler &amp; Koch (H&amp;K) que dispara o cartucho HK 4,6 x 30 mm. Foi projetada com um novo cartucho para atender aos requisitos da OTAN publicados em 1989, que exigiam uma arma de defesa pessoal com maior capacidade de penetração em coletes à prova de balas do que as armas da época, limitadas a cartuchos de pistola convencionais. O MP7 entrou em produção em 2001.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Alemanha \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Heckler &amp; Koch \n</text>
+	</string>
+</string_table>

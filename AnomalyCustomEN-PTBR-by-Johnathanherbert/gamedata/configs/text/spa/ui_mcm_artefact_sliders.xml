@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_menu_arx_options">
+		<text>ARX</text>
+	</string>
+	<string id="ui_mcm_arx_options_arti_s_timer">
+		<text>Atraso do tick de regeneração</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_restore_step">
+		<text>Quantidade de regeneração</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_restore_point">
+		<text>Condição mínima para regeneração</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_light_burn_immunity">
+		<text>Perda de condição por Dano de Queimadura Leve</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_burn_immunity">
+		<text>Perda de condição por Dano de Queimadura</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_strike_immunity">
+		<text>Perda de condição por Dano de Impacto</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_shock_immunity">
+		<text>Perda de condição por Dano Elétrico</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_wound_immunity">
+		<text>Perda de condição por Dano de Ruptura</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_radiation_immunity">
+		<text>Perda de condição por Dano de Radiação</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_telepatic_immunity">
+		<text>Perda de condição por Dano Psíquico</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_chemical_burn_immunity">
+		<text>Perda de condição por Dano Químico</text>
+	</string>
+	
+	<string id="ui_mcm_arx_options_imm_mul_explosion_immunity">
+		<text>Perda de condição por Dano Explosivo</text>
+	</string>
+	
+	<string id="ui_mcm_arx_options_imm_mul_fire_wound_immunity">
+		<text>Perda de condição por Dano Balístico</text>
+	</string>
+</string_table>

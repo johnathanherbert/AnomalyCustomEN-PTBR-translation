@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_rk62">
+		<text>RK 62</text>
+	</string>
+	<string id="st_wpn_rk62_descr">
+		<text>O RK 62, oficialmente 7.62 RK 62 e conhecido no mercado como M62, é um rifle de assalto fabricado pela Valmet e Sako. É a arma de infantaria padrão das Forças de Defesa Finlandesas. O RK 62 foi projetado em 1962 e é baseado na versão polonesa licenciada do projeto soviético AK-47. O RK 62 utiliza o mesmo cartucho 7,62x39mm do AK-47. Entre 1965 e 1994, Valmet e Sako produziram juntas 350.000 rifles M62. É a base do IMI Galil, um fuzil de assalto israelense com o qual compartilha muitas semelhanças. O RK 62 possui um quebra-chamas de três pontas e um encaixe para uma baioneta especialmente projetada que pode ser usada como faca de combate. O RK 95 TP é uma versão mais moderna e aprimorada do RK 62. Uma das características mais distintivas dos rifles Valmet, incluindo o M62 e todas as variantes subsequentes, é o quebra-chamas de três pinos com suporte para baioneta na parte inferior. Além de suprimir o flash do cano, a ponta pode cortar rapidamente arame farpado ao empurrar o cano contra o fio e disparar uma bala.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Finlândia \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Valmet \n</text>
+	</string>
+</string_table>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_itms_campfire_name">
+		<text>Lenha</text>
+	</string>
+	<string id="st_itms_campfire_descr">
+		<text>Embora a madeira seja fácil de encontrar na Zona, lenha de qualidade adequada para fogueira é uma raridade. Embora seja escassa, é muito barata, mas também muito pesada. Pode ser essencial para excursões e ataques. Ajuda a mantê-lo aquecido à noite e permite cozinhar alimentos.</text>
+	</string>
+
+	<string id="st_bad_surface">
+		<text>A superfície não é adequada.</text>
+	</string>
+
+	<string id="st_gather_wood">
+		<text>Cortar lenha</text>
+	</string>
+
+</string_table>

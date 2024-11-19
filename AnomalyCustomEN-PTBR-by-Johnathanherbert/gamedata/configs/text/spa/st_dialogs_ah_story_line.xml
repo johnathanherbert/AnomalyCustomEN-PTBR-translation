@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+<!-- Geral -->
+	<string id = "story_line_dialog_1">
+		<text> Aqui estão as coordenadas das anomalias. Inspecione-as com um detector. Deve haver amostras que me interessam. </text>
+	</string>
+	<string id = "story_line_answer_1">
+		<text> Entendi. </text>
+	</string>	
+	<string id = "story_line_dialog_2">
+		<text> Como você provavelmente já adivinhou, eu trabalho no grupo científico do Instituto de Estudos da Zona Anômala de Chernobyl. Os artefatos são invisíveis ao olho humano, mas a frequência emitida por eles pode ser detectada por detectores. </text>
+	</string>
+	<string id = "story_line_answer_2">
+		<text> Bem, isso eu já sei. </text>
+	</string>	
+	<string id = "story_line_dialog_3">
+		<text> Cada artefato emite energia em sua própria frequência. É como uma impressão digital, uma assinatura do autor em uma obra de arte. Quanto maior a faixa de varredura do detector, mais artefatos ele pode encontrar. Como regra, os stalkers procuram artefatos com propriedades excepcionais. Enquanto isso, quaisquer amostras de anomalias são de interesse para a ciência. </text>
+	</string>
+	<string id = "story_line_answer_3">
+		<text> Muito interessante. </text>
+	</string>	
+	<string id = "story_line_dialog_4">
+		<text> Como você sabe, Arrow conseguiu desvendar o segredo da origem da Zona. Essa informação agora está disponível para muitos cientistas. Isso nos fez avançar muito na compreensão da natureza surpreendente das anomalias, como elas afetam o mundo ao nosso redor e os organismos vivos. Agora estamos coletando uma base de observações práticas e medições no terreno. Este trabalho não pode ser chamado de simples. Por isso, procuramos ajudantes entre os stalkers livres. </text>
+	</string>
+	<string id = "story_line_answer_4">
+		<text> Por uma recompensa decente, é claro. </text>
+	</string>	
+	<string id = "story_line_dialog_5">
+		<text> A ruptura da noosfera, que todos conhecem como a segunda explosão, causou a criação da zona anômala. As linhas de força dos campos psi, como tentáculos, envolvem este território. Todo objeto que está na zona é afetado por elas. Até você já está marcado pela zona. O que podemos dizer sobre os artefatos que nascem em seu ventre. Este é um presente incrível que nem todos podem apreciar. E não é sobre o dinheiro que eles custam. Artefatos são mensageiros da zona, através dos quais ela se comunica conosco. Por isso, precisamos tanto deles. </text>
+	</string>
+	<string id = "story_line_answer_5">
+		<text> Não dá pra passar artefatos no pão. </text>
+	</string>	
+	<string id = "story_line_dialog_6">
+		<text> Cada artefato tem uma modulação única, mesmo que sejam do mesmo tipo. Ele pode nos dizer muito sobre algo tão misterioso quanto a noosfera. A coisa mais estúpida a fazer é prendê-los aos seus cintos e esperar que ele o salve de balas ou anomalias. Agora estamos apenas chegando à resposta, e planejamos compilar um espectrograma completo da zona, para isso teremos que percorrer um grande número de territórios. </text>
+	</string>
+	<string id = "story_line_answer_6">
+		<text> Bem, o que eu estou fazendo? Já derrubei. </text>
+	</string>	
+	<string id = "story_line_dialog_7">
+		<text> Já se perguntou do que são feitos os artefatos? Na maioria das vezes, são os restos de seres vivos capturados em anomalias. Então, da próxima vez que decidir se exibir com uma descoberta rara, lembre-se, podem ser os restos do mesmo stalker. Bem, ou um javali, quem sabe. </text>
+	</string>
+	<string id = "story_line_answer_7">
+		<text> Tento não me exibir com espólios. </text>
+	</string>	
+	<string id = "story_line_dialog_8">
+		<text> Acredita-se que anomalias são algum tipo de quebra no espaço-tempo, onde as leis físicas do nosso mundo param de funcionar. Mas há outro ponto de vista de que isso é uma fonte de sinal poderosa que simplesmente não podemos receber. Quem os transfere e por quê? Ou talvez seja apenas uma tampa de panela que chocalha sobre o caldo fervente? </text>
+	</string>	
+	<string id = "story_line_answer_8">
+		<text> O importante é não engasgar de novo. </text>
+	</string>	
+	<string id = "story_line_dialog_9">
+		<text> A anomalia geralmente escolhe amostras orgânicas como receptor de informações. Por exemplo, animais selvagens ou zumbis que frequentemente morrem nelas. É assim que os artefatos aparecem. Conhecendo o local exato de origem do artefato, você pode lê-lo como um livro ou como um pen drive. </text>
+	</string>
+	<string id = "story_line_answer_9">
+		<text> Espero que você não tenha pensado em jogar nada nas anomalias ainda? </text>
+	</string>	
+	<string id = "story_line_dialog_10">
+		<text> Não compramos artefatos de stalkers ou bandidos. Sem conhecer o local exato de origem, eles são inúteis para nós. Nossa tarefa é coletar amostras de todos os cantos da zona. </text>
+	</string>	
+	<string id = "story_line_answer_10">
+		<text> Entendi. </text>
+	</string>	
+	<string id = "story_line_dialog_11">
+		<text> Cada artefato, mesmo do mesmo tipo, tem uma radiação única dependendo do lugar onde foi encontrado. A zona deixou uma marca única em cada um deles, que não pode ser confundida com nada mais. Conhecendo o espectro completo da radiação, podemos fazer um mapa psiônico da zona. Entender as origens daqueles distúrbios que causaram a zona. Ou talvez gerenciá-los. </text>
+	</string>	
+	<string id = "story_line_answer_11">
+		<text> Planos ambiciosos. </text>
+	</string>	
+	<string id = "story_line_dialog_12">
+		<text> Graças a você, nosso cluster de computação está ocupado com cálculos 24 horas por dia. Informações para análise por anos. Ainda assim, foi a decisão certa, apesar dos riscos, a equipe será dividida por todo o território. Aqui nosso líder, o Acadêmico Skabinsky, agiu com visão de futuro. É impossível para uma pessoa compreender uma estrutura tão grande como um todo. Só combinando nossas capacidades de pensamento poderíamos chegar ao sucesso. </text>
+	</string>	
+	<string id = "story_line_answer_12">
+		<text> Feliz por vocês. </text>
+	</string>	
+	<string id = "story_line_dialog_13">
+		<text> Obrigado por estar conosco. Geralmente os stalkers que nos ajudam constantemente desaparecem. A análise preliminar do espectrograma está cheia de surpresas, parece que o centro da zona esteve debaixo de nossos narizes todo esse tempo.
+Nosso colega não esperou pelos cálculos finais e já se mudou para lá. Mas ainda estou inclinado a terminar de fazer o mapa. Tenho mais algumas amostras. </text>
+	</string>	
+	<string id = "story_line_answer_13">
+		<text> Isso nunca vai acabar. </text>
+	</string>	
+	<string id = "story_line_dialog_14">
+		<text> Nosso negócio está chegando ao fim. Em breve provaremos que merecemos ocupar nosso lugar... Você sabe que há uma giga anomalia no centro da zona, e todas as linhas psi se cruzam lá? Um artefato que nascerá neste lugar único terá propriedades únicas. A zona finalmente falará conosco. </text>
+	</string>	
+	<string id = "story_line_answer_14">
+		<text> Conosco? </text>
+	</string>	
+	<string id = "story_line_dialog_15">
+		<text> Notícias tristes. Nosso irmão parou de se comunicar. Não há razão para esperar o melhor, provavelmente ele morreu. Há uma giga anomalia no centro da zona. É quase impossível passá-la. Vamos pensar em como resolver este problema, talvez valha a pena refinar os cálculos. </text>
+	</string>	
+	<string id = "story_line_answer_15">
+		<text> Na Zona, você sempre tem que pensar primeiro e depois agir. </text>
+	</string>	
+	
+</string_table>

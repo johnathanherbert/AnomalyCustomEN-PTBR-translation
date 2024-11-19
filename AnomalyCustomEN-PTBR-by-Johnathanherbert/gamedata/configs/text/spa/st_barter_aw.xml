@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+ 
+<string_table>
+    
+    <string id="st_solid_supplies">
+        <text>Com toda a luta que acontece perto da Barreira e o estado em que as equipes de reconhecimento voltam, precisamos de bons suprimentos médicos. Band-aids não são suficientes - precisamos de torniquetes, kits de trauma e hemostáticos. Tudo que temos aqui é remédio pra gripe e antirad! Podemos contar com você?</text>
+    </string>
+    <string id="st_solid_supplies_done">
+        <text>Sua ajuda é apreciada, cara. Precisamos manter nossos rapazes vivos.</text>
+    </string>
+
+    <string id="st_skinflint_lottery">
+        <text>Temos um problema real com o Monolith. Algo os deixou agitados, não faço ideia do que seja. Empilhe alguns de seus corpos em meu nome e vou te recompensar com algumas coisas boas.</text>
+    </string>
+    <string id="st_skinflint_lottery_done">
+        <text>Bom trabalho. Continue assim.</text>
+    </string>
+    
+    <string id="st_screw_ied">
+        <text>Estou planejando montar um campo minado ao redor da Barreira. Quando aqueles adoradores de pedra passarem, vão ser explodidos! Aceito quaisquer explosivos que você tiver e te dou algo pra consertar seu traje.</text>
+    </string>
+    <string id="st_screw_ied_done">
+        <text>Perfeito, isso vai servir bem.</text>
+    </string>
+
+    <string id="st_screw_paint">
+        <text>Bela arma! Sabe o que deixaria ela mais legal? Algumas melhorias da Freedom, é isso aí! Me dá ela aqui, e passa o baseado também.</text>
+    </string>
+    <string id="st_screw_paint_done">
+        <text>Prazer fazer negócio.</text>
+    </string>
+
+    <string id="st_screw_mask">
+        <text>Ei, posso combinar essas duas peças de equipamento pra você. Preciso fazer algumas alterações no capacete pra acomodar a máscara, mas não é grande coisa.</text>
+    </string>
+    <string id="st_screw_mask_done">
+        <text>Prazer fazer negócio.</text>
+    </string>
+
+</string_table>

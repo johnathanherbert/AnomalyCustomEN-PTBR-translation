@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_wepl_hit_effect_title">
+		<text>Efeitos de Impacto Wepl</text>
+	</string>
+	<string id="ui_mcm_menu_wepl_hit_effect">
+		<text>Efeitos de Impacto Wepl</text>
+	</string>
+
+
+	<!-- Main configs -->
+	<string id="ui_mcm_wepl_hit_effect_enable_stalker">
+		<text>Ativar som de impacto para o jogador</text>
+	</string>
+
+	<string id="ui_mcm_wepl_hit_effect_enable_npc">
+		<text>Ativar som quando o jogador acertar um NPC</text>
+	</string>
+
+	<string id="ui_mcm_wepl_hit_effect_volume">
+		<text>Volume do som de impacto</text>
+	</string>
+
+</string_table>

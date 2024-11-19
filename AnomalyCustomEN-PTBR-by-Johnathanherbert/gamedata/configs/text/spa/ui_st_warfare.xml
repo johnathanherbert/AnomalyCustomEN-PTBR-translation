@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	WARFARE STRINGS
+-->
+
+<string_table>
+	<string id="st_wrfr_opt_presets">
+		<text>Predefinições</text>
+	</string>
+	<string id="st_wrfr_opt_apply_to_all">
+		<text>Aplicar a todos</text>
+	</string>
+	<string id="st_wrfr_opt_general">
+		<text>Geral</text>
+	</string>
+	<string id="st_wrfr_opt_azazel_respawn">
+		<text>Respawn Azazel</text>
+	</string>
+	<string id="st_wrfr_opt_rand_settings">
+		<text>Configurações aleatórias</text>
+	</string>
+	
+	<string id="st_wrfr_influnence_points">
+		<text>Pontos de influência</text>
+	</string>
+	<string id="st_wrfr_release_control_faction">
+		<text>Abandonar o controle da facção</text>
+	</string>
+	<string id="st_wrfr_take_control_faction">
+		<text>Assumir o controle da facção</text>
+	</string>
+	<string id="st_wrfr_show_points">
+		<text>Mostrar pontos / Terreno inteligente</text>
+	</string>
+	<string id="st_wrfr_hide_points">
+		<text>Ocultar pontos / Terreno inteligente</text>
+	</string>
+	<string id="st_wrfr_display_faction_info">
+		<text>Mostrar informações da facção</text>
+	</string>
+	<string id="st_wrfr_unselect_squad">
+		<text>Cancelar seleção do esquadrão</text>
+	</string>
+	<string id="st_wrfr_select_squad">
+		<text>Selecionar esquadrão</text>
+	</string>
+	<string id="st_wrfr_unselect_point">
+		<text>Cancelar seleção do ponto</text>
+	</string>
+	<string id="st_wrfr_select_point">
+		<text>Selecionar ponto</text>
+	</string>
+	<string id="st_wrfr_select_obj">
+		<text>Selecionar objeto</text>
+	</string>
+	<string id="st_wrfr_add_influ">
+		<text>Adicionar influência</text>
+	</string>
+	<string id="st_wrfr_remove_influ">
+		<text>Remover influência</text>
+	</string>
+	<string id="st_wrfr_cap_point">
+		<text>Capturar ponto</text>
+	</string>
+	<string id="st_wrfr_buy_novice_squad">
+		<text>Comprar esquadrão novato</text>
+	</string>
+	<string id="st_wrfr_buy_adv_squad">
+		<text>Comprar esquadrão experiente</text>
+	</string>
+	<string id="st_wrfr_buy_veteran_squad">
+		<text>Comprar esquadrão veterano</text>
+	</string>
+	<string id="st_wrfr_buy_heli">
+		<text>Comprar helicóptero</text>
+	</string>
+	<string id="st_wrfr_declare_war">
+		<text>Declarar guerra</text>
+	</string>
+	<string id="st_wrfr_possess_leader">
+		<text>Controlar líder do esquadrão</text>
+	</string>
+	<string id="st_wrfr_follow">
+		<text>Seguir</text>
+	</string>
+	<string id="st_wrfr_attack">
+		<text>Atacar</text>
+	</string>
+	<string id="st_wrfr_target">
+		<text>Alvo</text>
+	</string>
+	<string id="st_wrfr_move_here">
+		<text>Mover para cá</text>
+	</string>
+	<string id="st_wrfr_send_squad">
+		<text>Enviar esquadrão</text>
+	</string>
+	<string id="st_wrfr_send_all_squad">
+		<text>Enviar TODOS os esquadrões</text>
+	</string>
+	<string id="st_wrfr_take_squad">
+		<text>Tomar esquadrão</text>
+	</string>
+	<string id="st_wrfr_take_all_squads">
+		<text>Tomar TODOS os esquadrões</text>
+	</string>
+	<string id="st_wrfr_attack_with_all">
+		<text>Atacar com todos</text>
+	</string>
+	<string id="st_wrfr_send_heli_to_point">
+		<text>Enviar helicóptero para o ponto</text>
+	</string>
+	<string id="st_wrfr_send_heli_to_squad">
+		<text>Enviar helicóptero para o esquadrão</text>
+	</string>
+	<string id="st_wrfr_remove_heli">
+		<text>Remover helicóptero</text>
+	</string>
+	<string id="st_wrfr_heli_route">
+		<text>Helicóptero a caminho</text>
+	</string>
+	<string id="st_wrfr_order_1">
+		<text>Enviar um ao outro</text>
+	</string>
+	<string id="st_wrfr_order_2">
+		<text>Enviar para atacar</text>
+	</string>
+	<string id="st_wrfr_order_3">
+		<text>Seguir agora</text>
+	</string>
+	<string id="st_wrfr_order_4">
+		<text>Enviar um esquadrão de defesa do esquadrão X para seguir o jogador</text>
+	</string>
+	<string id="st_wrfr_order_5">
+		<text>Enviar todos os esquadrões de defesa de X para seguir o jogador</text>
+	</string>
+	<string id="st_wrfr_order_6">
+		<text>Enviar um esquadrão de defesa do esquadrão X para atacar o esquadrão Y</text>
+	</string>
+	<string id="st_wrfr_order_7">
+		<text>Enviar todos os esquadrões de defesa do esquadrão X para atacar o esquadrão Y</text>
+	</string>
+	<string id="st_wrfr_order_8">
+		<text>Enviar um esquadrão de defesa do esquadrão X para rastrear o esquadrão Y</text>
+	</string>
+	<string id="st_wrfr_order_9">
+		<text>Enviar todos os esquadrões de defesa do esquadrão X para rastrear o esquadrão Y</text>
+	</string>
+	<string id="st_wrfr_order_10">
+		<text>Adicionar X aos alvos de Y</text>
+	</string>
+	<string id="st_wrfr_order_11">
+		<text>Enviar um esquadrão de X para atacar Y</text>
+	</string>
+	<string id="st_wrfr_order_12">
+		<text>Enviar todos os esquadrões de X para atacar Y</text>
+	</string>
+	<string id="st_wrfr_order_13">
+		<text>Mover um esquadrão de X para atacar Y</text>
+	</string>
+	<string id="st_wrfr_order_14">
+		<text>Mover todos os esquadrões de X para atacar Y</text>
+	</string>
+	<string id="st_wrfr_order_15">
+		<text>Mover um esquadrão de X para Y</text>
+	</string>
+	<string id="st_wrfr_order_16">
+		<text>Mover todos os esquadrões de X para Y</text>
+	</string>
+	<string id="st_wrfr_order_17">
+		<text>Mover helicóptero para X</text>
+	</string>
+	<string id="st_wrfr_heli_removed">
+		<text>Helicóptero removido</text>
+	</string>
+	<string id="st_wrfr_heli_already_spawned">
+		<text>Helicóptero já em uso!</text>
+	</string>
+	
+	<string id="st_wrfr_smrt_auto_capture">
+		<text>Captura automática de X!</text>
+	</string>
+	<string id="st_wrfr_prop_base">
+		<text>Base</text>
+	</string>
+	<string id="st_wrfr_prop_resource">
+		<text>Recurso</text>
+	</string>
+	<string id="st_wrfr_prop_territory">
+		<text>Território</text>
+	</string>
+	<string id="st_wrfr_prop_lair">
+		<text>Suporte Aéreo</text>
+	</string>
+	<string id="st_wrfr_prop_faction">
+		<text>Facção</text>
+	</string>
+	<string id="st_wrfr_prop_curr_popu">
+		<text>População atual</text>
+	</string>
+	<string id="st_wrfr_prop_max_popu">
+		<text>População máxima</text>
+	</string>
+	<string id="st_wrfr_prop_resource_count">
+		<text>Quantidade de recursos</text>
+	</string>
+	<string id="st_wrfr_prop_time_capture">
+		<text>Tempo de captura</text>
+	</string>
+	<string id="st_wrfr_prop_next_defense">
+		<text>Próxima defesa</text>
+	</string>
+	<string id="st_wrfr_prop_next_patrol">
+		<text>Próxima patrulha</text>
+	</string>
+	<string id="st_wrfr_prop_time_culc_hr">
+		<text>Tempo em horas</text>
+	</string>
+	<string id="st_wrfr_prop_time_culc_min">
+		<text>Tempo em minutos</text>
+	</string>
+	<string id="st_wrfr_prop_target">
+		<text>Alvo</text>
+	</string>
+	<string id="st_wrfr_prop_invasion_size">
+		<text>Tamanho da invasão</text>
+	</string>
+	<string id="st_wrfr_prop_targets">
+		<text>--Alvos--</text>
+	</string>
+	<string id="st_wrfr_prop_invasion">
+		<text>--Invasão--</text>
+	</string>
+	<string id="st_wrfr_smart_count_warning">
+		<text>Aviso de contagem de esquadrões no terreno!</text>
+	</string>
+	
+	<string id="st_wrfr_heli">
+		<text>Helicóptero</text>
+	</string>
+	<string id="st_wrfr_you">
+		<text>Você</text>
+	</string>
+	<string id="st_wrfr_mutant">
+		<text>Mutante</text>
+	</string>
+	<string id="st_wrfr_none">
+		<text>Nenhum</text>
+	</string>
+	
+	<string id="st_wrfr_sim_1">
+		<text>Esquadrão de X</text>
+	</string>
+	<string id="st_wrfr_sim_2">
+		<text>Membro(s)</text>
+	</string>
+	<string id="st_wrfr_sim_3">
+		<text>Seção</text>
+	</string>
+	<string id="st_wrfr_sim_4">
+		<text>ID</text>
+	</string>
+	<string id="st_wrfr_sim_5">
+		<text>Em combate</text>
+	</string>
+	<string id="st_wrfr_sim_6">
+		<text>A caminho</text>
+	</string>
+	<string id="st_wrfr_sim_7">
+		<text>Aguardando no alvo</text>
+	</string>
+	<string id="st_wrfr_sim_8">
+		<text>Poder total</text>
+	</string>
+	<string id="st_wrfr_sim_9">
+		<text>Poder</text>
+	</string>
+	<string id="st_wrfr_sim_10">
+		<text>Base própria</text>
+	</string>
+	<string id="st_wrfr_sim_11">
+		<text>Tempo ocioso</text>
+	</string>
+	<string id="st_wrfr_sim_12">
+		<text>Nível do alvo</text>
+	</string>
+</string_table>

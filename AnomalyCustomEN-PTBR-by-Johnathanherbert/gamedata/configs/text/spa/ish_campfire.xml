@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_ui_no_save_campfire_baby">
+		<text>Você só pode %s perto de fogueiras, baby.</text>
+	</string>
+	<string id="st_ui_no_save_campfire_base">
+		<text>Você só pode %s perto de fogueiras e em bases aliadas.</text>
+	</string>
+	<string id="st_ui_no_save_campfire_unlit">
+		<text>A fogueira precisa estar acesa antes que você possa %s.</text>
+	</string>
+	<string id="ui_mcm_menu_yasc">
+		<text>YACS</text>
+	</string>
+	<string id="ui_mcm_lst_Sanctuaries_None">
+		<text>Não</text>
+	</string>
+	<string id="ui_mcm_lst_Sanctuaries_Friendly">
+		<text>Apenas Aliados</text>
+	</string>
+	<string id="ui_mcm_lst_Sanctuaries_Neutral">
+		<text>Aliados e Neutros</text>
+	</string>
+	<string id="ui_mcm_yacs_title">
+		<text>Mais um Sistema de Salvamento em Fogueiras</text>
+	</string>
+	<string id="ui_mcm_yasc_enableCampfireSaving">
+		<text>Ativar Salvamento em Fogueiras</text>
+	</string>
+	<string id="ui_mcm_yasc_enableCampfireSaving_desc">
+		<text>Você só poderá salvar perto de fogueiras acesas e dentro de bases aliadas.</text>
+	</string>
+	<string id="ui_mcm_yasc_allowNeutralBases">
+		<text>Ativar Bases Neutras</text>
+	</string>
+	<string id="ui_mcm_yasc_allowNeutralBases_desc">
+		<text>Outras facções permitirão que você salve em suas bases dependendo da sua reputação.</text>
+	</string>
+	<string id="ui_mcm_yasc_allowSanctuaries">
+		<text>Ativar Santuários</text>
+	</string>
+	<string id="ui_mcm_yasc_allowSanctuaries_desc">
+		<text>Certos indivíduos influentes permitirão que você salve em suas moradas se você tiver boas relações.</text>
+	</string>
+	<string id="ui_mcm_yasc_enableNotifications">
+		<text>Ativar Notificações de Token</text>
+	</string>
+	<string id="ui_mcm_yasc_enableNotifications_desc">
+		<text>Você será notificado do tempo restante antes de receber um token de salvamento gratuito.</text>
+	</string>
+	<string id="ui_mcm_yasc_isNotMommy">
+		<text>Não é Mamãe</text>
+	</string>
+	<string id="ui_mcm_yasc_isNotMommy_desc">
+		<text>Você se identifica como Papai.</text>
+	</string>
+	<string id="mommy_true">
+		<text>Mamãe</text>
+	</string>
+	<string id="mommy_false">
+		<text>Papai</text>
+	</string>
+	<string id="token_pending">
+		<text>Você receberá um Token de %s em %i segundos.</text>
+	</string>
+	<string id="token_granted">
+		<text>Você tem um Token de %s. Pressione SHIFT-F5 para resgatar.</text>
+	</string>
+</string_table>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_wpn_fort12">
+		<text>Fort-12</text>
+	</string>
+	
+	<string id="st_wpn_fort12_descr">
+		<text>O Fort-12 é uma tentativa da Ucrânia recém-independente (desde agosto de 1991) de criar sua própria pistola policial para substituir a Makarov PM da era soviética, mantendo o mesmo calibre 9x18. Projetada em 1995 e desenvolvida em 1998 pela fabricante ucraniana de armas RPC Fort, esta é uma pistola formidável considerada uma atualização da própria PM. Embora possa ter problemas de confiabilidade, especialmente devido à falta do mecanismo seguro de desarmamento do cão, ela compensa na precisão, carregador e ergonomia. Este modelo vem com cano rosqueado, permitindo equipar silenciadores por padrão.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19</text>
+	</string>
+	
+	<string id="st_wpn_fort17">
+		<text>Fort-17</text>
+	</string>
+
+	<string id="st_wpn_fort17_descr">
+		<text>O Fort-17 é uma melhoria do Fort-12. Ao substituir o quadro de aço por polímero, o peso é reduzido, embora o recuo possa ser um pouco pior. Vem com carregadores de 13 munições por padrão em vez de 12 ou 13. Também possui uma placa traseira removível na empunhadura, que pode melhorar a ergonomia.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19</text>
+	</string>
+	
+	<string id="st_wpn_fort21">
+		<text>Fort-21</text>
+	</string>
+	
+	<string id="st_wpn_fort21_descr">
+		<text>O Fort-21.01 é uma cópia da Jericho 941 fabricada pela "RPC Fort", feita após fazer um contrato com a "Israel Military Industries" em setembro de 2009. Considerando seu status relativamente "novo", especialmente na Zona, é uma pistola bastante rara, daí o preço. É modelada com base na CZ-75, caso em que ambas podem compartilhar seus respectivos carregadores de 16 munições. Usa calibre 9x19 em vez de 9x18, diferente de seus irmãos mais velhos, o Fort-12 e Fort-17. Este modelo também parece vir com algumas miras do mercado de acessórios com um elaborado design de pontos de Trítio Verde e Vermelho.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19</text>
+	</string>
+
+	<string id="st_up_fort21_45acp_name">
+		<text>Mudança de calibre para .45 ACP</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_haru_no_tool">
+		<text>%sPara recuperar melhorias deste item você precisa ter [$tool_name] em seu inventário.</text>
+	</string>
+	<string id="st_remove_upgrades">
+		<text>recuperar melhorias [!]</text>
+	</string>
+</string_table>

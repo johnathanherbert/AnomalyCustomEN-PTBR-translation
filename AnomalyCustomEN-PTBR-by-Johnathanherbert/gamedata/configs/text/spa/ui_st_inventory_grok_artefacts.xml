@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<!-- Sorter -->
+	<string id="st_ui_craft_artefacts_container">
+		<text>Artefatos (em recipientes)</text>
+	</string>
+    <string id="st_item_use_empower">
+		<text>potencializar artefatos</text>
+	</string>
+	<string id="st_item_use_fuse">
+		<text>fundir artefatos</text>
+	</string>
+	<string id="st_item_use_craft">
+		<text>abrir bancada</text>
+	</string>	
+    <string id="st_ui_itm_repair_support_grok_artefacts">
+		<text>Artefato para derreter</text>
+	</string>
+    <string id="st_ui_itm_repair_base_grok_artefacts">
+		<text>Artefato para fortalecer</text>
+	</string>
+    <string id="st_melter">
+		<text>Derretedor de Artefatos</text>
+	</string>
+    <string id="st_melter_desc">
+		<text>Um dispositivo estranho e de alta tecnologia criado pelo Prof. Sakharov. O Derretedor de Artefatos (DA) permite a manipulação dos materiais dos artefatos. Esta ferramenta é alimentada usando a energia contida nos artefatos, que pode ser adquirida e armazenada para usos futuros ao derretê-los. O Derretedor de Artefatos também pode fortalecer artefatos do mesmo tipo, ou até mesmo fundir artefatos de diferentes tipos para gerar novos. Os processos químicos e físicos em ação ainda não são totalmente compreendidos. Pesquisas recentes apontam para a capacidade da ferramenta de aproveitar o poder da Noosfera. Outros experimentos mostraram que o DA só funciona na Zona. Essas descobertas rapidamente levaram a maioria dos stalkers de alto nível a adquirir tal ferramenta para criar artefatos mais fortes e mais caros para o mercado negro ou para uso próprio.\n \n
+		    %c[d_orange]Características do Sistema Operacional do Derretedor de Artefatos (SODA) v2.15a instalado neste dispositivo:\n \n
+		    %c[d_orange] - Derretimento de artefatos: Segure a tecla de segurança (Alt esquerdo) e mova o Derretedor de Artefatos sobre qualquer artefato para derretê-lo e reabastecer o tanque do DA. Quanto mais único o artefato, mais poder será recuperado.\n
+		    %c[d_orange] - Potencialização de artefatos: Escolha "potencializar artefatos" no menu principal do SODA para combinar artefatos do mesmo tipo para fortalecê-los.\n
+		    %c[d_orange] - Fusão de artefatos: Escolha "fundir artefatos" no menu principal do SODA e abra o submenu de receitas para gerar um novo artefato a partir de 2 ou mais artefatos. O artefato resultante terá a condição média dos utilizados. O SODA contém combinações de artefatos já conhecidas e *seguras*.\n
+		    %c[d_orange] - O SODA possui protocolos de segurança integrados para evitar qualquer mau funcionamento. Se a ferramenta se recusar a funcionar, certifique-se de que o tanque do DA contenha mais de 10% (1 uso) de sua capacidade total.\n
+		</text>
+	</string>
+	    <string id="st_grizzly">
+		<text>Detector Grizzly</text>
+	</string>
+    <string id="st_grizzly_desc">
+		<text>Este detector de atividade anômala é uma versão atualizada do detector Bear e é capaz de detectar todas as assinaturas de artefatos conhecidas, assim como os detectores Svarog ou Veles. Este Bear aprimorado é especialmente apreciado por stalkers que caçam artefatos durante a noite, já que seu display simples é compatível com óculos de visão noturna.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] consumo moderado de energia elétrica\n		</text>
+	</string>
+	
+</string_table>

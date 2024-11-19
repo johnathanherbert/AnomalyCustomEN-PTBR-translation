@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_weapon_cover_tilt_title">
+		<text>Inclinação da Arma em Cobertura</text>
+	</string>
+	<string id="ui_mcm_menu_weapon_cover_tilt">
+		<text>Inclinação da Arma em Cobertura</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enabled">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed">
+		<text>Inércia da animação</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+		<text>Valor menor significa animação mais rápida</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+		<text>Fator de Peso</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+		<text>Quanto maior o número, maior é o efeito do peso da arma na velocidade da animação</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+		<text>Raio de ativação em metros</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+		<text>Modificador de Comprimento da Arma</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+		<text>Isso mudará a dependência do raio de ativação no comprimento da arma. Com valor maior, haverá mais diferença entre armas curtas e longas</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+		<text>Considerar silenciadores acoplados para o raio de ativação</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+		<text>Armas com silenciadores acopláveis, quando anexados, terão o raio de ativação aumentado em cerca de 0,1 metros</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+		<text>Som de chocalho ao inclinar</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x">
+		<text>Deslocamento da posição da arma no eixo X</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+		<text>&lt; 0 - esquerda. &gt; 0 - direita</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y">
+		<text>Deslocamento da posição da arma no eixo Y</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+		<text>&lt; 0 - baixo. &gt; 0 - cima</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z">
+		<text>Deslocamento da posição da arma no eixo Z</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+		<text>&lt; 0 - para trás. &gt; 0 - para frente</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+		<text>Variação da guinada da arma</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+		<text>Quando uma arma é levantada, ela terá uma guinada aleatória de +- graus determinados para mais variação na animação</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation">
+		<text>Variação da rolagem da arma</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+		<text>Quando uma arma é levantada, ela terá uma rolagem aleatória de +- graus determinados para mais variação na animação</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+		<text>Ativar Inclinação Manual</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+		<text>Tecla de Atalho para Inclinação Manual</text>
+	</string>
+	
+</string_table>

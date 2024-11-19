@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    <!-- MCM option text -->
+    <string id="igi_task_text_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Peregrine, Yantar) -->
+    <string id="igi_task_text_mechanic_army_yan_mlr_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_mechanic_army_yan_mlr_hf_workshop_descr">
+        <text>Peregrine me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_mechanic_army_yan_mlr_hf_workshop_job_descr">
+        <text>Estava pensando se você queria provar seu valor como técnico. Tenho uma arma quebrada aqui - normalmente, seria desmontada para peças. Em vez disso, que tal você consertar isso para mim e eu posso procurar ferramentas de oficina para você?</text>
+    </string>
+    <string id="igi_task_text_mechanic_army_yan_mlr_hf_workshop_finish">
+        <text>Parabéns - não esperava que você realmente consertasse a coisa, mas aqui está! Bem, como eu disse, você certamente merece essas ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Kirilov, Agroprom) -->
+    <string id="igi_task_text_agr_smart_terrain_1_6_army_mechanic_stalker_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_agr_smart_terrain_1_6_army_mechanic_stalker_hf_workshop_descr">
+        <text>Ten. Kirilov me pediu para consertar uma arma quebrada. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_agr_smart_terrain_1_6_army_mechanic_stalker_hf_workshop_job_descr">
+        <text>Tenho uma arma em péssimo estado que precisa de uma reforma completa. Em troca, que tal uma oficina portátil? Normalmente, esse equipamento é restrito a especialistas treinados, mas o Coronel me autorizou essa recompensa, devido às ferramentas que você trouxe. Será útil se você estiver planejando excursões prolongadas dentro da Zona.</text>
+    </string>
+    <string id="igi_task_text_agr_smart_terrain_1_6_army_mechanic_stalker_hf_workshop_finish">
+        <text>Parabéns - não esperava que você realmente consertasse a coisa, mas aqui está! Bem, como eu disse, você certamente merece essas ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Mangun, Bar) -->
+    <string id="igi_task_text_bar_visitors_stalker_mechanic_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_bar_visitors_stalker_mechanic_hf_workshop_descr">
+        <text>Mangun me pediu para consertar uma arma quebrada de um de seus clientes. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_bar_visitors_stalker_mechanic_hf_workshop_job_descr">
+        <text>Devido às ferramentas que você me deu, todos estão vindo me pedir atualizações! Falando nisso, outro stalker veio pedir para consertar essa bagunça - é uma maravilha que eles sobreviveram por tanto tempo com isso. Se você consertar isso para mim, eu posso te dar uma oficina própria: é como eu pagando o favor.</text>
+    </string>
+    <string id="igi_task_text_bar_visitors_stalker_mechanic_hf_workshop_finish">
+        <text>Parabéns - não esperava que você realmente consertasse a coisa, mas aqui está! Bem, como eu disse, você certamente merece essas ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Loner, Darkscape) -->
+    <string id="igi_task_text_dasc_tech_mlr_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_dasc_tech_mlr_hf_workshop_descr">
+        <text>O técnico da serraria me pediu para consertar uma arma quebrada. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_dasc_tech_mlr_hf_workshop_job_descr">
+        <text>Tenho uma arma que precisa de conserto, mas não há materiais suficientes por aqui para fazer o trabalho. Eu consegui arranjar ferramentas que poderiam servir como uma oficina portátil, se você está interessado em consertar em meu lugar?</text>
+    </string>
+    <string id="igi_task_text_dasc_tech_mlr_hf_workshop_finish">
+        <text>Obrigado por consertar isso. Como concordamos, aqui estão as ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Limpid, Dark Valley) -->
+    <string id="igi_task_text_val_smart_terrain_7_3_bandit_mechanic_stalker_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_val_smart_terrain_7_3_bandit_mechanic_stalker_hf_workshop_descr">
+        <text>Limpid me pediu para consertar uma arma quebrada. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_val_smart_terrain_7_3_bandit_mechanic_stalker_hf_workshop_job_descr">
+        <text>Ei, Sultan me pediu para consertar essa arma, mas a coisa está rachada de volta ao inferno. Conserte isso para mim e que tal eu coletar algumas ferramentas aqui para uma oficina própria para você?</text>
+    </string>
+    <string id="igi_task_text_val_smart_terrain_7_3_bandit_mechanic_stalker_hf_workshop_finish">
+        <text>Você seguiu em frente novamente! Boa negociação, cara, aqui estão as ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Hog, Dead City) -->
+    <string id="igi_task_text_cit_killers_merc_mechanic_stalker_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_cit_killers_merc_mechanic_stalker_hf_workshop_descr">
+        <text>Hog me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_cit_killers_merc_mechanic_stalker_hf_workshop_job_descr">
+        <text>Estava pensando se você queria provar seu valor como técnico. Tenho uma arma quebrada aqui - normalmente, seria desmontada para peças. Em vez disso, que tal você consertar isso para mim e eu posso procurar ferramentas de oficina para você?</text>
+    </string>
+    <string id="igi_task_text_cit_killers_merc_mechanic_stalker_hf_workshop_finish">
+        <text>Parabéns - não esperava que você realmente consertasse a coisa, mas aqui está! Bem, como eu disse, você certamente merece essas ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Xenotech, Cordon) -->
+    <string id="igi_task_text_esc_smart_terrain_5_7_loner_mechanic_stalker_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_esc_smart_terrain_5_7_loner_mechanic_stalker_hf_workshop_descr">
+        <text>Xenotech me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_esc_smart_terrain_5_7_loner_mechanic_stalker_hf_workshop_job_descr">
+        <text>Estava pensando se você queria provar seu valor como técnico. Tenho uma arma quebrada aqui - normalmente, seria desmontada para peças. Em vez disso, que tal você consertar isso para mim e eu posso procurar ferramentas de oficina para você?</text>
+    </string>
+    <string id="igi_task_text_esc_smart_terrain_5_7_loner_mechanic_stalker_hf_workshop_finish">
+        <text>Parabéns - não esperava que você realmente consertasse a coisa, mas aqui está! Bem, como eu disse, você certamente merece essas ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Seryoga, Cordon) -->
+    <string id="igi_task_text_army_south_mechan_mlr_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_army_south_mechan_mlr_hf_workshop_descr">
+        <text>Seryoga me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_army_south_mechan_mlr_hf_workshop_job_descr">
+        <text>Você está indo mais fundo dentro da Zona, certo? Eu posso te dar ferramentas para uma oficina portátil, mas preciso ver que você pode usá-las corretamente. Esse particular revólver deve fazer o trabalho.</text>
+    </string>
+    <string id="igi_task_text_army_south_mechan_mlr_hf_workshop_finish">
+        <text>Parabéns - não esperava que você realmente consertasse a coisa, mas aqui está! Bem, como eu disse, você certamente merece essas ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Nitro, Jupiter) -->
+    <string id="igi_task_text_jup_b217_stalker_tech_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_jup_b217_stalker_tech_hf_workshop_descr">
+        <text>Nitro me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_jup_b217_stalker_tech_hf_workshop_job_descr">
+        <text>Estava pensando se você queria provar seu valor como técnico. Tenho uma arma quebrada aqui - normalmente, seria desmontada para peças. Em vez disso, que tal você consertar isso para mim e eu posso procurar ferramentas de oficina para você?</text>
+    </string>
+    <string id="igi_task_text_jup_b217_stalker_tech_hf_workshop_finish">
+        <text>Parabéns - não esperava que você realmente consertasse a coisa, mas aqui está! Bem, como eu disse, você certamente merece essas ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Bandit, Jupiter) -->
+    <string id="igi_task_text_jup_cont_mech_bandit_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_jup_cont_mech_bandit_hf_workshop_descr">
+        <text>O gangster técnico me pediu para consertar uma arma quebrada. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_jup_cont_mech_bandit_hf_workshop_job_descr">
+        <text>Mhmm.. Esse lixo de arma tem que ser consertado e não tem nada para peças pelo meu jeito. Ei, tire isso das minhas mãos e eu te dou algumas ferramentas para uma oficina - o que você diz?</text>
+    </string>
+    <string id="igi_task_text_jup_cont_mech_bandit_hf_workshop_finish">
+        <text>Hah! Você vem em clutch novamente! Obrigado, irmão. Aqui estão as ferramentas da oficina - não se preocupe com o sangue...</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Monolith, Jupiter) -->
+    <string id="igi_task_text_mechanic_monolith_jup_depo_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_mechanic_monolith_jup_depo_hf_workshop_descr">
+        <text>O técnico no depósito me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_mechanic_monolith_jup_depo_hf_workshop_job_descr">
+        <text>Nossos irmãos precisam da sua ajuda. Para fazer isso, eu posso te dar ferramentas para manter o seu equipamento. Mas primeiro, eu preciso ver você demonstrar sua habilidade em consertar essa arma. Ela já viu muitas batalhas e precisa ser restaurada ao seu glório anterior.</text>
+    </string>
+    <string id="igi_task_text_mechanic_monolith_jup_depo_hf_workshop_finish">
+        <text>Obrigado por restaurar essa arma, irmão. Aqui está a sua recompensa.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Novikov, Great Swamp) -->
+    <string id="igi_task_text_mar_base_stalker_tech_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_mar_base_stalker_tech_hf_workshop_descr">
+        <text>Novikov me pediu para consertar uma arma quebrada. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_mar_base_stalker_tech_hf_workshop_job_descr">
+        <text>Ei, algum idiota veio e deixou essa arma aqui. Diz que deixou isso sentado na água durante a noite, mas parece completamente destruído para mim. Você consegue dar uma olhada nisso? Eu tenho algumas ferramentas de oficina com o seu nome se você conseguir.</text>
+    </string>
+    <string id="igi_task_text_mar_base_stalker_tech_hf_workshop_finish">
+        <text>Legal, mano! Você veio em meu favor novamente! Aqui, deixe-me jogar algum dinheiro em você.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (UNISG, LOSTZONE) -->
+    <string id="igi_task_text_jup_depo_isg_tech_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_jup_depo_isg_tech_hf_workshop_descr">
+        <text>Maus me pediu para consertar uma arma quebrada. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_jup_depo_isg_tech_hf_workshop_job_descr">
+        <text>Um agente precisa dessa arma particular para uma operação. O único problema é que está destruída, e não há tempo para uma nova substituição. Conserte isso para mim, e eu vou falar um bom palavra sobre conseguir uma oficina para você.</text>
+    </string>
+    <string id="igi_task_text_jup_depo_isg_tech_hf_workshop_finish">
+        <text>Seu trabalho está ótimo. Obrigado. Aqui está a oficina como prometi.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Screw, Army Warehouses) -->
+    <string id="igi_task_text_mil_smart_terrain_7_7_freedom_mechanic_stalker_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_mil_smart_terrain_7_7_freedom_mechanic_stalker_hf_workshop_descr">
+        <text>Screw me pediu para consertar uma arma quebrada dele. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_mil_smart_terrain_7_7_freedom_mechanic_stalker_hf_workshop_job_descr">
+        <text>Yo! Você viu meu protótipo mais recente? É bem... bem, é um trabalho em progresso. Então, eu poderia ter gastado um pouco mais tempo trabalhando nisso e uma de minhas ordens está prestes a vencer. Você pode cuidar disso para mim? Eu posso montar uma oficina portátil para você em troca.</text>
+    </string>
+    <string id="igi_task_text_mil_smart_terrain_7_7_freedom_mechanic_stalker_hf_workshop_finish">
+        <text>Você é um louco! Você é um salvador de vida. Como prometido, uma das melhores, linha de topo, oficinas -- implantáveis a qualquer momento, em qualquer lugar!</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Cleric, Pripyat) -->
+    <string id="igi_task_text_pri_monolith_monolith_mechanic_stalker_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_pri_monolith_monolith_mechanic_stalker_hf_workshop_descr">
+        <text>Cleric me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_pri_monolith_monolith_mechanic_stalker_hf_workshop_job_descr">
+        <text>Você parece habilidoso em armeiro. Restaure essa arma.</text>
+    </string>
+    <string id="igi_task_text_pri_monolith_monolith_mechanic_stalker_hf_workshop_finish">
+        <text>Bem. Você provou seu valor.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (MERCENARY, Pripyat) -->
+    <string id="igi_task_text_merc_pri_a18_mech_mlr_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_merc_pri_a18_mech_mlr_hf_workshop_descr">
+        <text>Um técnico mercenário nas ruas me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_merc_pri_a18_mech_mlr_hf_workshop_job_descr">
+        <text>Estava pensando se você queria provar seu valor como técnico. Tenho uma arma quebrada aqui - normalmente, seria desmontada para peças. Em vez disso, que tal você consertar isso para mim e eu posso procurar ferramentas de oficina para você?</text>
+    </string>
+    <string id="igi_task_text_merc_pri_a18_mech_mlr_hf_workshop_finish">
+        <text>Parabéns - não esperava que você realmente consertasse a coisa, mas aqui está! Bem, como eu disse, você certamente merece essas ferramentas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Monolith2, Pripyat) -->
+    <string id="igi_task_text_mechanic_monolith_kbo_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_mechanic_monolith_kbo_hf_workshop_descr">
+        <text>O técnico no serviço de Yubileiny me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_mechanic_monolith_kbo_hf_workshop_job_descr">
+        <text>Você deseja uma oficina que você possa chamar de sua? Você pode provar seu valor para mim consertando este instrumento do Monolith.</text>
+    </string>
+    <string id="igi_task_text_mechanic_monolith_kbo_hf_workshop_finish">
+        <text>Trabalho excelente, irmão. Aqui está a oficina que você deseja...</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Dazhbog, Red Forest) -->
+    <string id="igi_task_text_red_greh_tech_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_red_greh_tech_hf_workshop_descr">
+        <text>Dazhbog me pediu para consertar uma arma quebrada dele. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_red_greh_tech_hf_workshop_job_descr">
+        <text>Eu preciso que esta arma seja consertada. Você quer algumas ferramentas de oficina? Interessado?</text>
+    </string>
+    <string id="igi_task_text_red_greh_tech_hf_workshop_finish">
+        <text>Bem. Você consertou para mim.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (BANDIT, Truck Cemetary) -->
+    <string id="igi_task_text_trucks_cemetery_bandit_mechanic_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_trucks_cemetery_bandit_mechanic_hf_workshop_descr">
+        <text>O técnico no Cemitério de Caminhões me pediu para consertar uma arma quebrada dele. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_trucks_cemetery_bandit_mechanic_hf_workshop_job_descr">
+        <text>Ay, algum tolo se estragou mentalmente de um pouco de vodka, e depois se estragou fisicamente por uma chimera quando ele foi para aqueles carros l. Long story short, eu peguei a arma dele, mas está estragada de volta ao inferno e de três para frente. Você consegue consertar isso? Eu tenho alguns garotos emboscando um comboio de serviço e devem trazer algumas delícias doces, se você está em.</text>
+    </string>
+    <string id="igi_task_text_trucks_cemetery_bandit_mechanic_hf_workshop_finish">
+        <text>Você realmente fez isso, meu mano! Obrigado, mano, você é o melhor. Aproveite nossas últimas conquistas.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (Cardan, Zaton) -->
+    <string id="igi_task_text_zat_a2_stalker_mechanic_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_zat_a2_stalker_mechanic_hf_workshop_descr">
+        <text>Cardan me pediu para consertar uma arma quebrada dele. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_zat_a2_stalker_mechanic_hf_workshop_job_descr">
+        <text>Eu estou aqui para consertar armas e beber vodka, e estou sem vodka. Enquanto eu garanto o próximo envio das boas coisas, você pode consertar isso para mim? Eu posso te dar algumas ferramentas de oficina se você quiser.</text>
+    </string>
+    <string id="igi_task_text_zat_a2_stalker_mechanic_hf_workshop_finish">
+        <text>Incrivel! Aqui estão suas ferramentas como prometido, e sinta-se à vontade para parar por qualquer hora.</text>
+    </string>
+
+    <!-- Get Portable Workshop for Repaired Weapon (MERC, Zaton) -->
+    <string id="igi_task_text_zat_stancia_mech_merc_hf_workshop_title">
+        <text>Reparo de Arma para Oficina Portátil</text>
+    </string>
+    <string id="igi_task_text_zat_stancia_mech_merc_hf_workshop_descr">
+        <text>Um técnico mercenário me pediu para consertar uma arma quebrada dele como uma espécie de teste. Devo devolvê-la quando estiver em excelente estado. Parece haver uma marca do fabricante gravada na arma, o que torna difícil passar uma arma idêntica do mesmo modelo.</text>
+    </string>
+    <string id="igi_task_text_zat_stancia_mech_merc_hf_workshop_job_descr">
+        <text>Um dos nossos caras está indo em um trabalho furtivo e precisa que esta arma seja consertada para se misturar. O problema é que estou sobrecarregado com pedidos de atualização. Se você ajudar, eu posso organizar algumas ferramentas de oficina para você.</text>
+    </string>
+    <string id="igi_task_text_zat_stancia_mech_merc_hf_workshop_finish">
+        <text>Bem, que coisa limpa! Bom trabalho, aqui estão as ferramentas de oficina como concordamos.</text>
+    </string>
+</string_table>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_wpn_spas12n">
+		<text>SPAS-12</text>
+	</string>
+	<string id="st_wpn_spas12n_nimble">
+		<text>SPAS-12 (moderna)</text>
+	</string>
+	<string id="st_wpn_spas12n_descr">
+		<text>A SPAS-12 é uma espingarda de modo duplo, projetada para combate e medidas antidistúrbios. É utilizada por muitas unidades militares e policiais especiais em todo o mundo. Com seu distintivo protetor térmico e coronha dobrável, a SPAS-12 é uma arma de fogo icônica. Notável por sua confiabilidade e flexibilidade tática. Apesar de seu peso pesado, mecanismo complexo e custo considerável, é muito procurada na Zona devido à sua eficácia contra mutantes.\n
+ \n
+%c[ui_gray_2] ACESSÓRIOS: \n
+%c[d_purple]• %c[ui_gray_2] Silenciador Salvo 12\n
+ \n
+</text>
+	</string>
+	<string id="st_wpn_spas12n_nimble_descr">
+		<text>Uma espingarda militar projetada especificamente para unidades de assalto e criada com base na Franchi SPAS-12. Capaz de tiro automático como sua predecessora, mas oferece melhor compensação de recuo graças a um sistema balanceado livre de choque. Capaz de tiro automático como sua predecessora, mas oferece melhor compensação de recuo graças a um sistema balanceado livre de choque.\n
+ \n
+ \n
+%c[ui_gray_2] ACESSÓRIOS: \n
+%c[d_purple]• %c[ui_gray_2] Silenciador Salvo 12\n
+%c[d_purple]• %c[ui_gray_2] Miras: %c[ui_yellow] Algumas miras de trilho Picatinny\n
+ \n
+</text>
+	</string>
+
+</string_table>

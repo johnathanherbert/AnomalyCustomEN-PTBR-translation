@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="ui_mm_sound_general_dynamic_music_desc">
+		<text>Música dinâmica será reproduzida durante o combate. \n \nExistem configurações avançadas para esta opção, que podem ser encontradas em MCM -> Música Dinâmica.</text>
+	</string>
+	
+	<string id="ui_mcm_CombatMusic_is_not_present">
+		<text>ATIVE A MÚSICA DINÂMICA NAS CONFIGURAÇÕES DE SOM!</text>
+	</string>
+	<string id="ui_mcm_menu_CombatMusic">
+		<text>Música Dinâmica</text>
+	</string>
+	<string id="ui_mcm_CombatMusic_title">
+		<text>Música Dinâmica Melhorada</text>
+	</string>
+	
+	<string id="ui_mcm_CombatMusic_base_volume">
+		<text>Volume da música</text>
+	</string>
+	<string id="ui_mcm_CombatMusic_mutants_music">
+		<text>Música em combate com mutantes</text>
+	</string>
+	<string id="ui_mcm_CombatMusic_random_music">
+		<text>Ordem de reprodução aleatória</text>
+	</string>
+	<string id="ui_mcm_CombatMusic_enemy_distance">
+		<text>Distância de combate para reprodução</text>
+	</string>
+	<string id="ui_mcm_CombatMusic_music_fade_delta">
+		<text>Taxa de fade da música</text>
+	</string>
+	<string id="ui_mcm_CombatMusic_current_theme">
+		<text>Tema musical</text>
+	</string>
+	
+	<string id="st_CombatMusicTheme_default_combat_theme1">
+		<text>Personalizado</text>
+	</string>
+	<string id="st_CombatMusicTheme_default_combat_theme2">
+		<text>Metal 1</text>
+	</string>
+	<string id="st_CombatMusicTheme_nebostrelok1154_theme">
+		<text>NeboStrelok1154</text>
+	</string>
+
+</string_table>

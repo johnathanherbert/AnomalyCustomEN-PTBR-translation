@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+    
+    <string id="st_darkscape_arty">
+        <text>Os coletores encontraram algumas coisas boas por aqui, mas estamos com poucos suprimentos e não podemos mandar ninguém de volta para reabastecer enquanto estivermos acampados aqui. Se você puder nos trazer alguns suprimentos, garantimos compartilhar alguns dos artefatos que encontramos.</text>
+    </string>
+    <string id="st_darkscape_done">
+        <text>Ótimo! Aqui está.</text>
+    </string>
+    
+    <string id="st_darkscape_optics">
+        <text>Há linhas de visão muito longas nesta área e é difícil avistar coisas de tão longe. Você pode nos trazer algumas miras ópticas e binóculos? Temos alguns artefatos que podemos trocar por eles.</text>
+    </string>
+
+    <string id="st_darkscape_suit">
+        <text>Seu traje é bom, para um novato, eu suponho. No entanto, alguém com sua posição e habilidade poderia usar algo um pouco mais especializado. Me traga algumas coisas e verei o que posso fazer a respeito.</text>
+    </string>
+    <string id="st_darkscape_suit_done">
+        <text>Parece bom, stalker! Use-o bem.</text>
+    </string>
+
+    <string id="st_darkscape_food">
+        <text>Estou nesta Zona há tanto tempo, caçando e comendo as criaturas daqui, que não consigo mais comer comida normal. Parece que não fico doente com a carne. Algumas pessoas me pagaram com comida enlatada que não posso comer, então vou trocar por um pouco de carne de mutante grelhada.</text>
+    </string>
+    <string id="st_darkscape_food_done">
+        <text>Obrigado, stalker, isso caiu bem.</text>
+    </string>
+
+</string_table>

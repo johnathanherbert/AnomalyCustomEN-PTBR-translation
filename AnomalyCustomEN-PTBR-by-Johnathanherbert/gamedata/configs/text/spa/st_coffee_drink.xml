@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por Johnathanherbert -->
+
+<string_table>
+	<string id="st_coffee_drink">
+		<text>Café UCC Cold Brew pronto para beber</text>
+	</string>
+	<string id="st_coffee_drink_descr">
+		<text>Café UCC Cold Brew feito com grãos Arábica e Robusta, com adição de leite.\n \n%c[ui_gray_3]CARACTERÍSTICAS:\n %c[d_blue] • %c[ui_gray_2] Bebida \n %c[d_blue] • %c[ui_gray_2] Estimulante \n %c[d_blue] • %c[ui_gray_2] Forte efeito contra intoxicação alcoólica \n</text>
+	</string>
+	
+</string_table>

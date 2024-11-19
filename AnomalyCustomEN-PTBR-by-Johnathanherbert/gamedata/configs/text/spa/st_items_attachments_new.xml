@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    
+	<string id="st_af_new_surge_name">
+		<text>Protetor Contra Surtos</text>
+	</string>
+	<string id="st_af_new_surge_descr">
+		<text>Um dispositivo pequeno, porém avançado, consistindo em uma grande quantidade de resistores e fusíveis substituíveis. Ele protege o usuário limitando a quantidade efetiva de eletricidade que entra em contato direto com o corpo, desviando-a para os fusíveis e subsequentemente queimando-os. Isso o torna quase à prova de falhas contra Anomalias Elétricas, mas só pode suportar uma quantidade limitada de choques elétricos fortes antes que todos os fusíveis sejam queimados. A maioria dos stalkers constrói esses dispositivos com lixo eletrônico sobressalente, que não falta na Zona. Embora o dispositivo seja pesado e descartável, é extremamente útil para navegar em campos de anomalias elétricas. Como todos os objetos metálicos, pode ser usado como fonte de material de reparo, desde que se tenha as ferramentas apropriadas e habilidade suficiente.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma unidade de controle ambiental\n
+		%c[d_cyan] • %c[ui_gray_2] reparável com componentes eletrônicos\n
+		</text>
+	</string>
+
+	<string id="st_af_new_surge_up_name">
+		<text>Protetor Contra Surtos Aprimorado</text>
+	</string>
+	<string id="st_af_new_surge_up_descr">
+		<text>Um Protetor Contra Surtos aprimorado que utiliza um artefato para melhor dispersar choques elétricos. Surtos elétricos errantes são direcionados pelo mesmo caminho, mas devido à presença do artefato, parte do choque é parcialmente absorvida e o dano geral aos componentes é reduzido. Além disso, o artefato emite constantemente uma leve corrente relaxante muscular, que ajuda com dores e fadiga. \n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]Deve-se notar que tal módulo não será capaz de funcionar adequadamente e fornecer proteção suficiente se sua roupa não atender aos requisitos mínimos de proteção enquanto estiver em um campo anormal.\n \n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma unidade de controle ambiental\n
+		%c[d_cyan] • %c[ui_gray_2] reparável com componentes eletrônicos\n
+		</text>
+	</string>
+	
+	<string id="st_ass_name">
+		<text>Sistema de Supressão de Anomalias</text>
+	</string>
+	<string id="st_ass_descr">
+		<text>
+		Dispositivo avançado com vários scanners, transmissores e emissores para ondas de rádio, ondas eletromagnéticas e ondas sonares de alta frequência. Um dos primeiros dispositivos projetados pelo Ministério da Ciência para proteger seus agentes de campo, esta máquina sofisticada incorpora a teoria de Suslov 'batendo no aquário', onde certas anomalias podem ser temporariamente interrompidas se houver perturbação ambiental suficiente. O dispositivo automaticamente escaneia anomalias locais e emite um pulso neutralizador combinado em resposta à ativação da anomalia, efetivamente desligando-a temporariamente e anulando todo perigo. Dispositivos como estes formam a maior parte dos sistemas de defesa anômala ativos nos trajes SSP e SEVA, que apresentam versões integradas deste dispositivo. O dispositivo vem com uma bateria auto-recarregável para o pulso de supressão, no entanto, o computador de bordo precisa de tempo para recalibrar e recalcular as mudanças de campo que ocorrem após cada pulso. O dispositivo pode ser combinado com os sistemas de suporte de bordo dos trajes SSP e SEVA para aumentar sua eficácia e tempo de recarga.
+		\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] recarga média de 60 segundos\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma unidade de controle ambiental\n
+		</text>
+	</string>
+	
+	<string id="st_ass_up_name">
+		<text>Sistema Avançado de Supressão de Anomalias</text>
+	</string>
+	<string id="st_ass_up_descr">
+		<text>
+		Dispositivo de supressão de anomalias de próxima geração incorporando dados de telemetria de amostras raras de artefatos para computar soluções de supressão mais rapidamente. Este dispositivo é o ápice dos sistemas de proteção contra anomalias e está em extrema demanda entre todo o pessoal científico, sem mencionar os próprios stalkers. Dados adicionais da amostra de artefato incorporada permitem que os pulsos sejam transmitidos com menos perturbação ao ambiente, permitindo que os ciclos de recalibração ocorram com mais frequência. Além disso, o dispositivo emite um campo constante que reduz passivamente a força dos campos de anomalia próximos. O dispositivo pode ser combinado com os sistemas de suporte de bordo dos trajes SSP e SEVA para aumentar sua eficácia e tempo de recarga.
+		\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] recarga média de 40 segundos\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma unidade de controle ambiental\n
+		</text>
+	</string>
+
+	
+	<string id="st_lsm">
+		<text>Módulo Autodoc SLSA 0.06.8 EM</text>
+	</string>
+	<string id="st_lsm_desc">
+		<text>Um Módulo Autodoc SLSA (Sistema de Suporte à Vida, Automático) militar obsoleto. Por um curto período após o Segundo Incidente de Chernobyl, o SSU ucraniano investiu no desenvolvimento de um sistema de médico automático portátil para melhorar a eficácia de seu pessoal de campo. Estas unidades médicas de campo foram distribuídas para vários batalhões de combate e exploração e, embora eficazes, são bastante impopulares entre as forças armadas permanentes. \n
+		O SLSA possui três tanques, um para estabilizador, analgésicos e antirradiação. O Autodoc é programado para espaçar as doses em pelo menos 15 segundos para não causar overdose e matar o usuário.
+		\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma unidade de controle ambiental\n
+		</text>
+	</string>
+	
+	<string id="st_lsm_up">
+		<text>Módulo Autodoc SLSA 0.06.9 EM Aprimorado</text>
+	</string>
+	<string id="st_lsm_up_desc">
+		<text>Um Módulo Autodoc aprimorado com tecnologia da Zona. Baseado no design original do Autodoc, estes módulos avançados foram projetados usando pesquisas e espécimes coletados na Zona. A aplicação de artefatos de cura cuidadosamente contidos aumentou tanto a eficácia do medicamento administrado quanto o crescimento celular passivo. Pequenas quantidades destes Módulos Autodoc foram produzidas devido em parte à dificuldade em obter os materiais de fabricação corretos. Apesar disso, são muito populares e procurados entre as unidades Spetsnaz e Ecologistas, mesmo que a dor do injetor no antebraço seja possivelmente pior que antes.\n
+		O SLSA possui três tanques, um para estabilizador, analgésicos e antirradiação. O Autodoc é programado para espaçar as doses em pelo menos 15 segundos para não causar overdose e matar o usuário.
+		\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] compatibilidade: estimulantes padrão e militares\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível equipar uma unidade de controle ambiental\n
+		</text>
+	</string>
+	
+
+	<string id="st_af_new_frames_name">
+		<text>Armação de Alumínio</text>
+	</string>
+	<string id="st_af_new_frames_descr">
+		<text>Uma armação de alumínio de boa qualidade usada para distribuir mais eficientemente o peso de sua mochila. O alumínio é um metal relativamente leve e forte, e serve bem como meio de distribuir peso ao custo de tornar o usuário mais condutor de eletricidade. Correias e arneses ajustáveis permitem que a armação seja ajustada para qualquer tamanho de torso, e elementos plásticos flexíveis usados em partes-chave da construção permitem uma surpreendente quantidade de flexibilidade ao correr. A grade substitui a estrutura principal de sua mochila e, como tal, deve ser montada em uma mochila. Embora o sistema seja construído de alumínio leve, algumas partes ainda podem ser úteis para pequenos reparos de equipamento.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item do dia a dia\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível usar uma armação de costas\n
+		%c[d_cyan] • %c[ui_gray_2] instalar diretamente em mochilas\n
+		</text>
+	</string>
+
+	<string id="st_af_new_frames_up_name">
+		<text>Armação de Alumínio Aprimorada</text>
+	</string>
+	<string id="st_af_new_frames_up_descr">
+		<text>Melhorias na armação de alumínio aumentaram seu conforto geral e distribuição de peso. Uma armação de alumínio de boa qualidade usada para distribuir mais eficientemente o peso de sua mochila. O alumínio é um metal relativamente leve e forte, e serve bem como meio de distribuir peso ao custo de tornar o usuário mais condutor de eletricidade. Correias e arneses ajustáveis permitem que a armação seja ajustada para qualquer tamanho de torso, e elementos plásticos flexíveis usados em partes-chave da construção permitem uma surpreendente quantidade de flexibilidade ao correr. A grade substitui a estrutura principal de sua mochila e, como tal, deve ser montada em uma mochila. Embora o sistema seja construído de alumínio leve, algumas partes ainda podem ser úteis para pequenos reparos de equipamento.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item do dia a dia\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível usar uma armação de costas\n
+		%c[d_cyan] • %c[ui_gray_2] instalar diretamente em mochilas\n
+		</text>
+	</string>
+	
+
+	<string id="st_af_new_grid_name">
+		<text>Grade de Titânio</text>
+	</string>
+	<string id="st_af_new_grid_descr">
+		<text>Uma grade de titânio de alta qualidade usada para distribuir mais eficientemente o peso de sua mochila. O peso leve e a alta resistência do titânio o tornam uma alternativa superior às armações de costas construídas em alumínio, embora compartilhe as mesmas propriedades condutivas que outras armações metálicas. Correias e arneses ajustáveis permitem que a grade seja ajustada para qualquer tamanho de torso, e elementos plásticos flexíveis usados em partes-chave da construção permitem uma surpreendente quantidade de flexibilidade ao correr. A grade substitui a estrutura principal de sua mochila e, como tal, deve ser montada em uma mochila. As grades são criadas com titânio de altíssima qualidade, assim a grade desmontada pode ser usada como um eficaz suplemento para reparo de trajes de combate ou capacetes.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item do dia a dia\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível usar uma armação de costas\n
+		%c[d_cyan] • %c[ui_gray_2] instalar diretamente em mochilas\n
+		</text>
+	</string>
+	
+	<string id="st_af_new_grid_up_name">
+		<text>Grade de Titânio Aprimorada</text>
+	</string>
+	<string id="st_af_new_grid_up_descr">
+		<text>Melhorias na grade de titânio aumentaram seu conforto geral e distribuição de peso. Uma grade de titânio de alta qualidade usada para distribuir mais eficientemente o peso de sua mochila. O peso leve e a alta resistência do titânio o tornam uma alternativa superior às armações de costas construídas em alumínio, embora compartilhe as mesmas propriedades condutivas que outras armações metálicas. Correias e arneses ajustáveis permitem que a grade seja ajustada para qualquer tamanho de torso, e elementos plásticos flexíveis usados em partes-chave da construção permitem uma surpreendente quantidade de flexibilidade ao correr. A grade substitui a estrutura principal de sua mochila e, como tal, deve ser montada em uma mochila. As grades são criadas com titânio de altíssima qualidade, assim a grade desmontada pode ser usada como um eficaz suplemento para reparo de trajes de combate ou capacetes.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item do dia a dia\n
+		%c[d_cyan] • %c[ui_gray_2] alta qualidade\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível usar uma armação de costas\n
+		%c[d_cyan] • %c[ui_gray_2] instalar diretamente em mochilas\n
+		</text>
+	</string>
+	
+
+	<string id="st_af_new_camelbak_name">
+		<text>Camelbak</text>
+	</string>
+	<string id="st_af_new_camelbak_descr">
+		<text>Tomando emprestado seu nome do mito de que camelos armazenam água em suas corcovas, o Camelbak é uma mochila usada nas costas ou ao redor da cintura do usuário, contendo uma bolsa que é preenchida com água para manter-se hidratado. Tubo flexível com bocal facilita o uso mesmo nas situações mais urgentes. Este modelo é camuflado e integrado ao traje para proteger o sistema de danos de qualquer fonte, seja combate ou anomalia. Como o recipiente é feito de um têxtil de alta qualidade, stalkers experientes às vezes reutilizam camelbaks descartados para materiais de qualidade para remendar seus trajes de campo.\n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]Embora a água tenha baixa condutividade elétrica, sua proximidade com o corpo pode torná-lo mais vulnerável a correntes elétricas. Por esta razão, recomenda-se tomar especial atenção ao seu entorno quando estiver de posse de um camelbak.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível usar um camelbak\n
+		</text>
+	</string>
+
+	<string id="st_af_new_camelbak_up_name">
+		<text>Camelbak Aprimorado</text>
+	</string>
+	<string id="st_af_new_camelbak_up_descr">
+		<text>Melhorias no Camelbak mantêm a água armazenada refrescantemente fria, resfriando o usuário passivamente e ao beber. Tomando emprestado seu nome do mito de que camelos armazenam água em suas corcovas, o camelbak é uma mochila usada nas costas ou ao redor da cintura do usuário, contendo uma bolsa que é preenchida com água para manter-se hidratado. Tubo flexível com bocal facilita o uso mesmo nas situações mais urgentes. Este modelo é camuflado e integrado ao traje para proteger o sistema de danos de qualquer fonte, seja combate ou anomalia. Como o recipiente é feito de um têxtil de alta qualidade, stalkers experientes às vezes reutilizam camelbaks descartados para materiais de qualidade para remendar seus trajes de campo.\n \n%c[d_red]\n\n%c[d_red]AVISO:%c[ui_gray_2]\n \n%c[default]Embora a água tenha baixa condutividade elétrica, sua proximidade com o corpo pode torná-lo mais vulnerável a correntes elétricas. Por esta razão, recomenda-se tomar especial atenção ao seu entorno quando estiver de posse de um camelbak.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item militar\n
+		%c[d_cyan] • %c[ui_gray_2] só é possível usar um camelbak\n
+		</text>
+	</string>
+</string_table>

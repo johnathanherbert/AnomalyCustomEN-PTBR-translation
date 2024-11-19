@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_porn_mila1">
+		<text>Revista "Newtype" Ed.Nº1</text>
+	</string>
+	<string id="st_porn_mila1_descr">
+		<text>Uma revista japonesa com artigos sobre anime. Os pôsteres com garotas de Anime em estilo Militar são de particular valor. Há 52 pôsteres no total. Destes, 10 pôsteres estão incluídos na "coleção especial" e 1 pôster é "único". Não se sabe como esta revista chegou à Zona. Provavelmente algum stalker, fã ardente de anime trouxe, por motivos desconhecidos.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+		</text>
+	</string>
+	<string id="st_porn_mila2">
+		<text>Revista "Newtype" Ed.Nº2</text>
+	</string>
+	<string id="st_porn_mila2_descr">
+		<text>Uma revista japonesa com artigos sobre anime. Os pôsteres com garotas de Anime em estilo Militar são de particular valor. Há 52 pôsteres no total. Destes, 10 pôsteres estão incluídos na "coleção especial" e 1 pôster é "único". Não se sabe como esta revista chegou à Zona. Provavelmente algum stalker, fã ardente de anime trouxe, por motivos desconhecidos.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+		</text>
+	</string>
+	<string id="pinup_militaryanime1">
+		<text>Pôster Nº1</text>
+    	</string>
+	<string id="pinup_militaryanime2">
+		<text>Pôster Nº2</text>
+	</string>
+	<string id="pinup_militaryanime3">
+		<text>Pôster Nº3</text>
+	</string>
+	<string id="pinup_militaryanime4">
+		<text>Pôster Nº4</text>
+	</string>
+	<string id="pinup_militaryanime5">
+		<text>Pôster Nº5</text>
+	</string>
+	<string id="pinup_militaryanime6">
+		<text>Pôster Nº6</text>
+	</string>
+	<string id="pinup_militaryanime7">
+		<text>Pôster Nº7</text>
+	</string>
+	<string id="pinup_militaryanime8">
+		<text>Pôster Nº8</text>
+	</string>
+	<string id="pinup_militaryanime9">
+		<text>Pôster Nº9</text>
+	</string>
+	<string id="pinup_militaryanime10">
+		<text>Pôster Nº10</text>
+	</string>
+	<string id="pinup_militaryanime11">
+		<text>Pôster Nº11</text>
+	</string>
+	<string id="pinup_militaryanime12">
+		<text>Pôster Nº12</text>
+	</string>
+	<string id="pinup_militaryanime13">
+		<text>Pôster Nº13</text>
+	</string>
+	<string id="pinup_militaryanime14">
+		<text>Pôster Nº14</text>
+	</string>
+	<string id="pinup_militaryanime15">
+		<text>Pôster Nº15</text>
+	</string>
+	<string id="pinup_militaryanime16">
+		<text>Pôster Nº16</text>
+	</string>
+	<string id="pinup_militaryanime17">
+		<text>Pôster Nº17</text>
+	</string>
+	<string id="pinup_militaryanime18">
+		<text>Pôster Nº18</text>
+	</string>
+	<string id="pinup_militaryanime19">
+		<text>Pôster Nº19</text>
+	</string>
+	<string id="pinup_militaryanime20">
+		<text>Pôster Nº20</text>
+	</string>
+	<string id="pinup_militaryanime21">
+		<text>Pôster Nº21</text>
+	</string>
+	<string id="pinup_militaryanime22">
+		<text>Pôster Nº22</text>
+	</string>
+	<string id="pinup_militaryanime23">
+		<text>Pôster Nº23</text>
+	</string>
+	<string id="pinup_militaryanime24">
+		<text>Pôster Nº24</text>
+	</string>
+	<string id="pinup_militaryanime25">
+		<text>Pôster Nº25</text>
+	</string>
+	<string id="pinup_militaryanime26">
+		<text>Pôster Nº26</text>
+	</string>
+	<string id="pinup_militaryanime27">
+		<text>Pôster Nº27</text>
+	</string>
+	<string id="pinup_militaryanime28">
+		<text>Pôster Nº28</text>
+	</string>
+	<string id="pinup_militaryanime29">
+		<text>Pôster Nº29</text>
+	</string>
+	<string id="pinup_militaryanime30">
+		<text>Pôster Nº30</text>
+	</string>
+	<string id="pinup_militaryanime31">
+		<text>Pôster Nº31</text>
+	</string>
+	<string id="pinup_militaryanime32">
+		<text>Pôster Nº32</text>
+	</string>
+	<string id="pinup_militaryanime33">
+		<text>Pôster Nº33</text>
+	</string>
+	<string id="pinup_militaryanime34">
+		<text>Pôster Nº34</text>
+	</string>
+	<string id="pinup_militaryanime35">
+		<text>Pôster Nº35</text>
+	</string>
+	<string id="pinup_militaryanime36">
+		<text>Pôster Nº36</text>
+	</string>
+	<string id="pinup_militaryanime37">
+		<text>Pôster Nº37</text>
+	</string>
+	<string id="pinup_militaryanime38">
+		<text>Pôster Nº38</text>
+	</string>
+	<string id="pinup_militaryanime39">
+		<text>Pôster Nº39</text>
+	</string>
+	<string id="pinup_militaryanime40">
+		<text>Pôster Nº40</text>
+	</string>
+	<string id="pinup_militaryanime41">
+		<text>Pôster Nº41</text>
+	</string>
+	<string id="pinup_militaryanime42">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime43">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime44">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime45">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime46">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime47">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime48">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime49">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime50">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime51">
+		<text>(Especial)</text>
+	</string>
+	<string id="pinup_militaryanime52">
+		<text>(Único)</text>
+	</string>
+
+	
+</string_table>

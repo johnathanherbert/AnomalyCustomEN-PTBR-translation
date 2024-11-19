@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    <string id="ui_mcm_menu_campfires_on_map">
+		<text>Fogueiras no Mapa</text>
+	</string>
+
+	<string id="ui_mcm_campfires_on_map_show_campfires">
+		<text>Exibir fogueiras</text>
+	</string>
+
+	<string id="ui_mcm_campfires_on_map_show_only_visited">
+		<text>Mostrar apenas visitadas</text>
+	</string>
+	<string id="ui_mcm_campfires_on_map_show_only_visited_desc">
+		<text>Faz com que apenas fogueiras que o jogador interagiu sejam exibidas no mapa.</text>
+	</string>
+
+    <string id="st_campfire">
+		<text>Fogueira</text>
+	</string>
+      <string id="st_campfire_visited">
+		<text>%c[ui_white]Fogueira (%c[d_orange]Visitada%c[ui_white])</text>
+	</string>
+</string_table>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por Johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_drop_item">
+		<text>Soltar item</text>
+	</string>
+	<string id="ui_mcm_drop_item_key_drop">
+		<text>Tecla para soltar item</text>
+	</string>
+	<string id="ui_mcm_drop_item_key_drop_desc">
+        <text>Pressione a tecla para soltar no chão o item do inventário que está selecionado.</text>
+	</string>
+</string_table>

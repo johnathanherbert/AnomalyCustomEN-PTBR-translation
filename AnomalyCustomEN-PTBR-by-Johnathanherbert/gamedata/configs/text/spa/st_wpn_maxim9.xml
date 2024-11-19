@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_maxim9">
+		<text>SilencerCo Maxim 9 (silenciador integrado)</text>
+	</string>
+	<string id="st_wpn_maxim9_alt">
+		<text>SilencerCo Maxim 9</text>
+	</string>
+	<string id="st_wpn_maxim9_descr">
+		<text>A SilencerCo Maxim 9 é a primeira pistola de 9 mm do mundo com silenciador integrado que pode ser portada em coldre e oferece proteção auditiva com todos os tipos de munição 9 mm. Fornecida em sua configuração completa, a Maxim 9 vem com tudo que o usuário precisa para reduzir o comprimento total em mais de 2,5 cm. Na configuração curta, a Maxim 9 mantém a segurança auditiva com munição subsônica. Independentemente da configuração utilizada, a Maxim 9 representa um dos maiores avanços na tecnologia de pistolas e silenciadores. Você não precisará mais escolher entre manter sua arma o mais curta possível e lidar com o ruído ensurdecedor ou adicionar um silenciador e lidar com o comprimento e peso extras. Agora você pode ter o melhor dos dois mundos com a Maxim 9.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]SilencerCo \n</text>
+	</string>
+	<string id="st_wpn_maxim9_alt_descr">
+		<text>A SilencerCo Maxim 9 é a primeira pistola de 9 mm do mundo com silenciador integrado que pode ser portada em coldre e oferece proteção auditiva com todos os tipos de munição 9 mm. Fornecida em sua configuração completa, a Maxim 9 vem com tudo que o usuário precisa para reduzir o comprimento total em mais de 2,5 cm. Na configuração curta, a Maxim 9 mantém a segurança auditiva com munição subsônica. Independentemente da configuração utilizada, a Maxim 9 representa um dos maiores avanços na tecnologia de pistolas e silenciadores. Você não precisará mais escolher entre manter sua arma o mais curta possível e lidar com o ruído ensurdecedor ou adicionar um silenciador e lidar com o comprimento e peso extras. Agora você pode ter o melhor dos dois mundos com a Maxim 9.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]SilencerCo \n</text>
+	</string>
+</string_table>

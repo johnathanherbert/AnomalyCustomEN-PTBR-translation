@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_craft_used_for">
+		<text>%c[ui_gray_1] • Usado para fabricação:%c[ui_gray_2]</text>
+	</string>
+	<string id="st_craft_unlocks">
+		<text>%c[ui_gray_1] • Desbloqueia para fabricação:%c[ui_gray_2]</text>
+	</string>
+	<string id="st_cook_used_for">
+		<text>%c[ui_gray_1] • Usado para cozinhar:%c[ui_gray_2]</text>
+	</string>
+	<string id="ui_mcm_craft_in_tooltip_title">
+		<text>Configuração de Informações de Fabricação na Dica</text>
+	</string>
+	<string id="ui_mcm_menu_craft_in_tooltip">
+		<text>Informações de Fabricação nas Dicas</text>
+	</string>
+	<string id="ui_mcm_craft_in_tooltip_use_icons">
+		<text>Mostrar Ícones dos Itens</text>
+	</string>
+	<string id="ui_mcm_craft_in_tooltip_use_icons_desc">
+		<text>Mostra os ícones dos itens fabricáveis ao invés de seus nomes</text>
+	</string>
+</string_table>

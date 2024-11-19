@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+
+<string id="st_wpn_cz_805">
+		<text>CZ 805</text>
+	</string>
+	<string id="st_wpn_cz_805_descr">
+		<text>O CZ 805 é um fuzil formidável conhecido por sua excepcional versatilidade e desempenho confiável. Fabricado com engenharia de precisão, este fuzil de assalto possui um design elegante e ergonômico, garantindo manuseio ideal e conforto durante situações intensas de combate. Equipado com um sistema de trilhos modular, o CZ 805 permite a personalização sem esforço e a fixação de vários acessórios, aumentando sua adaptabilidade a diferentes requisitos de missão. Seu avançado sistema de pistão a gás garante operação consistente e suave, proporcionando notável precisão e alta cadência de tiro. Com sua construção robusta e recursos de ponta, o CZ 805 se destaca como uma arma formidável para soldados exigentes que buscam um companheiro confiável e letal no campo de batalha. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Maioria das miras para sistema Picatinny/Weaver.\n
+		%c[d_purple] - %c[ui_gray_2] Silenciador: Supressor Surefire SOCOM556-MONSTER. \n</text>
+	</string>
+
+<string id="st_wpn_cz_805_skull">
+		<text>CZ 805 "Rei das Carcaças"</text>
+	</string>
+	<string id="st_wpn_cz_805_skull_descr">
+		<text>O Rei das Carcaças é uma imponente variante tática de um fuzil reconhecido por sua eficácia letal no campo de batalha. Adornado com uma impressionante camuflagem de caveira vermelha, esta arma chama a atenção e infunde medo no coração dos adversários. Projetado com meticulosa atenção aos detalhes, o Rei das Carcaças possui capacidades táticas aprimoradas, tornando-o uma escolha formidável para qualquer situação de combate. Seu design ergonômico garante excepcional manobrabilidade e conforto, permitindo que os stalkers mantenham controle estável e precisão letal em confrontos intensos. Com um sistema de trilhos modular, o Rei das Carcaças permite a fixação perfeita de acessórios especializados, permitindo que os operadores personalizem seus equipamentos para eficiência ideal. Alimentado por um sistema avançado de pistão a gás, este fuzil oferece poder de fogo implacável com confiabilidade incomparável. O Rei das Carcaças é a personificação da proeza tática, capacitando stalkers com as ferramentas necessárias para dominar o campo de batalha com precisão implacável. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Maioria das miras para sistema Picatinny/Weaver.\n
+		%c[d_purple] - %c[ui_gray_2] Silenciador: Supressor Surefire SOCOM556-MONSTER. \n</text>
+	</string>
+	
+</string_table>

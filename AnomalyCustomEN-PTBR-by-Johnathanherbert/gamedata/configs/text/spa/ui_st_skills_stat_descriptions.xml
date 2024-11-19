@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_player_skill_stats">
+        <text>\n ESTATÍSTICAS:</text>
+    </string><!-- Scavenging --><string id="st_player_skills_hint_scavenging">
+		<text>Concede mais itens de stalkers.\n \nOs níveis são obtidos saqueando stalkers. Stalkers de classificação mais alta proporcionam mais experiência.\n \n</text>
+	</string>
+	<string id="st_skills_stats_scavenging_skill_positive">
+        <text>\n %c[255,86,102,255]•%c[ui_6] Probabilidade de obter itens extras: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_scavenging_skill_negative">
+        <text>\n %c[255,86,102,255]•%c[ui_6] Probabilidade de perder saque: %c[d_red]$stat %</text>
+    </string><!-- Strength --><string id="st_player_skills_hint_strength">
+		<text>Concede maior capacidade de carga e dano corpo a corpo.\n \nOs níveis são alcançados viajando com cargas pesadas e lutando com armas brancas.\n \n</text>
+	</string>
+
+    <string id="st_skills_stats_weight_modifer_positive">
+        <text>\n %c[255,255,201,86]•%c[ui_6] Modificador de peso transportável: %c[d_green]x $stat</text>
+    </string>
+    <string id="st_skills_stats_weight_modifer_negative">
+        <text>\n %c[255,255,201,86]•%c[ui_6] Modificador de peso transportável: %c[d_red]x $stat</text>
+    </string>
+
+    <string id="st_skills_stats_melee_damage_positive">
+        <text>\n %c[255,255,201,86]•%c[ui_6] Modificador de dano corpo a corpo: %c[d_green]x $stat</text>
+    </string>
+    <string id="st_skills_stats_melee_damage_negative">
+        <text>\n %c[255,255,201,86]•%c[ui_6] Modificador de dano corpo a corpo: %c[d_red]x $stat</text>
+    </string>
+
+    <string id="st_skills_stats_base_weight">
+        <text>\n %c[255,255,201,86]•%c[ui_6] Bônus de peso transportável: %c[d_green]+ $stat kg</text>
+    </string><!-- Survival --><string id="st_player_skills_hint_survival">
+		<text>Concede maior resistência a danos e a capacidade de obter peças adicionais ao esfolar.\n \nOs níveis são alcançados recebendo dano (apenas de balas e mutantes) e esfolando mutantes. Os mutantes mais perigosos dão mais experiência.\n \n</text>
+	</string>
+    <string id="st_skills_stats_resistance_positive">
+        <text>\n %c[255,135,255,86]•%c[ui_6] Redução de dano aumentada em: %c[d_green]x $stat</text>
+    </string>
+    <string id="st_skills_stats_resistance_negative">
+        <text>\n %c[255,135,255,86]•%c[ui_6] Dano recebido aumentado em: %c[d_red]x $stat</text>
+    </string>
+
+    <string id="st_skills_stats_bleed_restore">
+        <text>\n %c[255,135,255,86]•%c[ui_6] Redução de sangramento aumentada em: %c[d_green]$stat %</text>
+    </string>
+
+     <string id="st_skills_stats_hunting_skill_positive">
+        <text>\n %c[255,135,255,86]•%c[ui_6] Chance de obter uma parte mutante extra: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_hunting_skill_negative">
+        <text>\n %c[255,135,255,86]•%c[ui_6] Probabilidade de perder uma parte de mutante: %c[d_red]$stat %</text>
+    </string><!-- Endurance --><string id="st_player_skills_hint_endurance">
+		<text>Concede mais velocidade e resistência.\n \nOs níveis são alcançados viajando com pouca bagagem.\n \n</text>
+	</string>
+    <string id="st_skills_stats_power_loss_positive">
+        <text>\n %c[255,255,86,86]•%c[ui_6] Modificador de uso de resistência: %c[d_green]x $stat</text>
+    </string>
+    <string id="st_skills_stats_power_loss_negative">
+        <text>\n %c[255,255,86,86]•%c[ui_6] Modificador de uso de resistência: %c[d_red]x $stat</text>
+    </string>
+
+    <string id="st_skills_stats_speed_modifier_positive">
+        <text>\n %c[255,255,86,86]•%c[ui_6] Modificador de velocidade: %c[d_green]x $stat</text>
+    </string>
+    <string id="st_skills_stats_speed_modifier_negative">
+        <text>\n %c[255,255,86,86]•%c[ui_6] Modificador de velocidade: %c[d_red]x $stat</text>
+    </string>
+</string_table>

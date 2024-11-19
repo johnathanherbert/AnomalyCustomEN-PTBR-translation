@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	Strings do Menu de Configuração de Mods do Anomaly
+-->
+
+<string_table>
+
+	<string id="st_rax_fav">
+		<text>Marcar Favorito</text>
+	</string>
+	<string id="st_rax_unfav">
+		<text>Desmarcar Favorito</text>
+	</string>
+	<string id="st_rax_junk">
+		<text>Marcar como Lixo</text>
+	</string>
+	<string id="st_rax_unjunk">
+		<text>Desmarcar como Lixo</text>
+	</string>
+
+	<string id="ui_mcm_title_SortingPlus">
+		<text>Sorting Plus</text>
+	</string>
+
+	<string id="ui_mcm_menu_SortingPlus">
+		<text>Sorting Plus</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playerinv">
+		<text>Ordenar Inventário do Jogador</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playerinv_desc">
+		<text>Inventário do lado direito em todas as telas, exceto no comércio.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playertrade">
+		<text>Ordenar Inventário de Comércio do Jogador</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playertrade_desc">
+		<text>Inventário do lado direito durante o comércio.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npcinv">
+		<text>Ordenar Inventário do NPC</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npcinv_desc">
+		<text>Inventário do lado esquerdo em todas as telas, exceto no comércio.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npctrade">
+		<text>Ordenar Inventário de Comércio do NPC</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npctrade_desc">
+		<text>Inventário do lado esquerdo durante o comércio.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_useltx">
+		<text>Usar sortingplus.ltx</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_useltx_desc">
+		<text>Ignora as configurações abaixo em favor das configurações no sortingplus.ltx, que oferece controle mais detalhado.</text>
+	</string>
+
+	<string id="ui_mcm_SortingPlus_iconjunk">
+		<text>Marcar Lixo</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconjunk_desc">
+		<text>Marcar itens sinalizados como Lixo com um ícone.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitejunk">
+		<text>Destacar Lixo</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitejunk_desc">
+		<text>Destacar itens sinalizados como Lixo.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortjunk">
+		<text>Usar Categoria Lixo</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortjunk_desc">
+		<text>Organiza itens Lixo em sua própria categoria, por padrão a última.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_selljunk">
+		<text>Vender Lixo "Automaticamente"</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_selljunk_desc">
+		<text>Lixo que um comerciante comprará será colocado no painel de venda. Você ainda precisa pressionar o botão de vender para finalizar.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconfavs">
+		<text>Marcar Favoritos</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconfavs_desc">
+		<text>Marcar itens sinalizados como Favoritos com um ícone.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitefavs">
+		<text>Destacar Favoritos</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitefavs_desc">
+		<text>Destacar itens sinalizados como Favoritos.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortfavs">
+		<text>Usar Categoria Favoritos</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortfavs_desc">
+		<text>Organiza itens Favoritos em sua própria categoria, por padrão a primeira.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_putallfavs">
+		<text>Bloquear "Mover tudo" para Favoritos.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_putallfavs_desc">
+		<text>Favoritos não serão movidos do seu inventário ao transferir tudo.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_resort">
+		<text>Reordenar ao marcar.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_resort_desc">
+		<text>O inventário será reordenado imediatamente ao marcar Favoritos/Lixo. Caso contrário, aguarda até a próxima vez que o inventário for aberto. Feedback útil se o destaque estiver desativado.</text>
+	</string>
+
+	<string id="ui_mcm_SortingPlus_001loadout">
+		<text>Equipamento ARM</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_002mags">
+		<text>Carregadores ARM</text>
+	</string>
+
+	<string id="ui_mcm_SortingPlus_000favorites">
+		<text>Favoritos</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_999junk">
+		<text>Lixo</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_010weapons">
+		<text>Armas</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_020outfits">
+		<text>Trajes</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_030artifacts">
+		<text>Artefatos</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_040devices">
+		<text>Dispositivos</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_050tools">
+		<text>Ferramentas</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_060medical">
+		<text>Medicamentos</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_070foods">
+		<text>Alimentos</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_080mutantfoods">
+		<text>Carne de Mutante</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_090quest">
+		<text>Itens de Missão</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_100notes">
+		<text>Notas</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_110ammo">
+		<text>Munição</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_120mutantparts">
+		<text>Partes de Mutantes</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_130misc">
+		<text>Diversos</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_140upgrades">
+		<text>Melhorias</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_150parts">
+		<text>Peças</text>
+	</string>
+
+</string_table>

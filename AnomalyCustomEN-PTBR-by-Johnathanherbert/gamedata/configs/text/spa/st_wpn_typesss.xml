@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_type56">
+		<text>Type 56</text>
+	</string>
+	<string id="st_wpn_type56_descr">
+		<text>O rifle Type 56 é um rifle militar chinês de tiro seletivo desenvolvido no final da década de 1950 como uma variante do AK-47 soviético. Famoso por sua construção robusta e confiabilidade, o Type 56 possui um mecanismo operado a gás e dispara o cartucho 7,62x39mm. Com um carregador curvo distintivo, ganhou popularidade como arma de infantaria padrão em vários conflitos ao redor do mundo. O seu design durável e a sua acessibilidade contribuíram para a sua ampla adoção e utilização por vários grupos militares, paramilitares e insurgentes.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]China \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Factory 66 \n</text>
+	</string>
+	
+		<string id="st_wpn_type56_1">
+		<text>Type 56-I</text>
+	</string>
+	<string id="st_wpn_type56_1_descr">
+		<text>O rifle Type 56-I, uma variante do Type 56 chinês original, é uma arma compacta e especializada para combate corpo a corpo. Com uma coronha dobrável, o Type 56-I oferece maior manobrabilidade, mantendo o compartimento de 7,62x39mm e as capacidades de tiro seletivo de seu antecessor. Originalmente concebido para tripulações de veículos e forças especiais, a compactação e adaptabilidade deste rifle tornaram-no adequado para guerra urbana e espaços confinados, consolidando seu status como uma arma de fogo versátil em vários contextos operacionais.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]China \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Factory 66 \n</text>
+	</string>
+	
+	    <string id="st_wpn_type56_2">
+		<text>Type 56-II</text>
+	</string>
+	<string id="st_wpn_type56_2_descr">
+		<text>O rifle Type 56-II representa uma iteração modernizada do icônico rifle chinês Type 56, construído com base no design de seu antecessor. Ao integrar avanços contemporâneos, esta arma de fogo apresenta ergonomia melhorada, materiais refinados e componentes atualizados, oferecendo maior precisão, confiabilidade e conforto ao usuário. Mantendo o calibre 7,62 x 39mm e a capacidade de tiro seletivo, o Type 56-II combina a familiaridade do modelo original com inovações de ponta, tornando-o adequado para uma ampla gama de cenários operacionais. Sua modernização garante compatibilidade com diversos acessórios, miras e equipamentos táticos, adaptando o rifle às necessidades militares e de segurança contemporâneas.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]China \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Norinco \n</text>
+	</string>
+	
+		<string id="st_wpn_type81">
+		<text>Type 81</text>
+	</string>
+	<string id="st_wpn_type81_descr">
+		<text>O rifle Type 81 é uma arma de fogo seletiva, operada a gás e de design chinês, que surgiu no final do século XX. Notável por seu design exclusivo e vantagens ergonômicas, o rifle Type 81 oferece maior manobrabilidade, mantendo o poder de fogo de seu calibre. Originalmente desenvolvido para o Exército Chinês, este rifle foi reconhecido pela sua adaptabilidade e serviu em diversas forças armadas e organizações paramilitares, demonstrando sua versatilidade em diversos ambientes operacionais.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]China \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Norinco \n</text>
+	</string>
+	
+		<string id="st_mag_type81_default">
+		<text>Carregador de 30 cartuchos do Type 81</text>
+	</string>
+	<string id="st_mag_type81_default_descr">
+		<text>Carregador para rifle Type 81, com capacidade para 30 cartuchos de munição 7,62 x 39 mm.</text>
+	</string>
+	
+		<string id="st_mag_type81_drum">
+		<text>Carregador de tambor de 65 cartuchos do Type 81</text>
+	</string>
+	<string id="st_mag_type81_drum_descr">
+		<text>Carregador para rifle Type 81, com capacidade para 65 cartuchos de munição 7,62 x 39 mm.</text>
+	</string>
+	
+</string_table>

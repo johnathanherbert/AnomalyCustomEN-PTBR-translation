@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_dyn_news_gossip_task_dp_1">
+		<text>Te vejo... Eu posso... te ver... Eu posso...</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_dp_2">
+		<text>Estou observando... você... Estou observando... você...</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_dp_3">
+		<text>Onde quer que você vá, %s... você não pode correr... você não pode se esconder...</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_dp_4">
+		<text>Violência... gera violência... gera violência...</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_dp_5">
+		<text>Morra... você deve... morrer... você deve...</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_dp_6">
+		<text>O esquecimento aguarda...</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_dp_7">
+		<text>A luz sagrada de Vyraj está brilhando... cada vez mais forte.</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_dp_8">
+		<text>Você vai morrer... inimigo do Monolito.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_menu_tmmr">
+		<text>Repositório Mini Mods Tosox</text>
+	</string>
+
+	<string id="ui_mcm_menu_protect_dropped_weapons">
+		<text>Proteger Armas Derrubadas</text>
+	</string>
+	<string id="ui_mcm_tmmr_protect_dropped_weapons_title">
+		<text>Proteger Armas Derrubadas</text>
+	</string>
+	<string id="ui_mcm_tmmr_protect_dropped_weapons_protection_rule">
+		<text>Regra de proteção</text>
+	</string>
+	<string id="ui_mcm_tmmr_protect_dropped_weapons_protection_rule_desc">
+		<text>Sempre - Sempre protege a arma de ser pega \nQuando golpeado - Só protege a arma quando o motivo de derrubá-la foi por ter sido golpeado</text>
+	</string>
+	<string id="ui_mcm_tmmr_protect_dropped_weapons_no_pickup_time">
+		<text>Tempo sem poder pegar arma (segundos)</text>
+	</string>
+	<string id="ui_mcm_tmmr_protect_dropped_weapons_no_pickup_time_desc">
+		<text>Período de tempo em segundos durante o qual NPCs não podem pegar a arma que você derrubou após ser golpeado (defina como "0" para "para sempre")</text>
+	</string>
+
+	<string id="ui_mcm_lst_tmmr_always_protect">
+		<text>Sempre</text>
+	</string>
+	<string id="ui_mcm_lst_tmmr_protect_when_hit">
+		<text>Quando golpeado</text>
+	</string>
+</string_table>

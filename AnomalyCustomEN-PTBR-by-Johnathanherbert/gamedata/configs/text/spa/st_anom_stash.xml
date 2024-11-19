@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por Johnathanherbert -->
+
+<string_table>
+    <string id="st_anombp_desc">
+		<text>Uma mochila estranha que emite energias semelhantes às de um campo anômalo. Seus tecidos foram transformados por artefatos, tornando-a sobrenaturalmente pesada. \nUm cientista disse que usar mochilas como essa como esconderijo permite que você veja os mesmos itens dentro, onde quer que esteja.\n \n
+%c[ui_gray_1]CARACTERÍSTICAS:\n
+%c[d_blue] • %c[ui_gray_2] Item misterioso \n
+%c[d_blue] • %c[ui_gray_2] Armazenamento de objetos \n
+%c[0,100,255,150] • %c[ui_gray_2] Utilizável como esconderijo \n</text>
+	</string>
+    <string id="st_anombp_name">
+        <text>Mochila anômala</text>
+    </string>
+	<string id="st_anombp_stash">
+        <text>Esconderijo anômalo</text>
+    </string>
+	<string id="st_anombp_pickup">
+        <text>Pegar</text>
+    </string>
+	<string id="st_anombp_cantsprint">
+        <text>Você não pode correr enquanto carrega uma mochila anômala</text>
+    </string>
+	<string id="ui_st_anom_pickup_hit">
+		<text>Pegar esconderijo</text>
+	</string>
+	<string id="ui_st_anom_pickup_warning">
+		<text>Este é o último esconderijo anômalo. Remova seu conteúdo antes de coletá-lo!</text>
+	</string>
+	<string id="st_fetch_count_in_anom_stash">
+        <text>%sVocê tem %sx%s% em seu esconderijo anômalo</text>
+    </string>
+
+</string_table>

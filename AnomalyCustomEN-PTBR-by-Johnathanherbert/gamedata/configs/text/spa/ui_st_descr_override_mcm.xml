@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_descr_override_title">
+		<text>Nova descrição</text>
+	</string>
+	<string id="ui_mcm_menu_descr_override">
+		<text>Nova descrição</text>
+	</string>
+
+
+	<!-- Main -->
+	<string id="ui_mcm_descr_override_main_header">
+		<text>Efeitos instantâneos</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_hp">
+		<text>Saúde</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_rad">
+		<text>Radiação</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_sat">
+		<text>Saciedade</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_sleep">
+		<text>Sono</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_thirst">
+		<text>Sede</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_alcohol">
+		<text>Álcool</text>
+	</string>
+
+
+	<!-- Timed -->
+	<string id="ui_mcm_descr_override_timed_header">
+		<text>Efeitos temporários</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_hp_t">
+		<text>Saúde</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_rad_t">
+		<text>Radiação</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_bleed_t">
+		<text>Sangramento</text>
+	</string>
+
+
+	<!-- BHS -->
+	<string id="ui_mcm_descr_override_bhs_header">
+		<text>Sistema de Saúde Corporal</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_bhs_num_at">
+		<text>Valores para exibir em números</text>
+	</string>
+	<string id="ui_mcm_descr_override_bhs_num_at_desc">
+		<text>Quando o valor de cura do membro for maior que este controle - será exibido como número em vez de círculos.</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_bhs_num_always">
+		<text>Sempre exibir em números</text>
+	</string>
+	<string id="ui_mcm_descr_override_bhs_num_always_desc">
+		<text>Substitui círculos por números.</text>
+	</string>
+
+	<string id="ui_mcm_descr_override_bhs_timed">
+		<text>Mostrar tempo de pré-cura</text>
+	</string>
+	<string id="ui_mcm_descr_override_bhs_timed_desc">
+		<text>Exibe o tempo necessário para que a cura temporária desapareça.</text>
+	</string>
+
+
+</string_table>

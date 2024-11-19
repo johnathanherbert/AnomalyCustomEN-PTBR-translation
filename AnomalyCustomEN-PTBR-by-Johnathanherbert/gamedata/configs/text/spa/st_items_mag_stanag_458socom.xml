@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_mag_stanag_458socom_fast">
+		<text>Carregador STANAG .458 SOCOM</text>
+	</string>
+	<string id="st_mag_stanag_458socom_fast_descr">
+		<text>Carregador de 10 cartuchos em aço inoxidável de alta qualidade. Adaptado para munição .458 SOCOM, evitando travamentos.</text>
+	</string>
+</string_table>

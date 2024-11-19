@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_hog_repair">
+        <text>Parece que não estamos... realmente preparados para as condições da Zona. Por algum motivo, não sei qual, nossas armas continuam apresentando defeitos e ficam sujas muito rápido. Você pode nos trazer alguns kits de limpeza? Vamos te dar algo em troca.</text>
+    </string>
+    <string id="st_hog_repair_done">
+        <text>Isso vai nos ajudar, obrigado.</text>
+    </string>
+
+    
+    <string id="st_aslan_lottery">
+        <text>Nós.</text>
+    </string>
+    <string id="st_aslan_lottery_done">
+        <text>.</text>
+    </string>
+
+</string_table>

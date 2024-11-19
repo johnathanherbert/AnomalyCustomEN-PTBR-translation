@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id = "kovalev_name">
+		<text>Assistente Kovalev</text>
+ 	</string>
+
+	<string id = "markov_name">
+		<text>Professor Associado Markov</text>
+ 	</string>
+
+	<string id = "pirogov_name">
+		<text>Candidato Pirogov</text>
+ 	</string>
+
+	<string id = "chernov_name">
+		<text>Pesquisador Sênior Chernov</text>
+ 	</string>
+
+	<string id = "juk_name">
+		<text>Professor Vladislav Zhuk</text>
+ 	</string>
+
+	<string id = "vorobushkin_name">
+		<text>Professor Associado Vorobushkin</text>
+ 	</string>
+
+	<string id = "skabinsky_name">
+		<text>Acadêmico Skabinsky</text>
+ 	</string>
+
+	<string id = "sarik_name">
+		<text>Sarik o Crepuscular</text>
+ 	</string>
+	<string id="st_kvartet_bio">
+		<text>Stalker experiente. Nenhuma informação detalhada disponível.</text>
+	</string>
+	<string id="cs_informer_name">
+		<text>Muleta</text>
+ 	</string>
+	<string id="st_informer_bio">
+		<text>Batedor dos Puros.</text>
+	</string>
+	<string id="dragun_name">
+		<text>Cicatriz</text>
+ 	</string>
+	<string id="st_dragun_bio">
+		<text>Um Caminhante Habilidoso.</text>
+	</string>
+	<string id="brodyaga_name">
+		<text>Andarilho</text>
+ 	</string>
+	<string id="st_brodyaga_bio">
+		<text>Líder do grupo Renegados do Monolito.</text>
+	</string>
+	<string id="gamajun_name">
+		<text>Gamajun</text>
+ 	</string>
+	<string id="st_gamajun_bio">
+        	<text>Um membro do grupo Renegados do Monolito.</text>
+	</string>
+	<string id="monolith_pri_b36_smart_terrain_defense_name">
+		<text>Cheburator</text>
+ 	</string>
+    	<string id="st_monolith_pri_b36_smart_terrain_defense_bio">
+        	<text>Comandante de Campo dos Fanáticos.</text>
+    	</string>
+</string_table>

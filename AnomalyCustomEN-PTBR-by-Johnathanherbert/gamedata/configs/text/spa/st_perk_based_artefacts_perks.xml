@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--
+  Novos Artefatos
+-->
+<string_table>
+
+  <string id="st_pba_af_cocoon_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Pele de Pedra\n 
+    %c[0,81,63,22]  • %c[0,209,172,56]Você recebe 25% de proteção contra dano corpo a corpo ao equipar o artefato.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Receber dano corpo a corpo concede uma pilha de Pele de Pedra.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Ao receber uma pilha, você ganha 15% adicional de proteção contra dano corpo a corpo mas recebe 10% de penalidade na velocidade.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Cada pilha aumenta a proteção com retornos decrescentes e penaliza mais a velocidade.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]É possível ter no máximo 10 pilhas, com as quais você recebe 85% de redução de dano corpo a corpo mas fica completamente imobilizado.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O efeito dura 10 segundos, após os quais todas as pilhas são consumidas.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Múltiplos artefatos aumentam a taxa de ganho de pilhas.
+    </text>
+  </string>
+
+  <string id="st_pba_af_cell_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Desintegrador\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Desintegra parte da bala que está vindo em sua direção. Infelizmente, no processo, muita radiação é emitida, deixando você doente.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Reduz o dano de balas em 15%.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]A quantidade de dano reduzido é convertida em radiação.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos com retornos decrescentes. (máx 65%)\n \n
+    %c[0,209,172,56]HABILIDADE ESPECIAL: %c[d_orange]Campo de Desintegração\n
+    %c[0,192,71,221] • %c[ui_gray_3]Jogue o artefato para criar um Campo de Proteção por Desintegração.\n
+    %c[0,192,71,221] • %c[ui_gray_3]O Campo de Desintegração reduz o dano de balas em 60-100% em sua vizinhança com pequena penalidade de radiação.\n
+    %c[0,192,71,221] • %c[ui_gray_3]O campo dura 1 minuto.\n
+    %c[0,192,71,221] • %c[ui_gray_3]Mova o artefato para o slot de granada manualmente ou Clique com o Botão Direito-Ativar nele e então jogue-o como uma granada.\n
+    %c[0,192,71,221] • %c[ui_gray_3]O artefato é consumido ao ser usado.
+    </text>
+
+  </string>
+
+  <string id="st_pba_af_fountain_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Tempo de Desconto\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Receba 8% de dinheiro de volta em cada compra.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_spaika_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Ascensão Crítica\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acertos consecutivos dão 5% de bônus de dano ao seu próximo tiro.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acertos críticos (tiros na cabeça) dão 15% de bônus.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Restaura saúde psíquica a cada acerto com quantidade dependendo das pilhas.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Errar o tiro reseta a pilha de bônus e dá penalidade de dano psíquico proporcional à pilha que você tinha.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O bônus pode ser acumulado infinitamente desde que você não erre.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Desequipar todos os artefatos Espinho removerá as pilhas sem penalidades.
+    </text>
+  </string>
+
+  <string id="st_pba_af_signet_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Luz da Tranquilidade\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Restaura bastante saúde e energia psíquica quando perto de fogueiras.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Amplifica artefatos de recuperação psíquica perto de fogueiras.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Fornece até 5 minutos de regeneração passiva de saúde e energia psíquica após sentar perto de uma fogueira.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_repei_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Laceração Menor\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Sua arma perde 50% do poder bruto mas ganha a habilidade de causar dano por sangramento.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]A cada acerto o inimigo receberá uma pilha de sangramento e começará a perder saúde lentamente proporcional ao poder bruto da arma.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]NPCs entrarão em pânico de agonia e dor, fazendo-os correr erraticamente.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]NPCs terão mais chance de cair em estado ferido, onde imploram por misericórdia e podem te dar informações valiosas, se você alcançá-los antes que morram.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_bat_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Alquimia da Zona\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Permite transmutar artefatos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Artefatos podem ser "melhorados", ou seja, mudados para um nível melhor (Estrela Noturna -> Gravi -> Peixe Dourado), ou podem ser "mutados", ou seja, mudados para um tipo diferente mantendo o mesmo nível (Estrela Noturna -> Sangue de Pedra -> Água-Viva)\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Artefatos de nível superior só podem ser mutados.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Artefatos com habilidades só podem ser mutados.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Artefatos únicos, incluindo o próprio Morcego, não podem ser transmutados.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Cada transmutação custará um artefato Morcego.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Clique com o botão direito-Transmutar em um artefato para realizar a transmutação.
+    </text>
+  </string>
+  
+  <string id="st_pba_af_sun_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Energia Solar\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Fornece bônus de saúde e resistência em clima limpo e pequeno bônus de resistência em clima parcialmente limpo das 5h às 21h.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Em outros horários ou condições climáticas, causa penalidade de resistência.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_ear_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Vontade de Viver\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Fornece regeneração de saúde mais forte quanto menor for sua saúde, começando em 30%.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Se a saúde estiver abaixo de 30%, você recebe até 50% menos dano dependendo do quão baixa estiver sua saúde.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Mais artefatos aumentam a regeneração, o limite superior de saúde para o efeito começar em 3% e a proteção máxima contra danos em 10%.
+    </text>
+  </string>
+
+  <string id="st_pba_af_chelust_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]O Peso da Devoção\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Fornece pequena regeneração de saúde e resistência.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Membros do Sin quadruplicam o efeito do artefato e adicionam regeneração psíquica.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Companheiros do Sin recebem regeneração de saúde um por um, começando pelo que tiver menos saúde.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não acumula.
+    </text>
+  </string>
+
+  <string id="st_pba_af_atom_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Bênção de Arszi\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Converte doença por radiação em bônus de resistência e fornece cura leve contra radiação.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_lighthouse_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]O Modo Não Ortodoxo de Viajar\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Matar alguém irá te teleportar para o local da morte da vítima.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O tempo é brevemente desacelerado após o teleporte.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Atordoa NPCs próximos ao destino do teleporte.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não tente isso com corvos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Tem um tempo de recarga de 30 segundos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não acumula.\n \n
+    %c[0,209,172,56]HABILIDADE ESPECIAL: %c[d_orange]Teleporte Personalizado\n
+    %c[0,192,71,221] • %c[ui_gray_3]Clique com o botão direito-Ativar no artefato para escolher o ponto personalizado para teleportar.\n
+    %c[0,192,71,221] • %c[ui_gray_3]Devido ao Princípio de Exclusão de Pauli, duas entidades não podem ocupar o mesmo lugar ao mesmo tempo.\n
+    %c[0,192,71,221] • %c[ui_gray_3]O artefato é consumido após o uso.\n
+    %c[0,192,71,221] • %c[ui_gray_3]Pressione Esc para cancelar o teleporte.
+    </text>
+  </string>
+
+  <string id="st_pba_af_fire_loop_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Pacto com o Diabo\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Artefato Transformador.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Mover o artefato para o cinto assinará o Pacto com a Zona.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]A Zona fortalece seu Nó e ele se torna o misterioso artefato também conhecido como Lúcifer.\n \n
+    Salvar o jogo é altamente recomendado antes da ativação
+    </text>
+  </string>
+
+  <string id="st_pba_af_zhelch_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Aquele Stalker Maluco da Facção Freedom\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Fornece grande resistência psíquica.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Drena saúde psíquica para restaurar saúde.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Quando a saúde está cheia, restaura saúde psíquica.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Existe uma chance de você realizar uma das ações loucas incontroláveis.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Quanto menor a saúde psíquica, maior a chance e gravidade da ação.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não acumula.
+    </text>
+  </string>
+
+  <string id="st_pba_af_sandstone_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Infusão da Zona\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Pisar em anomalias de vários tipos infunde sua arma ativa.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]A arma infundida perde 30% de seu poder bruto mas ganha 70% de poder de dano elemental de acordo com o tipo da anomalia.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Apenas anomalias elétricas, térmicas e químicas são válidas para infusão.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O efeito dura 3 minutos, o artefato deve estar equipado para o efeito funcionar.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não acumula.\n \n
+    %c[0,209,172,56]HABILIDADE ESPECIAL: %c[d_orange]Armamento Infundido\n
+    %c[0,192,71,221] • %c[ui_gray_3]Arraste e solte o artefato sobre a arma no inventário para infundi-la diretamente com efeito aleatório.\n
+    %c[0,192,71,221] • %c[ui_gray_3]O efeito durará 10 minutos.\n
+    %c[0,192,71,221] • %c[ui_gray_3]O artefato é consumido após o uso.
+    </text>
+  </string>
+  
+  <string id="st_pba_af_kislushka_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Qual a Cor do Seu Sangue?\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Cura muito sangramento ao custo de saciedade.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Quanto mais ferimentos, melhor a cura fornecida.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+  
+  <string id="st_pba_af_black_angel_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Desvie Disso\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Tem 25% de chance de refletir 35% do dano de projéteis de volta.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Anula o dano do acerto na reflexão.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos com retornos decrescentes. (máx 70%)
+    </text>
+  </string>
+
+  <string id="st_pba_af_grapes_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Gula Necessária\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Ao consumir comida, aumenta muito a recuperação de saúde.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]A cada segundo, 10% das calorias consumidas são restauradas como saúde.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O efeito dura 5 segundos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_skull_miser_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Quebre o Jackpot\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Ao matar um NPC com tiro na cabeça, uma fonte de dinheiro emerge dela.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_star_phantom_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Pacifista Fantasma\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Torna-se invisível para todos por 5 minutos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Você não pode sacar armas, falar com ninguém ou interagir com nada.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_medallion_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Chakram\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O artefato é uma poderosa arma de arremesso.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Ele procurará inimigos próximos e causará dano de laceração ao contato.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Tem a capacidade de ricochetear nas paredes e objetos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Após algum tempo ou se estiver muito longe, retornará ao portador.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Normalmente tem 2 usos, indicados pela condição do artefato.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Mova o artefato para o slot de granada manualmente ou Clique Direito-Ativar nele e então arremesse como uma granada.
+    </text>
+  </string>
+
+  <string id="st_pba_af_peas_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Amigo da Noite\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Fornece cura de sangramento, aumento de velocidade e salto das 21h às 5h em qualquer clima.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Diminui o sono à noite, aumenta o sono durante o dia.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_generator_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Godzilla está se Aproximando\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Restaura a carga das baterias dos itens enquanto corre.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não revive baterias completamente mortas ou dispositivos sem baterias.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Mais de 1 artefato aumenta a velocidade de corrida.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_ball_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]O Quebra-Nozes\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Amplifica o pé poderoso do jogador e permite chutar mais mutantes, resultando em morte instantânea.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Cada artefato no cinto permite chutar mais monstros.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Tem um tempo de recarga de 2 segundos com 1 artefato, aumenta com mais artefatos no cinto em 1 segundo com cada artefato.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Pressione a tecla USAR quando próximo a um mutante e na linha de visão para executar um chute\n \n 
+    %c[d_orange]Níveis de Mutantes: \n
+          %c[0,192,71,221] -   1 artefato: %c[ui_gray_3]Gatos, Cães, Tushkano, Zumbis, Fraturas.\n
+          %c[0,192,71,221] -   2 artefatos: %c[ui_gray_3]Javalis, Flesh, Pseudocães, Bloodsuckers, Snorks, Lurkers.\n
+          %c[0,192,71,221] -   3 artefatos: %c[ui_gray_3]Burers, Controladores, Poltergeists.\n
+          %c[0,192,71,221] -   4 artefatos: %c[ui_gray_3]Quimeras, Pseudogigantes.
+    </text>
+  </string>
+
+  <string id="st_pba_af_fonar_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Cleptomania Iluminadora\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O artefato captura frequências de pacotes e envia energia para iluminá-los.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Ilumina esconderijos e itens que emitem sinal para o receptor RF.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]A luz é muito fraca e dificilmente visível durante o dia, então procurar à noite é aconselhável.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não acumula.
+    </text>
+  </string>
+
+  <string id="st_pba_af_tapeworm_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Atordoador\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Atordoa o monstro mais próximo dentro de um raio de 3 metros.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Além disso, receber golpes corpo a corpo de monstros ou stalkers os deixará atordoados.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O inimigo afetado ficará atordoado por 3 segundos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Enquanto atordoado, o inimigo fica desabilitado na luta e não atacará.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Tem um tempo de recarga de 6 segundos entre usos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Se machucar a si mesmo (por exemplo, caindo de uma altura) resultará na descarga do artefato. Não se machuque e fique seguro.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+
+  <string id="st_pba_af_moh_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Hiperversidade Culinária\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Converte energia da carne crua de mutante em efeitos especiais.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O efeito dura 1 minuto, comer carne de mutante diferente substitui o efeito anterior.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não acumula.\n \n
+    %c[d_orange]Efeitos: \n
+          %c[0,192,71,221] -   Carne de Flesh: %c[ui_gray_3]3%/seg regeneração de saúde, 33% penalidade de dano de projéteis.\n
+          %c[0,192,71,221] -   Carne de Javali: %c[ui_gray_3]50% redução de dano de projéteis e ferimentos.\n
+          %c[0,192,71,221] -   Carne de Cão: %c[ui_gray_3]cura forte de sangramento, 1%/seg regeneração psi.\n
+          %c[0,192,71,221] -   Pseudocão: %c[ui_gray_3]3%/seg regeneração psi, 50% redução de dano psi.\n
+          %c[0,192,71,221] -   Bloodsucker: %c[ui_gray_3]torna-se invisível até atirar ou acertar inimigo, cura muito forte de sangramento.\n
+          %c[0,192,71,221] -   Psysucker: %c[ui_gray_3]torna-se invisível até atirar ou acertar inimigo, 8%/seg regeneração psi.\n
+          %c[0,192,71,221] -   Snork: %c[ui_gray_3]50% redução de dano por radiação, 10%/seg regeneração de stamina, 50msv/seg cura de radiação, grande diminuição de saciedade e moderada diminuição de sede.\n
+          %c[0,192,71,221] -   Quimera: %c[ui_gray_3]8%/seg regeneração de saúde, 15%/seg regeneração de stamina, 33% redução de dano por radiação.\n
+          %c[0,192,71,221] -   Lurker: %c[ui_gray_3]66% redução de dano de anomalias químicas/fogo/elétricas.\n
+          %c[0,192,71,221] -   Tushkano: %c[ui_gray_3]30% aumento de velocidade, 20% penalidade de dano corpo a corpo.
+    </text>
+  </string>
+
+  <string id="st_pba_af_serofim_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Chuva do Renascimento\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Ao receber um golpe fatal, o artefato é destruído e o jogador é revivido.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]50% da saúde é restaurada, todos os debuffs são curados e 5 segundos de imunidade são concedidos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]A arma atual é derrubada e a visão fica distorcida.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não acumula.
+    </text>
+  </string>
+
+  <string id="st_pba_af_elektron_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Alta Voltagem\n
+    %c[0,81,63,22]  • %c[0,209,172,56]50% de proteção contra anomalias elétricas.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Pisar em Electra recarregará completamente as baterias dos dispositivos ativos do jogador.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Recarrega quantidade aleatória de dispositivos e baterias combinados no inventário.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Fortalece o artefato e ativa habilidade especial por 10 minutos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Às vezes o prazer da carga fresca é muito grande para lidar, fazendo você gritar um pouco mais excitado que o normal e dobrando a duração da habilidade especial.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Não acumula.\n \n
+    %c[0,209,172,56]HABILIDADE ESPECIAL: %c[d_orange]Massacre Energizado\n
+    %c[0,192,71,221] • %c[ui_gray_3]Concede sprint infinito e bônus de velocidade de movimento.\n
+    %c[0,192,71,221] • %c[ui_gray_3]Ao atirar com a arma, o artefato aumenta sua carga, resultando em aumento da cadência de tiro e velocidade de movimento adicional.\n
+    %c[0,192,71,221] • %c[ui_gray_3]Armas mais lentas fornecem carga mais forte.\n
+    %c[0,192,71,221] • %c[ui_gray_3]Quando não estiver atirando, o artefato perderá gradualmente sua carga.
+    </text>
+  </string>
+  <string id="st_pba_af_kogot_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Sede de Sangue\n
+    %c[0,81,63,22]  • %c[0,209,172,56]30% de aumento no dano corpo a corpo.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]50% de aumento na velocidade de ataque corpo a corpo.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Efeito vampiro: 5% do novo dano corpo a corpo é convertido em saúde do jogador.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Adiciona 5 segundos de aumento na velocidade do jogador após cada golpe.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Ao matar certos mutantes, gera um pedaço de carne crua próximo a eles.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Acumula com múltiplos artefatos.
+    </text>
+  </string>
+  <string id="st_pba_af_dragon_eye_perk">
+    <text>
+    %c[0,209,172,56]HABILIDADE: %c[d_orange]Boa e Velha Ultra-Violência\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Sua arma recebe a possibilidade de disparar tiros explosivos.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]O primeiro tiro que acertar o inimigo o fará explodir violentamente.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]A explosão gera pedaços de carne e machuca todos no raio de alcance.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Recomenda-se discrição do usuário.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Se tiver sorte, você pode acertar o piloto do helicóptero e ativar o artefato.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Tem 3 minutos de tempo de recarga.\n
+    %c[0,81,63,22]  • %c[0,209,172,56]Cada artefato adicional diminui o tempo de recarga em 3 vezes.\n \n
+    %c[0,209,172,56]HABILIDADE ESPECIAL: %c[d_orange]Bola Explosiva\n
+    %c[0,192,71,221] • %c[ui_gray_3]Clique direito-Ativar no artefato para soltá-lo e rolar até a posição do cursor.\n
+    %c[0,192,71,221] • %c[ui_gray_3]Enquanto rola, pressione Clique Direito para realizar um pequeno salto.\n
+    %c[0,192,71,221] • %c[ui_gray_3]Pressione Clique Esquerdo para explodir o artefato.\n
+    %c[0,192,71,221] • %c[ui_gray_3]O artefato é consumido após o uso.\n
+    %c[0,192,71,221] • %c[ui_gray_3]Pressione Esc para cancelar.
+    </text>
+  </string>
+</string_table>

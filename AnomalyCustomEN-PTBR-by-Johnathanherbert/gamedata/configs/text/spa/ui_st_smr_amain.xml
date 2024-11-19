@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_SMR">
+		<text>ZCP</text>
+	</string>
+	
+	<string id="ui_mcm_menu_smr_amain">
+		<text>Principal</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_persist_info_mm">
+		<text>Você não está em um jogo. As alterações feitas agora serão aplicadas ao iniciar um novo jogo, mas serão substituídas se um arquivo salvo que você carregar tiver uma configuração salva.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_persist_info_level">
+		<text>Você está em um jogo. As alterações feitas agora serão salvas e carregadas junto com o arquivo salvo.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_tooltip_info">
+		<text>A maioria das opções possui balões de ajuda. Se você não sabe o que uma opção faz, passe o mouse sobre o nome para ver uma descrição.</text>
+	</string>
+	<string id="st_smr_glitched_pda_text">
+		<text>ERRO FATAL: CORRUPÇÃO DE MEMÓRIA INTERNA DETECTADA</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_enabled">
+		<text>Ativar ZCP</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_debug_log">
+		<text>Registros de depuração</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_debug_log_desc">
+		<text>Ative os logs de depuração. AVISO: Isso irá sobrecarregar rapidamente seu arquivo de log, bem como o arquivo de log separado "dph_zcp.log".</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_persist_override">
+		<text>Não carregar configuração do arquivo salvo</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_persist_override_desc">
+		<text>Substitui as configurações de carregamento do arquivo salvo. Útil se você suspeitar que os dados armazenados estão corrompidos ou inválidos.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_respawn_idle">
+		<text>Tempo de respawn</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_10800">
+		<text>3 horas</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_21600">
+		<text>6 horas</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_43200">
+		<text>12 horas</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_86400">
+		<text>1 dia (padrão)</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_172800">
+		<text>2 dias</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_345600">
+		<text>4 dias</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_604800">
+		<text>1 semana</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_1209600">
+		<text>2 semanas</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_1">
+		<text>Nunca</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_pop_factor_info">
+		<text>Essas configurações de fator populacional substituirão as configurações de anomalia integradas se o ZCP estiver ativado.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_monster_pop_factor">
+		<text>Fator de população de mutantes</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_stalker_pop_factor">
+		<text>Fator de população de stalkers</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_respawn_idle_desc">
+		<text>Altere o temporizador de respawn de todos os geradores de stalkers, mutantes e zumbis.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_glitched_pda">
+		<text>PDAs corrompidos</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_glitched_pda_desc">
+		<text>Transforme seu prático PDA em um peso de papel, completo com uma adorável mensagem de erro.</text>
+	</string>
+</string_table>

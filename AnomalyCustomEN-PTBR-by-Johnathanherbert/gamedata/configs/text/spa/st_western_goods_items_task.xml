@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor(es) Original(is) : NLTP_ASHES                                                                         -->
+<!--    Editado : N/A                                                                                               -->
+<!--    Data : 11/11/2023                                                                                           -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)         -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para os itens de missão do Western Goods.                                              -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <!-- Caixa de suprimentos -->
+    <string id="st_wg_act_1_task_1_quest_item">
+        <text>Caixa de suprimentos</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_quest_item_s">
+        <text>Suprimentos</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_quest_item_descr">
+        <text>
+            Uma caixa lacrada encontrada perto dos corpos da tripulação do helicóptero. O conteúdo exato da caixa é desconhecido, mas como deveria ser entregue a Williams Heades, deve conter produtos ocidentais.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_cyan] • %c[ui_gray_2] muito valioso\n
+        </text>
+    </string>
+
+    <!-- Arma não identificada -->
+    <string id="st_wg_act_1_task_2_quest_item_1">
+        <text>Arma não identificada</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_quest_item_1_s">
+        <text>Arma não identificada</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_quest_item_1_descr">
+        <text>
+            Uma arma desconhecida, cujo mecanismo de disparo não foi estabelecido. A arma parece estar sem munição - apertar o gatilho não faz nada. É muito pesada e definitivamente de alta tecnologia. Vale notar que parece não disparar balas por ignição. Muito provavelmente, os projéteis são propelidos por forças eletromagnéticas. Só se pode suspeitar que tipo de potencial destrutivo ela possui.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_red] • %c[ui_gray_2] inutilizável\n
+        </text>
+    </string>
+
+    <!-- Nota do Bandido -->
+    <string id="st_wg_act_1_task_2_quest_item_2">
+        <text>Nota do Bandido</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_quest_item_2_s">
+        <text>Nota do Bandido</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_quest_item_2_descr">
+        <text>
+            Uma nota em papel encontrada no armazém de contêineres. Julgando pela escrita, foi definitivamente escrita por um dos bandidos...
+        </text>
+    </string>
+
+    <!-- Pasta de pesquisa -->
+    <string id="st_wg_act_2_task_2_quest_item">
+        <text>Pasta de documentos</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_quest_item_s">
+        <text>Documentos</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_quest_item_descr">
+        <text>
+            Uma pasta lacrada supostamente contendo documentos de pesquisa. Estava sendo transportada por um comboio de cientistas para um local desconhecido. O cliente de Dushman quer isso, mas não se sabe quem são eles e por que estão interessados nisso.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_cyan] • %c[ui_gray_2] muito valioso\n
+        </text>
+    </string>
+
+    <!-- Mapa do Danylo -->
+    <string id="st_wg_stash_map_quest_item">
+        <text>Mapa do esconderijo</text>
+    </string>
+
+    <string id="st_wg_stash_map_quest_item_s">
+        <text>Mapa</text>
+    </string>
+
+    <string id="st_wg_stash_map_quest_item_descr">
+        <text>
+            Um mapa desenhado à mão, dado por Oleksandr. Com ele, deve ser possível localizar o antigo esconderijo dele e de seu irmão no Subsolo do Agroprom.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_green] • %c[ui_gray_2] informativo\n
+            %c[d_blue] • %c[ui_gray_2] pertences pessoais\n
+        </text>
+    </string>
+
+    <!-- Pendrive do Danylo -->
+    <string id="st_wg_danylo_pendrive_quest_item">
+        <text>Pendrive do Danylo</text>
+    </string>
+
+    <string id="st_wg_danylo_pendrive_quest_item_s">
+        <text>Pendrive</text>
+    </string>
+
+    <string id="st_wg_danylo_pendrive_quest_item_descr">
+        <text>
+            Um pendrive que foi escondido quando Danylo ainda fazia parte do Exército. Talvez as informações que ele contém possam dar uma pista sobre seu paradeiro atual. Infelizmente, humanos ainda não leem através de plástico e semicondutores, então um dispositivo ou um técnico é necessário para ler seu conteúdo.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_green] • %c[ui_gray_2] informativo\n
+            %c[d_blue] • %c[ui_gray_2] item tecnológico\n
+        </text>
+    </string>
+
+    <!-- Aviso de Destacamento do SSU -->
+    <string id="st_wg_deployment_notice_quest_item">
+        <text>Aviso de destacamento do SSU</text>
+    </string>
+
+    <string id="st_wg_deployment_notice_quest_item_s">
+        <text>Aviso de destacamento</text>
+    </string>
+
+    <string id="st_wg_deployment_notice_quest_item_descr">
+        <text>
+            Um documento militar, ordenando que um esquadrão do SSU localize e elimine o "Sargento Danylo Chernenko". O documento menciona que a ordem segue a deserção do Sargento, mas o resto do motivo está censurado.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_green] • %c[ui_gray_2] informativo\n
+        </text>
+    </string>
+
+</string_table>

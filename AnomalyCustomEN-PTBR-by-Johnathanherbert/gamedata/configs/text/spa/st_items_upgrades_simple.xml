@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Peças de Aprimoramento
+-->
+
+<string_table>
+
+<!-- Trajes -->
+	<string id="st_upgr_o_physical">
+		<text>Kit de aprimoramento de armadura do traje</text>
+	</string>
+	<string id="st_upgr_o_physical_desc">
+		<text>Este pacote contém vários tipos de placas de armadura e componentes como kevlar e titânio em todos os formatos e tamanhos, além de diversos componentes menores para fixação e instalação. Com este kit você poderá instalar qualquer aprimoramento em um traje relacionado à melhoria de suas propriedades físicas.\n\n
+            %c[yellow]Pode ser usado para aprimorar:\n
+            %c[d_cyan] • %c[ui_gray_2] Res. Balística\n
+            %c[d_cyan] • %c[ui_gray_2] Res. a Impacto\n
+            %c[d_cyan] • %c[ui_gray_2] Res. a Ruptura\n
+            %c[d_cyan] • %c[ui_gray_2] Durabilidade do traje\n
+            %c[d_cyan] • %c[ui_gray_2] Redução de peso\n
+            %c[d_cyan] • %c[ui_gray_2] Res. a Explosivos
+        </text>
+    </string>
+	<string id="st_upgr_o_magical">
+		<text>Kit de aprimoramento de proteção ambiental do traje</text>
+	</string>
+	<string id="st_upgr_o_magical_desc">
+		<text>Este pacote contém vários tipos de materiais resistentes a condições físicas, biológicas e químicas extremas. Com este kit você poderá instalar qualquer aprimoramento em um traje relacionado à melhoria de sua proteção ambiental.\n\n
+            %c[yellow]Pode ser usado para aprimorar:\n
+            %c[d_cyan] • %c[ui_gray_2] Res. a Radiação\n
+            %c[d_cyan] • %c[ui_gray_2] Res. Química\n
+            %c[d_cyan] • %c[ui_gray_2] Res. a Queimaduras\n
+            %c[d_cyan] • %c[ui_gray_2] Res. Elétrica\n
+            %c[d_cyan] • %c[ui_gray_2] Res. Psíquica\n
+        </text>
+    </string>
+	<string id="st_upgr_o_utility">
+		<text>Kit de aprimoramento utilitário do traje</text>
+	</string>
+	<string id="st_upgr_o_utility_desc">
+		<text>Este pacote contém tiras de fixação, bolsos sortidos, vários dispositivos mecânicos de qualidade variada e outras miudezas. Com este kit você poderá instalar alguns aprimoramentos úteis em trajes.\n\n
+            %c[yellow]Pode ser usado para aprimorar:\n
+            %c[d_cyan] • %c[ui_gray_2] Peso carregado\n
+            %c[d_cyan] • %c[ui_gray_2] Espaços no cinto\n
+            %c[d_cyan] • %c[ui_gray_2] Recuperação de Stamina\n
+            %c[d_cyan] • %c[ui_gray_2] Restauração de Saúde\n
+            %c[d_cyan] • %c[ui_gray_2] Controle de Sangramento\n
+            %c[d_cyan] • %c[ui_gray_2] Impulsionadores Servomotores\n
+        </text>
+    </string>
+	<string id="st_upgr_w_internal">
+		<text>Kit de aprimoramento de mecanismo de arma</text>
+	</string>
+	<string id="st_upgr_w_internal_desc">
+		<text>Este pacote contém componentes de armas de alta qualidade e ferramentas usadas para ajustar mecanismos de armas. Com este kit você poderá fazer várias melhorias internas em uma arma.\n\n
+            %c[yellow]Pode ser usado para aprimorar:\n
+            %c[d_cyan] • %c[ui_gray_2] Confiabilidade\n
+            %c[d_cyan] • %c[ui_gray_2] Redução de recuo\n
+            %c[d_cyan] • %c[ui_gray_2] Cadência de tiro\n
+            %c[d_cyan] • %c[ui_gray_2] Mudança de calibre\n
+            %c[d_cyan] • %c[ui_gray_2] Modos de disparo\n</text>
+    </string>
+	<string id="st_upgr_w_external">
+		<text>Kit de aprimoramento do corpo da arma</text>
+	</string>
+	<string id="st_upgr_w_external_desc">
+		<text>Este pacote contém ferramentas usadas para modificar e manter canos de armas, bem como trilhos táticos, suportes e peças sortidas de mobília de arma. Com este kit você poderá fazer vários aprimoramentos relacionados aos canos ou corpos de armas.\n\n
+            %c[yellow]Pode ser usado para aprimorar:\n
+            %c[d_cyan] • %c[ui_gray_2] Planicidade\n
+            %c[d_cyan] • %c[ui_gray_2] Precisão\n
+            %c[d_cyan] • %c[ui_gray_2] Manuseio\n
+            %c[d_cyan] • %c[ui_gray_2] Peso da arma\n
+            %c[d_cyan] • %c[ui_gray_2] Pontos de fixação\n</text>
+    </string>
+	<string id="st_upgr_w_optical">
+		<text>Kit de aprimoramento de mira óptica</text>
+	</string>
+	<string id="st_upgr_w_optical_desc">
+		<text>Este pacote contém lentes e sistemas ópticos de alta qualidade adequados para substituição em binóculos e miras de rifle. Com este kit você poderá aprimorar qualquer instrumento óptico.</text>
+    </string>
+
+	<string id="st_try_combine">
+		<text>aprimorar</text>
+	</string>
+	<string id="st_try_downgrade">
+		<text>regredir</text>
+	</string>
+	<string id="ui_mcm_menu_supgrades">
+		<text>Aprimoramentos</text>
+	</string>
+	<string id="ui_mcm_supgrades_title">
+		<text>Aprimoramentos Simplificados de Equipamento</text>
+	</string>
+
+	<string id="ui_mcm_supgrades_drop">
+		<text>Chance de drop</text>
+	</string>
+	<string id="ui_mcm_supgrades_drop_desc">
+		<text>Chance dos kits de aprimoramento existentes serem substituídos pelos novos kits genéricos.</text>
+	</string>
+
+</string_table>

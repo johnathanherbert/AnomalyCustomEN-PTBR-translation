@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_roguelite">
+		<text>Roguelite Ironman</text>
+	</string><!--Global Settings--><string id="ui_mcm_roguelite_title">
+        <text>Configurações do Roguelite Ironman de Jabbers</text>
+    </string>
+    <string id="ui_mcm_roguelite_global_description">
+        <text>Configurações Globais</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_roguelite_enabled">
+        <text>Ativado</text>
+    </string><!--Player Stash Settings--><string id="ui_mcm_roguelite_stashes_description">
+        <text>Persistência dos Esconderijos do Jogador</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_stash_restore_enabled">
+        <text>Restaurar esconderijos ativado</text>
+    </string>
+    <string id="ui_mcm_roguelite_show_stashes_on_pda">
+        <text>Mostrar esconderijos restaurados no PDA</text>
+    </string>
+    <string id="ui_mcm_roguelite_stash_item_condition_loss_percent">
+        <text>Degradação da condição dos itens entre partidas (%)</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_money_restore_enabled">
+        <text>Restaurar dinheiro ativado</text>
+    </string><!--Player Corpse Settings--><string id="ui_mcm_roguelite_drop_player_inventory_description">
+        <text>Persistência do Cadáver do Jogador</text>
+    </string>
+    <string id="ui_mcm_roguelite_drop_player_inventory_on_death_enabled">
+        <text>Restaurar último cadáver</text>
+    </string>
+    <string id="ui_mcm_roguelite_drop_player_inventory_item_loss_chance">
+        <text>Chance de perder itens do inventário (%)</text>
+    </string>
+	<string id="ui_mcm_roguelite_drop_player_inventory_item_loss_chance_desc">
+		<text>É uma probabilidade, não uma garantia. Por exemplo: 25% significa que você tem uma chance de 25% de perder cada item em seu cadáver.</text>
+	</string>
+    <string id="ui_mcm_roguelite_drop_player_inventory_item_loss_max_ingame_time_enabled">
+        <text>Tempo limite de recuperação ativado</text>
+    </string>
+    <string id="ui_mcm_roguelite_drop_player_inventory_item_loss_max_ingame_time_seconds">
+        <text>Tempo limite (em segundos) para chance máxima de perda de itens (%)</text>
+    </string>
+	<string id="ui_mcm_roguelite_drop_player_inventory_item_loss_max_ingame_time_seconds_desc">
+		<text>Exemplo: Com chance de perda de 25% e tempo limite de 1 hora. Você morre em Military Warehouses como Loner. Na próxima partida, você leva 45 minutos para chegar em Military Warehouses e recuperar seu cadáver. A chance de perda seria 0,75 * 0,25, já que você levou 3/4 da hora para chegar ao seu cadáver.</text>
+	</string><!--Trader Reputation Settings--><string id="ui_mcm_roguelite_trader_rep_description">
+        <text>Persistência da Reputação com Comerciantes</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_trader_rep_restore_enabled">
+        <text>Restaurar reputação com comerciantes</text>
+    </string>
+    <string id="ui_mcm_roguelite_trader_rep_penalty_percent">
+        <text>Perda de reputação com comerciantes entre partidas (%)</text>
+    </string><!--Charater Reputation Settings--><string id="ui_mcm_roguelite_character_rep_description">
+        <text>Persistência da Reputação com Personagens</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_character_rep_restore_enabled">
+        <text>Restaurar reputação com personagens</text>
+    </string>
+    <string id="ui_mcm_roguelite_character_rep_penalty_percent">
+        <text>Perda de reputação com personagens entre partidas (%)</text>
+    </string>
+    <string id="ui_mcm_roguelite_character_rank_penalty_percent">
+        <text>Perda de classificação entre partidas (%)</text>
+    </string>
+    
+    <string id="ui_mcm_roguelite_debug_description">
+        <text>Configurações de Depuração</text>
+    </string>
+    <string id="ui_mcm_roguelite_debug">
+        <text>Depuração</text>
+    </string>
+</string_table>

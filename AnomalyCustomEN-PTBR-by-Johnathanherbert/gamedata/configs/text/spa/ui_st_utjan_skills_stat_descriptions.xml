@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+    <!-- Medicine -->
+	<string id="st_player_skills_hint_medicine">
+		<text>Concede um breve impulso de recuperação de saúde e redução de radiação com base no item médico usado.\n \nOs níveis são alcançados usando medicamentos.\n \n</text>
+	</string>
+	<string id="st_skills_stats_restore_boost_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Restauração ganha como impulso: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_restore_boost_negative">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Restauração perdida como impulso: %c[d_red]$stat %</text>
+    </string>
+
+	<!-- Insanity -->
+	<string id="st_player_skills_hint_insanity">
+		<text>Você perde sua sanidade... mas ganha regeneração psíquica e resistência a danos psíquicos. \nO bônus de regeneração psíquica é duplicado ao tocar um instrumento.\n \nOs níveis são obtidos sofrendo dano psíquico e tocando um instrumento em combate.\n \n</text>
+	</string>
+    <string id="st_skills_stats_psy_regen_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Regeneração psíquica aumentada em: %c[d_green]$stat %/seg</text>
+    </string>
+
+    <string id="st_skills_stats_psy_hit_resistance_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Dano psíquico recebido reduzido em: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_psy_hit_resistance_negative">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Dano psíquico recebido aumentado em: %c[d_red]$stat %</text>
+    </string>
+	
+	<!-- Tinkering -->
+	<string id="st_player_skills_hint_tinkering">
+		<text>Concede a chance de não gastar o uso de um kit de reparo.\n \nOs níveis são alcançados reparando equipamentos com kits de reparo.\n \n</text>
+	</string>
+	<string id="st_skills_stats_refund_chance_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Chance de uso gratuito do kit de reparo: %c[d_green]$stat %</text>
+    </string>
+	
+	<!-- Bartering -->
+	<string id="st_player_skills_hint_bartering">
+		<text>Concede melhores preços ao negociar e mais dinheiro ao completar tarefas.\n \nOs níveis são obtidos negociando itens e completando tarefas.\n \n</text>
+	</string>
+	<string id="st_skills_stats_discount_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Preços do comerciante reduzidos em: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_discount_negative">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Preços do comerciante aumentados em: %c[d_red]$stat %</text>
+    </string>
+	<string id="st_skills_stats_sell_bonus_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Valor de venda aumentado em: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_sell_bonus_negative">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Valor de venda reduzido em: %c[d_red]$stat %</text>
+    </string>
+    <string id="st_skills_stats_task_bonus_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Recompensas monetárias aumentadas em: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_task_bonus_negative">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Recompensas monetárias reduzidas em: %c[d_red]$stat %</text>
+    </string>
+	
+	<!-- Magloading -->
+	<string id="st_player_skills_hint_magloading">
+		<text>Fornece velocidades mais rápidas de carregamento e descarregamento de carregadores.\n \nOs níveis são alcançados carregando e descarregando carregadores. \n (O nível máximo é limitado pelo seu nível de Força e Vigor) \n\n</text>
+	</string>
+	<string id="st_skills_stats_loadspeed_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Velocidade de carregamento do carregador aumentada em: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_loadspeed_negative">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Velocidade de carregamento do carregador reduzida em: %c[d_red]$stat %</text>
+    </string>
+	
+	<!-- Lockpicking -->
+	<string id="st_player_skills_hint_lockpicking">
+		<text>Reduz a dificuldade ao arrombar fechaduras.\n \nOs níveis são alcançados abrindo caixas de recompensa. \n (Usar chaves mestras não concede experiência) \n\n</text>
+	</string>
+	<string id="st_skills_stats_lockpick_diff_reduc_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Dificuldade da Caixa de Recompensa reduzida em: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_lockpick_diff_reduc_negative">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Dificuldade da Caixa de Recompensa aumentada em: %c[d_red]$stat %</text>
+    </string>
+	
+	<!-- Reloading -->
+	<string id="st_player_skills_hint_reloading">
+		<text>Garante velocidades mais rápidas de recarga de armas e de coldre/saque.\n \nOs níveis são alcançados usando armas em geral. \n (O nível máximo é limitado pelo seu nível de Resistência e Sobrevivência) \n\n</text>
+	</string>
+	<string id="st_skills_stats_reload_speed_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Velocidade de recarga aumentada em: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_reload_speed_negative">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Velocidade de recarga reduzida em: %c[d_red]$stat %</text>
+    </string>
+	
+	<string id="st_skills_stats_equip_speed_positive">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Velocidade de coldre/saque aumentada em: %c[d_green]$stat %</text>
+    </string>
+    <string id="st_skills_stats_equip_speed_negative">
+        <text>\n %c[255,138,43,226]•%c[ui_6] Velocidade de coldre/saque reduzida em: %c[d_red]$stat %</text>
+    </string>
+	
+</string_table>

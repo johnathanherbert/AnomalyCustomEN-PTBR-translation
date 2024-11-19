@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+    <string id="liz_ha_text_cant_consume_item">
+        <text>Não é possível usar este item com o capacete equipado</text>
+    </string>
+
+</string_table>

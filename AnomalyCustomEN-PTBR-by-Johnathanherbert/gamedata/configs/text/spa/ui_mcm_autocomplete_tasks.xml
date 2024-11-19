@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="ui_mcm_menu_autocomplete_tasks">
+		<text>Completar Tarefas Automaticamente</text>
+	</string>
+
+	<string id="ui_mcm_menu_at_general">
+		<text>Configurações Gerais</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_enable">
+		<text>Ativar Autocompletar</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_enable_desc">
+		<text>Ativa a lógica principal de autocompletar</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_pda_check">
+		<text>Ativar verificação de PDA</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_pda_check_desc">
+		<text>Só autocompleta tarefas se o jogador tiver um PDA</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_compensate_item_rewards">
+		<text>Compensar recompensas de itens</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_compensate_item_rewards_desc">
+		<text>Substitui quaisquer itens recebidos por seu equivalente em dinheiro</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_compensation_coefficient">
+		<text>Coeficiente de Compensação</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_compensation_coefficient_desc">
+		<text>1.0 - O custo base do item</text>
+	</string>
+	
+	<string id="ui_mcm_menu_at_general_tasks">
+		<text>Tarefas Gerais</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_tasks_assault">
+		<text>Tarefas de Assalto</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_tasks_bounty">
+		<text>Tarefas de Recompensa</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_tasks_fate">
+		<text>Tarefas de Destino</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_tasks_scripted">
+		<text>Tarefas com Script</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_tasks_fetch">
+		<text>Tarefas de Busca</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_tasks_return">
+		<text>Tarefas de Retorno</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_tasks_measurements">
+		<text>Tarefas de Medição</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_general_tasks_scanner">
+		<text>Tarefas de Colocação de Scanner</text>
+	</string>
+	
+	<string id="ui_mcm_menu_at_special_tasks">
+		<text>Tarefas Especiais</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_special_tasks_snitch">
+		<text>Tarefa "Delatores"</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_special_tasks_spring_clean">
+		<text>Tarefa "Proteger a Base"</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_special_tasks_defend_pump_station">
+		<text>Tarefa "Defender a estação de bombeamento"</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_special_tasks_destroy_btrs">
+		<text>Tarefa "Por que não podemos ter coisas boas"</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_special_tasks_research_hunt">
+		<text>Tarefa "Caça à Pesquisa de Semenov"</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_special_tasks_recover_tracker">
+		<text>Tarefa "Recuperar o Dispositivo de Rastreamento"</text>
+	</string>
+	
+	<string id="ui_mcm_menu_at_other">
+		<text>Outras Configurações</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_other_check_interval">
+		<text>Intervalo de verificação do autocompletar</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_other_finish_message_delay">
+		<text>Atraso da mensagem do contratante</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_other_reward_delay">
+		<text>Atraso da recompensa</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_other_whitelist">
+		<text>Lista branca</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_other_blacklist">
+		<text>Lista negra</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_other_debug">
+		<text>Ativar logs de depuração</text>
+	</string>
+	<string id="ui_mcm_autocomplete_tasks_at_other_debug_desc">
+		<text>Útil apenas para modders</text>
+	</string>
+
+</string_table>

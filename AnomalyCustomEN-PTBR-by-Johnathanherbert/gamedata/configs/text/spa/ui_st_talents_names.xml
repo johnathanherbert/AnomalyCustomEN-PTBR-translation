@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+<!-- OFENSIVO ATIRADOR -->
+    <string id="sniper_rifles_name">
+        <text>Rifles de precisão</text>
+    </string>
+    <string id="assault_rifles_novice_name">
+        <text>Rifles de assalto novato</text>
+    </string>
+    <string id="pistols_name">
+        <text>Pistolas</text>
+    </string>
+    <string id="experienced_sniper_name">
+        <text>Atirador experiente</text>
+    </string>
+    <string id="steady_name">
+        <text>Firmeza</text>
+    </string>
+    <string id="convenience_name">
+        <text>Conveniência</text>
+    </string>
+    <string id="gunslinger_name">
+        <text>Pistoleiro</text>
+    </string>
+    <string id="sharpshooter_name">
+        <text>Atirador de elite</text>
+    </string>
+    <string id="ambush_name">
+        <text>Emboscada</text>
+    </string>
+    <string id="deep_wound_name">
+        <text>Ferida profunda</text>
+    </string>
+    <string id="loner_name">
+        <text>Solitário</text>
+    </string>
+    <string id="soft_spot_name">
+        <text>Ponto fraco</text>
+    </string>
+    <string id="nocturnal_name">
+        <text>Noturno</text>
+    </string>
+    <string id="carnage_name">
+        <text>Carnificina</text>
+    </string>
+	
+<!-- OFENSIVO SOLDADO -->
+	<string id="assault_rifles_name">
+        <text>Rifles de assalto</text>
+    </string>
+    <string id="shotguns_novice_name">
+        <text>Espingardas novato</text>
+    </string>
+    <string id="submachine_guns_name">
+        <text>Submetralhadoras</text>
+    </string>
+    <string id="experienced_rifleman_name">
+        <text>Fuzileiro experiente</text>
+    </string>
+    <string id="demolition_expert_name">
+        <text>Especialista em demolição</text>
+    </string>
+    <string id="duelist_name">
+        <text>Duelista</text>
+    </string>
+    <string id="focus_name">
+        <text>Foco</text>
+    </string>
+    <string id="thrill_name">
+        <text>Emoção</text>
+    </string>
+    <string id="precision_name">
+        <text>Precisão</text>
+    </string>
+    <string id="barrage_name">
+        <text>Barragem</text>
+    </string>
+    <string id="reckless_name">
+        <text>Imprudente</text>
+    </string>
+    <string id="veteran_rifleman_name">
+        <text>Fuzileiro veterano</text>
+    </string>
+    <string id="collector_name">
+        <text>Colecionador</text>
+    </string> 
+
+<!-- OFENSIVO JUGGERNAUT -->
+    <string id="shotguns_name">
+        <text>Espingardas</text>
+    </string>
+    <string id="machine_guns_name">
+        <text>Metralhadoras</text>
+    </string>
+    <string id="submachine_name">
+        <text>Submetralhadora</text>
+    </string>
+    <string id="hunter_name">
+        <text>Caçador</text>
+    </string>
+    <string id="bounty_hunter_name">
+        <text>Caçador de recompensas</text>
+    </string>
+    <string id="mangle_name">
+        <text>Mutilar</text>
+    </string>
+    <string id="heavy_guns_expert_name">
+        <text>Especialista em armas pesadas</text>
+    </string>
+    <string id="merciless_name">
+        <text>Impiedoso</text>
+    </string>
+    <string id="fury_name">
+        <text>Fúria</text>
+    </string>
+    <string id="bloodthirst_name">
+        <text>Sede de sangue</text>
+    </string>
+    <string id="execution_name">
+        <text>Execução</text>
+    </string>
+    <string id="frightening_name">
+        <text>Aterrorizante</text>
+    </string>
+    <string id="selective_name">
+        <text>Seletivo</text>
+    </string>
+    <string id="mastery_name">
+        <text>Maestria</text>
+    </string> 
+	
+<!-- DEFENSIVO ATIRADOR -->
+	<string id="adaptive_name">
+		<text>Adaptativo</text>
+	</string>
+	<string id="mild_name">
+		<text>Moderado</text>
+	</string>
+	<string id="iron_stomach_name">
+		<text>Estômago de ferro</text>
+	</string>
+	<string id="plastic_pads_name">
+		<text>Proteções plásticas</text>
+	</string>
+	<string id="aluminum_plates_name">
+		<text>Placas de alumínio</text>
+	</string>
+	<string id="nature_resistance_name">
+		<text>Resistência natural</text>
+	</string>
+	<string id="rad_resistant_name">
+		<text>Resistente à radiação</text>
+	</string>
+	<string id="technician_name">
+		<text>Técnico</text>
+	</string>
+	<string id="inventor_name">
+		<text>Inventor</text>
+	</string>
+	<string id="expert_technician_name">
+		<text>Técnico especialista</text>
+	</string>
+	<string id="agile_name">
+		<text>Ágil</text>
+	</string>
+	<string id="reflexes_name">
+		<text>Reflexos</text>
+	</string>
+	
+<!-- DEFENSIVO SOLDADO -->
+	<string id="ceramic_plates_name">
+		<text>Placas cerâmicas</text>
+	</string>
+	<string id="first_aid_name">
+		<text>Primeiros socorros</text>
+	</string>
+	<string id="isolated_name">
+		<text>Isolado</text>
+	</string>
+	<string id="armorer_name">
+		<text>Armeiro</text>
+	</string>
+	<string id="chem_resistant_name">
+		<text>Resistente a químicos</text>
+	</string>
+	<string id="suppresion_fire_name">
+		<text>Fogo de supressão</text>
+	</string>
+	<string id="cautious_name">
+		<text>Cauteloso</text>
+	</string>
+	<string id="fireproof_name">
+		<text>À prova de fogo</text>
+	</string>
+	<string id="composure_name">
+		<text>Compostura</text>
+	</string>
+	<string id="enduring_name">
+		<text>Resistente</text>
+	</string>
+	<string id="adorned_name">
+		<text>Adornado</text>
+	</string>
+	<string id="expert_armorer_name">
+		<text>Armeiro especialista</text>
+	</string>
+	<string id="last_stand_name">
+		<text>Último suspiro</text>
+	</string>
+	<string id="leap_name">
+		<text>Salto</text>
+	</string> 
+
+<!-- DEFENSIVO JUGGERNAUT -->
+	<string id="steel_plates_name">
+		<text>Placas de aço</text>
+	</string>
+	<string id="steel_pads_name">
+		<text>Proteções de aço</text>
+	</string>
+	<string id="regenerative_name">
+		<text>Regenerativo</text>
+	</string>
+	<string id="heavy_armor_expert_name">
+		<text>Especialista em armadura pesada</text>
+	</string>
+	<string id="dismorale_name">
+		<text>Desmoralizar</text>
+	</string>
+	<string id="sturdy_name">
+		<text>Robusto</text>
+	</string>
+	<string id="sanity_name">
+		<text>Sanidade</text>
+	</string>
+	<string id="anxiety_name">
+		<text>Ansiedade</text>
+	</string>
+	<string id="turmoil_name">
+		<text>Tumulto</text>
+	</string>
+	<string id="bulky_name">
+		<text>Volumoso</text>
+	</string>
+	<string id="secure_name">
+		<text>Seguro</text>
+	</string>
+	<string id="lucid_name">
+		<text>Lúcido</text>
+	</string>
+	<string id="robust_name">
+		<text>Resistente</text>
+	</string> 
+
+<!-- RESISTÊNCIA ATIRADOR -->
+	<string id="ease_name">
+		<text>Facilidade</text>
+	</string>
+	<string id="refreshing_name">
+		<text>Revigorante</text>
+	</string>
+	<string id="hiker_name">
+		<text>Caminhante</text>
+	</string>
+	<string id="resting_name">
+		<text>Descanso</text>
+	</string>
+	<string id="prudent_name">
+		<text>Prudente</text>
+	</string>
+	<string id="swifty_name">
+		<text>Veloz</text>
+	</string>
+	<string id="tireless_name">
+		<text>Incansável</text>
+	</string>
+	<string id="hoarder_name">
+		<text>Acumulador</text>
+	</string>
+	<string id="adrenaline_rush_name">
+		<text>Surto de adrenalina</text>
+	</string>
+	<string id="second_wind_name">
+		<text>Segundo fôlego</text>
+	</string>
+	<string id="organizer_name">
+		<text>Organizador</text>
+	</string>
+	<string id="insomnia_name">
+		<text>Insônia</text>
+	</string>
+	<string id="courage_name">
+		<text>Coragem</text>
+	</string>
+	<string id="belt_braces_name">
+		<text>Cintos e suspensórios</text>
+	</string>
+	<string id="athletic_name">
+		<text>Atlético</text>
+	</string>
+	<string id="iron_spine_name">
+		<text>Espinha de ferro</text>
+	</string> 
+
+<!-- DIÁLOGO ATIRADOR -->
+	<string id="preparation_name">
+		<text>Preparação</text>
+	</string>
+	<string id="confidence_name">
+		<text>Confiança</text>
+	</string>
+	<string id="supplier_name">
+		<text>Fornecedor</text>
+	</string>
+	<string id="observant_name">
+		<text>Observador</text>
+	</string>
+	<string id="smuggler_name">
+		<text>Contrabandista</text>
+	</string>
+	<string id="gregarious_name">
+		<text>Sociável</text>
+	</string>
+	<string id="encouragement_name">
+		<text>Encorajamento</text>
+	</string>
+	<string id="persuasion_name">
+		<text>Persuasão</text>
+	</string>
+	<string id="charismatic_name">
+		<text>Carismático</text>
+	</string>
+	<string id="shady_name">
+		<text>Suspeito</text>
+	</string>
+	<string id="artistic_name">
+		<text>Artístico</text>
+	</string>
+	<string id="rally_name">
+		<text>Reagrupar</text>
+	</string>
+	<string id="cynical_name">
+		<text>Cínico</text>
+	</string>
+	<string id="well_liked_name">
+		<text>Bem quisto</text>
+	</string>
+	<string id="deceitful_name">
+		<text>Enganador</text>
+	</string>
+
+<!-- OFENSIVO CAÇADOR DE MONSTROS -->
+	<string id="dog_hunter_name">
+		<text>Caçador de cães</text>
+	</string>
+	<string id="boar_hunter_name">
+		<text>Caçador de javalis</text>
+	</string>
+	<string id="zombie_hunter_name">
+		<text>Caçador de zumbis</text>
+	</string>
+	<string id="trophies_name">
+		<text>Troféus</text>
+	</string>
+	<string id="deep_cut_name">
+		<text>Corte profundo</text>
+	</string>
+	<string id="beast_anatomy_name">
+		<text>Anatomia de feras</text>
+	</string>
+	<string id="humanoid_anatomy_name">
+		<text>Anatomia humanóide</text>
+	</string>
+	<string id="expert_hunter_name">
+		<text>Caçador especialista</text>
+	</string>
+	<string id="beast_rivalry_name">
+		<text>Rivalidade com feras</text>
+	</string>
+	<string id="humanoid_rivalry_name">
+		<text>Rivalidade com humanóides</text>
+	</string>
+	<string id="master_hunter_name">
+		<text>Mestre caçador</text>
+	</string>
+	<string id="fierce_name">
+		<text>Feroz</text>
+	</string>
+	<string id="ranger_name">
+		<text>Patrulheiro</text>
+	</string>
+	<string id="deadly_blow_name">
+		<text>Golpe mortal</text>
+	</string>
+
+<!-- DEFENSIVO CAÇADOR DE MONSTROS -->
+	<string id="shoulder_pads_name">
+		<text>Ombreiras</text>
+	</string>
+	<string id="careful_name">
+		<text>Cuidadoso</text>
+	</string>
+	<string id="melee_defense_name">
+		<text>Defesa corpo a corpo</text>
+	</string>
+	<string id="special_diet_name">
+		<text>Dieta especial</text>
+	</string>
+	<string id="clarity_name">
+		<text>Clareza</text>
+	</string>
+	<string id="tracker_name">
+		<text>Rastreador</text>
+	</string>
+	<string id="soft_armor_name">
+		<text>Armadura leve</text>
+	</string>
+	<string id="stable_mind_name">
+		<text>Mente estável</text>
+	</string>
+	<string id="beast_demeanor_name">
+		<text>Comportamento bestial</text>
+	</string>
+	<string id="humanoid_demeanor_name">
+		<text>Comportamento humanóide</text>
+	</string>
+	<string id="second_skin_name">
+		<text>Segunda pele</text>
+	</string>
+	<string id="custom_fit_name">
+		<text>Ajuste personalizado</text>
+	</string>
+	<string id="kindred_name">
+		<text>Parentesco</text>
+	</string>
+
+<!-- OFENSIVO MERCENÁRIO -->
+	<string id="firearm_enthusiast_name">
+		<text>Entusiasta de armas</text>
+	</string>
+	<string id="combat_engineer_name">
+		<text>Engenheiro de combate</text>
+	</string>
+	<string id="overdrive_name">
+		<text>Sobrecarga</text>
+	</string>
+	<string id="head_hunter_name">
+		<text>Caçador de cabeças</text>
+	</string>
+	<string id="arrogance_name">
+		<text>Arrogância</text>
+	</string>
+	<string id="aim_torso_name">
+		<text>Mirar tronco</text>
+	</string>
+	<string id="aim_limbs_name">
+		<text>Mirar membros</text>
+	</string>
+	<string id="modified_bullets_name">
+		<text>Balas modificadas</text>
+	</string>
+	<string id="bullseye_name">
+		<text>Tiro certeiro</text>
+	</string>
+	<string id="searcher_name">
+		<text>Dinheiro sujo</text>
+	</string>
+	<string id="assault_rifles_expert_name">
+		<text>Especialista em rifles de assalto</text>
+	</string>
+	<string id="light_guns_expert_name">
+		<text>Especialista em armas leves</text>
+	</string>
+	<string id="sniper_rifles_expert_name">
+		<text>Especialista em rifles de precisão</text>
+	</string>
+	<string id="liquidator_name">
+		<text>Liquidador</text>
+	</string>
+
+<!-- DEFENSIVO MERCENÁRIO -->
+	<string id="mercenary_vest_name">
+		<text>Colete mercenário</text>
+	</string>
+	<string id="insensitive_name">
+		<text>Insensível</text>
+	</string>
+	<string id="chem_reliant_name">
+		<text>Dependente químico</text>
+	</string>
+	<string id="grenadier_name">
+		<text>Granadeiro</text>
+	</string>
+	<string id="confusion_name">
+		<text>Confusão</text>
+	</string>
+	<string id="addictive_name">
+		<text>Viciante</text>
+	</string>
+	<string id="direct_name">
+		<text>Direto</text>
+	</string>
+	<string id="disguise_master_name">
+		<text>Mestre do disfarce</text>
+	</string>
+	<string id="flurry_name">
+		<text>Rajada</text>
+	</string>
+	<string id="loose_fit_name">
+		<text>Ajuste frouxo</text>
+	</string>
+	<string id="reposition_name">
+		<text>Reposicionar</text>
+	</string>
+
+<!-- OFENSIVO ASSASSINO -->
+	<string id="smg_novice_name">
+		<text>Submetralhadoras</text>
+	</string>
+	<string id="handgun_novice_name">
+		<text>Pistolas</text>
+	</string>
+	<string id="knifeman_name">
+		<text>Especialista em facas</text>
+	</string>
+	<string id="spot_weakness_name">
+		<text>Detectar fraqueza</text>
+	</string>
+	<string id="undercover_name">
+		<text>Disfarçado</text>
+	</string>
+	<string id="tactical_name">
+		<text>Tático</text>
+	</string>
+	<string id="backstab_name">
+		<text>Apunhalar pelas costas</text>
+	</string>
+	<string id="saboteur_name">
+		<text>Sabotador</text>
+	</string>
+	<string id="surprise_attack_name">
+		<text>Ataque surpresa</text>
+	</string>
+	<string id="assassination_name">
+		<text>Assassinato</text>
+	</string>
+	<string id="vile_name">
+		<text>Vil</text>
+	</string>
+	<string id="pragmatic_name">
+		<text>Pragmático</text>
+	</string>
+	<string id="assassin_observant_name">
+		<text>Observador</text>
+	</string>
+
+<!-- DEFENSIVO ASSASSINO -->
+	<string id="ordinary_name">
+		<text>Ordinário</text>
+	</string>
+	<string id="acrobatic_name">
+		<text>Acrobacia</text>
+	</string>
+	<string id="quiet_name">
+		<text>Silencioso</text>
+	</string>
+	<string id="evanescent_name">
+		<text>Evanescente</text>
+	</string>
+	<string id="lurking_name">
+		<text>À espreita</text>
+	</string>
+	<string id="subtle_name">
+		<text>Sutil</text>
+	</string>
+	<string id="covert_name">
+		<text>Secreto</text>
+	</string>
+	<string id="cunning_name">
+		<text>Astuto</text>
+	</string>
+	<string id="deception_name">
+		<text>Enganação</text>
+	</string>
+	<string id="vague_name">
+		<text>Vago</text>
+	</string>
+	<string id="sneaky_name">
+		<text>Sorrateiro</text>
+	</string>
+	<string id="incognito_name">
+		<text>Incógnito</text>
+	</string>
+	<string id="ghost_name">
+		<text>Fantasma</text>
+	</string>
+	<string id="elusive_name">
+		<text>Elusivo</text>
+	</string>
+
+</string_table>

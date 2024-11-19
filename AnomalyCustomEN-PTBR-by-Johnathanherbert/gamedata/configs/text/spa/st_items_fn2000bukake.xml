@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_fn2000e_descr">
+		<text>Do final dos anos 1980 ao início dos anos 1990, a FN Herstal começou a desenvolver um novo rifle. O objetivo era produzir uma arma moderna e modular, resultando no rifle FN F2000, apresentado ao público pela primeira vez em 2001. O F2000 oferece todos os recursos populares do fuzil de assalto moderno, como um layout bullpup compacto, manuseio ambidestro e um design modular com várias opções e acessórios disponíveis. Até agora, o rifle FN F2000 encontrou apenas alguns compradores, incluindo as Forças Armadas da Eslovênia e as Forças de Operações Especiais Belgas.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[d_green] miras: %c[0,250,250,0]Mira (integrada)\n
+		%c[d_purple] • %c[d_green] lançador de granadas: %c[d_cyan]Lançador de granadas "FN GL1"%c[d_red](M203)\n
+		%c[d_purple] • %c[d_green] silenciador: %c[d_orange]Supressor compatível com 5.56x45\n \n</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble">
+		<text>FN F2000</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble_descr">
+		<text>Do final dos anos 1980 ao início dos anos 1990, a FN Herstal começou a desenvolver um novo rifle. O objetivo era produzir uma arma moderna e modular, resultando no rifle FN F2000, apresentado ao público pela primeira vez em 2001. O F2000 oferece todos os recursos populares do fuzil de assalto moderno, como um layout bullpup compacto, manuseio ambidestro e um design modular com várias opções e acessórios disponíveis. Até agora, o rifle FN F2000 encontrou apenas alguns compradores, incluindo as Forças Armadas da Eslovênia e as Forças de Operações Especiais Belgas. Este modelo possui uma mira EOTech integrada, o que resulta em uma precisão ligeiramente menor, mas como este modelo foi destinado para CQC, a cadência de tiro foi aumentada adequadamente.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[d_green] miras: %c[0,250,250,0]Algumas miras para trilho picatinny\n
+		%c[d_purple] • %c[d_green] lançador de granadas: %c[d_cyan]Lançador de granadas "FN GL1"%c[d_red](M203)\n
+		%c[d_purple] • %c[d_green] silenciador: %c[d_orange]Supressor compatível com 5.56x45\n \n</text>
+	</string>
+
+</string_table>

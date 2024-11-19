@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_ak74uvgrip">
+		<text>AK-74U VGRIP</text>
+	</string>
+	<string id="st_wpn_ak74uvgrip_descr">
+		<text>Assim como seu rifle de origem, o Kalash (AK-74M), o AKSU utiliza munição 5.45x39mm. Sua descrição é enganosa, pois o AKSU é tão preciso quanto o Kalash. [Fonte] O AKSU possui uma cadência de tiro ligeiramente maior e um tempo mais rápido de mira, tornando-o uma arma eficaz em situações de emergência quando enfrentando inimigos a curta distância.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] MIRAS: EOT2\n
+		%c[d_purple] • %c[ui_gray_2] SILENCIADOR: Silenciador NATO\n</text>
+	</string>
+</string_table>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+<string id="st_wpn_steyr_scout">
+		<text>Steyr Scout 5.56</text>
+	</string>
+	<string id="st_wpn_steyr_scout_descr">
+		<text>O rifle de precisão Steyr Scout é uma arma de fogo conhecida por sua excepcional precisão e versatilidade. Com câmara para munição 5.56 x 45 mm, esse rifle alia precisão e portabilidade, sendo o preferido de atiradores e profissionais militares. Seu design compacto e construção leve permitem fácil manobrabilidade em diversos cenários táticos, enquanto sua construção robusta garante durabilidade e confiabilidade em campo. Equipado com uma mira avançada e uma interface intuitiva, o Steyr Scout oferece rápida aquisição de alvos e desempenho superior em médio e longo alcance. Com câmara de 5.56 x 45 mm, oferece um poder de parada impressionante e um desempenho balístico excepcional, tornando-o uma escolha ideal para operações urbanas e em campo aberto.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Áustria \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Steyr Mannlicher AG \n</text>
+	</string>
+
+<string id="st_wpn_steyr_scout_big">
+		<text>Steyr Scout 7.62</text>
+	</string>
+	<string id="st_wpn_steyr_scout_big_descr">
+		<text>O rifle de precisão Steyr Scout é uma arma de fogo conhecida por sua excepcional precisão e versatilidade. Com câmara para munição 7.62 x 51 mm, este rifle combina um poder de parada formidável com uma precisão impressionante, tornando-o um favorito de atiradores e profissionais militares. Seu design ergonômico e construção leve permitem fácil manuseio e rápida aquisição de alvos, garantindo eficácia em diversas situações táticas. A construção robusta do Steyr Scout garante durabilidade e confiabilidade nos ambientes mais adversos, tornando-o uma escolha confiável para atiradores. Com câmara de 7.62 x 51 mm, oferece excelente desempenho de longo alcance, sendo ideal para engajar alvos a longas distâncias com grande precisão e impacto letal.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Áustria \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Steyr Mannlicher AG \n</text>
+	</string>
+
+<string id="st_mag_steyr_556">
+		<text>Carregador de 5.56 x 45 mm do Steyr Scout</text>
+	</string>
+	<string id="st_mag_steyr_556_descr">
+		<text>Carregador padrão para o rifle Steyr Scout em 5.56 mm.\n \n</text>
+	</string>	
+
+<string id="st_mag_steyr_762">
+		<text>Carregador de 7.62 x 51 mm do Steyr Scout</text>
+	</string>
+	<string id="st_mag_steyr_762_descr">
+		<text>Carregador padrão para o rifle Steyr Scout em 7.62 mm.\n \n</text>
+	</string>		
+</string_table>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="ui_mcm_move_effects_title">
+		<text>Movimentos Animados</text>
+	</string>	
+	<string id="ui_mcm_menu_move_effects">
+		<text>Movimentos Animados</text>
+	</string>
+	<string id="ui_mcm_move_effects_enable_sprint_anim">
+		<text>Ativar animação de corrida</text>
+	</string>
+	<string id="ui_mcm_move_effects_enable_jump_anim">
+		<text>Ativar animação de pulo/aterrissagem</text>
+	</string>
+	<string id="ui_mcm_move_effects_enable_crawl_anim">
+		<text>Ativar animação de rastejar</text>
+	</string>	
+	<string id="ui_mcm_move_effects_enable_lean_snd">
+		<text>Som de inclinação</text>
+	</string>
+	<string id="ui_mcm_move_effects_enable_crouch_snd">
+		<text>Som de agachar/levantar</text>
+	</string>
+	<string id="ui_mcm_move_effects_prone_move_hide_wpn">
+		<text>Esconder arma ao rastejar</text>
+	</string>
+	<string id="ui_mcm_move_effects_enable_alt_sprint_anim">
+		<text>Usar animação alternativa de corrida</text>
+	</string>
+	<string id="ui_mcm_move_effects_enable_alt_det_sprint">
+		<text>Usar animação alternativa de corrida ao segurar um detector</text>
+	</string>
+	<string id="ui_mcm_move_effects_enable_fov_control">
+		<text>Controlar valor de configuração do Campo de Visão da HUD</text>
+	</string>
+	<string id="ui_mcm_move_effects_aim_shake_enabled">
+		<text>Tremor da arma ao caminhar e mirar</text>
+	</string>
+	<string id="ui_mcm_move_effects_aim_shake_power">
+		<text>Intensidade do tremor da arma</text>
+	</string>
+    <string id="ui_mcm_move_effects_volume_go_prone_snd">
+		<text>Volume do som: deitar/levantar</text>
+	</string>
+	<string id="ui_mcm_move_effects_volume_mvt_snd">
+		<text>Volume do som: agachar/inclinar</text>
+	</string>
+	<string id="ui_mcm_move_effects_volume_prone_mvt_snd">
+		<text>Volume do som: rastejar</text>
+	</string>
+    <string id="ui_mcm_move_effects_fov_control_val">
+		<text>Valor da configuração do Campo de Visão da HUD</text>
+	</string>
+    <string id="ui_mcm_move_effects_enable_alt_sprint_anim_desc">
+		<text>Uma animação alternativa para correr com as mãos vazias. \n REQUER o ADDON Hax's Bolt Reanimation!</text>
+	</string>
+    <string id="ui_mcm_move_effects_enable_fov_control_desc">
+		<text>Quando ativado, um valor fixo de configuração do Campo de Visão da HUD ("Valor da configuração do Campo de Visão da HUD") será aplicado durante as animações de corrida, pulo ou rastejamento. Quando uma animação é interrompida, o valor é restaurado. Útil para uma aparência mais consistente das animações, independentemente do seu valor atual de hud_fov.\n Observe que o valor padrão só é atualizado quando você o altera nas configurações gráficas, não com o comando do console.</text>
+	</string>
+	<string id="ui_mcm_move_effects_enable_alt_det_sprint_desc">
+		<text>Quando desativado, a animação 'completa' de corrida com duas mãos será reproduzida. Caso contrário, a mão esquerda com o detector usará o posicionamento padrão.</text>
+	</string>
+
+</string_table>

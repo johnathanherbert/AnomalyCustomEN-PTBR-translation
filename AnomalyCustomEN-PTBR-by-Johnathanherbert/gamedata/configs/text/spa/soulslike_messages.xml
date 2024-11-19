@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por Johnathanherbert -->
+<string_table>
+
+    <string id="st_save_only_when_sleeping">
+        <text>O salvamento extremo está ativado. O jogo salva automaticamente ao dormir ou reaparecer.</text>
+    </string>
+
+    <string id="st_soulslike_your_items">
+        <text>Guarde seus itens</text>
+    </string>
+ 
+    <string id="set_spawn_button">
+        <text>Definir ponto de renascimento</text>
+    </string>
+
+    <string id="st_soulslike_spawn_location_set">
+        <text>Um ponto de renascimento foi definido.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_initial_generic">
+        <text>Ao acordar, você se encontra em um lugar familiar, mas não tem ideia de como chegou lá.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_food_generic">
+        <text>Ao procurar seus pertences, você vê que alguém deixou algo para você comer e beber.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_radio_generic">
+        <text>Você também encontra uma nota explicando que seu equipamento está em um esconderijo e que deve usar um receptor RF com frequência %s para rastreá-lo. Ele começará a apitar quando você estiver perto o suficiente.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_pda_generic">
+        <text>Parece haver um marcador no seu PDA indicando onde eles te encontraram.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_initial_1">
+        <text>Olá! Eu só queria ver como você está. Você estava quase morto quando te encontrei.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_initial_2">
+        <text>Não acredito que você ainda está vivo! Eu não conseguia acreditar que você ainda respirava quando te encontrei.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_initial_3">
+        <text>Olá, como vai? Fico feliz em ver que você está melhor. Você estava terrível quando eu te encontrei.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_initial_4">
+        <text>Olá! Eu só queria passar por aqui e ver como você está se sentindo. Você estava praticamente morto quando te encontrei.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_initial_5">
+        <text>Ei, espero que você esteja se recuperando. Fiquei preocupado quando encontrei você em tão mau estado.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_food_1">
+        <text>Deixei algo para você comer e beber quando acordar.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_food_2">
+        <text>Deixei comida e bebida para você quando acordar.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_food_3">
+        <text>Deixei uma coisinha para você comer e beber quando acordar.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_food_4">
+        <text>Fiz questão de deixar algo para você comer e beber quando acordar.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_food_5">
+        <text>Deixei algo para você comer e beber.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_pda_1">
+        <text>Marquei no seu PDA onde te encontrei. Com sorte, suas coisas ainda estarão lá.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_pda_2">
+        <text>Adicionei um marcador ao seu PDA para que você possa recuperar seus pertences quando encontrá-los.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_pda_3">
+        <text>Adicionei um marcador ao seu PDA para ajudá-lo a localizar onde o encontramos, na esperança de que você possa recuperar seus itens perdidos.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_pda_4">
+        <text>Seu PDA agora possui um marcador indicando o local onde você foi encontrado, o que pode ajudá-lo a recuperar seus pertences.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_pda_5">
+        <text>Para ajudá-lo a recuperar seus pertences, adicionei um marcador ao seu PDA no local onde o encontrei.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_used_items_1">
+        <text>Tive que usar algumas das coisas que você tinha consigo para tirá-lo de lá vivo.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_used_items_2">
+        <text>Para salvar sua vida, tive que usar alguns dos objetos que você tinha consigo.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_used_items_3">
+        <text>Tive que usar alguns de seus pertences para resgatá-lo e mantê-lo vivo.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_used_items_4">
+        <text>Para garantir sua sobrevivência, tive que usar algumas das coisas que você tinha consigo.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_used_items_5">
+        <text>Usei alguns dos seus pertences para tirar você de lá com vida.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_stay_safe_1">
+        <text>Fique na sombra, stalker.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_stay_safe_2">
+        <text>Cuide-se, stalker.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_stay_safe_3">
+        <text>Tenha cuidado por aí, stalker.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_stay_safe_4">
+        <text>Fique na sombra, stalker.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_stay_safe_5">
+        <text>Não se meta em encrencas, stalker.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_tarkov_looter_1">
+        <text>Assim que encontrei você, vi um cara de %s que se chama %s mexendo com sua arma. Parecia que ele estava removendo uma peça. Felizmente, eu o assustei, mas inspecione seu equipamento quando recuperá-lo.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_tarkov_looter_2">
+        <text>Quando passei por você, vi um membro de %s chamado %s manipulando sua arma. Percebi que ele estava tirando algo dela. Embora eu tenha conseguido assustá-lo, recomendo que você examine cuidadosamente seu equipamento quando recuperá-lo.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_tarkov_looter_3">
+        <text>Quando te encontrei, observei que um sujeito de %s, que se apresentou como %s, estava mexendo em sua arma. Parecia que ele estava extraindo algo dela. Felizmente, eu o assustei, mas verifique seu equipamento quando retornar.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_tarkov_looter_4">
+        <text>Quando te vi pela primeira vez, vi um membro de %s chamado %s mexendo com sua arma. Eu o vi tirando algo dela. Eu o assustei, mas por favor, verifique seu equipamento quando recuperá-lo.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_tarkov_looter_5">
+        <text>Quando encontrei você, vi um sujeito de %s, que atende pelo nome de %s, mexendo na sua arma. Percebi que ele estava tirando algo dela. Embora eu tenha conseguido afastá-lo, certifique-se de verificar seu equipamento quando recuperá-lo.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_looter_1">
+        <text>Quando te encontrei pela primeira vez, vi um membro de %s chamado %s, ele pegou algumas de suas coisas e fugiu. Espero que você possa encontrá-lo e recuperar o que ele levou.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_looter_2">
+        <text>Quando encontrei você, um membro de %s chamado %s estava presente. Ele pegou alguns de seus pertences e fugiu. Espero que você consiga localizá-lo e recuperar seus itens.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_looter_3">
+        <text>A primeira vez que vi você foi com um membro de %s chamado %s que pegou alguns de seus pertences e fugiu. Espero que você consiga localizá-lo e recuperar seus pertences.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_looter_4">
+        <text>Quando te encontrei pela primeira vez, havia um membro de %s chamado %s que pegou alguns de seus pertences e fugiu. Espero que você possa encontrá-lo e recuperar o que ele pegou.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_enemy_looter_5">
+        <text>Quando encontrei você, havia outro membro de %s por perto, chamado %s, que estava vasculhando seus pertences. Espero que você possa localizá-lo e recuperar o que ele levou.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_radio_freq_1">
+        <text>Seu equipamento estava sem vigilância, então voltei e o escondi para mantê-lo seguro. Se precisar encontrá-lo, use um receptor RF e defina a frequência para %s. Quando você estiver perto o suficiente, seu dispositivo começará a apitar. Também deixei um bilhete no seu bolso com a frequência, caso você esqueça.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_radio_freq_2">
+        <text>Me dei ao trabalho de esconder seu equipamento para que ninguém mais o pegasse. Você pode recuperá-lo usando um receptor RF e definindo a frequência como %s. Quando você estiver nas proximidades, seu dispositivo começará a apitar. Também deixei um bilhete no seu bolso com a frequência, caso você esqueça.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_radio_freq_3">
+        <text>Seu equipamento estava vulnerável, então voltei e o escondi para evitar roubo. Para localizá-lo, use um receptor RF e defina a frequência para %s. Quando você estiver perto o suficiente, seu dispositivo emitirá um bipe. Deixei um bilhete no seu bolso com a frequência, caso você esqueça.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_radio_freq_4">
+        <text>Para proteger seu equipamento, escondi-o em um local seguro. Você pode localizá-lo usando um receptor RF e definindo a frequência como %s. Seu dispositivo começará a apitar quando você estiver nas proximidades. Também deixei um bilhete no seu bolso com a frequência, caso você esqueça.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_radio_freq_5">
+        <text>Eu não queria que ninguém roubasse seu equipamento, então escondi-o por segurança. Para encontrá-lo, use um receptor RF e defina a frequência para %s. Seu dispositivo emitirá um bipe quando você estiver perto o suficiente. Se você esquecer a frequência, não se preocupe, você tem um bilhete no bolso com os detalhes.</text>
+    </string>
+
+    <string id="st_soulslike_hidden_stash_1">
+        <text>Seus pertences estão guardados em um local escondido que marquei no seu PDA.</text>
+    </string>
+
+    <string id="st_soulslike_hidden_stash_2">
+        <text>Eu guardei seus itens em um esconderijo seguro e marquei a localização deles no seu PDA.</text>
+    </string>
+
+    <string id="st_soulslike_hidden_stash_3">
+        <text>Escondi seus pertences em um local secreto e marquei-o em seu PDA.</text>
+    </string>
+
+    <string id="st_soulslike_hidden_stash_4">
+        <text>Suas coisas estão seguras em um esconderijo que marquei no seu PDA.</text>
+    </string>
+
+    <string id="st_soulslike_hidden_stash_5">
+        <text>Guardei seus itens em um esconderijo discreto e marquei sua localização em seu PDA por segurança.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_indoor_1">
+        <text>Ei, você é muito sortudo, seu bastardo! Não acredito que você foi para %s. Você tem muita sorte por termos encontrado você! Consegui reunir alguns dos outros stalkers para virem me ajudar com seu equipamento, espero que esteja tudo em ordem.</text>
+    </string>
+    
+    <string id="st_soulslike_rescuer_indoor_2">
+        <text>Cara, você tem muita sorte! Não acredito que você foi para %s. Encontramos você bem na hora! Alguns stalkers uniram forças para recuperar seu equipamento e parece que está tudo intacto.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_indoor_3">
+        <text>Ei, seu sortudo filho da mãe! Estou surpreso que você tenha chegado a %s. Graças a Deus encontramos você! Alguns dos outros stalkers e eu nos unimos para salvar seu equipamento e está tudo em ordem.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_indoor_4">
+        <text>Ei, ei, ei, mas quem temos aqui: um sortudo! Então você foi para %s, hein? Encontramos você bem a tempo e, com a ajuda de alguns colegas stalkers, conseguimos recuperar seu equipamento. Está tudo verificado.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_indoor_5">
+        <text>Caramba, você tem muita sorte, seu bastardo! Não acredito que você foi para %s sem reforços. Felizmente, encontramos você a tempo e um grupo de stalkers ajudou a recuperar seu equipamento. Está tudo lá.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_monster_looter_1">
+        <text>Consegui assustar o mutante que estava por perto, mas parecia que ele estava vasculhando sua mochila. Eu tomaria cuidado se você for buscar suas coisas, o que você carrega lá pode atrair a fauna da região.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_monster_looter_2">
+        <text>Depois de espantar o mutante que estava por perto, percebi que ele estava vasculhando sua mochila. Tenha muito cuidado ao recuperar seus pertences, pois o que quer que esteja dentro pode atrair outros animais selvagens da região.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_monster_looter_3">
+        <text>Embora eu tenha conseguido assustar o mutante que estava por perto, parece que ele estava vasculhando sua mochila. Tenha cuidado ao recolher seus pertences, pois eles podem atrair outros animais selvagens da região.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_monster_looter_4">
+        <text>O mutante que estava perto de nós fugiu depois que eu o enxotei, mas eu o vi vasculhando sua mochila. Tenha cuidado ao recolher suas coisas, pois outros animais selvagens da região podem ser atraídos pelo que está dentro.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_monster_looter_5">
+        <text>Sua mochila chamou a atenção de um mutante, mas consegui assustá-lo. Tenha cuidado ao recuperar suas coisas, pois o que está dentro pode atrair outros animais selvagens da região.</text>
+    </string>
+
+</string_table>

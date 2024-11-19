@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_mosin_cw">
+		<text>Mosin-Nagant (Mercenary)</text>
+	</string>
+	<string id="st_wpn_mosin_cw_descr">
+		<text>O Mosin-Nagant é um rifle militar de cinco tiros com carregador interno. Conhecido oficialmente como "Rifle de Três Linhas M1891" e informalmente na Rússia e na antiga União Soviética como "Rifle Mosin", é visto principalmente compartimentado para seu cartucho original 7.62x54mmR.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]União Soviética \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Fábrica de Tula \n</text>
+	</string>
+</string_table>

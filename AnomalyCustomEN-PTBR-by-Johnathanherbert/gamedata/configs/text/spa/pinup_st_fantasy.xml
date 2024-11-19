@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_porn_hm">
+		<text>Revista "HEAVY METAL"</text>
+	</string>
+	<string id="st_porn_hm_descr">
+		<text>Uma revista americana para público adulto que publica quadrinhos e contos curtos nos gêneros de fantasia e ficção científica. Começou a ser publicada em abril de 1977. Algumas edições contêm pôsteres com desenhos de garotas em estilo similar.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+		</text>
+	</string>
+
+	<string id="st_porn_fant">
+		<text>Revista "O Mundo da Fantasia"</text>
+	</string>
+	<string id="st_porn_fant_descr">
+		<text>Revista russa sobre fantasia e ficção científica em todas as suas manifestações. É publicada desde setembro de 2003 e é a maior revista de ficção científica da antiga URSS. A publicação analisa livros, filmes, séries de TV, jogos e quadrinhos em gêneros como ficção científica, fantasia e terror, publica artigos sobre universos fictícios, ficção científica famosa, fandoms, mitologia e futurologia. Algumas edições contêm pôsteres com desenhos de garotas em estilo similar.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+		</text>
+	</string>
+
+	<string id="pinup_fantasy1">
+		<text>Pôster Nº1</text>
+    	</string>
+	<string id="pinup_fantasy2">
+		<text>Pôster Nº2</text>
+	</string>
+	<string id="pinup_fantasy3">
+		<text>Pôster Nº3</text>
+	</string>
+	<string id="pinup_fantasy4">
+		<text>Pôster Nº4</text>
+	</string>
+	<string id="pinup_fantasy5">
+		<text>Pôster Nº5</text>
+	</string>
+	<string id="pinup_fantasy6">
+		<text>Pôster Nº6</text>
+	</string>
+	<string id="pinup_fantasy7">
+		<text>Pôster Nº7</text>
+	</string>
+	<string id="pinup_fantasy8">
+		<text>Pôster Nº8</text>
+	</string>
+	<string id="pinup_fantasy9">
+		<text>Pôster Nº9</text>
+	</string>
+	<string id="pinup_fantasy10">
+		<text>Pôster Nº10</text>
+	</string>
+	<string id="pinup_fantasy11">
+		<text>Pôster Nº11</text>
+	</string>
+	<string id="pinup_fantasy12">
+		<text>Pôster Nº12</text>
+	</string>
+	<string id="pinup_fantasy13">
+		<text>Pôster Nº13</text>
+	</string>
+	<string id="pinup_fantasy14">
+		<text>Pôster Nº14</text>
+	</string>
+	<string id="pinup_fantasy15">
+		<text>Pôster Nº15</text>
+	</string>
+	<string id="pinup_fantasy16">
+		<text>Pôster Nº16</text>
+	</string>
+	<string id="pinup_fantasy17">
+		<text>Pôster Nº17</text>
+	</string>
+	<string id="pinup_fantasy18">
+		<text>Pôster Nº18</text>
+	</string>
+	<string id="pinup_fantasy19">
+		<text>Pôster Nº19</text>
+	</string>
+	<string id="pinup_fantasy20">
+		<text>Pôster Nº20</text>
+	</string>
+	<string id="pinup_fantasy21">
+		<text>Pôster Nº21</text>
+	</string>
+	<string id="pinup_fantasy22">
+		<text>Pôster Nº22</text>
+	</string>
+	<string id="pinup_fantasy23">
+		<text>Pôster Nº23</text>
+	</string>
+	<string id="pinup_fantasy24">
+		<text>Pôster Nº24</text>
+	</string>
+	<string id="pinup_fantasy25">
+		<text>Pôster Nº25</text>
+	</string>
+	<string id="pinup_fantasy26">
+		<text>Pôster Nº26</text>
+	</string>
+	<string id="pinup_fantasy27">
+		<text>Pôster Nº27</text>
+	</string>
+	<string id="pinup_fantasy28">
+		<text>Pôster Nº28</text>
+	</string>
+	<string id="pinup_fantasy29">
+		<text>Pôster Nº29</text>
+	</string>
+	<string id="pinup_fantasy30">
+		<text>Pôster Nº30</text>
+	</string>
+	<string id="pinup_fantasy31">
+		<text>Pôster Nº31</text>
+	</string>
+	<string id="pinup_fantasy32">
+		<text>Pôster Nº32</text>
+	</string>
+	<string id="pinup_fantasy33">
+		<text>Pôster Nº33</text>
+	</string>
+	<string id="pinup_fantasy34">
+		<text>Pôster Nº34</text>
+	</string>
+	<string id="pinup_fantasy35">
+		<text>Pôster Nº35</text>
+	</string>
+	<string id="pinup_fantasy36">
+		<text>Pôster Nº36</text>
+	</string>
+	<string id="pinup_fantasy37">
+		<text>Pôster Nº37</text>
+	</string>
+	<string id="pinup_fantasy38">
+		<text>Pôster Nº38</text>
+	</string>
+	<string id="pinup_fantasy39">
+		<text>Pôster Nº39</text>
+	</string>
+	<string id="pinup_fantasy40">
+		<text>Pôster Nº40</text>
+	</string>
+	<string id="pinup_fantasy41">
+		<text>Pôster Nº41</text>
+	</string>
+	<string id="pinup_fantasy42">
+		<text>Pôster Nº42</text>
+	</string>
+	<string id="pinup_fantasy43">
+		<text>Pôster Nº43</text>
+	</string>
+	<string id="pinup_fantasy44">
+		<text>Pôster Nº44</text>
+	</string>
+	<string id="pinup_fantasy45">
+		<text>Pôster Nº45</text>
+	</string>
+	<string id="pinup_fantasy46">
+		<text>Pôster Nº46</text>
+	</string>
+	<string id="pinup_fantasy47">
+		<text>Pôster Nº47</text>
+	</string>
+	<string id="pinup_fantasy48">
+		<text>Pôster Nº48</text>
+	</string>
+	<string id="pinup_fantasy49">
+		<text>Pôster Nº49</text>
+	</string>
+	<string id="pinup_fantasy50">
+		<text>Pôster Nº50</text>
+	</string>
+	<string id="pinup_fantasy51">
+		<text>Pôster Nº51</text>
+	</string>
+	<string id="pinup_fantasy52">
+		<text>Pôster Nº52</text>
+	</string>
+
+	
+</string_table>

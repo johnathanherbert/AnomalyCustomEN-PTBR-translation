@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_cap_check_soulslike_mode">
+		<text>Modo Soulslike</text>
+	</string>
+	<string id="st_mm_ck_soulslike_mode_desc">
+		<text>%c[0,150,150,150]No modo Soulslike, a morte não existe tecnicamente. Quando você "morre", um stalker aleatório da Zona resgata você. Ele o levará de volta ao último local onde você acordou, onde você encontrará uma mensagem dele sobre como ele o encontrou e até onde conseguiu levá-lo em segurança. Você terá que recuperar os itens que estavam com seu personagem; alguns podem ser perdidos e o estado pode piorar, tudo depende da configuração.\n \n%c[200,200,50,50]• %c[0,150,150,150]Não compatível com o modo Azazel \n %c[200,200,50,50]• %c[0,150,150,150]Não compatível com o modo Ironman</text>
+	</string>
+</string_table>

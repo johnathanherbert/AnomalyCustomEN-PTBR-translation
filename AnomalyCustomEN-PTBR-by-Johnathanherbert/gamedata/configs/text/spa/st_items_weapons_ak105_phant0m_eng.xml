@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+		<string id="st_wpn_ak105_bas_swamp_30">
+		<text>AK-105 "Coisa do Pântano"</text>
+	</string>
+	<string id="st_wpn_ak105_bas_swamp_30_descr">
+		<text>O AK-105 é uma versão carabina em 5.45x39mm do rifle AK-74M. O AK-105 está substituindo as carabinas AKS-74U no serviço do Exército Russo. Caros e escassos, estes kits de atualização são encontrados especificamente nas mãos de Veteranos e Oficiais Não-Comissionados dignos nas unidades mais testadas em combate do Clear Sky, que podem fazer melhor uso destes kits. O AK-105 dispara o cartucho soviético padrão 5.45x39, no entanto, estes kits de rifle foram recalibrados para aceitar o cartucho 5.56x45 OTAN, que está mais prontamente disponível no estoque de munição do Clear Sky. "Coisa do Pântano", como as tropas o chamam, foi colocado em serviço como o novo Rifle de Combate para operações especiais do Clear Sky logo após o incidente infeliz na CNPP. O "Coisa do Pântano" possui uma Função de Rajada de 2 Tiros, um Carregador Padrão de 30 Tiros, bem como uma Mira Elcan Specter DR, Red Dot Inclinado, e pode receber um Silenciador. Tornando estes kits um pouco pesados, mas é um excelente rifle de combate em praticamente todas as distâncias e em quase todas as condições.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi atualizada usando o Kit Tático "Coisa do Pântano", e foi recalibrada para aceitar o cartucho 5.56 OTAN\n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Ponteiro Iluminador Avançado de Alvo) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com lanterna IR\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Elcan SpecterDr, Leupold Deltapoint Inclinado\n
+		%c[d_purple] • %c[ui_gray_2] Carregador: Carregador de 30 Tiros \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon para 5.45/7.62x39\n </text>
+	</string>
+	
+		<string id="st_wpn_ak105_bas_shakal_30">
+		<text>AK-105 "Shakal"</text>
+	</string>
+	<string id="st_wpn_ak105_bas_shakal_30_descr">
+		<text>O AK-105 é uma versão carabina em 5.45x39mm do rifle AK-74M. O AK-105 está substituindo as carabinas AKS-74U no serviço do Exército Russo. Este kit foi colocado em serviço como uma atualização opcional disponível para compra oferecida aos Veteranos Testados em Combate e Oficiais Não-Comissionados das Forças de Operações Especiais do Duty após alguns Oficiais de Logística de Alto Ranking encontrarem uma "Coisa do Pântano" enquanto bebiam com alguns homens do Clear Sky. "Shakal", como as tropas o chamam, possui uma Função de Rajada de 2 Tiros, um Carregador Padrão de 30 Tiros, bem como uma Mira Acog, Red Dot Inclinado, e pode receber um Silenciador. Tornando estes kits um pouco pesados, mas é um excelente rifle de combate em praticamente todas as distâncias e em quase todas as condições.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi atualizada usando o Kit Tático "Shakal"\n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Ponteiro Iluminador Avançado de Alvo) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com lanterna IR (integrado)\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon Acog, Leupold Deltapoint Inclinado (integrado)\n
+		%c[d_purple] • %c[ui_gray_2] Carregador: Carregador de 30 Tiros \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon para 5.45/7.62x39\n </text>
+	</string>
+	
+			<string id="st_wpn_ak105_bas_swamp_45">
+		<text>AK-105 "Coisa do Pântano"</text>
+	</string>
+	<string id="st_wpn_ak105_bas_swamp_45_descr">
+		<text>O AK-105 é uma versão carabina em 5.45x39mm do rifle AK-74M. O AK-105 está substituindo as carabinas AKS-74U no serviço do Exército Russo. Caros e escassos, estes kits de atualização são encontrados especificamente nas mãos de Veteranos e Oficiais Não-Comissionados dignos nas unidades mais testadas em combate do Clear Sky, que podem fazer melhor uso destes kits. O AK-105 dispara o cartucho soviético padrão 5.45x39, no entanto, estes kits de rifle foram recalibrados para aceitar o cartucho 5.56x45 OTAN, que está mais prontamente disponível no estoque de munição do Clear Sky. "Coisa do Pântano", como as tropas o chamam, foi colocado em serviço como a nova "SAW" (Arma Automática de Esquadrão) para Operações Especiais do Clear Sky logo após o infeliz assalto à CNPP. O "Coisa do Pântano" possui uma Função de Rajada de 3 Tiros, um Carregador de Capacidade Aumentada de 45 Tiros, Mira Specter DR, Red Dot Inclinado, Laser PEQ-15, e pode receber um Silenciador. Tornando estes kits bastante pesados, o custo de uma arma altamente capaz em praticamente todas as distâncias e em quase todas as condições.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi atualizada usando o Kit Tático "Coisa do Pântano", e foi recalibrada para aceitar o cartucho 5.56 OTAN\n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Ponteiro Iluminador Avançado de Alvo) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com lanterna IR\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Elcan SpecterDr, Leupold Deltapoint Inclinado\n
+		%c[d_purple] • %c[ui_gray_2] Carregador: Carregador Estendido de 45 Tiros \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon para 5.45/7.62x39\n </text>
+	</string>
+	
+		<string id="st_wpn_ak105_bas_shakal_45">
+		<text>AK-105 "Shakal"</text>
+	</string>
+	<string id="st_wpn_ak105_bas_shakal_45_descr">
+		<text>O AK-105 é uma versão carabina em 5.45x39mm do rifle AK-74M. O AK-105 está substituindo as carabinas AKS-74U no serviço do Exército Russo. Estes kits foram oferecidos como uma atualização comprável para o rifle de combate padrão do Duty, o AK-105. Devido à escassez dos kits "Shakal", estes rifles atualizados são encontrados principalmente nas mãos de Soldados Veteranos do Duty e NCOs que podem arcar com o custo. O "Shakal" possui uma Função de Rajada de 3 Tiros, um Carregador Estendido de Capacidade Aumentada de 45 Tiros, Mira Acog, Red Dot Inclinado, Laser AN/PEQ-15, e pode receber um Silenciador. Tornando estes kits bastante pesados, o custo de uma arma altamente capaz em praticamente todas as distâncias e em quase todas as condições.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi atualizada usando o Kit Tático "Shakal"\n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Ponteiro Iluminador Avançado de Alvo) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com lanterna IR (integrado)\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon Acog, Leupold Deltapoint Inclinado (integrado)\n
+		%c[d_purple] • %c[ui_gray_2] Carregador: Carregador Estendido de 45 Tiros \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon para 5.45/7.62x39\n </text>
+	</string>
+	
+			<string id="st_wpn_ak105_bas_swamp_60">
+		<text>AK-105 "Coisa do Pântano"</text>
+	</string>
+	<string id="st_wpn_ak105_bas_swamp_60_descr">
+		<text>O AK-105 é uma versão carabina em 5.45x39mm do rifle AK-74M. O AK-105 está substituindo as carabinas AKS-74U no serviço do Exército Russo. Caros e escassos, estes kits de atualização são encontrados especificamente nas mãos de Veteranos e Oficiais Não-Comissionados dignos nas unidades mais testadas em combate do Clear Sky, que podem fazer melhor uso destes kits. O AK-105 dispara o cartucho soviético padrão 5.45x39, no entanto, estes kits de rifle foram recalibrados para aceitar o cartucho 5.56x45 OTAN, que está mais prontamente disponível no estoque de munição do Clear Sky. "Coisa do Pântano", como as tropas o chamam, foi colocado em serviço como a nova "GPMG" (Metralhadora de Uso Geral) para operações especiais do Clear Sky logo após o incidente infeliz na CNPP. O "Coisa do Pântano" possui uma Função de Rajada de 5 Tiros, um Carregador de Alta Capacidade de 60 Tiros, Mira Specter DR, Red Dot Inclinado, Laser AN/PEQ-15, e pode receber um Silenciador. Tornando estes kits muito pesados, o custo de uma arma altamente capaz em praticamente todas as distâncias e em quase todas as condições.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi atualizada usando o Kit Tático "Coisa do Pântano", e foi recalibrada para aceitar o cartucho 5.56 OTAN\n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Ponteiro Iluminador Avançado de Alvo) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com lanterna IR\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Elcan SpecterDr, Leupold Deltapoint Inclinado\n
+		%c[d_purple] • %c[ui_gray_2] Carregador: Carregador Quadruplo de 60 Tiros \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon para 5.45/7.62x39\n </text>
+	</string>
+	
+		<string id="st_wpn_ak105_bas_shakal_60">
+		<text>AK-105 "Shakal"</text>
+	</string>
+	<string id="st_wpn_ak105_bas_shakal_60_descr">
+		<text>O AK-105 é uma versão carabina em 5.45x39mm do rifle AK-74M. O AK-105 está substituindo as carabinas AKS-74U no serviço do Exército Russo. Caros e escassos, estes kits de atualização são encontrados especificamente nas mãos de Veteranos e Oficiais Não-Comissionados dignos nas Forças Especiais do Duty, que podem fazer melhor uso destes kits. "Shakal", como as tropas o chamam. Sendo colocado em serviço como uma "GPMG" (Metralhadora de Uso Geral) para operações especiais, o "Shakal" possui uma Função de Rajada de 5 Tiros, um Carregador de Alta Capacidade de 60 Tiros, Mira Acog, Red Dot Inclinado, Laser AN/PEQ-15, e pode receber um Silenciador. Tornando estes kits muito pesados, o custo de uma arma altamente capaz em praticamente todas as distâncias e em quase todas as condições.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi atualizada usando o Kit Tático "Shakal"\n
+		%c[d_purple] • %c[ui_gray_2] Dispositivos: ATPIAL (Ponteiro Iluminador Avançado de Alvo) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser em banda visível e IR com lanterna IR (integrado)\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon Acog, Leupold Deltapoint Inclinado (integrado)\n
+		%c[d_purple] • %c[ui_gray_2] Carregador: Carregador Quadruplo de 60 Tiros \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon para 5.45/7.62x39\n </text>
+	</string>
+		
+	</string_table>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MLR TASK -->
+
+	<string id="trucks_cemetery_bandit_mechanic_task_1_name">
+		<text>Consiga %s</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_text">
+		<text>O mecânico do Cemitério de Caminhões me pediu para encontrar %s.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_about">
+		<text>Irmão, mais da metade das coisas que temos aqui está obsoleta, e eu realmente preciso de algumas ferramentas para ajudar os rapazes. Quer me ajudar?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_fetch_about">
+		<text>Irmão, mais da metade das coisas que temos aqui está obsoleta, e eu realmente preciso de algumas ferramentas para ajudar os rapazes. Quer me ajudar?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_fetch_finish">
+		<text>Aaah, sim... É disso que eu estou falando. Vou te dizer uma coisa - já que você me ajudou, você terá descontos.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MLR TASK -->
+
+	<string id="trucks_cemetery_bandit_mechanic_task_2_name">
+		<text>Consiga %s</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_text">
+		<text>O mecânico do Cemitério de Caminhões me pediu para encontrar %s.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_about">
+		<text>Essa área é completamente selvagem, mas esse lugar aqui... é um ponto estratégico, cara! Para conseguir o máximo de poder de fogo possível para nossos camaradas, vamos precisar de algumas ferramentas melhores. Ajude-me novamente, sim?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_fetch_about">
+		<text>Esta área é uma selva completa, mas este lugar aqui... é um ponto estratégico, cara! Para conseguir o máximo de poder de fogo possível para nossos camaradas, vamos precisar de algumas ferramentas melhores. Ajude-me novamente, sim?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_fetch_finish">
+		<text>Ah, caramba! Você é o melhor, cara. Com certeza você vai ter outro desconto por isso!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR BANDIT BANDIT TASK -->
+
+	<string id="trucks_cemetery_bandit_mechanic_task_3_name">
+		<text>Consiga %s</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_text">
+		<text>O mecânico do Cemitério de Caminhões me pediu para encontrar %s.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_about">
+		<text>Estava apenas sentado, pensativo como um vilão, quando percebi o que estávamos perdendo. Isso mesmo, ferramentas ainda melhores! Então, quer ajudar a encontrar?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_fetch_about">
+		<text>Estava apenas sentado, pensativo como um vilão, quando percebi o que estávamos perdendo. Isso mesmo, ferramentas ainda melhores! Então, quer ajudar a encontrar?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_fetch_finish">
+		<text>Uau, você realmente conseguiu! Obrigado, amigo, você é o melhor. O maior desconto vai para você, aproveite!</text>
+	</string>
+
+</string_table>

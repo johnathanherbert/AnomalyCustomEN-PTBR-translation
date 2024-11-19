@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_spas12_new">
+		<text>SPAS-12</text>
+	</string>
+	<string id="st_wpn_spas12_descr_new">
+		<text>A SPAS-12 é uma espingarda de modo duplo, projetada para combate e medidas anti-distúrbio. É utilizada por muitas unidades militares e policiais especiais em todo o mundo. Com seu distintivo dissipador de calor e coronha dobrável, a SPAS-12 é uma arma icônica. Notável por sua confiabilidade e flexibilidade tática. Apesar de seu peso elevado, mecanismo complexo e custo considerável, é muito procurada na Zona devido à sua eficácia contra mutantes.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		</text>
+	</string>
+
+
+</string_table>

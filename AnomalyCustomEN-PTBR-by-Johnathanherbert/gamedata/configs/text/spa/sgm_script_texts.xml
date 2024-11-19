@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por Johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_21_game">
+		<text>Blackjack</text>
+	</string>
+	
+	<string id="ui_mcm_21_game_card_game_21_minimum_rate">
+		<text>Definir aposta mínima</text>
+	</string>
+	
+	<string id="ui_mcm_21_game_value_card_21_max_rate">
+		<text>Definir aposta máxima</text>
+	</string>	
+	
+	
+	<string id="st_unique_treasure_spot_descr">
+		<text>Esconderijo. Código de acesso</text>
+	</string>
+	<string id="st_question_game_reward_advice">
+		<text>Dica obtida:</text>
+	</string>
+	<string id="st_question_game_reward_money">
+		<text>Dinheiro extra recebido:</text>
+	</string>
+	<string id="st_remote_charge_delay_deactivated">
+		<text>Temporizador: desativado</text>
+	</string>
+	<string id="st_remote_charge_delay_timer">
+		<text>Temporizador:</text>
+	</string>
+	<string id="st_remote_charge_delay_value">
+		<text>eles mesmos.</text>
+	</string>
+	<string id="st_remote_charge_spot">
+		<text>Carregar RS-15</text>
+	</string>
+	<string id="st_21_point_your_card_value">
+		<text>Você:</text>
+	</string>
+	<string id="st_21_point_enemy_card_value">
+		<text>Rival:</text>
+	</string>
+	<string id="st_21_point_rate_field">
+		<text>Sua aposta para ganhar:</text>
+	</string>
+	<string id="st_21_point_infoline_1">
+		<text>Na carteira:</text>
+	</string>
+	<string id="st_21_point_infoline_2">
+		<text>Aposta mínima: 50, aposta máxima:</text>
+	</string>
+	<string id="st_21_point_money">
+		<text>rublos.</text>
+	</string>
+	<string id="st_21_point_info_about_your">
+		<text>Degtyarev: aposta</text>
+	</string>
+	<string id="st_21_point_info_about_enemy">
+		<text>: você está na jogada</text>
+	</string>
+	<string id="st_21_point_web_money">
+		<text>rublos eletrônicos.</text>
+	</string>
+	<string id="st_21_point_winner_your_1">
+		<text>Ganhou. Os lucros equivalem a</text>
+	</string>
+	<string id="st_21_point_winner_your_2">
+		<text>rublos. Total de pontos - você:</text>
+	</string>
+	<string id="st_21_point_winner_your_3">
+		<text>, o rival:</text>
+	</string>
+	<string id="st_21_point_winner_enemy_1">
+		<text>Perdeu. A perda foi:</text>
+	</string>
+	<string id="st_21_point_winner_enemy_2">
+		<text>rublos. Total de pontos - você:</text>
+	</string>
+	<string id="st_21_point_winner_enemy_3">
+		<text>, o rival:</text>
+	</string>
+	<string id="st_21_point_winner_equally_1">
+		<text>Empate. Total de pontos - você:</text>
+	</string>
+	<string id="st_21_point_winner_equally_2">
+		<text>, o rival:</text>
+	</string>
+	<string id="st_help_wounded_payment">
+		<text>Dinheiro de resgate recebido</text>
+	</string>
+	<string id="st_mechanic_stripping_count">
+		<text>Número de caixas com peças</text>
+	</string>
+	<string id="st_rank_event_present">
+		<text>Subiu de ranking</text>
+	</string>
+	<string id="st_bankir_web_money_course_1">
+		<text>Taxa de câmbio:</text>
+	</string>
+	<string id="st_bankir_web_money_course_2">
+		<text>Seu dinheiro eletrônico:</text>
+	</string>
+	<string id="st_bankir_web_money_course_3">
+		<text>1 rublo eletrônico:</text>
+	</string>
+	<string id="st_bankir_web_money_course_4">
+		<text>copeques em rublos em dinheiro.</text>
+	</string>
+	<string id="st_bankir_web_money_course_5">
+		<text>rublos.</text>
+	</string>
+	<string id="st_event_headshot">
+		<text>Você acertou um tiro na cabeça</text>
+	</string>
+	<string id="st_event_iam_find">
+		<text>Você encontrou o</text>
+	</string>
+	<string id="st_event_find_secret">
+		<text>SGM.</text>
+	</string>
+	<string id="st_event_find_deserve">
+		<text>alienígena pessoal.</text>
+	</string>
+	<string id="st_custom_goods_need_rank">
+		<text>Ranking necessário:</text>
+	</string>
+	<string id="st_booty_count">
+		<text>Número de troféus</text>
+	</string>
+	<string id="st_booty_costs">
+		<text>Quantidade:</text>
+	</string>
+	<string id="st_add_damage">
+		<text>pelo dano</text>
+	</string>
+	<string id="st_booty_shtuk">
+		<text>un.</text>
+	</string>
+	<string id="st_need_rank">
+		<text>Ranking necessário >=</text>
+	</string>
+	<string id="st_currert_rank">
+		<text>Ranking atual:</text>
+	</string>
+	<string id="st_af_type_1">
+		<text>Compatível com: 1º tipo de anomalia</text>
+	</string>
+	<string id="st_af_type_2">
+		<text>Compatível com: 2º tipo de anomalia</text>
+	</string>
+	<string id="st_af_type_3">
+		<text>Compatível com: 3º tipo de anomalia</text>
+	</string>
+	<string id="st_af_type_all">
+		<text>Compatível com: 1º, 2º e 3º tipos de anomalia</text>
+	</string>
+	<string id="st_bodyguard_price">
+		<text>Custo dos serviços:</text>
+	</string>
+	<string id="st_bankir_deposit_title">
+		<text>Valor a depositar:</text>
+	</string>
+	<string id="st_bankir_percent_title">
+		<text>Rendimentos do depósito:</text>
+	</string>
+	<string id="st_bankir_money">
+		<text>Na carteira =</text>
+	</string>
+	<string id="st_bankir_counter">
+		<text>Conta poupança:</text>
+	</string>
+	<string id="st_bankir_counter2">
+		<text>Conta de depósito:</text>
+	</string>
+	<string id="st_bankir_ru">
+		<text>rublos</text>
+	</string>
+	<string id="st_bankir_last">
+		<text>Último capital contribuído:</text>
+	</string>
+	<string id="st_bankir_result">
+		<text>Total =</text>
+	</string>
+	<string id="st_bankir_percent">
+		<text>Porcentagem total amanhã:</text>
+	</string>
+	<string id="st_bankir_percent_today">
+		<text>Porcentagem total hoje:</text>
+	</string>
+	<string id="st_trader_order_count">
+		<text>Itens em estoque:</text>
+	</string>
+	<string id="st_order_cost">
+		<text>Preço do pedido:</text>
+	</string>
+	<string id="st_statistic_value_of">
+		<text>de</text>
+	</string>
+	<string id="st_weapon_damage">
+		<text>Dano causado</text>
+	</string>
+	<string id="st_weapon_distance">
+		<text>Alcance</text>
+	</string>
+	<string id="st_detonation_radius">
+		<text>Raio de explosão</text>
+	</string>
+	<string id="st_detonation_scraps">
+		<text>Dispersão de fragmentos</text>
+	</string>
+	<string id="st_def_meters">
+		<text>m</text>
+	</string>
+	<string id="st_detonation_time">
+		<text>Tempo de ação</text>
+	</string>
+	<string id="st_def_second">
+		<text>s</text>
+	</string>
+	<string id="st_actor_box_currert_weight">
+		<text>O número de itens em uma caixa pessoal é =</text>
+	</string>
+	<string id="st_actor_box_currert_mass">
+		<text>Volume =</text>
+	</string>
+	<string id="st_actor_box_transportation_cost">
+		<text>| O custo =</text>
+	</string>
+	<string id="st_mod_version_title">
+		<text>Versão</text>
+	</string>
+	<string id="st_sigerous_mod_successfully_started">
+		<text>Sigerous Mod carregado com sucesso...</text>
+	</string>
+        <string id="st_pri_zone_cleaning_add">
+		<text>Zombificados restantes:</text>
+	</string>
+	<string id="st_pri_zone_cleaning_add2">
+		<text>humanos</text>
+	</string>
+	<string id="st_task_execution_time_add1">
+		<text>(restam</text>
+	</string>
+	<string id="st_task_execution_time_add2">
+		<text>minutos)</text>
+	</string>
+	<string id="st_task_execution_time_add3">
+		<text>minutos adicionais)</text>
+	</string>
+	<string id="st_get_employer_kill_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="st_get_employer_kill_bandit">
+		<text>Bandit</text>
+	</string>
+	<string id="st_get_employer_kill_merc">
+		<text>Mercenary</text>
+	</string>
+	<string id="st_get_employer_kill_army">
+		<text>Military</text>
+	</string>
+	<string id="st_get_employer_kill_monolith">
+		<text>Monolith</text>
+	</string>
+	<string id="st_get_employer_kill_dolg">
+		<text>Duty</text>
+	</string>
+	<string id="st_get_employer_kill_freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="st_get_employer_kill_renegade">
+		<text>Renegade</text>
+	</string>
+
+	<string id="st_minigames_21_point_accept_step">
+		<text>De 200 em 200</text>
+	</string>
+	
+    <string id="st_minigames_21_point_rem">
+		<text>Lembre-se de apostar</text>
+	</string>
+    
+
+    <string id="st_minigames_21_point_accept_bets">
+		<text>Aceitar aposta</text>
+	</string>
+	
+    <string id="st_minigames_21_point_start">
+		<text>Iniciar partida</text>
+	</string>
+
+    <string id="st_minigames_21_point_exit">
+		<text>Sair</text>
+	</string>
+	
+    <string id="st_minigames_21_point_more">
+		<text>Pedir</text>
+	</string>
+	
+    <string id="st_minigames_21_point_pass">
+		<text>Ficar</text>
+	</string>
+
+    <string id="st_minigames_21_point_cont">
+		<text>Continuar</text>
+	</string>
+
+
+        <string id="zat_sich_minigame_21_point_dialog_1">
+		<text>Eu queria te perguntar...</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_2">
+		<text>O que?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_3">
+		<text>E se jogássemos blackjack?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_4">
+		<text>OK. Vamos jogar! Prepare o dinheiro, vou embaralhar.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_5">
+		<text>Beleza. Vamos jogar.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_6">
+		<text>Ótimo, estou pronto, vamos.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_7">
+		<text>Vamos matar o tempo? Você joga cartas?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_8">
+		<text>Claro!</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_9">
+		<text>Estou pronto, vamos jogar.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_10">
+		<text>Não posso agora, em outro momento.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_11">
+		<text>Talvez outra hora.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_12">
+		<text>Não, agora não.</text>
+	</string>
+
+        <string id="skraga_21_point_dialog_1">
+		<text>[Blackjack] Ei, eu queria te perguntar uma coisa...</text>
+	</string>
+        <string id="skraga_21_point_dialog_2">
+		<text>O que?</text>
+	</string>
+        <string id="skraga_21_point_dialog_3">
+		<text>Eu vi que você tem um baralho de cartas aí. Você gostaria de jogar blackjack?</text>
+	</string>
+        <string id="skraga_21_point_dialog_4">
+		<text>Vamos, vamos jogar!</text>
+	</string>
+        <string id="skraga_21_point_dialog_5">
+		<text>Quando quiser.</text>
+	</string>
+        <string id="skraga_21_point_dialog_6">
+		<text>Sim, vamos jogar!</text>
+	</string>
+        <string id="skraga_21_point_dialog_7">
+		<text>Agora?</text>
+	</string>
+        <string id="skraga_21_point_dialog_8">
+		<text>Sim!</text>
+	</string>
+       
+       <string id="xolod_21_point_dialog_1">
+		<text>[Blackjack] Ei, Cold, quero te perguntar uma coisa.</text>
+	</string>
+        <string id="xolod_21_point_dialog_2">
+		<text>O que?</text>
+	</string>
+        <string id="xolod_21_point_dialog_3">
+		<text>Você gostaria de jogar cartas?</text>
+	</string>
+        <string id="xolod_21_point_dialog_4">
+		<text>Sim, por mim tudo bem. Prepare o dinheiro e jogamos.</text>
+	</string>
+        <string id="xolod_21_point_dialog_5">
+		<text>Beleza!</text>
+	</string>
+        <string id="xolod_21_point_dialog_6">
+		<text>Estou pronto, vamos.</text>
+	</string>
+        <string id="xolod_21_point_dialog_7">
+		<text>O que mais?</text>
+	</string>
+        <string id="xolod_21_point_dialog_8">
+		<text>Sim!</text>
+	</string>
+
+
+       <string id="lesnik_21_point_dialog_1">
+		<text>Vovô, queria te perguntar uma coisa.</text>
+	</string>
+        <string id="lesnik_21_point_dialog_2">
+		<text>Do que se trata, careca, o que você quer?</text>
+	</string>
+        <string id="lesnik_21_point_dialog_3">
+		<text>Pelo canto do olho percebi que você tem um baralho de cartas sobre a mesa. Podemos jogar blackjack, por dinheiro?</text>
+	</string>
+        <string id="lesnik_21_point_dialog_4">
+		<text>OK. Vamos jogar! Prepare o dinheiro, vou embaralhar.</text>
+	</string>
+        <string id="lesnik_21_point_dialog_5">
+		<text>Eu estou sempre pronto.</text>
+	</string>
+        <string id="lesnik_21_point_dialog_6">
+		<text>Tudo bem, eu também estou.</text>
+	</string>
+
+<string id="cit_killers_21_point_dialog_1">
+		<text>Eu queria te perguntar uma coisa.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_2">
+		<text>O que?</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_3">
+		<text>Pelo canto do olho vi um baralho de cartas atrás do balcão. Você gostaria de jogar blackjack?</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_4">
+		<text>Vamos jogar. Prepare a grana.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_5">
+		<text>Beleza, vamos.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_6">
+		<text>Vamos jogar.</text>
+	</string>
+
+<string id="saxarov_21_point_dialog_1">
+		<text>Professor, me permite um momento?</text>
+	</string>
+        <string id="saxarov_21_point_dialog_2">
+		<text>Te escuto.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_3">
+		<text>Eu vi aquele baralho de cartas na mesa. Eu queria saber se você gostaria de jogar blackjack.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_4">
+		<text>Bem, tenho algumas coisas que prometi fazer... ah, que se dane, tenho tempo para um jogo.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_5">
+		<text>Vamos, vamos em frente.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_6">
+		<text>Legal, vamos jogar.</text>
+	</string>
+
+<string id="zat_sich_minigame_21_point_dialog_1">
+		<text>Ei, eu queria te perguntar uma coisa.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_2">
+		<text>Sim? Qual é a sua pergunta?</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_3">
+		<text>Eu vi um baralho de cartas atrás do bar, você gostaria de jogar blackjack?</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_4">
+		<text>Ok, tire sua carteira enquanto eu embaralho as cartas. Espero que você tenha trazido bastante dinheiro, porque você vai perder.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_5">
+		<text>O mesmo digo. Estou pronto para jogar agora.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_6">
+		<text>Muito bom! Vamos jogar!</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_7">
+		<text>O que, mais uma?</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_8">
+		<text>Sim, mais uma!</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_9">
+		<text>Por mim, vamos jogar.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_10">
+		<text>Estou ocupado. Fica pra próxima.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_11">
+		<text>Talvez outra hora.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_12">
+		<text>Não, eu não quero jogar.</text>
+	</string>
+
+<string id="jup_barmen_minigame_21_point_dialog_1">
+		<text>Ei, eu queria te perguntar uma coisa.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_2">
+		<text>Ok, pode falar.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_3">
+		<text>Eu sei que deve haver um baralho de cartas neste lugar. Uma partida?</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_4">
+		<text>Um blackjack é sempre bem-vindo!</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_5">
+		<text>Beleza, vamos.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_6">
+		<text>Ok, vamos jogar.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_7">
+		<text>Outra partida?</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_8">
+		<text>Sim, vamos jogar.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_9">
+		<text>Vamos jogar.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_10">
+		<text>Neste momento não posso. Fica pra próxima.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_11">
+		<text>Não agora. Talvez mais tarde.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_12">
+		<text>Não, não estou com vontade de jogar blackjack agora.</text>
+	</string>
+
+        <string id="petrenko_21_point_dialog_1">
+		<text>Você joga blackjack?</text>
+	</string>
+        <string id="petrenko_21_point_dialog_2">
+		<text>Vamos, por que não? No momento não estou fazendo nada.</text>
+	</string>
+
+        <string id="sidor_21_point_dialog_1">
+		<text>Escute, Sidorovich, seu ladrão gordo, que tal um blackjack agora?</text>
+	</string>
+        <string id="sidor_21_point_dialog_2">
+		<text>Venha, vamos. Mas eu te aviso que vou te deixar sem um tostão.</text>
+	</string>
+        <string id="shustriy_21_point_dialog_1">
+		<text>Ei, Nimble, você joga blackjack?</text>
+	</string>
+        <string id="shustriy_21_point_dialog_2">
+		<text>Vamos, não tenho pedidos no momento. Vamos jogar.</text>
+	</string>
+
+        <string id="maslina_21_point_dialog_1">
+		<text>Ei, tio, você está livre? Quer jogar blackjack?</text>
+	</string>
+        <string id="maslina_21_point_dialog_2">
+		<text>Sim, cara, ninguém vai comprar hoje mesmo.</text>
+	</string>
+
+        <string id="military_21_point_dialog_1">
+		<text>Tudo está muito calmo. Tem tempo para blackjack?</text>
+	</string>
+        <string id="military_21_point_dialog_2">
+		<text>Sim, está morto aqui. Vamos jogar.</text>
+	</string>
+
+        <string id="propovednik_21_point_dialog_1">
+		<text>Ei, cara, quer jogar blackjack?</text>
+	</string>
+        <string id="propovednik_21_point_dialog_2">
+		<text>Por mim tudo bem. O Monolith tem estado muito quieto ultimamente, acho que temos tempo para uma partida.</text>
+	</string>
+</string_table>

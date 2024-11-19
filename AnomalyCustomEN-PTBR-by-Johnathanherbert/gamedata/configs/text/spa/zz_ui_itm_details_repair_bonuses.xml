@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!--Traduzido por johnathanherbert-->
+<string_table>
+
+	<string id="st_ui_repair_kits_by_material">
+		<text>Material utilizável em kits de reparo</text>
+	</string>
+
+</string_table>

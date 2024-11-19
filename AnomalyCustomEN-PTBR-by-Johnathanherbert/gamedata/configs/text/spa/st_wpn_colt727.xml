@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+
+<string id="st_wpn_colt727">
+		<text>Colt Modelo 727</text>
+	</string>
+	<string id="st_wpn_colt727_descr">
+		<text>A carabina Colt 727 é uma arma compacta e versátil conhecida pelo seu desempenho e confiabilidade excepcionais. Desenvolvida pela Colt's Manufacturing Company, esta carabina leve é baseada na icônica plataforma AR-15, inclui um cano de 36 cm e uma coronha retrátil. Com capacidades de tiro seletivo, o Colt 727 oferece modos de tiro semiautomático e automático, tornando-o ideal para diversas aplicações táticas. Ele usa um sistema de acionamento direto de gás e aceita carregadores padrão de 30 cartuchos, fornecendo amplo poder de fogo. Reconhecida pela sua durabilidade e precisão, a carabina Colt 727 continua a ser a escolha preferida dos atiradores militares, policiais e civis.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Colt's Manufacturing Company \n</text>
+	</string>	
+</string_table>

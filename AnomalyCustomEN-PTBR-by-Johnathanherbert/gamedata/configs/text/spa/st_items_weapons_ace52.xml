@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_ace52">
+		<text>IWI ACE 52</text>
+	</string>
+	<string id="st_wpn_ace52_descr">
+		<text>
+		A variante 7,62x51 da série de rifles desenvolvidos pela IWI (Israel Weapon Industries).\n\n
+		Embora essas novas variantes ACE sejam baseadas nos antigos IMI Galils, elas se destacam por melhor ergonomia e precisão graças à integração de aço com polímero em vez do uso de peça única de aço usinado.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Todas as miras e colimadores que se encaixam em trilho Picatinny.\n</text>
+	</string>
+
+	<string id="st_up_ace52_a5_name">
+		<text>Instalação de cano mais pesado</text>
+	</string>
+	<string id="st_up_ace52_a5_descr">
+		<text>Instalação de um cano mais pesado para melhorar ainda mais o controle de recuo</text>
+	</string>
+	<string id="st_up_ace52_b1_name">
+		<text>Instalação de Apoio de Bochecha</text>
+	</string>
+	<string id="st_up_ace52_b1_descr">
+		<text>Instalação de um Apoio de Bochecha na coronha para mira mais confortável. Pode reduzir significativamente o recuo durante a mira.</text>
+	</string>
+	<string id="st_up_ace52_c1_name">
+		<text>Recalibrar arma para 7.62x54</text>
+	</string>
+	<string id="st_up_ace52_c1_descr">
+		<text>Recalibra a arma para um calibre mais comumente disponível na Zona.</text>
+	</string>
+</string_table>

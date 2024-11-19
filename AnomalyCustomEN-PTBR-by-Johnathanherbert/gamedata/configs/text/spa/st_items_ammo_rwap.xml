@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--! Traduzido por johnathanherbert -->
+
+<!--Ammunition -->
+<string_table>
+	<string id="ammo-300BLK-ap">
+		<text>Cartuchos .300 Blackout AP</text>
+	</string>
+	<string id="ammo-300BLK_ap_descr">
+		<text>Cartucho perfurante de armadura .300 Blackout (7,62x35mm) carregado com uma bala perfurante de 8,4 gramas do cartucho NATO 7,62x51mm M80A1, composta por uma ponta penetrante de aço em um núcleo de liga de cobre com uma meia capa de cobre em um estojo de latão. Apesar das características próprias do projétil quando utilizado em cartucho de potência máxima, estas são afetadas quando transferido para um cartucho intermediário. No entanto, a bala continua capaz de perfurar proteção balística básica e intermediária, além de causar danos substanciais ao alvo após o impacto. Seu design também permite seu uso em carregadores NATO STANAG 5,56x45mm sem problemas.\n \n
+%c[ui_gray_2] • %c[ui_gray_2] Penetração de Armadura: %c[ui_gray_1]BR5 (53) \n
+%c[ui_gray_2] • %c[ui_gray_2] Poder de Impacto: %c[ui_gray_1]Alto\n \n%c[ui_gray_1]ESPECIAL: \n\n
+%c[d_red] • %c[ui_gray_2] Munição subsônica \n
+%c[ui_gray_2] • %c[ui_gray_2] Grande queda de trajetória com a distância</text>
+	</string>
+	<string id="ammo-300BLK-ap_s">
+		<text>300 BLK AP</text>
+	</string>
+	<string id="ammo-300BLK-fjm">
+		<text>Cartuchos .300 Blackout</text>
+	</string>
+	<string id="ammo-300BLK_fjm_descr">
+		<text>Cartucho .300 Blackout (7,62x35mm) carregado com uma bala de núcleo de chumbo de 9,4 gramas com jaqueta bimetálica em estojo de aço, destinado à caça, defesa pessoal e tiro ao alvo, produzido pela Barnaul Cartridge Plant. Graças ao seu design simples, este cartucho é uma das opções mais acessíveis do seu calibre e, mesmo assim, é capaz de perfurar proteção balística básica e alguns modelos intermediários, além de possuir considerável poder de impacto. No entanto, tem alta probabilidade de ricochetear em várias superfícies. Seu design também permite seu uso em carregadores NATO STANAG 5,56x45mm sem problemas.\n \n
+%c[ui_gray_2] • %c[ui_gray_2] Penetração de Armadura: %c[ui_gray_1]BR3 (30) \n
+%c[ui_gray_2] • %c[ui_gray_2] Poder de Impacto: %c[ui_gray_1]Alto\n \n%c[ui_gray_1]ESPECIAL: \n\n
+%c[d_red] • %c[ui_gray_2] Munição subsônica \n
+%c[ui_gray_2] • %c[ui_gray_2] Grande queda de trajetória com a distância</text>
+	</string>
+	<string id="ammo-300BLK-fjm_s">
+		<text>300 BLK</text>
+	</string>
+</string_table>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor(es) Original(is) : NLTP_ASHES                                                                         -->
+<!--    Editado : N/A                                                                                               -->
+<!--    Data : 11/11/2023                                                                                           -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)         -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para os itens de dinheiro do Western Goods.                                            -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <string id="st_wg_dollars_10">
+        <text>10 dólares</text>
+    </string>
+    
+    <string id="st_wg_dollars_10_s">
+        <text>10 USD</text>
+    </string>
+    
+    <string id="st_wg_dollars_10_descr">
+        <text>
+            O comércio na Zona é conduzido principalmente por meio de transações eletrônicas por segurança e gerenciamento de riscos. Mas muitos stalkers mantêm pelo menos algumas notas em seus bolsos caso queiram comprar coisas menores como cigarros. Isso torna a vida mais fácil e conserva a bateria.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] dinheiro\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+        </text>
+    </string>
+    
+    <string id="st_wg_dollars_50">
+        <text>50 dólares</text>
+    </string>
+    
+    <string id="st_wg_dollars_50_s">
+        <text>50 USD</text>
+    </string>
+    
+    <string id="st_wg_dollars_50_descr">
+        <text>
+            O comércio na Zona é conduzido principalmente por meio de transações eletrônicas por segurança e gerenciamento de riscos. Mas muitos stalkers mantêm pelo menos algumas notas em seus bolsos caso queiram comprar coisas menores como cigarros. Isso torna a vida mais fácil e conserva a bateria.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] dinheiro\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+        </text>
+    </string>
+    
+    <string id="st_wg_dollars_100">
+        <text>100 dólares</text>
+    </string>
+    
+    <string id="st_wg_dollars_100_s">
+        <text>100 USD</text>
+    </string>
+    
+    <string id="st_wg_dollars_100_descr">
+        <text>
+            O comércio na Zona é conduzido principalmente por meio de transações eletrônicas por segurança e gerenciamento de riscos. Mas muitos stalkers mantêm pelo menos algumas notas em seus bolsos caso queiram comprar coisas menores como cigarros. Isso torna a vida mais fácil e conserva a bateria.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] dinheiro\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+        </text>
+    </string>
+        
+    <string id="st_wg_euros_10">
+        <text>10 euros</text>
+    </string>
+    
+    <string id="st_wg_euros_10_s">
+        <text>10 EUR</text>
+    </string>
+    
+    <string id="st_wg_euros_10_descr">
+        <text>
+            O comércio na Zona é conduzido principalmente por meio de transações eletrônicas por segurança e gerenciamento de riscos. Mas muitos stalkers mantêm pelo menos algumas notas em seus bolsos caso queiram comprar coisas menores como cigarros. Isso torna a vida mais fácil e conserva a bateria.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] dinheiro\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+        </text>
+    </string>
+    
+    <string id="st_wg_euros_50">
+        <text>50 euros</text>
+    </string>
+    
+    <string id="st_wg_euros_50_s">
+        <text>50 EUR</text>
+    </string>
+    
+    <string id="st_wg_euros_50_descr">
+        <text>
+            O comércio na Zona é conduzido principalmente por meio de transações eletrônicas por segurança e gerenciamento de riscos. Mas muitos stalkers mantêm pelo menos algumas notas em seus bolsos caso queiram comprar coisas menores como cigarros. Isso torna a vida mais fácil e conserva a bateria.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] dinheiro\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+        </text>
+    </string>
+    
+    <string id="st_wg_euros_100">
+        <text>100 euros</text>
+    </string>
+    
+    <string id="st_wg_euros_100_s">
+        <text>100 EUR</text>
+    </string>
+    
+    <string id="st_wg_euros_100_descr">
+        <text>
+            O comércio na Zona é conduzido principalmente por meio de transações eletrônicas por segurança e gerenciamento de riscos. Mas muitos stalkers mantêm pelo menos algumas notas em seus bolsos caso queiram comprar coisas menores como cigarros. Isso torna a vida mais fácil e conserva a bateria.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item comum\n
+            %c[d_blue] • %c[ui_gray_2] dinheiro\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+        </text>
+    </string>
+
+    <string id="st_wg_money_suitcase">
+        <text>Maleta</text>
+    </string>
+
+    <string id="st_wg_money_suitcase_s">
+        <text>Maleta</text>
+    </string>
+
+    <string id="st_wg_money_suitcase_descr">
+        <text>
+            Uma maleta antiga. Seu conteúdo é desconhecido, mas ao sacudi-la revela que definitivamente está guardando algo...\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_cyan] • %c[ui_gray_2] muito valioso\n
+        </text>
+    </string>
+
+</string_table>

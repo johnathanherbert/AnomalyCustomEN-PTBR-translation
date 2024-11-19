@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--Traduzido por johnathanherbert-->
+	
+<string_table>
+<string id="yan_stalker_sakharov_task_chimera_scan_name">
+	<text>Mapeamento Mental</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_about">
+	<text>Você já ouviu falar do mutante comumente conhecido como Chimera? Há muito debate na comunidade científica sobre se a criatura é simplesmente um animal mutante que desenvolveu o que parece ser uma cabeça humana, ou se é o resultado de uma terrível violação da ética científica. Para esclarecer este mistério, precisamos de mais dados. Nossos técnicos prepararam um dispositivo especial para registrar as ondas eletromagnéticas precisas emitidas pelos cérebros e, bem, sem ofensa, mas duvido que você entenderia o resto da explicação. De qualquer forma, precisamos de um voluntário para se aproximar de um espécime específico da Chimera e registrar seus sinais cerebrais. É claro que isto deve ser feito enquanto o mutante ainda estiver vivo, e é aí que está a dificuldade da tarefa. Você terá que chegar perto dele e sobreviver até que o dispositivo se estabilize e consiga registrar os sinais. Depois disso, não é necessário deixar a pobre criatura viva, mas isso fica a seu critério.</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_stage_0">
+	<text>Aproxime-se da Chimera designada para registrar suas ondas cerebrais</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_stage_1">
+	<text>Recupere o dispositivo</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_stage_2">
+	<text>Retorne ao Sakharov</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_start">
+	<text>Inicialização completa: início da varredura</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_error">
+	<text>Erro: sinal perdido, varredura abortada</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_complete">
+	<text>Varredura completa</text>
+</string>
+<string id="chimera_scan_device_name">
+	<text>Scanner de Ondas Cerebrais</text>
+</string>
+<string id="chimera_scan_device_desc">
+	<text>Um dispositivo projetado para registrar ondas eletromagnéticas próximas, especificamente calibrado para isolar as oscilações neurais de um espécime específico de Chimera.</text>
+</string>
+</string_table>

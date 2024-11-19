@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_smr_zombies">
+		<text>Zumbis</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombie_spawn">
+		<text>Ativar geração de zumbis</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombie_chance">
+		<text>Chance de aparecimento de zumbis</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombie_chance_desc">
+		<text>Probabilidade (em porcentagem) de que stalkers/geradores de mutantes sejam substituídos por geradores de zumbis.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_seek_enabled">
+		<text>Os zumbis estão perseguindo o jogador</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_seek_enabled_desc">
+		<text>No modo Survival, os zumbis se movem em direção ao jogador dentro de um raio específico (mesmo sem estarem em alerta). Isso ativará esse comportamento.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_seek_distance">
+		<text>Distância de busca do inimigo</text>
+	</string><!-- ZOMBIE TYPES --><string id="ui_mcm_smr_zombies_zombie_types_title">
+		<text>Variantes de zumbis</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombie_types_info">
+		<text>Abaixo você pode controlar quais variantes de zumbis aparecerão.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombiesp">
+		<text>Zumbis básicos</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombies_amount">
+		<text>Número de zumbis básicos</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombies_amount_desc">
+		<text>Fator pelo qual os geradores básicos de zumbis são multiplicados (se ativados), em comparação com as outras variantes.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_blindp">
+		<text>Zumbis cegos (médios)</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombifiedp">
+		<text>Stalkers zumbificados</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_fracturep">
+		<text>Fraturas</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_snorkp">
+		<text>Snorks</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_bloodsuckerp">
+		<text>Bloodsuckers</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_psysuckerp">
+		<text>Psysuckers</text>
+	</string>
+</string_table>

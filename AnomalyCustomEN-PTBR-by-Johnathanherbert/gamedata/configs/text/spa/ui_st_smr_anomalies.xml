@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_SMR">
+		<text>ZCP</text>
+	</string>
+	
+	<string id="ui_mcm_menu_smr_anomalies">
+		<text>Anomalias</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_dyn_ano_chance">
+		<text>Número de anomalias dinâmicas</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_dyn_ano_chance_desc">
+		<text>Se as anomalias dinâmicas estiverem habilitadas, isso aumentará/diminuirá a chance de elas aparecerem. Sem ZCP o jogo fica sempre em 35%.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_pulse">
+		<text>Ativar anomalia de pulso</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_pulse_desc">
+		<text>A anomalia de pulso às vezes aparece como uma luz acima de você e faz com que um raio atinja o solo.</text>
+	</string>
+	<string id="ui_mcm_smr_anomalies_anomalies_types_title">
+		<text>Tipos de anomalias</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_anomalies_types_info">
+		<text>Abaixo você pode controlar quais tipos de anomalias dinâmicas aparecerão.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_electric">
+		<text>Elétricas</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_chemical">
+		<text>Químicas</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_thermal">
+		<text>Térmicas</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_gravitational">
+		<text>Gravitacionais</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_radioactive">
+		<text>Radioativas</text>
+	</string>
+</string_table>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+ <!-- Dusman (Líder Mercenário) -->
+ 	<string id="find_blackbox_mlr_reward_killer_0">
+		<text>Dushman, dê uma olhada nisso, encontrei um gravador de voo. Presumo que contenha informações pelas quais este grupo pagaria uma boa grana, hein?</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_killer_1">
+		<text>Um militar? Ótimo. Isso é realmente um bom equipamento que você tem aí - vou pegar dele por uma boa quantia.</text>
+	</string>
+
+
+<!-- (Guia Mercenário) -->
+	<string id="meet_ds_killer_guide_main_base_0">
+		<text>Como faço para sair daqui?</text>
+	</string>
+	<string id="meet_ds_killer_guide_main_base_1">
+		<text>Este lugar está cercado por todo tipo de perigo, mas temos uma rede de esgoto subterrânea. Há um guia que pode te levar para fora da cidade até uma de nossas poucas bases, localizada no sul de Zaton.</text>
+	</string>
+
+	<string id="meet_ds_killer_guide_main_base_list_0">
+		<text>Me lembre, para onde levam as rotas?</text>
+	</string>
+	<string id="meet_ds_killer_guide_main_base_list_1">
+		<text>Sua única opção é a estação de processamento de resíduos no sudeste de Zaton. Vai custar oito mil rublos.</text>
+	</string>
+	
+	<string id="travel_ds_killer_guide_main_base_0">
+		<text>Quero sair da cidade.</text>
+	</string>
+	<string id="travel_ds_killer_guide_main_base_1">
+		<text>Tem certeza? Nossa única opção é para o norte - chegaremos à estação de processamento de resíduos no sul de Zaton. Oito mil rublos.</text>
+	</string>
+	<string id="travel_ds_killer_guide_main_base_2">
+		<text>Estou pronto, vamos para Zaton. %c[d_orange][8000 RU]</text>
+	</string>
+	<string id="travel_ds_killer_guide_main_base_3">
+		<text>Mudei de ideia.</text>
+	</string>
+	
+	
+ <!-- Aslan (Mercenário Barman) -->
+	<string id="talk_to_aslan_on_main_base_merk_0">
+		<text>Me fale sobre você.</text>
+	</string>
+	<string id="talk_to_aslan_on_main_base_merk_1">
+		<text>O que há para contar? Sou o bartender local - mas quem pode dizer no meio dessa confusão, né? Estamos presos aqui há dias, mal nos mantendo. Participei da defesa do palácio presidencial na época, migrei para a Suíça. Depois vim para a Zona. Eu gostava de visitar o Bar com amigos, beber e relembrar os velhos tempos... Durante uma dessas visitas, me ofereceram um lugar no Sindicato. Estava mal das pernas na época, então Dushman e eu somos meio que pioneiros nisso. E daí? Os arredores são adequados, há pessoas que estiveram no Afeganistão e na Geórgia. Mas o pessoal do Báltico não está muito ansioso para vir, sem falar nos países de primeiro mundo.</text>
+	</string>
+
+
+	<string id="talk_to_aslan_about_lottery_0">
+		<text>Ouvi dizer que você se interessa por insígnias de facções.</text>
+	</string>
+	<string id="talk_to_aslan_about_lottery_1">
+		<text>Como posso explicar? Pessoalmente, não, não me "interesso" por elas - os chefões as querem - sou apenas um gerente intermediário para tudo, prefiro lidar com coisas mais fáceis de entender... como bens tangíveis e dinheiro vivo. O que eu acho é que, com o moral meio baixo ultimamente, poderia ser outra forma envolvente para nossos caras ganharem alguns espólios de guerra. Sabe, para manter as coisas interessantes e frescas, acho que os pagamentos de contratos são muito previsíveis hoje em dia... Então, funciona assim: você me traz insígnias de stalkers, ganha uma chance de mergulhar em vários bens que meus homens coletaram, parece um bom negócio, né? Por quinze insígnias de qualquer facção, você tem chance de ganhar contêineres de artefatos, suprimentos médicos, ferramentas ou artefatos. Com trinta insígnias, terá chance de ganhar recompensas do mesmo tipo, mas melhoradas, desta vez também poderá ganhar algumas armas e armaduras de alta qualidade. Ah, e mais uma coisa - insígnias de facções mais fortes e bem equipadas significam melhores recompensas, insígnias do Duty por exemplo tendem a ter pagamento maior do que aqueles bandidos. Você pode perguntar, "por que tão generoso?"... Porque muitas pessoas preferem guardar as insígnias como troféus de combate, especialmente aquelas que valem a pena se gabar, isso garantirá que essas insígnias circulem, agora que há valor real nelas.</text>
+	</string>
+	<string id="talk_to_aslan_about_lottery_2">
+		<text>E você? O que está fazendo com todas elas?</text>
+	</string>
+	<string id="talk_to_aslan_about_lottery_3">
+		<text>Não é da sua conta. Apenas me traga as insígnias e torça por algo bom. É assim que a loteria funciona, fim da história.</text>
+	</string>
+
+	<string id="lottery_ds_aslan_mlr_0">
+		<text>Tenho algumas insígnias.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_1">
+		<text>Excelente, quais?</text>
+	</string>
+		<string id="lottery_ds_aslan_mlr_2">
+			<text>Clear Sky, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_3">
+			<text>Freedom, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_4">
+			<text>Loners, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_5">
+			<text>Ecologistas, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_6">
+			<text>Bandidos, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_7">
+			<text>Duty, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_8">
+			<text>Monolith, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_9">
+			<text>Militares, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_50">
+		     <text>Mercenários, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_53">
+		     <text>Renegados, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_51">
+		    <text>Sin, quinze insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_52">
+		     <text>UNISG, quinze insígnias.</text>
+		</string>									   
+		<string id="lottery_ds_aslan_mlr_11">
+			<text>Clear Sky, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_12">
+			<text>Freedom, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_13">
+			<text>Loners, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_14">
+			<text>Ecologistas, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_15">
+			<text>Bandidos, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_16">
+			<text>Duty, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_17">
+			<text>Monolith, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_18">
+			<text>Militares, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_56">
+		     <text>Renegados, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_54">
+		     <text>Sin, trinta insígnias.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_55">
+		     <text>UNISG, trinta insígnias.</text>
+		</string>  
+		<string id="lottery_ds_aslan_mlr_57">
+		     <text>Mercenários, trinta insígnias.</text>
+		</string>
+	<string id="lottery_ds_aslan_mlr_10">
+		<text>Mudei de ideia.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_19">
+		<text>Aqui, pegue seu artefato.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_20">
+		<text>Aqui.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_21">
+		<text>Aqui, pegue.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_22">
+		<text>Aqui está seu artefato.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_23">
+		<text>Alguém teve sorte hoje à noite.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_24">
+		<text>Você ganhou um bom presente.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_25">
+		<text>Aqui está um artefato sólido.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_26">
+		<text>Você é um sortudo! Aqui está algo para a radiação.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_27">
+		<text>Um artefato lindo. Aqui está.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_28">
+		<text>Dois artefatos! Você tem sorte.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_29">
+		<text>E aqui está o jackpot!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_30">
+		<text>Você tem sorte.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_31">
+		<text>Um excelente kit para um caçador de artefatos!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_34">
+		<text>Um artefato raro e maravilhoso.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_35">
+		<text>Caramba, você tem sorte!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_36">
+		<text>Jackpot!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_40">
+		<text>Equipamento excelente para um atirador excelente.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_41">
+		<text>Ideal para ataques de longa distância.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_42">
+		<text>Aqui está um módulo de aplicação improvisado. É feito com materiais excedentes, mas cumpre sua função de filtrar alguma radiação dos artefatos, não dá pra reclamar muito.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_43">
+		<text>Você ganhou um pacote médico básico, é apenas o básico mas vai te tirar de uma enrascada, tem bastante coisas úteis aqui.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_44">
+		<text>Você ganhou um kit de ferramentas básico. Não sou nenhum MacGyver, mas aposto que você pode improvisar algo meio decente para seu equipamento com isso.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_45">
+		<text>Você ganhou um contêiner de aplicação de artefatos. Os materiais aqui são melhores que as coisas improvisadas pelo que os cientistas me disseram, deve fornecer uma boa proteção contra radiação dos artefatos.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_46">
+		<text>Aqui está um pacote médico militar, acumulamos bastante desses de soldados mortos do Exército e do Duty. Contém a maioria dos itens básicos que você encontraria em um kit médico básico, mas tem alguns itens úteis extras também.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_47">
+		<text>Um conjunto de ferramentas avançado aqui pra você. Este inclui algumas ferramentas de precisão para trabalhar com equipamentos mais complexos.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_48">
+		<text>Você agora tem em mãos um módulo de aplicação de artefatos, uma peça de engenharia brilhante dos melhores cientistas. Você não encontrará nada melhor na Zona para transporte pessoal de Artefatos. O artefato não está incluído, claro, faça seu próprio trabalho sujo!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_49">
+		<text>Você ganhou este kit médico de nível científico. Às vezes pegamos estes em nossos contratos de contrabando de drogas quando podemos, eles têm um bom preço em certos mercados. Stalkers especialistas adoram levar estes quando exploram lugares suspeitos.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_58">
+		<text>Este kit de ferramentas especializado é muito bom, e agora é seu! Tem algumas das melhores ferramentas que um técnico elétrico ou mecânico poderia pedir, pelo menos na Zona.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_59">
+		<text>Você agora é o novo dono de uma M79, parabéns! Aqui está alguma munição grátis também, só não faça nenhum tiro de comemoração perto daqui...</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_60">
+		<text>Uma Remington 700 novinha em folha é sua! A Remington Arms projetou uma beleza, e ela pode morder também, de uma boa distância sem dúvida...</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_61">
+		<text>Caramba, você ganhou o jackpot da loteria de armas, parabéns, Stalker! Não me pergunte onde encontrei esta fera de arma, eu não encontrei, outra pessoa encontrou, duas idênticas na verdade! Ele me devia 25.000 rublos com juros altos, e pagou sua dívida com uma delas. Espero que você nunca tenha que desistir desta arma monstruosa para pagar suas dívidas, hein?</text>
+	</string>
+
+	<string id="aslan_st_0">
+		<text>Qual é a situação atual?</text>
+	</string>
+	<string id="aslan_st_1">
+		<text>Bem, o Sindicato só tem uma base central na Zona, e é bem aqui. O caminho para Yantar está cortado por causa da instalação psi, e multidões de zumbis às vezes saem de lá, junto com mutantes. Limansk foi pro brejo - é um labirinto cheio de perigos. A Floresta Vermelha é ainda mais perigosa, já que os combatentes do Monolith se estabeleceram na ponte para Limansk enquanto o resto da área está infestada de mutantes. Nos Depósitos do Exército no leste, é tudo território do Freedom.</text>
+	</string>
+	<string id="aslan_st_2">
+		<text>Continue.</text>
+	</string>
+	<string id="aslan_st_3">
+		<text>Quanto aos perigos, você verá por si mesmo. Lembre-se, porém; quando estiver cumprindo ordens, você tem um trabalho a fazer, e quaisquer emoções só vão te distrair. Deixe-as de lado... Não há espaço para emoção, não há espaço para moralidade - apenas intelecto e cálculo. E sobre outros caminhos, a rota mais segura é através de Limansk. Há muito espaço fechado onde você estará seguro de fogo de atiradores de elite, e há abrigo onde você pode se esconder de tiroteios e anomalias. A área é bastante imprevisível, no entanto - nunca vai saber exatamente o que está na próxima esquina.</text>
+	</string>
+	<string id="aslan_st_4">
+		<text>Você diz que a base é central. Isso significa que existem outros postos avançados?</text>
+	</string>
+	<string id="aslan_st_5">
+		<text>Existem dois menores que eu conheço. O primeiro está em Zaton, na borda dos pântanos do norte. O segundo está na parte sudoeste dos arredores de Pripyat. Também temos um grupo estacionado no Território Selvagem, e você pode encontrar nossos esquadrões em diferentes partes da Zona quando eles executam contratos.</text>
+	</string>
+	<string id="aslan_st_6">
+		<text>Então tudo ao norte de Limansk é território do Monolith.</text>
+	</string>
+	<string id="aslan_st_7">
+		<text>Basicamente. Há um hospital antigo não muito longe de Limansk. Não vale a pena ir lá - o caminho para a Usina Nuclear de Chernobyl, assim como o que leva a Yantar estão ambos bloqueados por emissões psi.</text>
+	</string>
+	<string id="aslan_st_8">
+		<text>Entendi, obrigado pela informação.</text>
+	</string>
+
+	<string id="information_about_stash_aslan_0">
+		<text>Ouvi dizer que você tem informações sobre esconderijos.</text>
+	</string>
+	<string id="information_about_stash_aslan_1">
+		<text>Ouviu certo. Sempre ficamos de olho no saque após as invasões. É seu por seis mil e quinhentos.</text>
+	</string>
+
+	<string id="information_about_stash_aslan1_0">
+		<text>Aqui está. %c[d_orange][6500 RU]</text>
+	</string>
+	<string id="information_about_stash_aslan1_1">
+		<text>Ótimo. Aproveite.</text>
+	</string>
+
+</string_table>

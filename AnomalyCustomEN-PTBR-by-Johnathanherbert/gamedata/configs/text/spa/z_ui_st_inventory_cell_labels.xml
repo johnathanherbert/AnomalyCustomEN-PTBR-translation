@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_equ_knife_cell">
+		<text>CORPO A CORPO</text>
+	</string>
+	<string id="st_equ_pistol_cell">
+		<text>SECUNDÁRIA</text>
+	</string>
+	<string id="st_equ_automatic_cell">
+		<text>PRIMÁRIA</text>
+	</string>
+	<string id="st_equ_grenade_cell">
+		<text>GRANADA</text>
+	</string>
+	<string id="st_equ_binocular_cell">
+		<text>VISÃO</text>
+	</string>
+	<string id="st_equ_bolt_cell">
+		<text>PARAFUSO</text>
+	</string>
+	<string id="st_equ_outfit_cell">
+		<text>TRAJE</text>
+	</string>
+	<string id="st_equ_pda_cell">
+		<text>PDA</text>
+	</string>
+	<string id="st_equ_detector_cell">
+		<text>DETECTOR</text>
+	</string>
+	<string id="st_equ_torch_cell">
+		<text>LANTERNA</text>
+	</string>
+	<string id="st_equ_helmet_cell">
+		<text>CABEÇA</text>
+	</string>
+	<string id="st_equ_backpack_cell">
+		<text>MOCHILA</text>
+	</string>
+	
+</string_table>

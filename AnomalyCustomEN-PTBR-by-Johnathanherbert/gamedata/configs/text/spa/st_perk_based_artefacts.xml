@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_pba_sacrifice">
+		<text>sacrificar</text>
+	</string>
+
+	<string id="st_pba_transmutate">
+		<text>transmutar</text>
+	</string>
+
+	<string id="st_af_lucifer_name">
+		<text>Lúcifer</text>
+	</string>
+
+	<string id="st_af_lucifer_descr">
+		<text>
+			Você assinou um Pacto com a Zona. Você está sendo recompensado com habilidades incríveis em troca de sua força vital. Para evitar sua morte e prolongar sua existência, você tem a chance de sacrificar outras riquezas da Zona. A qualidade da oferenda importa, pois você será compensado adequadamente. Não relaxe e lembre-se - o relógio está correndo.\n \n
+			%c[0,209,172,56]Vantagem: %c[d_orange]O Efeito Lúcifer\n 
+			%c[0,81,63,22]  • %c[0,209,172,56]Lúcifer concede força e habilidades imensas, tornando você um semideus\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Na condição máxima você recebe:\n
+			%c[0,192,71,221] -   15%%c[ui_gray_3] redução de qualquer dano\n
+			%c[0,192,71,221] -   35%%c[ui_gray_3] aumento na velocidade\n
+			%c[0,192,71,221] -   1%/seg%c[ui_gray_3] regeneração de vida\n
+			%c[0,192,71,221] -   3%/seg%c[ui_gray_3] regeneração psi\n
+			%c[0,192,71,221] -   +50kg%c[ui_gray_3] de peso carregável\n \n
+			%c[0,81,63,22]  • %c[0,209,172,56]Lúcifer sempre funcionará mesmo da mochila \n
+			%c[0,81,63,22]  • %c[0,209,172,56]No entanto, seus poderes são muito efêmeros (cerca de 4 dias) e drenam a energia do artefato\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Com cada % de perda de energia seus poderes ficarão mais fracos\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Em 50% você não terá poderes\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Abaixo de 50% o artefato começará a consumir sua alma para viver, resultando em leve perda de resistência inicialmente\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Abaixo de 40% e sua vida começará a desaparecer, primeiro lentamente, depois aumentando conforme a condição diminui\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Você pode sacrificar artefatos comuns para restaurar parcialmente a condição de Lúcifer\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Artefatos Nível 1 restauram 3-5%\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Artefatos Nível 2 restauram 6-9%\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Artefatos Nível 3 restauram 10-13%\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Artefatos Nó Extra restauram 20-30%\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Serafim não pode ser sacrificado\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Lâmpada da Morte sobrecarregará o artefato, restaurando-o para 100% e temporariamente potencializando-o ainda mais\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Há uma pequena chance de que sobrecarregar com a Lâmpada da Morte o despedace\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Você não pode se desfazer do artefato de forma alguma\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Lúcifer tem influência desconhecida sobre outros artefatos, melhorando seus efeitos de várias maneiras \n
+			%c[0,81,63,22]  • %c[0,209,172,56]Encontre mais artefatos para restaurar a condição de Lúcifer ou enfrente as consequências
+		</text>
+	</string>
+
+</string_table>

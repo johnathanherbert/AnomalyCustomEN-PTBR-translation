@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+    <string id="st_meeker_weapons">
+        <text>Adquirimos um estoque de armas de alta qualidade de nossos... parceiros comerciais. Obviamente, estávamos planejando revendê-las para nossos outros contatos, mas no momento estamos com alguns problemas de suprimentos. Nos ajude com nosso problema de suprimentos e pouparemos algumas das armas de menor valor para você.</text>
+    </string>
+    <string id="st_meeker_weapons_done">
+        <text>Obrigado. Agora cai fora.</text>
+    </string>
+
+    <string id="st_yar_parts">
+        <text>Este lugar definitivamente não é um resort. Muitos dos nossos caras conseguiram recuperar algumas armas 'levemente usadas' do Monolith</text>
+    </string>
+</string_table>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<!-- Pacote -->
+	<string id="igi_task_text_pda_package">
+		<text>Este pacote pode conter itens valiosos. Estou curioso para saber o que tem dentro.</text>
+	</string>
+	<string id="gt_package_artifact_name">
+		<text>Pacote de artefatos</text>
+	</string>
+	<string id="gt_package_weapon_name">
+		<text>Pacote de armas</text>
+	</string>
+	<string id="gt_package_medicine_name">
+		<text>Pacote de medicamentos</text>
+	</string>
+	<string id="gt_package_ammunition_name">
+		<text>Pacote de munição</text>
+	</string>
+	
+</string_table>

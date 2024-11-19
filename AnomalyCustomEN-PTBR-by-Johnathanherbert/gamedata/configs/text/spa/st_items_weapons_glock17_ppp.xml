@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_glock17">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_short">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_descr">
+		<text>Um clássico das pistolas com armação de polímero e operação por recuo curto, a Glock 17, variante Gen 4 se a gravação no slide não deixasse óbvio, projetada e produzida pelo fabricante austríaco Glock Ges.m.b.H. Esta arma entrou em serviço militar e policial austríaco em 1982 após ser a melhor em testes de confiabilidade e segurança. Desde então, foi exportada para muitos outros países, incluindo a própria Ucrânia para as Forças Especiais. Devido ao seu baixo peso, recuo muito bom e calibre 9mm, esta é uma pistola muito popular entre todas as facções e com razão.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador GemTech (após modificação)</text>
+	</string>
+
+	<string id="st_up_glock17_45acp_name">
+		<text>Mudança de calibre para .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_hs2000">
+		<text>HS2000</text>
+	</string>
+	<string id="st_wpn_hs2000_short">
+		<text>HS2000</text>
+	</string>
+	<string id="st_wpn_hs2000_descr">
+		<text>A HS2000 é uma pistola fabricada na Croácia pela HS Produkt. Possui armação de polímero e funciona com base em um Striker, que é similar às pistolas Glock. Embora seja uma HS2000, esta é na verdade uma HS-9 4.0 G2, que é uma versão civil da própria HS2000 para o mercado. Isso se deve à fabricação do Mercado Negro, os componentes internos são claramente da HS2000 enquanto o resto é simplesmente marcado como HS-9, também vem com uma configuração ambidestra. Esta pistola estava sendo fabricada em 1995, até ser lançada em 1999. Após 2001, a Polícia e o Exército da Croácia decidiram adotá-la, tornando-se sua arma nacional. Nos EUA, é conhecida como "Springfield XD".\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador GemTech</text>
+	</string>
+
+</string_table>

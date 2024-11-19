@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id ="ui_mcm_dii_scale">
+		<text>Escala</text>
+	</string>
+	<string id ="ui_mcm_dii_scale_desc">
+		<text>Escala de todos os indicadores.</text>
+	</string>
+	<string id ="ui_mcm_dii_show">
+		<text>Mostrar</text>
+	</string>
+	<string id ="ui_mcm_dii_show_desc">
+		<text>Alternar a exibição do indicador ativado ou desativado.</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_x">
+		<text>Orientação Horizontal</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_x_desc">
+		<text>A forma como o elemento é posicionado horizontalmente. (esquerda\direita)</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_y">
+		<text>Orientação Vertical</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_y_desc">
+		<text>A forma como o elemento é posicionado verticalmente. (top\bottom)</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_x">
+		<text>Deslocamento Horizontal</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_x_desc">
+		<text>Deslocamento a partir da borda do ícone em pixels. Útil se outro addon está adicionando informações no ícone.</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_y">
+		<text>Deslocamento Vertical</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_y_desc">
+		<text>Deslocamento a partir da borda do ícone em pixels. Útil para itens que têm barras de condição\uso.</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_x">
+		<text>Espaçamento Horizontal</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_x_desc">
+		<text>Quantidade de pixels entre as colunas de ícones.</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_y">
+		<text>Espaçamento Vertical</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_y_desc">
+		<text>Quantidade de pixels entre as linhas de ícones,</text>
+	</string>
+	<string id ="ui_mcm_dii_limit">
+		<text>Limitar ícones exibidos</text>
+	</string>
+	<string id ="ui_mcm_dii_limit_desc">
+		<text>Habilita a limitação do número de ícones exibidos com base na configuração Máximo exibido</text>
+	</string>
+	<string id ="ui_mcm_dii_amount">
+		<text>Máximo exibido</text>
+	</string>
+	<string id ="ui_mcm_dii_amount_desc">
+		<text>Máximo de ícones exibidos para esta categoria, se o item tiver mais que isso, eles não serão mostrados. Permite reduzir o caos visual em itens que têm muitas estatísticas.</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_right">
+		<text>Direita</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_left">
+		<text>Esquerda</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_top">
+		<text>Top</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_bottom">
+		<text>Bottom</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_artefact">
+		<text>Artefatos</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_consumable">
+		<text>Consumíveis</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_upgrade_kit">
+		<text>Kit de Upgrade</text>
+	</string>
+
+	<string id ="ui_mcm_menu_dii">
+		<text>DII</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_main_settings">
+		<text>Configurações Principais</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_properties">
+		<text>Propriedades</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_custom_layers">
+		<text>Definido pelo Usuário</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_custom_layers_main">
+		<text>Principal</text>
+	</string>
+</string_table>

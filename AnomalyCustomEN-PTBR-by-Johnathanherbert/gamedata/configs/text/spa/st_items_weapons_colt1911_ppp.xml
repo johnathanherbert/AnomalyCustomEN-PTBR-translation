@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_colt1911_classic">
+		<text>Colt M1911 "Clássica"</text>
+	</string>
+	<string id="st_wpn_colt1911_classic_s">
+		<text>Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_classic_descr">
+		<text>Esta é a Colt 1911 original, feita por John Moses Browning em 1910 e patenteada no ano seguinte, daí a designação 1911. Entrando em serviço em 1913, é considerada a primeira pistola de carregamento automático de grande sucesso, sendo capaz de usar o .45 ACP e disparar pelo menos 1000 tiros sem falhas. Você pode identificar que é uma 1911 clássica e não uma 1911A1 pelo fato de ter uma janela de ejeção menor, gatilho mais longo e especialmente a empunhadura em formato de diamante, além do seu carregador único de 7 tiros, mantenha-o com você. Graças ao mercado negro na Zona, este verdadeiro clássico foi adquirido, embora possa ter sido modificado um pouco, boa sorte descobrindo isso. Se você quer precisão usando um calibre forte sem muito recuo, esta pode ser para você, mas é melhor usada como arma reserva, já que não tem como instalar um silenciador.</text>
+	</string>
+
+	<string id="st_wpn_colt1911a1">
+		<text>Colt M1911A1</text>
+	</string>
+	<string id="st_wpn_colt1911a1_descr">
+		<text>Uma melhoria da 1911, após críticas da Primeira Guerra Mundial e fora dela também, reemitida para o Exército dos EUA em 1924. Um grande problema que a 1911 tinha era o cão, já que a proteção era muito pequena, havia uma grande chance de levar uma "mordida do cão". Para isso, foi feita uma "cauda de castor" mais longa. Além disso, a trava de segurança foi alterada para ser mais ergonômica, tem um recorte perto do quadro para ajudar com diferentes formatos de mão, gatilho menor para menos aplicação de força, miras mais largas e empunhaduras quadriculadas simplificadas. Todas essas mudanças, algumas são controversas como a nova trava de segurança e o gatilho, mas a proteção do cão e as miras são uma grande melhoria. Você simplesmente não pode errar com esta pistola, embora alguns ainda prefiram a 1911 original e encontrem suas próprias maneiras de evitar as falhas nelas, como segurá-la com uma mão para evitar mordidas do cão.</text>
+	</string>
+
+	<string id="st_wpn_colt1911_tokarev">
+		<text>Colt M1911 Contrato Russo</text>
+	</string>
+	<string id="st_wpn_colt1911_tokarev_descr">
+		<text>Uma "versão russa" da 1911. A única diferença aqui seria que tem marcações diferentes, mas esta parece ser uma variante antiga onde não tem selo cirílico indicando que é a versão encomendada dos EUA para a Rússia. É idêntica à 1911, mas uma diferença chave e importante é o fato de que o carregador e o cano são levemente modificados, que por sua vez podem ser facilmente modificados por qualquer técnico para mudar o calibre de .45 ACP para 7.62x25mm Tokarev.</text>
+	</string>
+
+	<string id="st_up_add_colttokarev_name">
+		<text>Mudança de calibre para 7.62x25</text>
+	</string>
+
+	<string id="st_up_add_sw645_name">
+		<text>Mudança de calibre para .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_sw645">
+		<text>Smith &amp; Wesson 659</text>
+	</string>
+	<string id="st_wpn_sw645_descr">
+		<text>A Smith &amp; Wesson Modelo 659 é uma pistola compacta 9mm fabricada em 1981 e descontinuada em 1988, apesar disso, muitas pessoas do mercado negro conseguem obtê-la, e até mesmo fazer algumas ilegalmente. A S&amp;W 659 é construída quase inteiramente em aço inoxidável e é, portanto, extremamente resistente a condições climáticas adversas. Como é muito fácil fazer isso, qualquer técnico pode mudar o calibre para .45 ACP, transformando-a em uma réplica da S&amp;W Modelo 645. No geral, boa pistola reserva se você precisa de menos peso e melhor combate em curta distância. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19</text>
+	</string>
+
+	<string id="st_wpn_m45">
+		<text>Colt M45</text>
+	</string>
+	<string id="st_wpn_m45_descr">
+		<text>Uma variante moderna da M1911, esta é a arma lateral padrão para o Elemento de Força de Reconhecimento das Unidades Expedicionárias do Corpo de Fuzileiros Navais dos Estados Unidos desde 1985. Esta ideia de uma 1911 melhor surgiu no final dos anos 1980, do Coronel do USMC, Robert Young. É basicamente uma M1911A1 montada por vários fabricantes, já que tem o slide da Springfield Armory, Extrator e Liberador de Carregador da Wilson Combat e todo o resto da Nowlin Manufacturing. Os resultados, embora soem como uma descrição de "Monstro de Frankenstein", realmente fazem uma ótima pistola que é melhor que a 1911. Os Mercenários a favorecem muito pelo fato de ser altamente personalizável, as melhorias são apenas bônus.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_m45a1">
+		<text>Colt M45A1</text>
+	</string>
+	<string id="st_wpn_m45a1_descr">
+		<text>Uma variante moderna da M1911 e uma melhoria da M45, esta é a arma lateral padrão para o Elemento de Força de Reconhecimento das Unidades Expedicionárias do Corpo de Fuzileiros Navais dos Estados Unidos desde 1985. Comparada à M45, as melhorias que a M45A1 tem são o sistema de mola dupla de recuo que distribui a força de recuo do cartucho .45 ACP reduzindo a força máxima do pulso de recuo, as miras noturnas de trítio vermelha de 3 pontos, um cano nacional match de 5 polegadas, trava ambidestra, trilho picatinny para o quadro e um acabamento Cerakote cor de areia do deserto. Você se pergunta como o acabamento Cerakote cor de areia do deserto se encaixa na Zona, mas pode ser o orgulho de um Mercenário. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_svi">
+		<text>Strayer Voigt Infinity</text>
+	</string>
+	<string id="st_wpn_svi_s">
+		<text>SVI 2011</text>
+	</string>
+	<string id="st_wpn_svi_descr">
+		<text>Strayer-Voigt Inc. é uma fabricante de pistolas modulares estilo M1911, isso inclui especialmente a própria Strayer-Voigt Infinity, SVI para abreviar. É uma pistola comercializada para competição, então é bastante cara e rara pois não está disponível para nenhum exército ou cidadão comum portador de armas. Como isso chegou à Zona? Sem dúvida dos mercenários americanos extravagantes. A pistola em si tem o enorme benefício de ter seu próprio carregador marca registrada Strayer-Voigt, que comporta 15 tiros. Também foi modificada internamente para atirar em rajadas de 3 tiros em alta cadência. Ah e, se nada disso te deixa feliz, a fibra óptica de trítio vai, já que é azul. No entanto, não espere a mesma boa e velha confiabilidade da 1911 clássica. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_coonan357">
+		<text>Coonan .357 Magnum Compacta</text>
+	</string>
+	<string id="st_wpn_coonan357_s">
+		<text>Coonan .357</text>
+	</string>
+	<string id="st_wpn_coonan357_descr">
+		<text>A Coonan .357 Magnum é uma peculiar arma semiautomática que usa .357 Magnum feita através do chassi de uma Colt 1911. Isso é feito mudando o cano, slide, empunhadura e carregador para acomodar a mudança de calibre. Pelo que parece, esta veio para a Zona graças a... Algum grupo sinistro, como eles a adquiriram é um mistério, mas pela aparência descuidada, contrastante e levemente quebrada da arma, poderia até ser um clone ilegal da Coonan original. Infelizmente, a arma não é exatamente a melhor quando se trata de precisão, mas o recuo é tolerável (desde que você não dispare rapidamente) e o manuseio é ótimo, um benefício principal de usar esta em vez de outras pistolas .357 como a Desert Eagle é o porte velado, peso e melhor Combate em Curta Distância.</text>
+	</string>
+
+</string_table>

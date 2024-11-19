@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_wpn_rpk16">
+		<text>RPK-16</text>
+	</string>
+	<string id="st_wpn_rpk16_descr">
+		<text>A metralhadora leve RPK-16 é uma resposta ao programa "Tokar-2", onde competiu contra o projeto da Degtyaryov. Em 2018, o Ministério da Defesa da Federação Russa assinou um contrato referente à aquisição do RPK-16, que deve assumir o papel do RPK-74 nas Forças Armadas Russas. O RPK-16 é calibrado em 5.45x39mm e apresenta o tradicional sistema de pistão de curso longo operado a gás Kalashnikov, além de compartilhar vários recursos técnicos e ergonômicos inovadores derivados do programa AK-12. Como um trilho Picatinny na parte superior do receptor para montagem de várias miras ópticas e na parte inferior do guarda-mão para montar o bipé destacável com trilho Picatinny, em vez do bipé fixo do RPK-74, uma empunhadura ergonômica e uma coronha dobrável, e dois comprimentos principais de cano; um cano longo de 550 mm (21,7 pol) (quando aplicado ou configurado para a função de metralhadora leve) e um cano curto de 370 mm (14,6 pol) (quando aplicado ou configurado para a função de fuzil de assalto). Seu design permite que tenha canos intercambiáveis que podem ser facilmente removidos, e a capacidade de acoplar rapidamente um silenciador destacável. Tem um peso de combate de 6 kg (13,23 lb), um comprimento total de 1.076 mm (42,4 pol), uma cadência cíclica de tiro de 700 disparos por minuto, um alcance de precisão de 800 m (870 jardas). Utiliza principalmente um carregador tipo tambor de 95 cartuchos e é retrocompatível com carregadores do tipo caixa do AK-74, AK-12 e RPK-74.</text>
+	</string>
+	
+</string_table>

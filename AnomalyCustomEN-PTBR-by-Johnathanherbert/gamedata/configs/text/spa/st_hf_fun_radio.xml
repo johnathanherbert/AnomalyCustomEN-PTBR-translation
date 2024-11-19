@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_placeable_radio">
+		<text>Rádio</text>
+	</string>
+	<string id="st_placeable_radio_descr">
+		<text>Um rádio em condições de funcionamento. É capaz de receber os mesmos sinais que são ouvidos em muitas bases por toda a Zona.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] item posicionável\n
+		</text>
+	</string>
+</string_table>

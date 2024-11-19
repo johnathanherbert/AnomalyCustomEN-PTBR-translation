@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_smr_zzintegration">
+		<text>Integração</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_integration_info">
+		<text>As opções aqui permitem que o ZCP funcione perfeitamente com outros mods. Isso é semelhante aos patches de compatibilidade, só que muito mais eficientes.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_glowsticks">
+		<text>Bastões Luminosos</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_glowsticks_info">
+		<text>Para https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks. Permite que os bastões luminosos apareçam como itens utilizáveis.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux">
+		<text>Magazines Redux</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux_chance">
+		<text>Chance de gerar carregadores</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux_info">
+		<text>Para https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-magazines-redux. Ativa o aparecimento de carregadores para armas equipadas como itens adicionais em caixas de armazenamento.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes">
+		<text>Caixas de Recompensa para Anomaly</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes_chance">
+		<text>Chance de entrega da caixa de recompensa</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes_info">
+		<text>Para https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes. Permite que as gazuas apareçam como itens utilizáveis, bem como caixas de recompensa em sua própria categoria.</text>
+	</string>
+</string_table>

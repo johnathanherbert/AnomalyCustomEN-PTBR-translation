@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por Johnathanherbert -->
+
+<string_table>
+  <string id="st_rotten_meat">
+      <text>Carne podre</text>
+    </string>
+  <string id="st_rotten_meat_raw_descr">
+		<text>Carne crua obtida na Zona que não foi cozida a tempo. Depois de dois dias, este pedaço de carne fedorenta não tem mais salvação. Nem mesmo os cães comem mais. É melhor se livrar dela o mais rápido possível, pois o cheiro pode atrair algumas criaturas não tão exigentes...</text>
+	</string>
+  <string id="st_rotten_meat_cooked_descr">
+		<text>Carne cozida obtida na Zona que não foi consumida a tempo. Depois de dois dias, este pedaço de carne fedorenta não tem mais salvação. Nem mesmo os cães comem mais. É melhor se livrar dela o mais rápido possível, pois o cheiro pode atrair algumas criaturas não tão exigentes...</text>
+	</string>
+  <string id="st_rotten_meat_snork_descr">
+    <text>Uma mão podre de um Snork que não foi cozida a tempo. Já teve dias melhores. Como não tem mais utilidade, é melhor jogá-la o mais longe possível para não atrair problemas...</text>
+  </string>
+  <string id="ui_mcm_menu_meat_spoiling">
+    <text>Carne podre</text>
+  </string>
+  <string id="ui_mcm_meat_spoiling_expiration_hours_cooked">
+    <text>Tempo em horas para a carne cozida apodrecer</text>
+  </string>
+  <string id="ui_mcm_meat_spoiling_expiration_hours_raw">
+    <text>Tempo em horas para a carne crua apodrecer</text>
+  </string>
+</string_table>

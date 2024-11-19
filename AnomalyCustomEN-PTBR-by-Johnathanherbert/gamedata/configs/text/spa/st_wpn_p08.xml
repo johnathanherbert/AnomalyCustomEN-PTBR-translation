@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+<string id="st_wpn_p08">
+		<text>Luger P08</text>
+	</string>
+	<string id="st_wpn_p08_descr">
+		<text>A Pistola Parabellum, comumente conhecida como Luger ou Luger P08, é uma pistola semiautomática operada por recuo com ferrolho articulado. A Luger foi produzida em vários modelos e em diversos países entre 1898 e 1949. O design foi patenteado inicialmente por Georg Luger. Foi desenvolvida como uma atualização da pistola Borchardt C-93 e inicialmente produzida como Pistola Automática Parabellum, Sistema Borchardt-Luger pelo fabricante de armas alemão Deutsche Waffen- und Munitionsfabriken (DWM). O primeiro modelo de produção foi denominado "Modell 1900 Parabellum", seguido pelo "Marinepistole 1904" para a Marinha Imperial Alemã.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Império Alemão\n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Deutsche Waffen- und Munitionsfabriken\n</text>
+	</string>
+
+<string id="st_mag_p08_default">
+		<text>Carregador da Luger P08</text>
+	</string>
+	<string id="st_mag_p08_default_descr">
+		<text>Carregador para a pistola Luger P08. Comporta 8 cartuchos de 9 x 19 mm.\n   \n</text>
+	</string>	
+	
+</string_table>

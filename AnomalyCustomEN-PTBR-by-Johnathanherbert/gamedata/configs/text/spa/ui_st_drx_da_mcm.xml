@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_drx_da_title">
+		<text>Arrival - Anomalias</text>
+	</string>
+	<string id="ui_mcm_menu_drx_da">
+		<text>Arrival</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_presets">
+		<text>Predefinições</text>
+	</string>
+	<string id="ui_mcm_drx_da_presets_desc">
+		<text>Escolha as configurações predefinidas da lista</text>
+	</string>
+	<string id="ui_mcm_lst_drx_da_preset_easy">
+		<text>Fácil</text>
+	</string>
+	<string id="ui_mcm_lst_drx_da_preset_normal">
+		<text>Normal</text>
+	</string>
+	<string id="ui_mcm_lst_drx_da_preset_hard">
+		<text>Difícil</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_anomaly_zone_spawn_chance">
+		<text>Chance de Surgimento da Zona de Anomalia</text>
+	</string>
+	<string id="ui_mcm_drx_da_anomaly_zone_spawn_chance_desc">
+		<text>A chance de um terreno inteligente predefinido gerar uma zona de anomalia</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max">
+		<text>Raio da Zona de Anomalia</text>
+	</string>
+	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max_desc">
+		<text>Distância máxima do centro do terreno inteligente permitida para a zona de anomalia</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min">
+		<text>Distância Mínima Entre Anomalias</text>
+	</string>
+	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min_desc">
+		<text>Define a distância mínima entre anomalias na zona. Valores negativos permitirão que as anomalias se sobreponham</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_anomaly_amount_modifier">
+		<text>Modificador de Quantidade de Anomalias</text>
+	</string>
+	<string id="ui_mcm_drx_da_anomaly_amount_modifier_desc">
+		<text>Modifica a quantidade de anomalias que cada zona de anomalia pode ter</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_max_artefacts_per_zone">
+		<text>Máximo de Artefatos Por Zona</text>
+	</string>
+	<string id="ui_mcm_drx_da_max_artefacts_per_zone_desc">
+		<text>Define a quantidade máxima de artefatos que podem surgir em uma zona de anomalia</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_artefacts_spawn_chance">
+		<text>Chance de Surgimento de Artefatos</text>
+	</string>
+	<string id="ui_mcm_drx_da_artefacts_spawn_chance_desc">
+		<text>Cada artefato definido no máximo terá essa chance de surgir</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_random_artefact_spawn_chance">
+		<text>Chance de Artefato Aleatório</text>
+	</string>
+	<string id="ui_mcm_drx_da_random_artefact_spawn_chance_desc">
+		<text>Quais artefatos podem surgir é definido pelo nível. Locais ao sul podem gerar apenas artefatos fracos, enquanto locais subterrâneos e ao norte podem gerar artefatos fortes. No entanto, existe uma chance, definida por este valor, de que uma zona de anomalia possa gerar qualquer artefato, incluindo os únicos</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_gravitational_shake_modifier">
+		<text>Modificador de Tremor Gravitacional</text>
+	</string>
+	<string id="ui_mcm_drx_da_gravitational_shake_modifier_desc">
+		<text>Modificador do tremor de tela perto de anomalias gravitacionais</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_electric_field_modifier">
+		<text>Modificador de Campo Elétrico</text>
+	</string>
+	<string id="ui_mcm_drx_da_electric_field_modifier_desc">
+		<text>Modificador de dano dos campos elétricos. Não afeta falhas de dispositivos eletrônicos</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_enable_anomalies_behaviour">
+		<text>Ativar Comportamento Dinâmico das Anomalias</text>
+	</string>
+	<string id="ui_mcm_drx_da_enable_anomalies_behaviour_desc">
+		<text>Define se as anomalias dinâmicas têm comportamento especial e podem aparecer e desaparecer na zona</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_save_after_cleanup">
+		<text>Salvar Jogo Após Remoção de Anomalias</text>
+	</string>
+	<string id="ui_mcm_drx_da_save_after_cleanup_desc">
+		<text>Salva o jogo após emissão ou tempestade psi quando as anomalias dinâmicas são removidas do nível</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_disable_new_anomalies">
+		<text>Desativar Novas Anomalias</text>
+	</string>
+	<string id="ui_mcm_drx_da_disable_new_anomalies_desc">
+		<text>Desativa o surgimento de novos tipos de anomalias. A opção terá efeito após a próxima emissão ou tempestade psi ou em um novo jogo</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_choose_help">
+		<text>
+			Abaixo você pode ativar seletivamente
+			\nquais novos tipos de anomalias serão gerados no jogo</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_zone_mine_cdf_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_umbra_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_flash_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_ghost_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_gold_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_thorn_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_seed_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_shatterpoint_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_sloth_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_mefistotel_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_net_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_point_enable">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_drx_da_zone_mine_sphere_enable">
+		<text>Ativar</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_delete_dynamic_anomalies">
+		<text>Excluir Anomalias Dinâmicas</text>
+	</string>
+	<string id="ui_mcm_drx_da_delete_dynamic_anomalies_desc">
+		<text>Exclui todas as zonas de anomalia geradas do jogo. Esta opção é destinada para remoção segura do mod. Ative a opção, volte ao jogo, salve o jogo, saia do jogo e remova o mod</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_debug_mode">
+		<text>Modo de Depuração</text>
+	</string>
+	<string id="ui_mcm_drx_da_debug_mode_desc">
+		<text>Ativa spam de mensagens no console</text>
+	</string>
+	
+</string_table>

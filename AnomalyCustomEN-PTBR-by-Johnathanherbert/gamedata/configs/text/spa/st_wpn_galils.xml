@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_galil_tei">
+		<text>Galil E</text>
+	</string>
+	<string id="st_wpn_galil_tei_descr">
+		<text>O rifle IMI Galil é uma arma de fogo versátil conhecida por seu desempenho e adaptabilidade excepcionais. Projetado com foco na modularidade, este rifle oferece a capacidade de anexar um silenciador, permitindo a redução de ruído durante operações secretas ou cenários de tiro de precisão. Além disso, sua construção robusta e design intuitivo permitem acoplar diversas miras, o que garante maior precisão e aquisição de alvos em diversos ambientes. Com suas extensas opções de personalização, o rifle IMI Galil é uma opção confiável para atiradores exigentes que buscam adaptabilidade e funcionalidade superiores.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Israel \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Indústrias Militares de Israel \n</text>
+	</string>
+	<string id="st_wpn_galil_tac">
+		<text>Galil AR Tático</text>
+	</string>
+	<string id="st_wpn_galil_tac_descr">
+		<text>A variante tática do famoso rifle IMI Galil foi projetada especificamente para se destacar em cenários operacionais dinâmicos. Esta versátil arma de fogo incorpora uma série de recursos avançados, como um punho angular que melhora o controle ergonômico e a capacidade de manobra, permitindo transições rápidas de alvo e melhor manuseio em situações de alta pressão. Além disso, incorpora um ponteiro laser para melhorar a aquisição e precisão do alvo, garantindo tiros rápidos e precisos. Com sua combinação de melhorias ergonômicas e tecnologia de mira de ponta, a variante tática do rifle IMI Galil se destaca como uma opção formidável para operadores táticos e entusiastas que buscam desempenho ideal em ambientes exigentes.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Israel \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Indústrias Militares de Israel \n</text>
+	</string>
+</string_table>

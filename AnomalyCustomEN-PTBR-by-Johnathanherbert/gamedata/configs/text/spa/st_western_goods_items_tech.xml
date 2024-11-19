@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor(es) Original(is) : NLTP_ASHES                                                                         -->
+<!--    Editado : N/A                                                                                               -->
+<!--    Data : 12/12/2023                                                                                           -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)         -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para os itens tecnológicos do Western Goods.                                           -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <string id="st_wg_laptop">
+        <text>Notebook ASUS</text>
+    </string>
+
+    <string id="st_wg_laptop_s">
+        <text>Notebook</text>
+    </string>
+
+    <string id="st_wg_laptop_descr">
+        <text>
+            O ZenBook 13 é um notebook da família ultra-portátil. Produzido pela ASUS, certamente foi trazido para a Zona por mercenários. Parece ter sido levemente danificado, tornando-o inutilizável. Embora seus componentes valham uma fortuna, e um comerciante poderia colocar um bom preço nele.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item tecnológico\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+            %c[d_red] • %c[ui_gray_2] inutilizável\n
+        </text>
+    </string>
+
+    <string id="st_wg_computer">
+        <text>Gabinete de computador</text>
+    </string>
+
+    <string id="st_wg_computer_s">
+        <text>Computador</text>
+    </string>
+
+    <string id="st_wg_computer_descr">
+        <text>
+            Gabinete de computador preto com o que parecem ser peças recentes. Definitivamente não é um antigo computador soviético deixado para trás após o "Segundo Desastre" de 2006. Conseguir acesso à eletricidade na Zona não é para qualquer um, então será difícil fazê-lo funcionar. Sempre pode ser vendido para comerciantes, peças de computador modernas são raras hoje em dia.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item tecnológico\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_red] • %c[ui_gray_2] inutilizável\n
+        </text>
+    </string>
+
+    <string id="st_wg_keyboard">
+        <text>Teclado Logitech</text>
+    </string>
+
+    <string id="st_wg_keyboard_s">
+        <text>Teclado</text>
+    </string>
+
+    <string id="st_wg_keyboard_descr">
+        <text>
+            Teclado Logitech danificado. Não é um daqueles teclados sofisticados para jogos, mas apenas um teclado simples. Parece muito danificado para ser usado, embora ainda seja uma boa fonte de componentes eletrônicos.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item tecnológico\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_red] • %c[ui_gray_2] quebrado além do reparo\n
+            %c[d_red] • %c[ui_gray_2] inutilizável\n
+        </text>
+    </string>
+
+    <string id="st_wg_gps">
+        <text>Localizador GPS</text>
+    </string>
+
+    <string id="st_wg_gps_s">
+        <text>GPS</text>
+    </string>
+
+    <string id="st_wg_gps_descr">
+        <text>
+            Um equipamento realmente raro na Zona. Parece ser um localizador GPS de nível militar, geralmente usado por países da OTAN. Provavelmente encontrou seu caminho até a Zona quando o ISG ainda estava por aqui. Ele indica o nome e a distância até a área mais próxima. Também mostra o nome da região da Zona onde o usuário está localizado. Dito isso, seu banco de dados parece desatualizado. Algumas áreas bem conhecidas pelos stalkers estão faltando.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item tecnológico\n
+            %c[d_blue] • %c[ui_gray_2] item militar\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+            %c[d_orange] • %c[ui_gray_2] utilizável\n
+        </text>
+    </string>
+
+    <string id="st_wg_military_decoder">
+        <text>Decodificador militar</text>
+    </string>
+
+    <string id="st_wg_military_decoder_s">
+        <text>Decodificador militar</text>
+    </string>
+
+    <string id="st_wg_military_decoder_descr">
+        <text>
+            Parece ser um decodificador militar avançado. Tem inscrições em inglês por toda parte, então provavelmente vem de fora da Zona. Não é realmente útil para o stalker comum, mas comerciantes frequentemente procuram por esses dispositivos raros.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item tecnológico\n
+            %c[d_blue] • %c[ui_gray_2] item militar\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+            %c[d_red] • %c[ui_gray_2] inutilizável\n
+        </text>
+    </string>
+
+    <string id="st_wg_military_radio">
+        <text>Rádio militar</text>
+    </string>
+
+    <string id="st_wg_military_radio_s">
+        <text>Rádio militar</text>
+    </string>
+
+    <string id="st_wg_military_radio_descr">
+        <text>
+            Um rádio militar com uma antena de longo alcance. É visivelmente não originário da Zona. Parece estar em boas condições. Com o equipamento certo, alguém poderia fazê-lo funcionar. Comerciantes frequentemente procuram por esses rádios de longo alcance para se comunicarem entre si.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item tecnológico\n
+            %c[d_blue] • %c[ui_gray_2] item militar\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+            %c[d_red] • %c[ui_gray_2] inutilizável\n
+        </text>
+    </string>
+
+    <string id="st_wg_lighter_bic">
+        <text>Isqueiro BIC</text>
+    </string>
+
+    <string id="st_wg_lighter_bic_s">
+        <text>Isqueiro BIC</text>
+    </string>
+
+    <string id="st_wg_lighter_bic_descr">
+        <text>
+            Um isqueiro BIC padrão. Não comumente encontrado na Zona, este isqueiro está facilmente disponível em países da Europa Ocidental. Um isqueiro cheio geralmente pode acender 20 cigarros.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item tecnológico\n
+            %c[d_blue] • %c[ui_gray_2] item do dia a dia\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_orange] • %c[ui_gray_2] utilizável\n
+        </text>
+    </string>
+
+    <string id="st_wg_rangefinder">
+        <text>Telêmetro laser SigSauer KILO5K</text>
+    </string>
+
+    <string id="st_wg_rangefinder_s">
+        <text>Telêmetro KILO5K</text>
+    </string>
+
+    <string id="st_wg_rangefinder_descr">
+        <text>
+            O telêmetro laser KILO5K 7x25mm da Sig Sauer oferece capacidades precisas de medição em um pacote compacto. Este telêmetro possui uma ocular estilo binóculo e ajuste de dioptria. O alcance máximo em um alvo reflexivo é de 5.000 jardas, e o alcance máximo em um cervo é de 2.000 jardas.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] item tecnológico\n
+            %c[d_blue] • %c[ui_gray_2] item militar\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+            %c[d_orange] • %c[ui_gray_2] utilizável\n
+        </text>
+    </string>
+
+</string_table>

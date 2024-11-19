@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_rax_pinup_uninstall">
+        <text>Desinstalação Segura</text>
+	</string>
+
+	<string id="ui_mcm_rax_pinup_uninstall_desc">
+        <text>Torna o save seguro para desinstalar pacotes de conteúdo deste addon.</text>
+	</string>
+	<string id="ui_mcm_rax_pinup_clear">
+        <text>Limpar coleção</text>
+	</string>
+
+	<string id="ui_mcm_rax_pinup_clear_desc">
+        <text>Limpa o registro dos pôsteres que você coletou.</text>
+	</string>
+
+	<string id="ui_mcm_menu_rax_pinup">
+        <text>Coleção de Pôsteres</text>
+	</string>
+	<string id="ui_mcm_rax_pinup_level">
+        <text>Opções só são exibidas quando um save está carregado.</text>
+	</string>
+	<string id="st_pinup_view">
+        <text>Ver Todos os Pôsteres</text>
+	</string>
+	<string id="st_pinup_revert">
+        <text>Reverter para item de reparo</text>
+	</string>
+
+	<string id="st_pinup_view_from">
+        <text>Ver Pôsteres de:</text>
+	</string>
+
+	<string id="st_pinup_artist">
+		<text>Artista</text>
+	</string>
+	<string id="st_pinup_description">
+		<text>Descrição</text>
+	</string>
+	<string id="pinup_def_beach">
+		<text>Praia</text>
+	</string>
+	<string id="pinup_def_butterfly">
+		<text>Borboleta</text>
+	</string>
+	<string id="pinup_def_siren">
+		<text>Sereia</text>
+	</string>
+	<string id="pinup_def_plane">
+		<text>Avião</text>
+	</string>
+	<string id="pinup_def_smile">
+		<text>Sorriso</text>
+	</string>
+	<string id="pinup_def_marilyn">
+		<text>Marilyn</text>
+	</string>
+	<string id="pinup_def_cover1">
+		<text>Único</text>
+	</string>
+	<string id="pinup_def_cover2">
+		<text>Instantâneo</text>
+	</string>
+	<string id="pinup_def_cover3">
+		<text>Instantâneo</text>
+	</string>
+	<string id="pinup_def_red">
+		<text>Vermelho</text>
+	</string>
+	<string id="pinup_def_swa">
+		<text>Glória</text>
+	</string>
+	<string id="pinup_def_command">
+		<text>Ao seu comando</text>
+	</string>
+	<string id="pinup_def_moran1">
+		<text>Presente</text>
+	</string>
+	<string id="pinup_def_moran2">
+		<text>Garota da Fazenda</text>
+	</string>
+
+	
+</string_table>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor(es) Original(is) : NLTP_ASHES                                                                         -->
+<!--    Editado : N/A                                                                                               -->
+<!--    Data : 11/11/2023                                                                                           -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)         -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para os NPCs do Western Goods.                                                          -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <!--=============================================================================================================-->
+    <!--    Williams Heades                                                                                          -->
+    <!--=============================================================================================================-->
+
+    <string id="western_goods_trader_name">
+        <text>Williams "Ashes" Heades</text>
+    </string>
+
+    <string id="western_goods_trader_bio">
+        <text>Williams "Ashes" Heades é um membro dos Mercenários. Ex-soldado da ONU, foi enviado para vários teatros de guerra como parte das forças-tarefa da ONU. Lutou na guerra civil durante a rebelião de 2010 em Altis, Grécia. Posteriormente, foi enviado para a zona de exclusão de Chornobyl como parte de um destacamento especial da UNISG. Não se sabe muito sobre qual era sua missão, tudo que as pessoas sabem é que ele decidiu ficar e não partiu com o resto do destacamento.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Informante de Jupiter                                                                                    -->
+    <!--=============================================================================================================-->
+
+    <string id="western_goods_jupiter_informant_name">
+        <text>Sergei Karlovskiy</text>
+    </string>
+
+    <string id="western_goods_jupiter_informant_bio">
+        <text>Sem informações.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Membro da Tripulação do Helicóptero                                                                     -->
+    <!--=============================================================================================================-->
+
+    <string id="western_goods_crew_member_name">
+        <text>Patrick "Odysseus" Dunbar</text>
+    </string>
+
+    <string id="western_goods_crew_member_bio">
+        <text>Um dos membros da tripulação do helicóptero.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Tenente Dunn Lynn                                                                                        -->
+    <!--=============================================================================================================-->
+
+    <string id="western_goods_dunn_lynn_name">
+        <text>Ten. Dunn "Jodye" Lynn</text>
+    </string>
+
+    <string id="western_goods_dunn_lynn_bio">
+        <text>Agente da UNISG. Informações detalhadas indisponíveis.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Golubev Nikolaj                                                                                          -->
+    <!--=============================================================================================================-->
+
+    <string id="western_goods_ecolog_convoy_yellow_name">
+        <text>Golubev Nikolaj</text>
+    </string>
+
+    <string id="western_goods_ecolog_convoy_yellow_bio">
+        <text>Membro do acampamento científico móvel. Informações detalhadas indisponíveis.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Outro NPC Cientista                                                                                      -->
+    <!--=============================================================================================================-->
+
+    <string id="stalker_ecolog_convoy_orange_bio">
+        <text>Membro do acampamento científico móvel. Informações detalhadas indisponíveis.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Oleksandr Chernenko                                                                                      -->
+    <!--=============================================================================================================-->
+
+    <string id="western_goods_oleksandr_chernenko_name">
+        <text>Capitão Oleksandr Chernenko</text>
+    </string>
+
+    <string id="western_goods_oleksandr_chernenko_bio">
+        <text>Soldado renegado do exército ucraniano, tornou-se mercenário. Gerencia os interesses de Dushman no Mercado das Pulgas, na Lixeira.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Danylo Chernenko                                                                                         -->
+    <!--=============================================================================================================-->
+
+    <string id="western_goods_danylo_chernenko_name">
+        <text>Sargento Danylo Chernenko</text>
+    </string>
+
+    <string id="western_goods_danylo_chernenko_bio">
+        <text>Irmão mais novo de Oleksandr Chernenko. Informações detalhadas indisponíveis.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    Prisioneiro do SSU                                                                                       -->
+    <!--=============================================================================================================-->
+
+    <string id="western_goods_ssu_prisoner_bio">
+        <text>Soldado afiliado ao Serviço de Segurança da Ucrânia. Informações detalhadas indisponíveis.</text>
+    </string>
+
+</string_table>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_ledge_grabbing_title">
+		<text>Escalada em Beiradas</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_ledge_grabbing">
+		<text>Escalada em Beiradas</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_enable">
+		<text>Ativar</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection">
+		<text>Detecção Alternativa de Escalada</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection_desc">
+		<text>O método alternativo fará rastreamento de beiradas mais próximas à mira do jogador. O método padrão fará rastreamento a partir de uma altura fixa</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck">
+		<text>Verificação de Largura do Jogador</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck_desc">
+		<text>Se ativado, realizará rastreamento adicional para verificar se o jogador cabe na beirada. Pode limitar as beiradas possíveis de escalar</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_hardcoreMode">
+		<text>Modo Hardcore</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_hardcoreMode_desc">
+		<text>Quando ativado, adiciona restrições adicionais para escalada: \n 1. Sem escalada quando o peso do jogador for maior que 90kg \n 2. Sem escalada quando a saúde do jogador for menor que 60% \n 3. Aumenta o uso de stamina</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_BHSMode">
+		<text>Integração com BHS</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_BHSMode_desc">
+		<text>Quando ativado, se você usar o Body Health System e um dos braços do jogador estiver quebrado, não será possível escalar</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_throttleCheck">
+		<text>Atraso na Verificação de Escalada</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_throttleCheck_desc">
+		<text>Tempo entre verificações em ms. Aumente para melhorar o desempenho ao custo de precisão</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance">
+		<text>Distância de Ativação</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance_desc">
+		<text>Distância máxima para iniciar a escalada em beiradas</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_raySteps">
+		<text>Precisão da Escalada</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_raySteps_desc">
+		<text>Número maior - melhor detecção e posicionamento para agarrar ao custo de leve impacto no desempenho</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime">
+		<text>Tempo de Pressionar Tecla Para Ativar</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime_desc">
+		<text>Se você pressionar por mais tempo que isso, a escalada será ativada</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_soundVolume">
+		<text>Volume do Som</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_gruntVolume">
+		<text>Volume dos Grunhidos</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_gruntProbability">
+		<text>Probabilidade de Grunhidos</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_staminaDrain">
+		<text>Consumo de Stamina</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_inputMethod">
+		<text>Método de Entrada</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_keybind">
+		<text>Tecla de Atalho</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_jumpHold">
+		<text>Segurar Tecla</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_buttonPress">
+		<text>Pressionar Botão</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_both">
+		<text>Ambos</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_animationRandomization">
+		<text>Aleatorização da Animação</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_animationRandomization_desc">
+		<text>Aleatoriza o movimento da câmera</text>
+	</string>
+
+</string_table>

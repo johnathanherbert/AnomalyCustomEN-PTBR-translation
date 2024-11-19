@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Munição
+-->
+
+<string_table>
+	
+	<string id="ammo_new_23x75_shrapnel">
+		<text>Cartuchos 23x75mm "Shrapnel-25"</text>
+	</string>
+	<string id="ammo_new_23x75_shrapnel_descr">
+		<text>Cartucho de 23mm com 8 esferas #00. Alcance de aplicação até 25 metros. É usado para disparo da carabina KS-23. Devido ao fato de que o cano tem ranhuras na carabina KS-23, o tiro se espalha por uma grande área, o que permite atirar sem apoio, praticamente sem mirar. Distribuído em quantidades limitadas com o KS-23 como munição de caça para mutantes extremamente resistentes.\n</text>
+	</string>
+	<string id="ammo_new_23x75_shrapnel_s">
+		<text>23x75mm Shrapnel</text>
+	</string>
+	
+	<string id="ammo_new_23x75_barrikada">
+		<text>Cartuchos 23x75mm "Barrikada"</text>
+	</string>
+	<string id="ammo_new_23x75_barrikada_descr">
+		<text>Cartucho de 23mm com uma bala de aço pontiaguda. Empregado para parar veículos à força destruindo o bloco do motor. Alcance de aplicação até 100 metros. Importado por stalkers esotéricos para caçar criaturas muito grandes.</text>
+	</string>
+	<string id="ammo_new_23x75_barrikada_s">
+		<text>23x75mm Barrikada</text>
+	</string>
+
+	<string id="ammo_new_9x21_sp10">
+		<text>Munição 9x21mm SP10</text>
+	</string>
+	<string id="ammo_new_9x21_sp10_descr">
+		<text>Cartucho de pistola com uma bala de penetração aumentada. Projetado para eliminar alvos protegidos por equipamento de proteção pessoal. A parte frontal do núcleo de aço temperado se projeta da cápsula, proporcionando um alto efeito de penetração da bala. Sucedido pelas munições especiais 9mm 7N21 e 7N31.</text>
+	</string>
+	<string id="ammo_new_9x21_sp10_s">
+		<text>9x21 SP10</text>
+	</string>
+
+	<string id="ammo_new_20x70_buck">
+		<text>Cartuchos 20x70 Buckshot</text>
+	</string>
+	<string id="ammo_new_20x70_buck_descr">
+		<text>Cartucho padrão calibre 20 carregado com 5 esferas de 6mm. Altamente letal a curta distância. Devido à carga de pólvora reduzida, sofre de potência reduzida em comparação com espingardas calibre 12. O recuo mais leve o torna mais popular entre caçadores iniciantes. Adequado apenas para uso com armas de cano liso.</text>
+	</string>
+	<string id="ammo_new_20x70_buck_s">
+		<text>20x70 Buck</text>
+	</string>
+
+	<string id="ammo_new_23_eco">
+		<text>Cartucho 23x75 "Nuvem Mortal"</text>
+	</string>
+	<string id="ammo_new_23_eco_descr">
+		<text>Cartucho de uso especial desenvolvido pela facção Ecologista, parte de um estudo conjunto em andamento com o Duty. Este cartucho contém uma bola de metal oca preenchida com uma toxina líquida derivada de anomalias químicas. Ao impactar o alvo, a toxina vaporiza em uma nuvem química que enfraquece severamente os alvos e produz um efeito similar em alvos próximos. Contra todos os alvos, induz letargia e fraqueza, tornando-os mais suscetíveis a impactos e outras formas de dano. Especificamente com mutantes, a munição enfraquece sua capacidade de exercer força, reduzindo a força de seus ataques. Encomendado especialmente pelo Duty para aumentar as chances de sobrevivência em ataques de mutantes altamente perigosos, enfraquecendo os monstros mais fortes.</text>
+	</string>
+	<string id="ammo_new_23_eco_s">
+		<text>23x75 Nuvem Venenosa</text>
+	</string>
+	
+	<string id="st_ballistics_toxic">
+		<text>cria nuvens de toxina debilitante</text>
+	</string>
+
+	<string id="ammo_new_338_federal">
+		<text>Munição .338 Federal FMJ</text>
+	</string>
+	<string id="ammo_new_338_federal_descr">
+		<text>O .338 Federal é um cartucho de rifle baseado no estojo do .308 Winchester aumentado para calibre .33. Foi criado pela Federal Cartridge e Sako em 2006 e destinado como um cartucho para caça de animais de grande porte com recuo razoável para rifles leves.</text>
+	</string>
+	<string id="ammo_new_338_federal_s">
+		<text>.338 Federal</text>
+	</string>
+	
+</string_table>

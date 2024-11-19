@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_tmrs_tasks_title">
+		<text>Temporizadores de Tarefas</text>
+	</string>
+	<string id="ui_mcm_menu_tmrs_tasks">
+		<text>Temporizadores de Tarefas</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_default_task">
+		<text>Padrão (se a tarefa não for encontrada)</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_supplies">
+		<text>Suprimentos</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_weapons">
+		<text>Armas</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_artefacts">
+		<text>Artefatos</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_mutant_meat">
+		<text>Carne de Mutante</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_mutant_parts">
+		<text>Partes de Mutante</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_patch">
+		<text>Insígnias</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_utility">
+		<text>Itens Utilitários</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_repair">
+		<text>Itens de Reparo</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_upgrade">
+		<text>Melhorias</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_hostage">
+		<text>Refém</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_bounty_task">
+		<text>Recompensa</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_assault_task">
+		<text>Assalto</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_quest_item_task">
+		<text>Documentos / Esconderijos</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_delivery_task">
+		<text>Entrega</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_measure_task">
+		<text>Medição de Anomalia</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_fate_task">
+		<text>Esquadrões Desaparecidos</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_spy_task">
+		<text>Salvar Agente</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_mechanics">
+		<text>Kits de Ferramentas do Mecânico (0.75 / 1 / 1.25)</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_medics">
+		<text>Kit de Ferramentas do Médico</text>
+	</string>
+
+	<string id="ui_mcm_tmrs_tasks_task_debugx">
+		<text>Depuração</text>
+	</string>
+
+</string_table>

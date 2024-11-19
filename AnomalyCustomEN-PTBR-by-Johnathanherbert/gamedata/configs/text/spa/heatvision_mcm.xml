@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="ui_mcm_heatvision_title">
+		<text>Configurações de Visão Térmica</text>
+	</string>	
+
+	<string id="ui_mcm_menu_heatvision">
+		<text>Visão Térmica</text>
+	</string>
+	
+	
+	<string id="ui_mcm_heatvision_nvg_view_through_scope_mcm">
+		<text>Pode usar ao Mirar pela Mira:</text>
+	</string>
+	
+	<string id="ui_mcm_heatvision_nvg_view_through_scope_mcm_desc">
+		<text>Se esta caixa estiver marcada, você pode manter sua visão térmica ativada enquanto mira. Se estiver desmarcada, seu personagem desativará os óculos de visão noturna ao levantar a arma.</text>
+	</string>
+	
+	<string id="ui_mcm_heatvision_nvg_stays_pda_mcm">
+		<text>Visão térmica permanece ativa ao ver o PDA:</text>
+	</string>
+	
+	<string id="ui_mcm_heatvision_nvg_stays_pda_mcm_desc">
+		<text>Se esta caixa estiver desmarcada, sua visão térmica será automaticamente desativada ao olhar para seu PDA.</text>
+	</string>
+	
+	<string id="ui_mcm_heatvision_nvg_tubes_mcm">
+		<text>Configuração dos Tubos: (Padrão quatro tubos centralizados)</text>
+	</string>
+	
+	<string id="ui_mcm_heatvision_nvg_tubes_mcm_desc">
+		<text>Escolha o número de tubos.</text>
+	</string>
+
+	
+	<string id="ui_mcm_lst_single_centered">
+		<text>Tubo único, Centralizado</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_left">
+		<text>Tubo único, Lado Esquerdo</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_right">
+		<text>Tubo único, Lado Direito</text>
+	</string>
+	
+	<string id="ui_mcm_lst_dual_centered">
+		<text>Dois Tubos, Centralizados</text>
+	</string>
+	
+	<string id="ui_mcm_lst_quad_centered">
+		<text>Quatro Tubos, Centralizados</text>
+	</string>
+	
+	
+	<string id="ui_mcm_heatvision_nvg_mode_mcm">
+		<text>Fundo da Sobreposição: (Padrão sobreposição desfocada)</text>
+	</string>
+	
+	<string id="ui_mcm_heatvision_nvg_mode_mcm_desc">
+		<text>Escolha qual sobreposição de fundo você deseja</text>
+	</string>
+	
+	
+	<string id="ui_mcm_lst_blurred_background">
+		<text>Sobreposição Desfocada</text>
+	</string>
+	
+	<string id="ui_mcm_lst_black_background">
+		<text>Sobreposição Preta</text>
+	</string>
+	
+	<string id="ui_mcm_lst_image_overlay">
+		<text>(Não implementado) Sobreposição de Imagem</text>
+	</string>
+	
+	<string id="ui_mcm_lst_clear_vision">
+		<text>Sem Sobreposição (visão clara)</text>
+	</string>
+	
+</string_table>

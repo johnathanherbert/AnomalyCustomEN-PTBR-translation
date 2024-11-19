@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_grok_dd">
+        <text>Despawnador dinâmico</text>
+    </string>
+	<string id="ui_mcm_grok_dd_title">
+        <text>Despawnador dinâmico do Grok</text>
+    </string>
+    <string id="ui_mcm_grok_dd_npc_threshold">
+        <text>Número máximo de NPCs online mantidos vivos</text>
+    </string>
+    <string id="ui_mcm_grok_dd_enabled">
+        <text>Ativar despawnador dinâmico do Grok?</text>
+    </string>
+    <string id="ui_mcm_grok_dd_check_tasks">
+        <text>Impedir a exclusão de NPCs com tarefas?</text>
+    </string>
+</string_table>

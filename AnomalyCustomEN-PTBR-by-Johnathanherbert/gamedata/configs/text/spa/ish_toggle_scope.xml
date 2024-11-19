@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!--Traduzido por Johnathanherbert-->
+<string_table>
+	<string id="ui_mcm_menu_toggle_scope">
+		<text>Alternar miras</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle">
+		<text>Alternar/Trocar miras</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle_desc">
+		<text>%c[d_green]•%c[DEFAULT] Um toque: Encaixar/Desencaixar a mira atual.\n \n%c[d_green]•%c[DEFAULT] Dois toques: Alterna para a próxima mira compatível.</text>
+	</string>
+</string_table>

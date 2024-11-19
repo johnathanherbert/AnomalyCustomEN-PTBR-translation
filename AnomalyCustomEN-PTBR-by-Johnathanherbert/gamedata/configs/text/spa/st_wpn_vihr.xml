@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_vihrn">
+		<text>SR-3M Vikhr</text>
+	</string>
+	<string id="st_wpn_vihrn_descr">
+		<text>O rifle de assalto compacto SR-3 "Vikhr" ("Redemoinho") foi desenvolvido pela CNIITochMash e fabricado pela Tula Arms Plant. Inicialmente conhecido como MA ("Malogabaritnyi Avtomat", "rifle de assalto de pequeno porte"), era baseado no fuzil de assalto AS Val 9x39mm com silenciador e destinado ao transporte oculto por equipes especiais de proteção VIP e agentes do Serviço de Segurança Federal. O SR-3M Vikhr é o resultado da combinação das qualidades do SR-3, do AS Val e do VSS Vintorez. O SR-3M também possui maior capacidade de 30 tiros, com carregador que proporciona carregamento mais confiável durante disparos automáticos.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Rússia \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Tula Arms Plant \n</text>
+	</string>
+</string_table>

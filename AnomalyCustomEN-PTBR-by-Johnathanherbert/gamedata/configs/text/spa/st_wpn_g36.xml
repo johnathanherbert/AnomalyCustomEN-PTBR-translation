@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_g36new">
+		<text>G36</text>
+	</string>
+	<string id="st_wpn_g36new_descr">
+		<text>O H&amp;K G-36 era conhecido como projeto HK-50 no início dos anos 1990. Após o cancelamento dos projetos G11 e G41, o Bundeswehr ficou com rifles G3 obsoletos; a Heckler &amp; Koch foi designada para desenvolver um novo fuzil de assalto tanto para o exército alemão quanto para exportação. O novo fuzil de assalto 5.56x45mm foi adotado pelo Bundeswehr em 1995 e também encontrou seu caminho nas mãos de várias agências de aplicação da lei em todo o mundo, incluindo a polícia britânica e alguns departamentos de polícia dos EUA. Até agora, houve poucas reclamações sobre este rifle. As mais comuns são o superaquecimento dos guarda-mãos durante fogo sustentado e a perda de zeragem na mira integrada dos rifles G36KE. Alguns soldados alemães também reclamaram da posição das miras ópticas duplas e que ela embaça facilmente em mau tempo. Caso contrário, é preciso, confiável e simples de manter.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n \n</text>
+	</string>
+	<string id="st_wpn_g36new_k">
+		<text>G36K</text>
+	</string>
+	<string id="st_wpn_g36new_k_descr">
+		<text>A versão Carabina (K significa "kurz", curto) do G36. Com um cano mais curto que o original, oferece melhor manuseio e menor peso, tendo um recuo e precisão ligeiramente piores, mas ainda não prejudiciais. Também não possui mira integrada, em vez disso, vem com miras de ferro embaladas com trilhos picatinny adequados para muitas miras NATO. Esta variante é a mais popular entre todos os usuários, seja Militar ou Policial, considerada uma melhoria massiva em relação ao G36. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, C-MORE, EOTech\n \n</text>
+	</string>
+	<string id="st_wpn_g36new_c">
+		<text>G36C</text>
+	</string>
+	<string id="st_wpn_g36new_c_descr">
+		<text>Versão Compacta do G36. Com um cano muito mais curto que o original, oferece melhor manuseio e peso muito menor, tendo pior recuo e precisão. Melhor usado para encontros próximos, embora ainda não seja uma má arma para combate a longa distância. O G36C foi feito para compactar ainda mais o já compacto G36K, é um verdadeiro favorito entre os operadores SWAT e mostrou-se muito útil em Combate Urbano. Vem com uma mira de ferro peculiar, da versão lituana do G36, indicando que esta é uma mistura do G36C original e da versão lituana, tal é a busca por recursos na Zona. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, C-MORE, EOTech\n \n</text>
+	</string>
+	<string id="st_wpn_g36new_nimble">
+		<text>G36L "F34R"</text>
+	</string>
+	<string id="st_wpn_g36new_nimble_descr">
+		<text>Uma variante estranha do G36. Parece que um ex-militar das Forças Armadas Lituanas o usou, fazendo algumas mudanças pessoais ao longo do caminho. A arma é similar ao G36K, mas muito mais leve, e ainda assim não tem redução na precisão e o recuo é igualmente suportável. O ferrolho foi pessoalmente modificado para disparar ainda mais rápido que o normal. O guarda-mão é uma versão lituana do G36K, que é mais leve e tem trilhos picatinny, permitindo acoplar o Lançador de Granadas M203. Também possui miras de ferro KAC com miras de Trítio integradas, sendo a frente muito mais alta em contraste com a traseira para melhor visualização. O próprio KAC inclui trilhos picatinny para fixação de mira. Uma maravilha, ainda que um pouco peculiar como variante do G36. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, C-MORE, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas M203\n \n</text>
+	</string>
+</string_table>

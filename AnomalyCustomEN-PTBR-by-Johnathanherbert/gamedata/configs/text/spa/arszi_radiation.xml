@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+  <string id="st_underground">
+      <text>Você está no subterrâneo, não consegue sentir o clima atual</text>
+  </string>
+
+   <string id="st_weather_is">
+      <text>O clima está</text>
+  </string>
+
+  <string id="st_wind_power_no_wind">
+      <text>Você não sente vento. O ar está calmo.</text>
+  </string>
+
+  <string id="st_wind_power_slight_breeze">
+      <text>Você sente uma leve brisa.</text>
+  </string>
+
+  <string id="st_wind_power_weak">
+      <text>Você sente um vento fraco.</text>
+  </string>
+
+  <string id="st_wind_power_moderate">
+      <text>Você sente um vento moderado.</text>
+  </string>
+
+  <string id="st_wind_power_strong">
+      <text>Você sente um vento forte.</text>
+  </string>
+
+  <string id="st_wind_power_very_strong">
+      <text>O vento está realmente forte.</text>
+  </string>
+
+  <string id="st_wind_power_storm">
+      <text>O vento está tempestuoso, assobiando fortemente.</text>
+  </string>
+
+  <string id="st_wind_power_storm">
+      <text>O vento está tempestuoso, assobiando fortemente.</text>
+  </string>
+
+  <string id="st_direction">
+      <text>Ele sopra na direção</text>
+  </string>
+
+  <string id="st_direction_north">
+      <text>norte.</text>
+  </string>
+
+  <string id="st_direction_north_east">
+      <text>nordeste.</text>
+  </string>
+
+  <string id="st_direction_east">
+      <text>leste.</text>
+  </string>
+
+  <string id="st_direction_south_east">
+      <text>sudeste.</text>
+  </string>
+
+  <string id="st_direction_south">
+      <text>sul.</text>
+  </string>
+
+  <string id="st_direction_south_west">
+      <text>sudoeste.</text>
+  </string>
+
+  <string id="st_direction_west">
+      <text>oeste.</text>
+  </string>
+
+  <string id="st_direction_north_west">
+      <text>noroeste.</text>
+  </string>
+
+  <string id="st_clear">
+      <text>limpo</text>
+  </string>
+
+  <string id="st_partly_clear">
+      <text>parcialmente limpo</text>
+  </string>
+
+  <string id="st_foggy">
+      <text>nebuloso</text>
+  </string>
+
+  <string id="st_cloudy">
+      <text>nublado</text>
+  </string>
+
+  <string id="st_rain">
+      <text>chuva</text>
+  </string>
+
+  <string id="st_storm">
+      <text>tempestade</text>
+  </string>
+
+  <!--RELAT?RIO DO TEMPO-->
+  <string id="st_warning_medium_to_strong">
+      <text>O vento tornou-se tempestuoso e está levantando poeira radioativa! Encontrem abrigo stalkers, está perigoso lá fora!</text>
+  </string>
+
+  <string id="st_warning_none_to_medium">
+      <text>O vento está ficando mais forte, tome cuidado!</text>
+  </string>
+
+  <string id="st_warning_strong_to_medium">
+      <text>O vento tem se acalmado um pouco, mas ainda está forte. Não deixem a guarda baixa ainda!</text>
+  </string>
+
+  <string id="st_warning_medium_to_none">
+      <text>O vento se enfraqueceu, podemos relaxar por enquanto stalkers...</text>
+  </string>
+
+  <!--RED FOREST CAKE-->
+    <!--LIMPO-->
+    <string id="st_weather_clear_from_partly">
+      <text>Um milagre: quase nenhuma nuvem no céu! Aproveitem o sol enquanto dura.</text>
+    </string>
+
+    <string id="st_weather_clear_from_foggy">
+      <text>A névoa desapareceu revelando um dia brilhante e ensolarado.</text>
+    </string>
+
+    <string id="st_weather_clear_from_cloudy">
+      <text>As nuvens desapareceram, vamos aproveitar o céu limpo novamente! Sem piadas...</text>
+    </string>
+
+    <string id="st_weather_clear_from_rain">
+      <text>A chuva acabou, vamos ver o céu limpo logo! Sem piadas ainda...</text>
+    </string>
+
+    <string id="st_weather_clear_from_storm">
+      <text>A tempestade está se acalmado, e já posso ver o sol aparecendo!</text>
+    </string>
+
+    <!--PARCIALMENTE LIMPO-->
+    <string id="st_weather_partly_from_clear">
+      <text>O clima está atualmente parcialmente nublado. 60% chance de nevoeiro ou condensação em algumas horas.</text>
+    </string>
+
+    <string id="st_weather_partly_from_foggy">
+      <text>A névoa está se dissipando. Ventos estão entre 5 e 10 mph. Atualmente parcialmente nublado.</text>
+    </string>
+
+    <string id="st_weather_partly_from_cloudy">
+      <text>As nuvens começaram a se quebrar. Não se espere que dure.</text>
+    </string>
+
+    <string id="st_weather_partly_from_rain">
+      <text>As nuvens de chuva começaram a se quebrar. Estamos vendo rápida dispersão para condições parcialmente nubladas.</text>
+    </string>
+
+    <string id="st_weather_partly_from_storm">
+      <text>As nuvens de tempestade começaram a se quebrar, esperem condições mais suaves nos próximos horas. A menos que uma emissão aconteça, claro...</text>
+    </string>
+
+    <!--NEBULOSO-->
+    <string id="st_weather_foggy_from_clear">
+      <text>Níveis de umidade tomaram uma subida inesperada. A Zona está agora envolta em nevoeiro. Verifique seu fogo, e fique atento a mutantes.</text>
+    </string>
+
+    <string id="st_weather_foggy_from_partly">
+      <text>Níveis de umidade estão subindo. Estamos passando de parcialmente nublado para nebuloso. Tome as coisas devagar, e não se torne muito agressivo.</text>
+    </string>
+
+    <string id="st_weather_foggy_from_cloudy">
+      <text>Boa notícia: você não verá uma nuvem no céu. Má notícia: é por causa do nevoeiro.</text>
+    </string>
+
+    <string id="st_weather_foggy_from_rain">
+      <text>A condensação mudou de chuva para nevoeiro. Mantenha seu lenço ou respirador se você tiver pulmões fracos.</text>
+    </string>
+
+    <string id="st_weather_foggy_from_storm">
+      <text>Passamos de tempestades para nevoeiro. Esperem níveis de umidade continuarem subindo nos próximos horas, mas não esperem obter muito Vitamina D hoje.</text>
+    </string>
+
+    <!--NUBLADO-->
+    <string id="st_weather_cloudy_from_clear">
+      <text>Viemos ver subidas rápidas em níveis de umidade. Esperem condições nubladas persistirem nos próximos horas.</text>
+    </string>
+
+    <string id="st_weather_cloudy_from_partly">
+      <text>Parece que as nuvens estão ficando mais espessas. Se elas não se dissiparem nas próximas horas, esperem uma chance de chuva.</text>
+    </string>
+
+    <string id="st_weather_cloudy_from_foggy">
+      <text>O clima mudou de nebuloso para condições nubladas. Esperem níveis de temperatura cair.</text>
+    </string>
+
+    <string id="st_weather_cloudy_from_rain">
+      <text>A precipitação parou. Esperem níveis de temperatura e umidade subirem. Há ainda nuvens espessas no céu.</text>
+    </string>
+
+    <string id="st_weather_cloudy_from_storm">
+      <text>Esperem cobertura de nuvens ser espessa, mas calma nos próximos horas. Há 40% chance de o céu se limpar mais tarde hoje.</text>
+    </string>
+
+    <!--CHUVA-->
+    <string id="st_weather_rain_from_clear">
+      <text>Chuva repentina atingiu a Zona. Há 20% chance de piorar.</text>
+    </string>
+
+    <string id="st_weather_rain_from_partly">
+      <text>Cobertura de nuvens rapidamente se espessou, e estamos vendo uma chuva repentina. Espero que seu traje seja impermeável.</text>
+    </string>
+
+    <string id="st_weather_rain_from_cloudy">
+      <text>Níveis de temperatura estão caindo. Esperem precipitação moderada a pesada nos próximos horas.</text>
+    </string>
+
+    <string id="st_weather_rain_from_foggy">
+      <text>Boa notícia: a névoa desapareceu! Infelizmente, está chovendo agora.</text>
+    </string>
+
+    <string id="st_weather_rain_from_storm">
+      <text>Se você sair, você notará que o clima não é mais frio, úmido e tempestuoso: agora é apenas frio e úmido!</text>
+    </string>
+
+    <!--TEMPESTADE-->
+    <string id="st_weather_storm_from_clear">
+      <text>Se você estava fazendo um piquenique à beira da estrada, tenho pena de você. O clima ensolarado foi interrompido por uma tempestade inesperada. Esperem que dure.</text>
+    </string>
+
+    <string id="st_weather_storm_from_partly">
+      <text>Cobertura de nuvens rapidamente se espessou, e já estou vendo flashes de raio! Mantenha seus dispositivos seguros.</text>
+    </string>
+
+    <string id="st_weather_storm_from_cloudy">
+      <text>Níveis de temperatura estão caindo rapidamente. Esperem tempestades pesadas: mantenha seus dispositivos seguros.</text>
+    </string>
+
+    <string id="st_weather_storm_from_rain">
+      <text>Depois de uma chuva refrescante, por que não aproveitar a vinda da tempestade? Por outro lado, há 60% chance de ela se dissipar em algumas horas.</text>
+    </string>
+
+    <string id="st_weather_storm_from_foggy">
+      <text>A névoa foi simplesmente soprada... por uma tempestade. Níveis de temperatura estão caindo rapidamente.</text>
+    </string>
+
+    <!--NOITE-->
+    <string id="st_weather_clear_from_partly_night">
+      <text>Um milagre: quase nenhuma nuvem no céu! Aproveite para observar as estrelas.</text>
+    </string>
+
+    <string id="st_weather_clear_from_foggy_night">
+      <text>A névoa desapareceu revelando uma noite estrelada e brilhante.</text>
+    </string>
+
+    <string id="st_weather_clear_from_storm_night">
+      <text>A tempestade está se acalmando, e já posso ver a lua aparecendo!</text>
+    </string>
+
+    <string id="st_weather_storm_from_clear_night">
+      <text>Se você estava fazendo um piquenique à beira da estrada, tenho pena de você. A atmosfera romântica desta noite foi interrompida por uma tempestade inesperada. Deve durar um tempo.</text>
+    </string>
+</string_table>

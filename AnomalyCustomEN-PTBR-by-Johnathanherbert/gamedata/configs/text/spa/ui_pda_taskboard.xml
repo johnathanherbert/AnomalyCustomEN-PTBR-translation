@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_pda_accept_task">
+		<text>Aceitar tarefa</text>
+	</string>
+	<string id="st_pda_refresh_tasks">
+		<text>Atualizar tarefas</text>
+	</string>
+	<string id="st_pda_next_task">
+		<text>Próxima tarefa</text>
+	</string>
+	<string id="pda_btn_taskboard">
+		<text>Quadro de Tarefas</text>
+	</string>
+
+	<string id="st_pda_caption_setup_bounty_task">
+		<text>Tarefas de Recompensa</text>
+	</string>
+	<string id="st_pda_caption_setup_assault_task">
+		<text>Tarefas de Assalto a Acampamentos</text>
+	</string>
+	<string id="st_pda_caption_setup_spy_task">
+		<text>Tarefas de Extração de Espiões</text>
+	</string>
+	<string id="st_pda_caption_on_init_delivery_task">
+		<text>Tarefas de Entrega</text>
+	</string>
+	<string id="st_pda_caption_setup_measure_task">
+		<text>Tarefas de Medição</text>
+	</string>
+	<string id="st_pda_caption_on_init_fate_task">
+		<text>Tarefas do Destino</text>
+	</string>
+	<string id="st_pda_caption_setup_dominance_task">
+		<text>Tarefas de Dominação</text>
+	</string>
+	<string id="st_pda_caption_setup_fetch_task">
+		<text>Tarefas de Busca</text>
+	</string>
+	<string id="st_pda_caption_script">
+		<text>Tarefas com Script</text>
+	</string>
+	<string id="st_pda_caption_rest">
+		<text>Outras Tarefas</text>
+	</string>
+</string_table>

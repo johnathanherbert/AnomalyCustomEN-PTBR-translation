@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_soulslike">
+		<text>Soulslike</text>
+	</string><!--Geral--><string id="ui_mcm_soulslike_general">
+        <text>Geral</text>
+    </string>
+    <string id="ui_mcm_soulslike_general_title">
+        <text>Configurações Soulslike do Jabbers</text>
+    </string>
+    <string id="ui_mcm_soulslike_general_description">
+        <text>O mod Soulslike traz elementos dos jogos Souls para S.T.A.L.K.E.R. Após a morte, um stalker aleatório da Zona salva você. Ele leva você de volta ao último local onde você acordou, onde você encontrará uma mensagem dele sobre como ele o encontrou e até onde conseguiu levá-lo em segurança. Você terá que recuperar os itens que estavam com seu personagem; alguns podem ser perdidos e o estado pode piorar, tudo depende da configuração.</text>
+     </string>
+    <string id="ui_mcm_soulslike_general_disclaimer">
+        <text>AVISO: Não reclame, esse mod tem que deixar o jogo mais difícil. Portanto, é perfeitamente possível que você se encontre em uma situação onde perca seu equipamento inesperadamente. A perda aleatória de itens após a morte significa que você pode perder suas armas ou armaduras. Morrer no meio de uma anomalia e não conseguir recuperar o seu equipamento é possível e esperado. Tenha sempre um kit reserva, antecipe o pior e espere pelo melhor.</text>
+    </string><!--Personagem--><string id="ui_mcm_soulslike_character">
+        <text>Personagem</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_title">
+        <text>Configurações do Personagem</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_rank_loss_percent">
+        <text>% de perda de ranking</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_rank_loss_percent_desc">
+        <text>O personagem perderá essa quantidade de ranking ao reaparecer.</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_rep_loss_percent">
+        <text>% de perda de reputação</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_rep_loss_percent_desc">
+        <text>O personagem perderá essa quantidade de reputação ao reaparecer. Refere-se à sua reputação pessoal, não à sua reputação na facção.</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_health_loss_on_respawn">
+        <text>% perda de saúde</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_health_loss_on_respawn_desc">
+        <text>Isso adiciona mais dificuldade ao jogo. Esta é a quantidade de saúde que será tirada de você quando reaparecer. Por exemplo: Com 25%, você terá 75% de saúde ao reaparecer. O conceito é que você ainda estaria levemente ferido e seria obrigado a tomar algum remédio para se curar antes de tentar continuar e recuperar seus itens de onde morreu.</text>
+    </string><!--Itens--><string id="ui_mcm_soulslike_items">
+        <text>Itens</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_title">
+        <text>Configurações de Itens</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_weapon_loss">
+        <text>Permitir perda de armas</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_outfit_loss">
+        <text>Permitir perda de trajes</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_headgear_loss">
+        <text>Permitir perda de capacetes</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_artifact_loss">
+        <text>Permitir perda de artefatos</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_tool_loss">
+        <text>Permitir perda de ferramentas</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_scalar_description">
+        <text>A perda de itens e status depende do seu ranking. Quando você morre, quanto maior seu ranking, maior a probabilidade de perder um item ou ter seu status reduzido. Isso é para facilitar as coisas no início do jogo, mas conforme você avança, as consequências da morte se tornam mais graves. Consulte o balão de ajuda em cada opção para obter uma explicação mais detalhada.</text>
+     </string>
+    <string id="ui_mcm_soulslike_items_item_loss_scalar">
+        <text>Multiplicador de perda de itens</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_item_loss_scalar_desc">
+        <text>No ranking máximo, seu personagem tem 75% de chance de perder cada item ao morrer. O multiplicador de perda de itens permite que você ajuste a perda de itens ao seu gosto. No valor padrão de 0,20 (20%), a probabilidade máxima de perda para cada item seria de 15%. Você deve definir um valor que corresponda ao seu nível aceitável de perda de itens. Por exemplo: 0,10 = 7,5%, 0,20 = 15%, 0,30 = 22%, 0,40 = 30%... Você está entendendo?</text>
+    </string>
+    
+    <string id="ui_mcm_soulslike_items_item_condition_loss_scalar">
+        <text>Multiplicador de perda de condição dos itens</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_item_condition_loss_scalar_desc">
+        <text>No ranking máximo, seu personagem perderá 18 pontos de condição em cada item ao morrer. O multiplicador de perda de condição do item permite ajustar essa perda ao seu gosto. No valor padrão de 0,05 (5%), a perda máxima de condição para cada item seria de 3,7 pontos. Você deve definir um valor que corresponda ao seu nível aceitável de perda de condição do item. Por exemplo: 0,05 = 3,7, 0,10 = 7,4, 0,15 = 11... Você está entendendo?</text>
+    </string><!--Cenários--><string id="ui_mcm_soulslike_scenarios">
+        <text>Cenários</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_title">
+        <text>Configurações de Cenário</text>
+    </string>
+    <string id="ui_mcm_soulslike_scenarios_description">
+        <text>Cenários soulslike são dinâmicos por natureza. Os eventos de respawn ocorrem com base em quem te matou, como eles te mataram, onde, quão perto você estava do seu ponto de spawn quando morreu, se você estava dentro ou fora, para citar alguns. Essas configurações existem para permitir que você personalize as maneiras pelas quais deseja tentar recuperar seus pertences. O cenário padrão que sempre existe é que você pode acabar com todos os seus itens com você ao reaparecer (novamente, com base nos eventos), ou pode descobrir que seus itens estão em uma mochila no chão onde seu corpo foi encontrado. As opções abaixo se somam a estas e seu peso pode ser modificado para torná-las mais ou menos frequentes.</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight">
+        <text>Peso do cenário do detector RF</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight_desc">
+        <text>Como um nível extra de dificuldade e para variar um pouco, ao usar este cenário, seu salvador moverá todos os seus itens para um esconderijo oculto na mesma região onde o encontrou. Ele lhe dirá a frequência RF que você precisará sintonizar para recuperar seu equipamento e também deixará uma nota em seu inventário como lembrete.</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_hidden_stash_scenario_weight">
+        <text>Peso do cenário de esconderijo oculto</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight_desc">
+        <text>Como um nível extra de dificuldade e para variar um pouco, ao usar este cenário, seu salvador moverá todos os seus itens para um esconderijo oculto e marcará-o em seu PDA.</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_looter_npcs_marked">
+        <text>Marcar NPCs saqueadores no PDA</text>
+    </string>
+    <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight_desc">
+        <text>Quando um NPC saquear seu equipamento, esta opção permitirá que você os rastreie em seu PDA.</text>
+     </string><!--Emboscadas--><string id="ui_mcm_soulslike_ambush">
+        <text>Emboscadas</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_title">
+        <text>Configurações de Emboscada</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_description">
+        <text>Dependendo do que aconteceu no cenário e dos itens que seu personagem está carregando, há uma chance de que ocorra uma emboscada onde seu corpo foi descoberto.</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_mutant_ambush_chance">
+        <text>Chance de emboscada mutante</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_boar_ambush">
+        <text>Permitir emboscadas de Boars</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_flesh_ambush">
+        <text>Permitir emboscadas de Flesh</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_dogs_ambush">
+        <text>Permitir emboscadas de Dogs</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_cats_ambush">
+        <text>Permitir emboscadas de Cats</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_snorks_ambush">
+        <text>Permitir emboscadas de Snorks</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_bloodsucker_ambush">
+        <text>Permitir emboscadas de Bloodsuckers</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_burer_ambush">
+        <text>Permitir emboscadas de Burers</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_chimera_ambush">
+        <text>Permitir emboscadas de Chimeras</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_controller_ambush">
+        <text>Permitir emboscadas de Controllers</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_stalker_ambush_chance">
+        <text>Probabilidade de emboscada de stalkers</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_stalker_novice_ambush">
+        <text>Permitir emboscadas de stalkers novatos</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_stalker_advanced_ambush">
+        <text>Permitir emboscadas de stalkers experientes</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_stalker_veteran_ambush">
+        <text>Permitir emboscadas de stalkers veteranos</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_stalker_sniper_ambush">
+        <text>Permitir emboscadas de stalkers atiradores</text>
+    </string><!--Hardcore--><string id="ui_mcm_soulslike_hardcore">
+        <text>Hardcore</text>
+    </string>
+    <string id="ui_mcm_soulslike_hardcore_title">
+        <text>Configurações Hardcore</text>
+    </string>
+    <string id="ui_mcm_soulslike_hardcore_save_description">
+        <text>É como se você estivesse em uma situação extremamente difícil - o salvamento hardcore desativa os salvamentos manuais, rápidos e de fogueira e haverá apenas um arquivo salvo. O salvamento hardcore só permite que você salve enquanto dorme e reaparece. Observe que, como só pode haver um arquivo salvo, você pode ficar preso em uma situação em que será difícil avançar se perder todo o seu equipamento e não tiver dinheiro para curar ou comer.</text>
+     </string>
+    <string id="ui_mcm_soulslike_hardcore_is_enabled">
+        <text>Ativar salvamento hardcore</text>
+    </string>    
+    <string id="ui_mcm_soulslike_hardcore_override_campfire_hardcore_saves">
+        <text>Permitir salvamentos na fogueira com salvamentos hardcore</text>
+    </string>
+    <string id="ui_mcm_soulslike_hardcore_override_campfire_hardcore_saves_desc">
+        <text>Às vezes você precisa daquela sensação calorosa de bem-estar que obtém ao salvar com frequência. Isso permitirá que você salve em fogueiras, mesmo se o salvamento hardcore estiver ativado. Observe que os salvamentos da fogueira ainda serão excluídos ao reaparecer ou dormir se o salvamento hardcore estiver ativado.</text>
+    </string><!--Debug--><string id="ui_mcm_soulslike_debug">
+        <text>Desenvolvedor</text>
+    </string> 
+    <string id="ui_mcm_soulslike_debug_title">
+        <text>Configurações do Desenvolvedor</text>
+    </string>    
+    <string id="ui_mcm_soulslike_debug_is_enabled">
+        <text>Modo de depuração</text>
+    </string>  
+    <string id="ui_mcm_soulslike_debug_enable_tips">
+        <text>Mostrar mensagens no PDA</text>
+    </string>    
+    <string id="ui_mcm_soulslike_debug_debug_hidden_stashes">
+        <text>Depurar esconderijos ocultos</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_item_loss">
+        <text>Depurar perda de itens</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_tarkov_looter">
+        <text>Depurar saqueador de Tarkov</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_noloss_scenario">
+        <text>Depurar cenário sem perdas</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_default_scenario">
+        <text>Depurar cenário padrão com perdas</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_rf_scenario">
+        <text>Depurar cenário do detector RF</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_hidden_stash_scenario">
+        <text>Depurar cenário de esconderijo oculto</text>
+    </string>
+</string_table>

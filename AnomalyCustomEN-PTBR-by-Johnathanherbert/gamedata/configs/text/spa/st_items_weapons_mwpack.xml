@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_wpn_svd_ghillie">
+		<text>SVD Ghillie</text>
+	</string>
+	<string id="st_wpn_svd_ghillie_descr">
+		<text>Originalmente destinado a atiradores designados em cada unidade básica de infantaria soviética, o Dragunov SVD não foi projetado para equipes especializadas de atiradores de elite. Relativamente leve para um rifle de precisão, mas bem equilibrado e tendo disparo semiautomático, sua precisão é boa, mas não excepcional. Tem um alcance efetivo de até 800 metros. Este modelo teve camuflagem ghillie anexada, tornando a identificação do usuário mais difícil. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Mira PSO-1 (integrada) \n \n</text>
+	</string>
+
+</string_table>

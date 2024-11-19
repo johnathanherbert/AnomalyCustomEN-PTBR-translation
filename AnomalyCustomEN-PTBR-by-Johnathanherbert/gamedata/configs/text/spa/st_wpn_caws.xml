@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+<string id="st_wpn_caws">
+		<text>HK CAWS</text>
+	</string>
+	<string id="st_wpn_caws_descr">
+		<text>A HK CAWS (Close Assault Weapon System - Sistema de Arma para Assalto Próximo) é uma espingarda de última geração projetada pela Heckler &amp; Koch, renomada por seus avanços tecnológicos. Esta arma futurista é uma notável combinação de poder, versatilidade e inovação. Ela utiliza munição sem estojo, eliminando a necessidade de cartuchos de latão tradicionais e permitindo um design mais compacto e leve. A HK CAWS possui um carregador tipo tambor de alta capacidade e ação semiautomática, proporcionando poder de fogo rápido e preciso em situações de combate a curta distância. Seu design modular permite a instalação de diversos acessórios, aumentando sua adaptabilidade a diferentes cenários de combate. Com sua engenharia avançada e recursos de última geração, a HK CAWS representa o ápice da tecnologia moderna em espingardas.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Alemanha \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Heckler &amp; Koch \n</text>
+	</string>	
+</string_table>

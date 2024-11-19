@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+	<string id="encyclopedia_anomalies">
+		<text>Anomalias</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_emission">
+		<text>Emissão</text>
+	</string>
+	<string id="encyclopedia_anomalies_emission_text">
+		<text>
+			%c[pda_white]Emissões%c[ui_gray_1], também conhecidas como %c[pda_green]Explosões%c[ui_gray_1], são liberações repentinas de grandes quantidades de radiação.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nVentos fortes, nuvens de tempestade e um céu vermelho escarlate aparecem com o início de uma emissão, seguidos por numerosas erupções de trovões e um profundo estrondo sob os pés.\n
+			\n\nEstes eventos começam com um forte aumento da atividade radioativa, anormal e psíquica - e terminam com a destruição da maior parte da vida em seu rastro, pois as ondas de radiação cobrem a Zona.\n
+			\n\nApesar de ser extremamente mortal, ainda é bastante fácil sobreviver a uma emissão, abrigando-se dentro de edifícios ou túneis subterrâneos, até que o evento tenha terminado.\n
+			\n\nDa mesma forma que uma tempestade psíquica, a enorme quantidade de energia liberada por uma emissão parece "recarregar" muitas anomalias, permitindo que os stalkers cultivem novos artefatos a partir delas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_phantom">
+		<text>Phantom</text>
+	</string>
+	<string id="encyclopedia_anomalies_phantom_text">
+		<text>
+			%c[pda_white]Phantoms%c[ui_gray_1] são seres ilusórios que existem dentro da mente, e não fisicamente.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEmbora difícil de classificar como uma anomalia ou um mutante, um Phantom é uma projeção mental involuntária de um mutante atualmente encontrado em algum lugar dentro da Zona.\n
+			\n\nEstas projeções são sempre acompanhadas por um ruído audível "uivante" e parecem brilhantes e transparentes, flutuando gradualmente em direção à vítima através das paredes e do ar.\n
+			\n\nNão se sabe por que eles só tomam a forma de mutantes, inclusive aqueles que um stalker nunca encontrou, e por que eles nunca tomam a aparência daqueles que estão agora extintos, como o Tark.\n
+			\n\nUma teoria líder sobre este fenômeno sugere que os mutantes vivos da Zona estão de alguma forma fortemente ligados à Noosfera, e que através disso um campo psíquico imprime involuntariamente sua aparência visual e natureza hostil na mente de suas vítimas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_psistorm">
+		<text>Tempestades Psíquicas</text>
+	</string>
+	<string id="encyclopedia_anomalies_psistorm_text">
+		<text>
+			%c[pda_white]Tempestades Psíquicas%c[ui_gray_1] consistem em múltiplos vórtices psíquicos, que liberam quantidades letais de energia psíquica.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEstas anomalias climáticas incomuns são novas na Zona, e há muita especulação quanto ao que causa sua ocorrência.\n
+			\nComeçando com uma névoa roxa/rosa e grandes formações de nuvens de tempestade, leva muito pouco tempo para que uma tempestade se forme e comece a causar estragos na Zona.\n
+			\n\nSe o equipamento de um stalker oferece grande proteção contra danos psíquicos, ou faz uso de drogas para proporcionar um efeito semelhante, é possível sobreviver à descarga de vórtices psíquicos individuais durante a tempestade sem se abrigar.\n
+			\n\nIsso desde que se mediquem imediatamente depois, pois mesmo os stalkers mais preparados ainda se encontrarão em uma situação muito delicada após tal exposição.\n
+			\n\nSimilar às Emissões, a enorme quantidade de energia dispersa por uma tempestade psíquica parece "recarregar" muitas anomalias, permitindo que os stalkers cultivem novos artefatos a partir delas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_radiation">
+		<text>Radiação</text>
+	</string>
+	<string id="encyclopedia_anomalies_radiation_text">
+		<text>
+			%c[ui_gray_1]Bolsões de radiação ionizante, ou simplesmente %c[pda_green]radiação%c[ui_gray_1] para resumir, são áreas onde a contagem de radiação ambiente excede 50 mR por hora.
+			\n \n%c[pda_green]Informações%c[ui_gray_1]
+			\nEles podem ser encontrados em toda a Zona. Nas áreas externas, a radiação tende a ser dominante em espaços amplos e abertos e em pilhas de sucata (como pilhas de lixo ou sucata, carros, tratores e qualquer coisa mecânica).
+			\n \n%c[pda_green]Dicas%c[ui_gray_1]
+			\n• O %c[pda_white]Contador Geiger%c[ui_gray_1] é uma ferramenta essencial para detectar e medir a radiação ionizante. Quanto mais rápido o clique, mais radiação na área.
+			\n• Muitos stalkers morrem devido à doença da radiação. É altamente recomendável manter um pacote de %c[pda_white]Drogas anti-radiação%c[ui_gray_1] no seu bolso.
+			\n• Certifique-se de que sua máscara de gás esteja sempre em boas condições.
+			\n• %c[pda_white]Vodka%c[ui_gray_1] e %c[pda_white]cigarros%c[ui_gray_1] são amplamente utilizados entre os stalkers como uma alternativa barata, porém considerável, aos anti-radicais. Eles ajudam, curando o envenenamento por radiação lentamente.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_psi">
+		<text>Campo Psíquico</text>
+	</string>
+	<string id="encyclopedia_anomalies_psi_text">
+		<text>
+			\n \n%c[pda_green]Informações%c[ui_gray_1]
+			\nEstas são áreas com grandes atividades psíquicas que sobem até as nuvens e muitas vezes só são visíveis pela forma como tais colunas distorcem a luz que passa por elas.
+			\nEstes campos têm efeitos nocivos sobre o tecido cerebral, e às vezes podem ser um sinal visível de uma emissão psíquica, causando danos leves a pesados. Entretanto, na maioria das vezes estas colunas contêm poças de anomalias e, se nenhuma anomalia estiver presente, elas estão acopladas a áreas altamente irradiadas. 
+			\nO campo psíquico não gera nenhum artefato.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_brain_scorcher">
+		<text>Brain Scorcher</text>
+	</string>
+	<string id="encyclopedia_anomalies_brain_scorcher_text">
+		<text>
+			%c[ui_gray_1]O %c[pda_green]Brain Scorcher%c[ui_gray_1] é uma antiga instalação militar que foi confiscada pelo Group e se tornou a primeira grande aplicação da tecnologia de controle da mente na Zona.
+			\n \n%c[pda_green]Informações%c[ui_gray_1]
+			Após a dissolução da União Soviética, o Group continuou a pesquisa iniciada em X8 e adaptou a instalação no Scorcher, ou mais importante, no Laboratório X-19 localizado em um antigo bunker embaixo das instalações.
+			\n\nQuando a Zona foi criada, o Scorcher foi ativado pela C-Consciousness a fim de obstruir o caminho para o centro da Zona. As emissões psíquicas geradas pela instalação foram eficazes para controlar os invasores e submetê-los à vontade do coletivo, criando stalkers zumbificados que formam a facção Monolith.
+			\n\nEnquanto a maioria dos stalkers que chegaram muito perto do Brain Scorcher tornaram-se zumbis, um grupo de stalkers conhecidos como Strelok Group conseguiu passar pelo Brain Scorcher (muito provavelmente com a ajuda do Guide) e alcançou o centro da Zona. O caminho para o Scorcher e a instalação em si foi fortemente guardado pelos Monolith.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_burner">
+		<text>Burner</text>
+	</string>
+	<string id="encyclopedia_anomalies_burner_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Burner%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]À base de fogo%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nO Burner pode ser um pouco difícil de ver, mesmo à luz do dia, pois só é revelado por uma névoa de calor tênue.
+			\nSe a anomalia for desencadeada por um ser vivo ou por um objeto como um parafuso de metal, ela dispara um alto pilar de chama no ar, queimando tudo o que está ao seu redor.
+			\n\nEmbora um pouco rara, a anomalia Burner é frequentemente encontrada em aglomerados. Alguns aglomerados também emitem uma temperatura ambiente extremamente alta, que cozinha qualquer coisa ao seu redor. Os Burners podem emitir temperaturas de 100 graus Celsius a vários milhares de graus - quente o suficiente para rachar concreto e derreter metal, o que explica porque alguns Burners aparecem em áreas que têm rachaduras maciças e solo severamente danificado, enquanto outros locais são intocados.
+			\n\nOs Burners são muito perigosos em altas dificuldades, e podem ser extremamente perigosos mesmo com armaduras de alto nível. Os Burners não têm um ponto de escape definido, como outras anomalias, ou mesmo um ponto de acionamento definido. O simples fato de estar ao redor pode desencadear uma conflagração.
+			\nUma tática para evitar danos é primeiro atirar um parafuso na anomalia, acionando-a, e depois correr rapidamente através do jato de chama. Esta tática, se usada repetidamente e sem demora, pode significar a diferença entre atravessar ileso ou torrar.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_comet">
+		<text>Comet</text>
+	</string>
+	<string id="encyclopedia_anomalies_comet_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Comet%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]À base de fogo%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nA anomalia Comet funciona muito como uma anomalia Burner, na medida em que lida com os danos causados pelo fogo em contato próximo, mas com uma diferença chave, na medida em que o Comet é móvel, pairando em torno de uma determinada área a um ritmo rápido.
+			\nA anomalia Comet, ao contrário do Burner, é extremamente poderosa: pode matar até mesmo um stalker bem equipado se ele for atingido diretamente.
+			\nEsta anomalia não gera nenhum tipo de artefato.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_vortex">
+		<text>Vortex</text>
+	</string>
+	<string id="encyclopedia_anomalies_vortex_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Vortex%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na gravidade%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nUma anomalia de natureza presumivelmente gravitacional. Quando acionado, o tremendo poder do Vortex arrasta tudo dentro de seu raio de 10-15 metros em direção ao centro. As vítimas arrastadas para o núcleo têm pouca ou nenhuma chance de sobrevivência: seus corpos são rapidamente apertados em um nódulo apertado, só para serem explodidos em uma poderosa descarga de energia um momento depois. Em alguns casos, elas podem levitar no ar em agonia, e logo seu corpo inteiro é triturado em meros ossos e pedaços de carne.
+			\n\nA anomalia permanece estacionária durante toda sua vida útil (uma semana, em média). Facilmente reconhecível à luz do dia pela flutuação do ar acima, folhas dançantes, fragmentos de cadáveres desmembrados ao redor e uma mancha escura distinta no centro, pode-se ouvir o som dessa anomalia, como se fosse sons de energia corrente. Altamente perigoso à noite, pois só pode ser revelado por meio de um detector ou jogando objetos metálicos dentro dele.
+			\n\nA diferença entre um Whirligig e um Vortex é bastante simples: tamanho e força. O Vortex tem um alcance muito maior, é muito mais difícil de escapar do que um Whirligig, e lida com muito mais danos. Escapar da anomalia Vortex, uma vez arrastado, pode variar de fácil a totalmente impossível, dependendo da força da anomalia e do nível de dificuldade. O tipo de armadura usada também é muito importante, pois as probabilidades são de que você leve pelo menos uma pancada. Um método possível de escapar, uma vez atraído, é esperar até que a anomalia descarregue, levando a pancada. Depois de descarregar, a anomalia não tem força de tração por aproximadamente um segundo, permitindo que você saia correndo e escape dela. Este método só será possível com uma armadura com alta proteção contra anomalias. Usar um exoesqueleto e ficar preso em um Vortex quase sempre acaba na morte do jogador, já que impede o pulo - o que significa que o jogador não pode escapar da anomalia uma vez atraído para dentro.
+			\n\nUma tática simples para escapar do Vortex requer tempo, saltos e resistência. Antes que a anomalia provoque danos, o jogador balançaria como um "elástico". Um jogador com um bom timing pode pular no momento certo, bem na borda do efeito do elástico (bem no momento em que se afasta de seu epicentro). Na borda, um pulo muito rápido e um salto pode tirar você dali suficientemente rápido para escapar.
+			\n\nNaturalmente, o método mais simples de escapar de um Vortex é evitá-lo completamente. A presença de um Vortex pode ser muito, muito facilmente identificada pelos sons que ele produz, semelhante a um som de "empenamento" que você ouviria em alguns filmes de ficção científica. A anomalia em si não é afetada por balas, granadas, foguetes RPG ou parafusos. Os parafusos simplesmente ricocheteiam para longe dela.
+			\n\nEncontrar um Vortex solitário geralmente não é um problema para uma pessoa que pode correr rápido. Entretanto, um agrupamento de vórtices é muito perigoso e, em alguns casos, um artefato pode estar parado no meio do agrupamento.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_springboard">
+		<text>Springboard</text>
+	</string>
+	<string id="encyclopedia_anomalies_springboard_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Springboard%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na gravidade%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nFoi um dos primeiros tipos de anomalias já registradas. Um Springboard é um campo gravitacional instável limitado a uma bolsa no nível do solo, com cerca de 1-2 metros de largura. Reage à presença de criaturas ou objetos, enviando uma poderosa onda de choque que danifica qualquer coisa dentro de seu raio. Os danos causados por esta alteração durante toda a vida útil da anomalia, desde pequenas contusões a ferimentos graves até a morte instantânea.
+			\n\nA anomalia Springboard é muito comum e pode ser encontrada em quase qualquer lugar da Zona, tanto no exterior como nos edifícios. A olho nu, a anomalia aparece como uma névoa de calor ondulante ou uma flutuação de ar acompanhada de folhas dançantes e, às vezes, manchas de cor carmesim no chão. Lançar um parafuso em um Springboard faz com que ele envie sua distinta onda de choque, tornando-o facilmente identificável.
+			\nÉ também uma das anomalias que são inofensivas para passar por ela depois de ter sido acionada, tornando os parafusos ferramentas muito úteis para navegar em um campo de Springboards. À medida que os jogadores se aproximam de um Springboard, sua visão se torna gradual mas marcadamente mais brilhante à medida que se aproximam da própria anomalia.
+			\n\nOs Springboards são facilmente identificáveis e facilmente evitáveis, mas os diferentes locais e pontos ímpares de aparecimentos na Zona podem torná-las um incômodo em um combate. Os stalkers têm frequentemente morrido no meio de um combate, esquecendo ou não notando a presença da anomalia por estarem distraídos e depois entrando diretamente nela. Assim como todas as anomalias, o melhor é procurar o local e encontrar uma forma de contornar a anomalia.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_whirligig">
+		<text>Whirligig</text>
+	</string>
+	<string id="encyclopedia_anomalies_whirligig_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Whirligig%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na gravidade%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nUma anomalia comum e perigosa, que arrebata suas vítimas no ar e as faz girar a uma velocidade vertiginosa. A natureza exata do Whirligig permanece desconhecida. A anomalia pode ser reconhecida por um leve turbilhão de poeira acima e por fragmentos de corpo espalhados nas proximidades. As vítimas capturadas em sua borda externa, longe o suficiente da zona de efeito máximo no centro, podem escapar do Whirligig com ferimentos relativamente pequenos.
+			\n\nQuando alguém está muito próximo da anomalia quando ela é acionada, o Whirligig puxa violentamente a vítima para cima, o que continua a danificar severamente a vítima até que ela descarregue, e essa descarga é poderosa o suficiente para desmembrar o corpo da vítima por força exercida. Não é tão facilmente evitável como o Vortex e, porque ele eleva suas vítimas no ar, escapar uma vez dentro de seu raio efetivo é praticamente impossível, já que saltar e pular é ineficaz.
+			\n\nMesmo que o dano causado pelo Whirligig seja menor que o de um Vortex, o Whirligig pode ser considerado mais perigoso, pois é muito difícil escapar, e o Vortex tem seus aspectos fracos.
+			\n\nAs características básicas são facilmente reconhecíveis. Quando ativado, o Whirligig descarrega como um tornado ou redemoinho.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_fruit">
+		<text>Fruit Punch</text>
+	</string>
+	<string id="encyclopedia_anomalies_fruit_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Fruit Punch%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na química%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nO Fruit Punch é uma poça de líquido verde que é facilmente visível em quase qualquer ambiente devido a seu brilho e ruídos característicos de assobio e borbulhação. Em contato com criaturas ou objetos como os parafusos, um Fruit Punch acende brilhantemente e emite um som agudo de assobio. É extremamente corrosivo, danificando criaturas e objetos em contato. Qualquer matéria deixada em um Fruit Punch irá eventualmente se dissolver, sugerindo a natureza corrosiva da anomalia e a condenação ortográfica por qualquer fator protetor. Para os jogadores, o contato com um Fruit Punch causará danos com cada "flash". Esta anomalia é comumente encontrada em subsolos.
+			\n\nCom relação a suas características, é geralmente aceito que deriva dos restos de um derramamento altamente radioativo de alguma substância reativa que ganhou suas habilidades anômalas da Zona. Suas propriedades corrosivas são exibidas por seus intensos e rápidos danos a todos os tecidos vivos e matérias inorgânicas, tanto metálicas quanto plásticas.
+			\n\nDevido a sua capacidade de gerar artefatos em Shadow of Chernobyl, e não em Clear Sky, pode-se dizer que a última emissão vista em Clear Sky desestabilizou um pouco a Zona e dispersou a Anomalia de Gas, substituindo-a pelo Fruit Punch. É bastante comum, ocorrendo principalmente em edifícios e complexos subterrâneos, geralmente em um local isolado.
+			\n\nEm algumas ocasiões, ambas as anomalias Fruit Punch e Gas podem ser encontradas e, em alguns casos, elas realmente parecem se fundir. A atividade anômala e a radiação se combinam para criar uma mistura mortal tanto de líquido altamente corrosivo, danificando diretamente armaduras e equipamentos, quanto uma nuvem tóxica de gás venenoso que lida diretamente com danos à saúde e à resistência. Em Call of Pripyat, o Fruit Punch por si só pode ser encontrado muito raramente, e de acordo com a norma, somente em áreas fechadas ou confinadas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_fuzz">
+		<text>Burnt Fuzz</text>
+	</string>
+	<string id="encyclopedia_anomalies_fuzz_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Burnt Fuzz%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na química%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nEsta anomalia é geralmente encontrada ao ar livre. Ela se assemelha a musgo ou trepadeira, pendurada como cortinas em seu ponto de crescimento. Reage à rápida aproximação de seres vivos descarregando uma nuvem de projéteis que ferem severamente a pele exposta ou levemente protegida ao contato. Não reage a alvos em movimento lento. O Burnt Fuzz é geralmente considerado a anomalia menos perigosa da Zona, uma vez que pode ser facilmente detectado e evitado. Mesmo assim, os stalkers raramente parecem sofrer danos ao entrarem em contato com a anomalia. Tocar uma cortina de Burnt Fuzz parece provocar uma reação da anomalia, mas apenas stalkers com pouca ou nenhuma proteção relataram ter sido feridos por ela. O Burnt Fuzz é a única anomalia que não reage a parafusos de metal.
+			\n\nSendo o primeiro exemplo na Zona de vida vegetal anômala ou mutante, suas origens orgânicas podem ser a chave para entender por que não é afetada por elementos como outras anomalias, ou por que normalmente não responde a situações como as demais anomalias respondem.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_gas">
+		<text>Gas</text>
+	</string>
+	<string id="encyclopedia_anomalies_gas_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Gas%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na química%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nNem sempre é fácil de detectar, esta anomalia é reconhecível pelas nuvens de gás verde que flutuam e vagam sobre o solo. Ao se aproximar, a tela ficará verde e um ruído de assobio poderá ser ouvido. Quando acionada por peças metálicas ou tecido orgânico, ela emite compostos ácidos, espalhando-os nas proximidades.
+			\n\nNão deve ser confundida com o Fruit Punch, pois se comporta mais como uma nuvem ou massa de névoa do que como uma poça de líquido como o Fruit Punch.
+			\n\nParece ser uma versão evoluída ou mais potente do Fruit Punch, pois o Fruit Punch não possui o efeito tóxico de asfixia que o Gas tem, além de ser mais corrosivo e prejudicial.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_gascloud">
+		<text>Gas Cloud</text>
+	</string>
+	<string id="encyclopedia_anomalies_gascloud_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Gas Cloud%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na química%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nA anomalia Gas Cloud se assemelha a uma anomalia Gas e causa queimaduras químicas. A Gas Cloud, no entanto, é móvel e causa muito mais danos. Por essa característica, é considerada a contraparte química das anomalias Comet e Tesla.
+			\n\nMesmo utilizando um traje de proteção de alto nível e artefatos de proteção química, apenas um toque desta anomalia reduz drasticamente a saúde, e um golpe direto pode resultar em morte instantânea. O mais seguro é manter distância dela, evitando assim sofrer danos severos. Alguns medicamentos podem reduzir significativamente os danos causados pela Gas Cloud.
+			\n\nEsta anomalia não gera nenhum tipo de artefato.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_electro">
+		<text>Electro</text>
+	</string>
+	<string id="encyclopedia_anomalies_electro_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Electro%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na eletricidade%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nUma formação anômala de aproximadamente 10 metros de diâmetro, contendo grandes quantidades de eletricidade estática. Quando acionada, a anomalia irrompe em uma tempestade de eletricidade em arco quase sempre letal para todos os seres vivos. Facilmente reconhecível pelo gás azul que emite, juntamente com o arco infinito de pequenos parafusos de eletricidade nas proximidades, o Electro não faz distinção do que cruza seu horizonte de eventos - seja ele um humano, um mutante ou um objeto inanimado, e descarrega assim que algo se aproxima demais.
+			\n\nO Electro está sempre em aglomerados e muitas vezes localizado em espaços apertados, embora aglomerados ao ar livre com um espaçamento de um metro ou mais entre os Electros vizinhos também tenham sido registrados. Eles são facilmente evitados quando estão ao ar livre, e são mais perigosos em áreas confinadas. À noite, o Electro pode ser revelado usando o detector Svarog ou atirando parafusos dentro dele, e neste ponto ele irá descarregar. Em Call of Pripyat, qualquer Electro que descarrega irá formar uma reação em cadeia e descarregar qualquer vizinho, levando à ativação de todo o conjunto.
+			\n\nSua potência e taxa de recarga podem significar que é um gerador natural, muito parecido com uma trovoada ou uma tempestade de relâmpagos. Sua potência significa que um único Electro pode ser capaz de armazenar um mínimo de 5.000 volts de tensão, até várias centenas de milhares, com uma corrente nas centenas ou mesmo milhares de amperes, permitindo que ele mate quase tudo na Zona em apenas alguns milissegundos. A letalidade varia de jogo para jogo, com Call of Pripyat apresentando as variantes mais perigosas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_tesla">
+		<text>Tesla</text>
+	</string>
+	<string id="encyclopedia_anomalies_tesla_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Tesla%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na eletricidade%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nA anomalia Tesla funciona muito como uma anomalia Electro e causa danos elétricos, com a diferença de que a Tesla é móvel. Nesse sentido, é o equivalente do Electro ao Comet. Tem a aparência de uma bola rápida de pura eletricidade.
+			\nPode-se dizer que a Tesla é a forma evoluída ou maior de um Electro. É possível que uma anomalia Electro particularmente grande ou intensa não tenha sido perturbada ou que tenha acumulado uma carga maciça por um longo período de tempo e se tornado móvel como resultado, seja para descarregar sua energia acumulada ou para 'caçar' alvos ou presas.
+			\n\nA menos que se esteja equipado com alguns artefatos absorventes de eletricidade e/ou usando um traje com alta proteção elétrica, simplesmente ser tocado por esta anomalia reduz significativamente a saúde do jogador e pode até matá-lo, se for atingido diretamente por ela.
+			\n\nEsta anomalia não gera nenhum tipo de artefato.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_space">
+		<text>Espacial</text>
+	</string>
+	<string id="encyclopedia_anomalies_space_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Espacial%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Alteraçäo da realidade%c[ui_gray_1]
+			\n \n%c[d_green]Informaçöes%c[ui_gray_1]
+			\nÉ verdadeiramente o resultado final da instabilidade da Zona, pois altera a própria estrutura da realidade e distorce o tempo e o espaço, criando aparentemente buracos de minhoca em miniatura, que teletransportam o jogador e qualquer coisa jogada nele para outro lugar.
+			\n\nEsta teoria do teletransporte parece ter sido comprovada ao conversar com um stalker no Cordon, junto à ponte ferroviária. Perguntar a ele sobre o "buraco negro" vai direcioná-lo para a anomalia espacial lá, junto com seus detalhes sobre ela. Aparentemente, ele e seus amigos tëm jogado lixo nele, e ele se lembra de ver o lixo em um velho túnel, o que significa que a anomalia espacial teletransporta qualquer coisa jogada nele.
+			\n\nO fato de os stalkers poderem ficar "presos" é uma prova da instabilidade da Zona, dando a esta anomalia algum tipo de vontade própria.
+			\n\nAlém disso, embora näo crie aleatoriamente artefatos como a maioria das anomalias, Forester afirma que encontrou um artefato "Bússola" enquanto estava preso dentro de uma Anomalia Espacial, sugerindo que esses raros artefatos só podem desovar de dentro do ciclo de tempo da anomalia. Isto está ainda implícito pelo fato de que Noah, que usa a anomalia Espacial na Fazenda Queimada em Zaton para viajar para o planalto sul, possui dois deles, apesar de sua raridade.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_teleport">
+		<text>Teleport</text>
+	</string>
+	<string id="encyclopedia_anomalies_teleport_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Teleport%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Alteração da realidade%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nUma rara anomalia encontrada em alguns locais por toda a Zona. Inofensiva por natureza, entrar em contato com o Teleport faz com que você seja transportado instantaneamente para outro local.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_pulse">
+		<text>Pulse</text>
+	</string>
+	<string id="encyclopedia_anomalies_pulse_text"> 	
+		<text>
+			• Nome: %c[d_cyan]Pulse%c[ui_gray_1]
+			\n• Tipo: %c[d_orange]Baseado na eletricidade%c[ui_gray_1]
+			\n \n%c[d_green]Informações%c[ui_gray_1]
+			\nOs cientistas acreditam que o "Pulse" é uma formação única de relâmpagos sob o efeito agressivo das ondas psíquicas dentro das fronteiras da Zona.\n
+			\nComeçando com uma névoa azul, leva muito pouco tempo para que um Pulse se forme e descarregue no solo, levando à morte instantânea de qualquer humano suficientemente próximo ao ponto de descarga.\n
+			\nA frequência desta anomalia está diretamente ligada ao clima, pois tem mais chances de se formar durante chuvas e tempestades, de forma semelhante aos relâmpagos.
+			\nEmbora seu raio de morte não seja tão amplo quanto uma tempestade psíquica, o Pulse continua sendo uma ameaça considerável. Se um Pulse começar a se formar perto de você, fuja o mais rápido que puder. A anomalia pode ser identificada por seu som distintivo, que pode ser considerado como um sinal de alerta.
+			\n\nSe o equipamento de um stalker fornecer ao usuário uma grande proteção contra danos causados por forças psíquicas e eletricidade, é possível sobreviver ao choque sem se abrigar, se tiver sorte.\n
+			\nEsta anomalia não gera artefatos.
+		</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+<string id="st_wpn_uzi_j">
+		<text>IMI Uzi</text>
+	</string>
+	<string id="st_wpn_uzi_j_descr">
+		<text>A Uzi é uma família de submetralhadoras israelenses de ferrolho aberto e operadas por blowback, projetadas pelo Major Uziel "Uzi" Gal no final da década de 1940, logo após a fundação do Estado de Israel. Foi uma das primeiras armas a incorporar um design de ferrolho telescópico, que permite inserir o carregador no cabo e encurtar seu comprimento.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Israel \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Israel Military Industries \n</text>
+	</string>	
+	
+	<string id="st_mag_uzi_j_9x19_standard">
+		<text>Carregador de 32 cartuchos da Uzi</text>
+	</string>
+	<string id="st_mag_uzi_j_9x19_standard_descr">
+		<text>Carregador padrão para submetralhadora IMI Uzi, com câmara em 9 x 19 mm Parabellum. Este carregador comporta 32 cartuchos.\n \n</text>
+	</string>	
+	
+</string_table>

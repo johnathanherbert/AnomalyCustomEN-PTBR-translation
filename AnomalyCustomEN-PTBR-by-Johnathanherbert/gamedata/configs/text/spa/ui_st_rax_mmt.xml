@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	
+    <string id="ui_mcm_menu_rax_mmt">
+        <text>Alternar Mini Mapa</text>
+    </string>
+
+	<string id="ui_mcm_rax_mmt_keybind">
+		<text>Tecla para alternar Mini Mapa.</text>
+	</string>
+
+	<string id="ui_mcm_rax_mmt_keybind_desc">
+		<text>Esta tecla de atalho pode ser configurada para exigir teclas modificadoras adicionais para evitar conflitos.</text>
+	</string>
+
+
+	<string id="ui_mcm_rax_mmt_update_mcm">
+		<text>Atualize o MCM para ver este recurso. A tecla padrão é barra [/]</text>
+	</string>
+
+
+</string_table>

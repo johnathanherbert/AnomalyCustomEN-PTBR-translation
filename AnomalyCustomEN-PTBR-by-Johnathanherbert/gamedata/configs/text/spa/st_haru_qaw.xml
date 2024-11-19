@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="ui_mcm_menu_haru_quick_action_wheel_mcm">
+        <text>Roda de Ação Rápida</text>
+    </string>
+
+    <string id="ui_haru_add_item_to_qaw">
+        <text>Adicionar à roda</text>
+    </string>
+    <string id="ui_haru_qaw_override">
+        <text>Sobrepor</text>
+    </string>
+    
+    <string id="ui_mcm_qaw_controls">
+        <text>Controles</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_controls_hold">
+        <text>Segurar</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_controls_hold_desc">
+        <text>Mantenha pressionado o botão para manter a roda de ação rápida aberta</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_controls_keybind">
+        <text>Tecla da Roda de Ação Rápida</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_controls_override_ammo_wheel">
+        <text>Sobrepor tecla da roda de munição com RAR</text>
+    </string>
+    
+    <string id="ui_mcm_qaw_tabs">
+        <text>Configurações de abas</text>
+    </string>
+    <string id="ui_mcm_qaw_devices">
+        <text>Aba dinâmica de dispositivos</text>
+    </string>
+    <string id="ui_mcm_qaw_grenades">
+        <text>Aba dinâmica de granadas</text>
+    </string>
+    <string id="ui_mcm_qaw_attachments">
+        <text>Aba dinâmica de acessórios</text>
+    </string>
+    <string id="ui_mcm_qaw_food">
+        <text>Aba dinâmica de comida</text>
+    </string>
+    <string id="ui_mcm_qaw_meds">
+        <text>Aba dinâmica de medicamentos</text>
+    </string>
+    <string id="ui_mcm_qaw_ammo">
+        <text>Aba dinâmica de munição (carregador)</text>
+    </string>
+    <string id="ui_mcm_qaw_slots">
+        <text>Aba dinâmica de slots ativos</text>
+    </string>
+    <string id="ui_mcm_qaw_enabled">
+        <text>Ativado</text>
+    </string>
+    <string id="ui_mcm_qaw_tab">
+        <text>Aba</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_tabs_tab_count">
+        <text>Número de Abas</text>
+    </string>
+
+    <string id="ui_mcm_qaw_misc">
+        <text>Configurações diversas</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_misc_slowmo">
+        <text>Diminuir tempo enquanto aberto</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_misc_slowmo_factor">
+        <text>Fator de desaceleração</text>
+    </string>
+     <string id="ui_mcm_haru_quick_action_wheel_mcm_misc_old_mags_compat">
+        <text>Compatibilidade com Old Mags Redux</text>
+    </string>
+</string_table>

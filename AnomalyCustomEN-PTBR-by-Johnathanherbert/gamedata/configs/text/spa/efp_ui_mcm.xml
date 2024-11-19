@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_efp_ui">
+		<text>Visão Simplificada</text>
+	</string>
+	<string id="ui_mcm_menu_faction_settings">
+		<text>Cores Factionais</text>
+	</string>
+	<string id="ui_mcm_menu_main_settings">
+		<text>Configurações Principais</text>
+	</string>
+	<string id="ui_mcm_menu_modules_settings">
+		<text>Configurações dos Módulos</text>
+	</string>
+	<string id="ui_mcm_menu_dolg">
+		<text>Duty</text>
+	</string>
+	<string id="ui_mcm_menu_csky">
+		<text>Clear Sky</text>
+	</string>
+	<string id="ui_mcm_menu_monolith">
+		<text>Monolith</text>
+	</string>
+	<string id="ui_mcm_menu_ecolog">
+		<text>Ecologista</text>
+	</string>
+	<string id="ui_mcm_menu_bandit">
+		<text>Bandido</text>
+	</string>
+	<string id="ui_mcm_menu_stalker">
+		<text>Loner</text>
+	</string>
+	<string id="ui_mcm_menu_killer">
+		<text>Mercenário</text>
+	</string>
+	<string id="ui_mcm_menu_greh">
+		<text>Sin</text>
+	</string>
+	<string id="ui_mcm_menu_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="ui_mcm_menu_renegade">
+		<text>Renegado</text>
+	</string>
+	<string id="ui_mcm_menu_army">
+		<text>Militar</text>
+	</string>
+	<string id="ui_mcm_menu_freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="ui_mcm_desc_faction_banner_color">
+		<text>Cor da sobreposição de facção</text>
+	</string>
+	<string id="ui_mcm_desc_faction_text_color">
+		<text>Cor do texto da sobreposição de facção</text>
+	</string>
+	<string id="ui_mcm_efp_ui_red">
+		<text>Vermelho</text>
+	</string>
+	<string id="ui_mcm_efp_ui_green">
+		<text>Verde</text>
+	</string>
+	<string id="ui_mcm_efp_ui_blue">
+		<text>Azul</text>
+	</string>
+	<string id="ui_mcm_efp_ui_alpha">
+		<text>Alfa</text>
+	</string>
+	<string id="ui_mcm_menu_base_settings">
+		<text>Cores Personalizadas</text>
+	</string>
+	<string id="ui_mcm_menu_slots">
+		<text>Slots de Equipamento</text>
+	</string>
+	<string id="ui_mcm_efp_ui_use_faction">
+		<text>Alternar Cores Factionais/Personalizadas</text>
+	</string>
+	<string id="ui_mcm_desc_cell_knife">
+		<text>Slot de faca</text>
+	</string>
+	<string id="ui_mcm_desc_cell_pistol">
+		<text>Slot de pistola</text>
+	</string>
+	<string id="ui_mcm_desc_cell_rifle">
+		<text>Slot de rifle</text>
+	</string>
+	<string id="ui_mcm_desc_cell_grenade">
+		<text>Slot de granada</text>
+	</string>
+	<string id="ui_mcm_desc_cell_binoculars">
+		<text>Slot de binóculos</text>
+	</string>
+	<string id="ui_mcm_desc_cell_bolt">
+		<text>Slot de parafuso</text>
+	</string>
+	<string id="ui_mcm_desc_cell_outfit">
+		<text>Slot de roupa</text>
+	</string>
+	<string id="ui_mcm_desc_cell_pda">
+		<text>Slot de PDA</text>
+	</string>
+	<string id="ui_mcm_desc_cell_detector">
+		<text>Slot de detector</text>
+	</string>
+	<string id="ui_mcm_desc_cell_torch">
+		<text>Slot de lanterna</text>
+	</string>
+	<string id="ui_mcm_desc_cell_helmet">
+		<text>Slot de capacete</text>
+	</string>
+	<string id="ui_mcm_desc_cell_backpack">
+		<text>Slot de mochila</text>
+	</string>
+	<string id="ui_mcm_desc_cell_quick">
+		<text>Slots rápidos</text>
+	</string>
+	<string id="ui_mcm_desc_cell_belt">
+		<text>Slots de cinto</text>
+	</string>
+	<string id="ui_mcm_menu_stats">
+		<text>Barras de Status</text>
+	</string>
+	<string id="ui_mcm_desc_stat_acid">
+		<text>Barra de resistência química</text>
+	</string>
+	<string id="ui_mcm_desc_stat_thirst">
+		<text>Barra de sede</text>
+	</string>
+	<string id="ui_mcm_desc_stat_power">
+		<text>Barra de stamina</text>
+	</string>
+	<string id="ui_mcm_desc_stat_fire_wound">
+		<text>Barra de resistência balística</text>
+	</string>
+	<string id="ui_mcm_desc_stat_shock">
+		<text>Barra de resistência elétrica</text>
+	</string>
+	<string id="ui_mcm_desc_stat_health">
+		<text>Barra de HP</text>
+	</string>
+	<string id="ui_mcm_desc_stat_psi">
+		<text>Barra de resistência psíquica</text>
+	</string>
+	<string id="ui_mcm_desc_stat_hunger">
+		<text>Barra de fome</text>
+	</string>
+	<string id="ui_mcm_desc_stat_fire">
+		<text>Barra de resistência ao fogo</text>
+	</string>
+	<string id="ui_mcm_desc_stat_radia">
+		<text>Barra de resistência à radiação</text>
+	</string>
+	<string id="ui_mcm_desc_stat_wound">
+		<text>Barra de resistência à ruptura</text>
+	</string>
+	<string id="ui_mcm_desc_stat_sleep">
+		<text>Barra de sono</text>
+	</string>
+	<string id="ui_mcm_menu_faction_banner">
+		<text>Sobreposição de facção</text>
+	</string>
+	<string id="ui_mcm_efp_ui_use_alt_ranks">
+		<text>Alternar para estilos de ranks alternativos</text>
+	</string>
+	<string id="ui_mcm_lst_rank_icons">
+		<text>Ícones de ranks padrão da GAMMA</text>
+	</string>
+	<string id="ui_mcm_lst_rank_icons_mui">
+		<text>Ícones de ranks da Modern UI</text>
+	</string>
+	<string id="ui_mcm_lst_rank_icons_svui">
+		<text>Ícones de ranks da Simplified Vision UI</text>
+	</string>
+	<string id="ui_mcm_lst_rank_icons_svui_alt">
+		<text>Ícones de ranks alternativos da Simplified Vision UI</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    <!-- MCM -->
+    <string id="ui_mcm_menu_sleep_timelapse">
+        <text>Timelapse do Sono</text>
+    </string>
+    <string id="ui_mcm_sleep_timelapse_title">
+        <text>Timelapse do Sono</text>
+    </string>
+
+    <string id="ui_mcm_sleep_timelapse_camUpdateTotalTime">
+        <text>Tempo da Animação da Câmera</text>
+    </string>
+    <string id="ui_mcm_sleep_timelapse_timeFactorSpeed">
+        <text>Velocidade do Timelapse</text>
+    </string>
+    <string id="ui_mcm_sleep_timelapse_npcsImmuneToEmissions">
+        <text>NPCs Imunes a Emissões durante o Timelapse</text>
+    </string>
+    <string id="ui_mcm_sleep_timelapse_alifeOptimize">
+        <text>Reduzir Raio de A-Life durante o Timelapse</text>
+    </string>
+    <string id="ui_mcm_sleep_timelapse_alifeSleepRadius">
+        <text>Raio de A-Life durante o Timelapse</text>
+    </string>
+    <string id="ui_mcm_sleep_timelapse_playSound">
+        <text>Reproduzir Sons</text>
+    </string>
+    <string id="ui_mcm_sleep_timelapse_enableDebug">
+        <text>Ativar Depuração</text>
+    </string>
+</string_table>

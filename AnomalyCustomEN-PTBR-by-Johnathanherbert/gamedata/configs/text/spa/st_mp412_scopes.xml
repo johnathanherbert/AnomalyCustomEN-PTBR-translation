@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<!--
+	Miras únicas para MP412 Rex
+-->
+
+<string_table>
+	<string id="st_integrated_docter">
+		<text>Mira DOCTER</text>
+	</string>
+	<string id="st_integrated_docter_descr">
+		<text>Disponível apenas através de melhorias.\n \n
+		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]nenhuma (colimador)\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]muito boa</text>
+	</string>
+
+    <string id="st_integrated_compact">
+		<text>Mira compacta</text>
+	</string>
+	<string id="st_integrated_compact_descr">
+		<text>Disponível apenas através de melhorias.\n \n
+		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]nenhuma (colimador)\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]muito boa</text>
+	</string>
+</string_table>

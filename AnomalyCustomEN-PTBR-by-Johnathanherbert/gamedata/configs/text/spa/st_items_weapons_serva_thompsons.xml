@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_thompson_m1a1">
+		<text>Thompson M1A1</text>
+	</string>
+	<string id="st_wpn_thompson_m1a1_descr">
+		<text>A Thompson é uma submetralhadora operada por blowback, refrigerada a ar, alimentada por carregador com seletor de disparo.\n
+		Esta variante da Thompson tem uma cadência de tiro significativamente reduzida e um design simplificado produzido a pedido do Exército dos EUA. Como resultado, o sistema Blish lock, sistema de lubrificação e compensador foram removidos. Apesar de ter uma cadência mais lenta, a arma é muito pior de atirar do que a 1921.\n
+		Esta variante também tem um receptor diferente da variante 1921/1928 e, portanto, não aceita carregadores tipo tambor\n\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Nenhum\n</text>
+	</string>
+
+	<string id="st_wpn_thompson_1921">
+		<text>Thompson Modelo 1921</text>
+	</string>
+	<string id="st_wpn_thompson_1921_descr">
+		<text>A Thompson é uma submetralhadora operada por blowback, refrigerada a ar, alimentada por carregador com seletor de disparo.\n
+		Esta variante da Thompson, também apelidada de "Máquina de Escrever de Chicago", possui uma cadência de tiro mais rápida e o sistema Blish Lock para operação da arma.\n\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Nenhum\n
+		</text>
+	</string>
+
+	<string id="st_up_m1a1_b8_name">
+		<text>Instalação de cano mais pesado</text>
+	</string>
+	<string id="st_up_m1a1_b8_descr">
+		<text>Instalação de um cano mais pesado para melhorar ainda mais o recuo</text>
+	</string>
+	<string id="st_up_m1a1_b5_name">
+		<text>Instalação de Coronha de Polímero</text>
+	</string>
+	<string id="st_up_m1a1_b5_descr">
+		<text>Instalação de Coronha de Polímero para substituir as partes de madeira por uma redução rápida de peso.</text>
+	</string>
+	<string id="st_up_m1a1_b6_name">
+		<text>Instalação de Guarda-mão de Polímero</text>
+	</string>
+	<string id="st_up_m1a1_b6_descr">
+		<text>Instalação de Guarda-mão de Polímero para substituir as partes de madeira por uma leve redução de peso.</text>
+	</string>
+		<string id="st_up_m1a1_b7_name">
+		<text>Instalação de Peças Anticorrosivas</text>
+	</string>
+	<string id="st_up_1921_b7_descr">
+		<text>Instalação de componentes da arma que demoram mais para se degradar.</text>
+	</string>
+
+	<string id="st_up_1921_b8_name">
+		<text>Instalação de Peças Importadas de Alta Qualidade</text>
+	</string>
+	<string id="st_up_1921_b8_descr">
+		<text>Instalação de peças de maior qualidade importadas dos EUA para aumentar a confiabilidade da arma.</text>
+	</string>
+	<string id="st_up_1921_b5_name">
+		<text>Instalação de Coronha de Polímero</text>
+	</string>
+	<string id="st_up_1921_b5_descr">
+		<text>Instalação de Coronha de Polímero para substituir as partes de madeira por uma redução rápida de peso.</text>
+	</string>
+	<string id="st_up_1921_b6_name">
+		<text>Instalação de Guarda-mão de Polímero</text>
+	</string>
+	<string id="st_up_1921_b6_descr">
+		<text>Instalação de Guarda-mão de Polímero para substituir as partes de madeira por uma leve redução de peso.</text>
+	</string>
+		<string id="st_up_1921_b7_name">
+		<text>Instalação de Peças Anticorrosivas</text>
+	</string>
+	<string id="st_up_1921_b7_descr">
+		<text>Instalação de componentes da arma que demoram mais para se degradar.</text>
+	</string>
+
+	<string id="st_up_1921_b9_name">
+		<text>Instalação do Mecanismo Blish Lock Reengenheirado</text>
+	</string>
+	<string id="st_up_1921_b9_descr">
+		<text>Instalação de um mecanismo de travamento aprimorado para aumentar muito a confiabilidade da arma.</text>
+	</string>
+
+
+</string_table>

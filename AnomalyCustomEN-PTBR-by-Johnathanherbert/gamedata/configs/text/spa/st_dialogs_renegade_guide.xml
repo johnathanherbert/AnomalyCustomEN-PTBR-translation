@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+<!-- (Guia Renegado) -->
+	<string id="meet_guid_dv_renegade_0">
+		<text>Quem é você?</text>
+	</string>
+	<string id="meet_guid_dv_renegade_1">
+		<text>Ah, ótimo, mais um turista. Mas acho que você não deve ser tão ruim se te deixaram entrar.\n \nMeu nome é Joker. Sou o guia local. Posso te levar até nosso posto avançado no Cemitério de Caminhões por cerca de 1500 rublos, ou nosso armazém em Jupiter por 8000 rublos. A escolha é sua.</text>
+	</string>
+
+	<string id="travel_guid_dv_renegade_0">
+		<text>Vamos lá.</text>
+	</string>
+	<string id="travel_guid_dv_renegade_1">
+		<text>Para onde vamos?</text>
+	</string>
+	<string id="travel_guid_dv_renegade_2">
+		<text>Para o Cemitério de Caminhões. %c[d_orange][1500 RU]</text>
+	</string>
+	<string id="travel_guid_dv_renegade_3">
+		<text>Para o armazém de contêineres em Jupiter. %c[d_orange][8000 RU]</text>
+	</string>
+	<string id="travel_guid_dv_renegade_4">
+		<text>Mudei de ideia.</text>
+	</string>
+
+</string_table>

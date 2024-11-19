@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_akm_tac">
+		<text>AK Tático</text>
+	</string>
+	<string id="st_wpn_akm_tac_descr">
+		<text>A Variante Tática do AK é um fuzil de assalto formidável e versátil, combinando o design atemporal da plataforma AK com aprimoramentos táticos modernos. Apresentando um elegante punho frontal e uma unidade laser de precisão, esta variante oferece estabilidade aprimorada e melhor aquisição de alvos, tornando-a uma escolha ideal para combate em ambientes fechados e situações de resposta rápida. Construído sobre a lendária plataforma AKM, o rifle mantém sua robustez e confiabilidade, garantindo desempenho consistente mesmo em ambientes desafiadores. Seja nas mãos de militares, forças de segurança ou atiradores civis qualificados, a Variante Tática do AK combina poder de fogo clássico com avanços de última geração para oferecer eficácia incomparável no campo de batalha.
+		\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Maioria das miras óticas para o sistema picatinny/weaver.\n
+		%c[d_purple] - %c[ui_gray_2] Silenciador: Silenciador Hexagon 5.45. \n</text>
+	</string>
+</string_table>

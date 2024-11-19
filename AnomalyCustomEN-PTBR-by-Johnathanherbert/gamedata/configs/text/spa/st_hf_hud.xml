@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_hf_holding_msg">
+		<text>$key_interact - Posicionar Objeto\n
+            \n
+            $key_collision - Alternar Detecção de Colisão\n
+            $key_align - Alternar Alinhamento de Superfície\n
+            \n
+            $key_mode - Mudar para Modo Avançado\n
+            ESCAPE - Cancelar Posicionamento\n
+        </text>
+	</string>
+
+    <string id="st_hf_advanced_msg">
+		<text>$key_interact - Posicionar Objeto\n
+            \n
+            Transformações:\n
+            MOUSE1 - Mover no Plano Horizontal\n
+            MOUSE2 - Rotacionar no Eixo Vertical\n
+            LSHIFT + MOUSE1 - Mover no Eixo Vertical\n
+            \n
+            Modificadores:\n
+            LALT - Encaixar\n
+            LCTRL - Controle Preciso\n
+            \n
+            $key_mode - Mudar para Modo de Visualização\n
+            ESCAPE - Mudar para Modo Normal\n
+        </text>
+	</string>
+
+    <string id="st_hf_preview_msg">
+		<text>$key_interact - Posicionar Objeto\n
+            \n
+            ESCAPE - Cancelar Posicionamento\n
+            $key_mode - Mudar para Modo Avançado
+        </text>
+	</string>
+</string_table>

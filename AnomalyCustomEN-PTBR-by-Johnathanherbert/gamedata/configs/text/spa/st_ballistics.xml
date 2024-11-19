@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+<string id="ui_mcm_menu_ballistics">
+	<text>Balística</text>
+</string>
+<string id="ui_mcm_ballistics_title">
+	<text>Sistema de Balística</text>
+</string>
+
+<string id="ui_mcm_ballistics_debug">
+	<text>Registro para desenvolvedores</text>
+</string>
+<string id="ui_mcm_ballistics_impair">
+	<text>Valores Personalizados de Deterioração</text>
+</string>
+<string id="ui_mcm_ballistics_impair_desc">
+	<text>Aplicar o nível de deterioração na configuração personalizada de munição.</text>
+</string>
+<string id="ui_mcm_ballistics_cost">
+	<text>Valores Personalizados de Custo</text>
+</string>
+<string id="ui_mcm_ballistics_cost_desc">
+	<text>Usar o custo base definido na configuração personalizada de munição.</text>
+</string>
+<string id="ui_mcm_ballistics_hitnum">
+	<text>Números de Dano</text>
+</string>
+<string id="ui_mcm_ballistics_mutant_desc">
+	<text>Exibe números de dano. Requer o mod Demonized hit numbers para funcionar.</text>
+</string>
+<string id="ui_mcm_ballistics_incoming">
+	<text>Balística Aplicada ao Jogador</text>
+</string>
+<string id="ui_mcm_ballistics_incoming_desc">
+	<text>Aplica cálculos personalizados ao dano balístico recebido. A verificação do ID do jogador pode ser usada para impedir efeitos personalizados, isso está pendente de refatoração.</text>
+</string>
+<string id="ui_mcm_ballistics_burer">
+	<text>Opções de Resistência do Burer</text>
+</string>
+<string id="ui_mcm_ballistics_burer_desc">
+	<text>Altera o comportamento resistente dos burers. As opções são as seguintes:
+		\n \n Clássico: Como estão agora (alta armadura, requer munição de rifle para derrotar)
+		\n \n Carnudo: Reduz sua armadura para níveis próximos ao Pseudocão e triplica sua vida. Torna munições HP mais efetivas.
+		\n \n Sith: Reduz sua armadura para níveis próximos ao Pseudocão e eles deflexionam passivamente projéteis de baixa velocidade.</text>
+</string>
+<string id="ui_mcm_lst_bclassic">
+	<text>Clássico</text>
+</string>
+<string id="ui_mcm_lst_bmeaty">
+	<text>Carnudo</text>
+</string>
+<string id="ui_mcm_lst_bsith">
+	<text>Sith</text>
+</string>
+<string id="ui_mcm_ballistics_snork">
+	<text>Opções de Resistência do Snork</text>
+</string>
+<string id="ui_mcm_ballistics_snork_desc">
+	<text>Altera a proteção do snork. Snorks têm armadura anormalmente alta que os torna irritantes de combater neste novo sistema. As opções são as seguintes:
+		\n \n Normal: Como estão agora
+		\n \n Gordo: Dobro de vida, metade da armadura.
+		\n \n THICC: Triplo de vida, um quarto da armadura.</text>
+</string>
+<string id="ui_mcm_lst_snormal">
+	<text>Normal</text>
+</string>
+<string id="ui_mcm_lst_sfat">
+	<text>Gordo</text>
+</string>
+<string id="ui_mcm_lst_ssfat">
+	<text>THICC</text>
+</string>
+<string id="ui_mcm_ballistics_legs">
+	<text>Meta dos Membros</text>
+</string>
+<string id="ui_mcm_ballistics_legs_desc">
+	<text>Reduz pela metade a armadura e o dano recebido nos membros. Munições com alto AP sofrerão enquanto munições expansivas serão mais efetivas. Oferece uma alternativa que consome mais munição para derrotar inimigos fortemente blindados.</text>
+</string>
+</string_table>

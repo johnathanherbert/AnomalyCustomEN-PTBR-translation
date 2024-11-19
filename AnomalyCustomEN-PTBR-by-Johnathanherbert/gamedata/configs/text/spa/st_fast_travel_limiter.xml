@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="st_ftl_not_enough_money">
+		<text>
+			Dinheiro insuficiente para viagem rápida. \n
+			Custo da viagem rápida: %s \n
+			Seu dinheiro: %s
+		</text>
+	</string>
+	<string id="st_ftl_next_travel_available">
+		<text>A próxima viagem rápida estará disponível após %s hr.</text>
+	</string>
+	<string id="st_ftl_get_travel_cost">
+		<text>Obter custo da viagem rápida</text>
+	</string>
+	<string id="st_ftl_show_travel_cost">
+		<text>Custo da viagem rápida: %s</text>
+	</string>
+	
+</string_table>

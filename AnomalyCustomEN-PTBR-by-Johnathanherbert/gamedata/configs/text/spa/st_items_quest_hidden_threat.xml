@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--
+    História: Ameaça Oculta
+	Versão:   1.0
+    Autor:     Longreed
+	Última Edição: 26/10/2021
+-->
+<string_table>
+	<string id="st_sl_ht_accounting_report_name">
+		<text>Relatórios contábeis</text>
+	</string>
+	<string id="st_sl_ht_accounting_report_desc">
+		<text>Uma pasta pesada com documentos, demonstrações financeiras do mês atual, que o Major Zhurov está esperando em seu local de seu subordinado, Sargento Lozhkin.</text>
+	</string>
+	<string id="st_sl_ht_spooner_quest_package_name">
+		<text>Encomenda</text>
+	</string>
+	<string id="st_sl_ht_spooner_quest_package_desc">
+		<text>Um pacote dado por um stalker para entrega a seu conhecido. O conteúdo é desconhecido. Curiosamente, não tem nenhuma proteção contra adulteração por estranhos.\n \n %c[ui_gray_3]CARACTERÍSTICAS:\n %c[d_blue] • %c[ui_gray_2] pertences pessoais\n %c[d_blue] • %c[ui_gray_2] alto valor\n </text>
+	</string>
+	<string id="st_sl_ht_walkie_talkie_name">
+		<text>Rádio militar</text>
+	</string>
+	<string id="st_sl_ht_walkie_talkie_desc">
+		<text>Rádio VHF portátil R-002PP.</text>
+	</string>
+	<string id="st_sl_ht_pda_isg_leader_name">
+		<text>PDA do comandante do ISG</text>
+	</string>
+	<string id="st_sl_ht_pda_isg_leader_desc">
+		<text>Este PDA está bloqueado.</text>
+	</string>
+	<string id="st_sl_ht_usb_quest_task_4_name">
+		<text>Pen drive USB</text>
+	</string>
+	<string id="st_sl_ht_usb_quest_task_4_desc">
+		<text>Este dispositivo de armazenamento contém uma pequena parte das informações que Kirillov conseguiu salvar.</text>
+	</string>
+	<string id="st_sl_ht_case_quest_task_5_name">
+		<text>Maleta do agente SSU</text>
+	</string>
+	<string id="st_sl_ht_case_quest_task_5_desc">
+		<text>O conteúdo desta maleta é desconhecido, presumivelmente, informações sobre as atividades do ISG.</text>
+	</string>
+	<string id="st_sl_ht_voice_recorder_task_6_name">
+		<text>Gravador de voz</text>
+	</string>
+	<string id="st_sl_ht_voice_recorder_task_6_desc">
+		<text>Parece um gravador de voz comum, que pode ser encontrado em qualquer lugar. Mas este foi modificado pelo Primeiro-Tenente Kirillov, ele reage ao som e faz uma gravação.</text>
+	</string>
+	<!------------------- Dicas dos Itens ------------------------->
+	<string id="st_sl_hidden_threat_locked_door_tips">
+	    <text>Encontre outra forma de entrar.</text>
+	</string>
+	<string id="st_sl_hidden_threat_radio_tips_1">
+	    <text>Esconder o gravador($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_sl_hidden_threat_radio_tips_2">
+	    <text>Recuperar o gravador($$ACTION_USE$$)</text>
+	</string>
+</string_table>

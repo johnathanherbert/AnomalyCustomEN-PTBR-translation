@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_hecate_2">
+		<text>Hecate II</text>
+	</string>
+
+	<string id="st_wpn_hecate_2_descr">
+		<text>O PMG Hecate II é um formidável rifle de precisão de longo alcance conhecido por sua excepcional precisão e poder. Desenvolvido pela empresa francesa PGM Precision, este rifle de ação por ferrolho foi projetado para entregar tiros devastadores com precisão incomparável a distâncias extremas. Sua construção robusta e ergonômica proporciona estabilidade ideal para mira constante, enquanto o bipé integrado garante maior controle de tiro. Com câmara para munição potente .338, o Hecate II é capaz de penetrar alvos blindados e neutralizar efetivamente ameaças a longas distâncias. Amplamente favorecido por unidades militares e forças policiais, o PMG Hecate II representa o ápice da engenharia de ponta e excelência em precisão de tiro. \n \n 
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: ACOG, Mira do Rifle Gauss, PN-23, March-F, Leupold e Specter. \n</text>
+	</string>
+	
+	<string id="st_mag_hecate2_default">
+		<text>Carregador de 4 Tiros Hecate II</text>
+	</string>
+
+	<string id="st_mag_hecate2_default_descr">
+		<text>Carregador de aço estampado para o rifle de precisão PMG Hecate. Comporta 4 cartuchos de munição .338 Magnum.</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_eft_jump_sounds_title">
+		<text>Sons de Pulo/Aterrissagem EFT</text>
+	</string>
+	<string id="ui_mcm_menu_eft_jump_sounds">
+		<text>Sons de Pulo/Aterrissagem EFT</text>
+	</string>
+	<string id="ui_mcm_eft_jump_sounds_volume">
+		<text>Volume</text>
+	</string>
+	<string id="ui_mcm_eft_jump_sounds_volume_desc">
+		<text>Volume dos sons de pulo/aterrissagem</text>
+	</string>
+</string_table>

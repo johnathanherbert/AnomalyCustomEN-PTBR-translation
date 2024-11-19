@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+	<string id="encyclopedia_historic">
+		<text>Histórico</text>
+	</string>
+	
+	<string id="encyclopedia_historic_final_day">
+		<text>Final Day</text>
+	</string>
+	<string id="encyclopedia_historic_final_day_text">
+		<text>
+			%c[pda_white]Final Day%c[ui_gray_1] era uma facção de cientistas, também conhecida como %c[pda_green]Last Day%c[ui_gray_1], ou como "%c[pda_green]stalkers selvagens%c[ui_gray_1]".\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEles acreditavam que a Zone acabaria por trazer o fim do mundo, expandindo-se e reivindicando cada vez mais terras a cada emissão.\n
+			\nAlém de seu fascínio por caçar stalkers zumbificados para fins de pesquisa, e que seu agora esquecido líder foi assassinado por um stalker chamado Ghost, pouco mais se sabe sobre eles.\n
+			\nCom sua atividade ocorrendo logo após a emissão que eliminou grande parte da Clear Sky, é possível que eles fossem um pequeno grupo de fragmentos - sobreviventes que enlouqueceram após o que testemunharam.\n
+			\n%c[pda_green]Estatísticas%c[ui_gray_1]\n
+			\n• Líderes: Desconhecido\n• Sede: Desconhecida\n• Cores: Desconhecidas\n
+			\n%c[pda_green]Curiosidades%c[ui_gray_1]
+			\n• Tudo o que se sabe sobre esta facção é a partir de documentos de design do jogo.
+			\n• Esta facção foi removida de S.T.A.L.K.E.R.: Shadow of Chernobyl.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_historic_isg">
+		<text>ISG</text>
+	</string>
+	<string id="encyclopedia_historic_isg_text">
+		<text>
+			O %c[guide_blue]International Scientific Group%c[ui_gray] foi fundado para pesquisar a Zone.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nApós o surgimento repentino da Zone, as Nações Unidas criaram um novo órgão de pesquisa, com o único objetivo de pesquisar e explicar este estranho fenômeno.\n
+			\nUma área distante ao norte, ao redor de seis grandes geradores, foi vista como a mais interessante cientificamente, e como tal foi escolhida como o local para sua expedição.\n
+			\nCom apenas alguns meses de duração, seu trabalho foi atormentado por problemas para os quais nunca poderiam ter se preparado.\n
+			\nOs pesquisadores seriam consumidos por anomalias nunca vistas, ou devastados pela horrível mutação da vida selvagem. Outros desapareceriam inexplicavelmente, apenas para retornar dias depois, zumbificados, tentando matar seus colegas.\n
+			\nA expedição acabou sendo encerrada depois de realizar muito pouco e resultar em uma contagem de corpos inaceitavelmente alta.\n
+			\nSem se deixar abater pelo fracasso, foi criado pelo governo ucraniano um instituto para continuar seu trabalho - agora comumente chamado de Ecologists.\n
+			\n%c[pda_green]Estatísticas%c[ui_gray_1]\n
+			\n• Líderes: Desconhecido\n• Sede: Generators\n• Cores: Branco e vermelho\n
+			\n%c[pda_green]Curiosidades%c[ui_gray_1]
+			\n• Esta facção foi removida de S.T.A.L.K.E.R.: Clear Sky.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_historic_renegade">
+		<text>Renegades</text>
+	</string>
+	<string id="encyclopedia_factions_historic_renegade_text">
+		<text>
+			Os %c[guide_blue]Renegades%c[ui_gray] eram alguns dos stalkers mais desprezíveis da Zone.\n
+			\n%c[guide_green]Informações%c[ui_gray]\n
+			\nSem limites ou moral, eles consistiam principalmente de stalkers que tinham cometido crimes tão terríveis que suas facções originais os haviam expulsado.\n
+			\nA única lei que respeitavam era a da força, atacando os fracos nos perímetros da Zone, muitas vezes aqueles que eram muito jovens e inexperientes para ter qualquer chance contra eles.\n
+			\nConduzidos aos pântanos por seus numerosos inimigos, foi apenas diante da Clear Sky que seu desejo de sobreviver forçou esses chacais a se unirem como uma facção própria.\n
+			\n%c[pda_green]Estatísticas%c[ui_gray_1]\n
+			\n• Líderes: Desconhecido\n• Sede: Great Swamps\n• Cores: Várias\n
+			\n%c[pda_green]Curiosidades%c[ui_gray_1]
+			\n• Eles apareceram muito pouco em S.T.A.L.K.E.R.: Clear Sky.
+			\n• Essa facção só existia para que o jogador pudesse fazer amizade com os Bandits.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_historic_rat_wolf">
+		<text>Rat-Wolf</text>
+	</string>
+	<string id="encyclopedia_historic_rat_wolf_text">
+		<text>
+			%c[pda_white]Rat-Wolf%c[ui_gray_1] era uma subespécie rara de ratos mutantes.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nMuito mais perigoso do que seus primos existentes atualmente encontrados na Zone, o Rat-Wolf era uma máquina de matar indiscriminada.\n
+			\nMuitas vezes liderando matilhas de ratos comuns, estas criaturas eram fáceis de identificar em comparação, pois frequentemente cresciam cerca de duas ou três vezes mais.\n
+			\nAlém disso, havia apenas algumas pequenas diferenças em sua aparência, como ter os olhos maiores e totalmente negros, enquanto a parte superior do corpo estava inchada e gorda.\n
+			\nA seleção natural eventualmente desempenhou seu papel, já que devido ao seu tamanho não natural, eles frequentemente se destacavam e eram presas fáceis para os cats da Zone e outros mutantes semelhantes.\n
+			\n%c[pda_green]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Média\n• Rapidez: Média\n• Traços: Nenhum\n
+			\n%c[pda_green]Curiosidades%c[ui_gray_1]
+			\n• Tudo o que se sabe sobre este mutante é a partir de documentos do design do jogo.
+			\n• Este mutante foi removido de S.T.A.L.K.E.R.: Shadow of Chernobyl.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_historic_tark">
+		<text>Tark</text>
+	</string>
+	<string id="encyclopedia_historic_tark_text">
+		<text>
+			%c[pda_white]Tarks%c[ui_gray_1] são criaturas extintas semelhantes a cavalos, provavelmente mutantes do cavalo-de-Przewalski.\n
+			\n%c[pda_green]Informações%c[ui_gray_1]
+			\nEsta criatura tinha pouca semelhança com seus antepassados devido à exposição massiva à radiação no início da Zone.\n
+			\nSuas patas traseiras estavam atrofiadas enquanto as anteriores haviam se tornado visivelmente exageradas, e sua cauda e grande parte de sua boca haviam se deteriorado ou desaparecido.\n
+			\nDe forma semelhante a um carniçal, o corpo do Tark estava muito inchado, e também era frequentemente visto caçando em grandes grupos - embora provavelmente mais como uma relíquia instintiva do que qualquer forma natural de rebanho.\n
+			\nAo contrário de outros mutantes da Zone, eles eram animais incrivelmente selvagens, com sua loucura muitas vezes superando sua percepção do medo e provavelmente contribuindo para sua eventual extinção.\n
+			\n%c[pda_green]Estatísticas%c[ui_gray_1]
+			\n• Ataques: Corpo a corpo\n• Saúde: Média\n• Velocidade: Rápida\n• Traços: Frenético\n
+			\n%c[pda_green]Curiosidades%c[ui_gray_1]
+			\n• Tudo o que se sabe sobre este mutante é o que acompanhou sua apresentação.
+			\n• Este mutante perdeu a competição para o Snork no "The Monster Ball" da GSC Game World.
+		</text>
+	</string>
+	
+</string_table>

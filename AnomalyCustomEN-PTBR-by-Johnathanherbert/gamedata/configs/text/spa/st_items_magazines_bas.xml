@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table><!--
+Pistols and MP's
+--><string id="st_mag_sr1m_9x21">
+		<text>Carregador padrão SR1M 9x21mm</text>
+	</string>
+	<string id="st_mag_sr1m_9x21_descr">
+		<text>Carregador padrão SR1M de 9x21mm com capacidade para 18 cartuchos. A SR1M representa o que há de mais moderno em pistolas russas. Utiliza o cartucho proprietário 9x21mm, que também é usado na arma de defesa pessoal SR-2 Veresk.</text>
+	</string>
+	
+	<string id="st_mag_sr1m_9x21ext">
+		<text>Carregador estendido SR1M 9x21mm</text>
+	</string>
+	<string id="st_mag_sr1m_9x21ext_descr">
+		<text>Carregador estendido SR1M de 9x21mm com capacidade para 26 cartuchos. A SR1M representa o que há de mais moderno em pistolas russas. Utiliza o cartucho proprietário 9x21mm, que também é usado na arma de defesa pessoal SR-2 Veresk.</text>
+	</string>
+	
+	<string id="st_mag_pl15_9x19_fmj">
+		<text>Carregador padrão PL-15 9x19mm</text>
+	</string>
+	<string id="st_mag_pl15_9x19_fmj_descr">
+		<text>Carregador padrão PL-15 de 9x19mm com capacidade para 16 cartuchos.</text>
+	</string>
+	
+		<string id="st_mag_pl15_9x19_fmjext">
+		<text>Carregador estendido PL-15 9x19mm</text>
+	</string>
+	<string id="st_mag_pl15_9x19_fmjext_descr">
+		<text>Carregador estendido PL-15 de 9x19mm com capacidade para 24 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_sigp220_11.43x23_fmj">
+		<text>Carregador padrão SIG P220 .45</text>
+	</string>
+	<string id="st_mag_sigp220_11.43x23_fmj_descr">
+		<text>Carregador padrão SIG P220 .45 com capacidade para 12 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_sigp220_11.43x23_fmjext">
+		<text>Carregador estendido SIG P220 .45</text>
+	</string>
+	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
+		<text>Carregador estendido SIG P220 .45 com capacidade para 20 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_sig226_9x19_fmj">
+		<text>Carregador padrão SIG P226 9x19mm</text>
+	</string>
+	<string id="st_mag_sig226_9x19_fmj_descr">
+		<text>Carregador padrão SIG P226 de 9x19mm com capacidade para 15 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_sig226_9x19_fmjext">
+		<text>Carregador estendido SIG P226 9x19mm</text>
+	</string>
+	<string id="st_mag_sig226_9x19_fmjext_descr">
+		<text>Carregador estendido SIG P226 de 9x19mm com capacidade para 20 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_usptac_9x19_fmj">
+		<text>Carregador padrão USP 9x19mm</text>
+	</string>
+	<string id="st_mag_usptac_9x19_fmj_descr">
+		<text>Carregador padrão USP de 9x19mm com capacidade para 22 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_usptac_9x19_fmjext">
+		<text>Carregador estendido USP 9x19mm</text>
+	</string>
+	<string id="st_mag_usptac_9x19_fmjext_descr">
+		<text>Carregador estendido USP de 9x19mm com capacidade para 30 cartuchos.</text>
+	</string>
+
+	<string id="st_mag_wp99_9x19_fmj">
+		<text>Carregador padrão Walther P99 9x19mm</text>
+	</string>
+	<string id="st_mag_wp99_9x19_fmj_descr">
+		<text>Carregador padrão Walther P99 de 9x19mm com capacidade para 16 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_wp99_9x19_fmjext">
+		<text>Carregador estendido Walther P99 9x19mm</text>
+	</string>
+	<string id="st_mag_wp99_9x19_fmjext_descr">
+		<text>Carregador estendido Walther P99 de 9x19mm com capacidade para 16 cartuchos.</text>
+	</string>
+
+	<string id="st_mag_p220_9x19_u2p2bas">
+		<text>Carregador padrão P220 Custom Nine 9x19mm</text>
+	</string>
+	<string id="st_mag_p220_9x19_u2p2bas_descr">
+		<text>Carregador padrão P220 Custom Nine de 9x19mm com capacidade para 19 cartuchos.</text>
+	</string>
+
+</string_table>

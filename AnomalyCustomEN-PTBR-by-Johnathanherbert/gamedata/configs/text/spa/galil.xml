@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_wpn_galil_tac">
+		<text>Galil AR Tactical</text>
+	</string>
+	<string id="st_wpn_galil_tac_descr">
+		<text>Formalmente aceito em serviço pela IDF em 1972, o IMI Galil foi projetado para operação em condições rígidas e baseado no RK 62 finlandês, que por sua vez foi derivado do AK-47 soviético. O Galil é conhecido por sua confiabilidade em condições de combate e facilidade de manutenção. Possui uma linha com câmara para 5.56x45mm e outra para 7.62x51mm.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Miras: %c[ui_yellow] Algumas miras de trilho picatinny\n \n</text>
+	</string>
+</string_table>

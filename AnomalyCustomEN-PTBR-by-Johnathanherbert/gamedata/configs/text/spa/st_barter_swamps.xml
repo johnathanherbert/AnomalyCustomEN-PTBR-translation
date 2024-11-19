@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+    <string id="st_kalancha_meds">
+        <text>A vida no pântano tende a cobrar seu preço. Muitos dos nossos membros estão ficando doentes por ficarem até tarde em reconhecimento e terem que lidar com o frio e a umidade. Se você puder nos ajudar a conseguir alguns medicamentos de venda livre, forneceremos alguns dos equipamentos científicos excedentes que temos.</text>
+    </string>
+    <string id="st_kalancha_meds_done">
+        <text>Sua ajuda é apreciada, stalker.</text>
+    </string>
+    
+    <string id="st_librarian_fuel">
+        <text>Uma das anomalias neste pântano, não vou dizer qual, parece produzir uma quantidade contínua, mas pequena, de combustível. Como funciona é um segredo da facção, mas resolve nossas necessidades de combustível permanentemente. Se você puder nos trazer um pouco de carne, ficaremos felizes em negociar.</text>
+    </string>
+    <string id="st_librarian_fuel_done">
+        <text>Sua ajuda é apreciada, cara. Precisamos manter nossos rapazes vivos.</text>
+    </string>
+
+    
+    <string id="st_spore_weapons">
+        <text>Sair desses pântanos é um problema para nossos mensageiros, especialmente aqueles que têm que carregar muito equipamento. Se você puder nos conseguir alguns equipamentos para aliviar nossa carga, te darei algumas armas antigas que temos por aí.</text>
+    </string>
+    <string id="st_spore_weapons_done">
+        <text>Sua ajuda é apreciada, cara. Precisamos manter nossos rapazes vivos.</text>
+    </string>
+    
+    <string id="st_spore_repair">
+        <text>Estar aqui degrada nosso equipamento rapidamente, especialmente com toda a lama e outras coisas. Se você puder disponibilizar quaisquer suprimentos de limpeza ou reparo, ficaremos muito gratos.</text>
+    </string>
+    <string id="st_spore_repair_done">
+        <text>Obrigado. Aqui está algo para passar o tempo.</text>
+    </string>
+
+    <string id="st_novikov_1">
+        <text>Um velho como eu precisa se manter ocupado, e me mantenho melhor ocupado trabalhando em equipamentos de proteção. Essa sua jaqueta? Isso não vai mantê-lo vivo por muito tempo aqui - me traga alguns itens e vou transformá-la em um traje adequado de stalker.</text>
+    </string>
+    
+    <string id="st_novikov_2a">
+        <text>Como está o traje? Quer algo melhor para anomalias? Posso tentar colocar uma máscara de gás ou algo assim, além de adicionar uma camada protetora simples. Tenho a máscara de gás, mas preciso de mais algumas coisas para instalá-la.</text>
+    </string>
+    <string id="st_novikov_2b">
+        <text>Isso é um buraco de bala? Se você planeja entrar em tiroteios, vai precisar de pelo menos um colete balístico e não apenas um colete kevlar. Tenho as ferramentas, mas vou precisar de material para montá-lo.</text>
+    </string>
+    <string id="st_novikov_2c">
+        <text>Posso providenciar a instalação de um exoesqueleto em seu traje. Tenho um contato trabalhando com Sakharov que pode me fornecer a eletrônica, então além das coisas usuais, vou precisar de uma garrafa de Nemiroff.</text>
+    </string>
+
+    <string id="st_novikov_3a">
+        <text>Nossa última remessa veio com um SCBA e capacete Screen, que eles recuperaram de algum pobre Ecologista. Se você me conseguir mais algumas coisas, talvez eu possa melhorar aquele traje NBC para um SEVA.</text>
+    </string>
+    <string id="st_novikov_3b">
+        <text>O traje blindado está aguentando bem? Se você quiser proteção estendida, posso providenciar isso. Aqui está uma lista do que preciso.</text>
+    </string>
+    <string id="st_novikov_4a">
+        <text>Ei stalker, tenho boas notícias. Um dos meus contatos militares conseguiu trocar os esquemas da armadura avançada SKAT-9 por alguns favores. Devo conseguir adaptar seu traje pesado para incorporar a maioria dos novos recursos. Vai acabar sendo um traje bem completo, mas infelizmente isso é o máximo que posso fazer por ele.</text>
+    </string>
+    <string id="st_novikov_4b">
+        <text>Três dos meus caras arrastaram este stalker militar com um exoesqueleto que morreu cozido em uma anomalia de vapor. A maior parte do hardware estava muito danificada, mas conseguimos recuperar o capacete e parte do traje anti-fragmentação. Posso melhorar sua armadura pesada para um Exosuit, mas vou precisar de muitas peças extras. Além disso, não posso garantir que o cheiro vai embora.</text>
+    </string>
+    <string id="st_novikov_5a">
+        <text>Tenho um acordo com a facção Duty para fornecer trajes especiais em troca de suprimentos gerais. Se você me trouxer as coisas certas, posso modificar seu traje para conceder proteção aprimorada. Isso será complicado, pois o tratamento da armadura faz uso de alguns artefatos, mas poderemos melhorar mais do que apenas seu traje se você me ajudar.</text>
+    </string>
+    <string id="st_novikov_5b">
+        <text>Boas notícias, conseguimos uma unidade de controle do servomotor de substituição. O do stalker militar sofreu muito dano por vapor. Tive que pedir um favor para um de nossos contatos Ecologistas, então além das coisas usuais, vou precisar de uma garrafa de Nemiroff.</text>
+    </string>
+    <string id="st_novikov_done">
+        <text>Use-o bem, stalker. Apareça mais tarde, posso pensar em mais melhorias.</text>
+    </string>
+</string_table>

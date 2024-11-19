@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+   <string id="st_placeable_wall">
+		<text>Parede de madeira aprox. 5x3m</text>
+	</string>
+	<string id="st_placeable_wall_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[d_blue] • %c[ui_gray_2] item estrutural; usado para estabelecer mais cômodos em bases.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall_metal">
+		<text>Parede de chapas metálicas aprox. 5x3m</text>
+	</string>
+	<string id="st_placeable_wall_metal_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[d_blue] • %c[ui_gray_2] item estrutural; usado para estabelecer mais cômodos em bases.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall02">
+		<text>Parede de madeira aprox. 2x3m</text>
+	</string>
+	<string id="st_placeable_wall02_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[d_blue] • %c[ui_gray_2] item estrutural; usado para estabelecer mais cômodos em bases.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall02_metal">
+		<text>Parede de chapas metálicas aprox. 2x3m</text>
+	</string>
+	<string id="st_placeable_wall02_metal_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[d_blue] • %c[ui_gray_2] item estrutural; usado para estabelecer mais cômodos em bases.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall_doorway">
+		<text>Parede de madeira c/ vão de porta aprox. 5x3m</text>
+	</string>
+	<string id="st_placeable_wall_doorway_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[d_orange] • %c[ui_gray_2] Porta compatível: 100x190cm\n
+		%c[d_blue] • %c[ui_gray_2] item estrutural; usado para estabelecer mais cômodos em bases.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall_doorway_metal">
+		<text>Parede de chapas metálicas c/ vão de porta aprox. 5x3m</text>
+	</string>
+	<string id="st_placeable_wall_doorway_metal_descr">
+		<text>
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] item posicionável\n
+		%c[d_orange] • %c[ui_gray_2] Porta compatível: 100x190cm\n
+		%c[d_blue] • %c[ui_gray_2] item estrutural; usado para estabelecer mais cômodos em bases.\n</text>
+	</string>		
+	
+</string_table>

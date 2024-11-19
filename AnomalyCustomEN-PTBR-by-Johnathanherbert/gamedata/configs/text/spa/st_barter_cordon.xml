@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+    <string id="st_sid_jelly_suit">
+        <text>Então, hoje é seu dia de sorte. Tenho um traje sobrando aqui - o dono anterior não vai mais precisar dele. Preciso ter certeza que se ele for pra você, não vai voltar pra mim de novo. Me mostre que você é minimamente competente, hein, e eu te entrego ele. Pense nisso como um capital inicial.</text>
+    </string>
+    <string id="st_sid_jelly_suit_done">
+        <text>Bom trabalho, stalker. Aqui está. Não se esqueça do seu velho amigo Sid quando ficar rico, ok?</text>
+    </string>
+    
+    <string id="st_sid_shotgun">
+        <text>Malditos bandidos continuam prejudicando meus negócios. Mando mensageiros, eles são interceptados, mando emissários, eles voltam de mãos vazias e mancando. Você pode me ajudar com esse problema? Me traga provas da sua disposição para... resolver negócios e te dou essa arma. Pense nisso como o começo de uma longa e frutífera relação.</text>
+    </string>
+    <string id="st_sid_shotgun_done">
+        <text>Bom trabalho, stalker. Não faltam esses desgraçados por aí, mas isso vai tornar as coisas bem mais fáceis pra você.</text>
+    </string>
+
+    <string id="st_sid_salmon">
+        <text>Tenho muitas conexões e sei quais cordas puxar pra conseguir equipamento de boa qualidade. Mas não faço isso pra qualquer um. Me traga algo bom... salmão defumado... que eu possa apreciar com meus biscoitos, e brindaremos à nossa nova parceria.</text>
+    </string>
+    
+    <string id="st_sid_aks">
+        <text>Um militar me deixou uma AK como garantia. Eles nunca voltaram, então agora tenho uma arma extra. Tenho um comprador procurando munição de alta qualidade, então vamos fazer um acordo.</text>
+    </string>
+    <string id="st_sid_hipower">
+        <text>Um dos novatos veio me pedindo um detector básico. Ele não tem muito dinheiro, mas tinha bastante poder de fogo. Ele está disposto a trocar essa pistola por um detector básico e um dosímetro.</text>
+    </string>
+
+    <string id="st_loris_ak">
+        <text>Stalker, você está mesmo andando por aí com essa arma de brinquedo? Nesse ritmo você vai morrer tão rápido que não vai sobrar nada de valor pra tirar do seu cadáver. Tenho essa AK velha, uma verdadeira relíquia da Guerra Fria, e os clientes não estão muito interessados porque preferem armas mais modernas e leves. Te dou ela se você me arranjar algo decente pra comer.</text>
+    </string>
+    <string id="st_loris_ak_done">
+        <text>Valeu, stalker. Eu bem que podia usar algo pra ajudar a engolir isso também, hmm...</text>
+    </string>
+
+    <string id="st_loris_762">
+        <text>Precisa de munição pra essa AK? Por acaso tenho algumas caixas sobrando. Me arranja algo pra beber e fechamos negócio.</text>
+    </string>
+    <string id="st_loris_762_done">
+        <text>Valeu, stalker. Tenho que esperar o Sid receber outro carregamento, mas continue trazendo cerveja.</text>
+    </string>
+
+    <string id="st_loris_generic">
+        <text>Munição está sempre em falta por aqui pros novatos se manterem seguros. Se você tiver alguma sobrando, posso trocar por alguns suprimentos médicos básicos.</text>
+    </string>
+    <string id="st_loris_generic_done">
+        <text>Valeu, stalker. Manter os novatos armados ajuda a mantê-los vivos e lucrativos.</text>
+    </string>
+
+    <string id="st_xenotech_scrap">
+        <text>Como você sabe, não falta coisa pra consertar por aqui - tenho todas as ferramentas que preciso, mas encontrar peças sobressalentes pode ser difícil, especialmente porque a maioria é ignorada. Se você encontrar qualquer sucata ou parafusos, posso trocar por alguns dos meus suprimentos de reparo extras.</text>
+    </string>
+    <string id="st_xenotech_scrap_done">
+        <text>Obrigado pela ajuda, stalker. Isso vai servir por enquanto.</text>
+    </string>
+
+    <string id="st_xenotech_gun">
+        <text>Alguns bandidos apareceram no posto de controle ontem à noite. Conseguimos expulsá-los, felizmente, e um deles deixou cair a metralhadora depois que ela travou. Está em péssimo estado, mas é um modelo sólido. Preciso de algumas coisas pra consertar e ela pode ser sua.</text>
+    </string>
+    <string id="st_xenotech_done">
+        <text>Aqui está. Use bem.</text>
+    </string>
+
+    <string id="st_xenotech_lamp">
+        <text>Oi, você deve ser bem novo por aqui. Se planeja fazer qualquer exploração à noite, seria uma boa ideia conseguir uma lanterna de cabeça. Devo conseguir montar uma pra você. Se puder me arranjar algumas peças sobressalentes, veja o que posso fazer.</text>
+    </string>
+
+</string_table>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+			
+	<string id="ui_mcm_safe_af_craft_title">
+		<text>Funda e melhore seus artefatos sem complicações de empacotar/desempacotar - a radiação dos artefatos não empacotados será absorvida por caixas de chumbo vazias como se estivessem empacotados.</text>
+	</string>
+	
+	<string id="ui_mcm_safe_af_craft_empty_lead_absorb_enabled">
+		<text>Caixas de chumbo vazias absorvem radiação.</text>
+	</string>
+	<string id="ui_mcm_safe_af_craft_empty_lead_absorb_enabled_desc">
+		<text>Se você tiver caixas de chumbo vazias no inventário e artefatos não empacotados, a radiação deles será absorvida. Funciona com oficina portátil.</text>
+	</string>
+	
+	<string id="ui_mcm_safe_af_craft_empty_lead_absorb_wshop_only">
+		<text>* apenas se a oficina com fundidor estiver aberta.</text>
+	</string>
+	<string id="ui_mcm_safe_af_craft_empty_lead_absorb_wshop_only_desc">
+		<text>Absorve radiação com caixas de chumbo vazias apenas quando a oficina com fundidor estiver aberta.</text>
+	</string>
+
+	
+	<string id="ui_mcm_safe_af_craft_melter_absorb_enabled">
+		<text>Fundidor de artefatos aberto absorve toda radiação.</text>
+	</string>
+	<string id="ui_mcm_safe_af_craft_melter_absorb_enabled_desc">
+		<text>Toda radiação será absorvida quando a oficina com fundidor estiver em uso. (Independente de ter caixas de chumbo vazias)</text>
+	</string>
+
+	
+</string_table>

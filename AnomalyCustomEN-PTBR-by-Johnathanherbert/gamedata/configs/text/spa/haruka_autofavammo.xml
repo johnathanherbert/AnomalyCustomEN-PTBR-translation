@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->	
+
+<string_table>
+	<string id="ui_mcm_SortingPlus_ammo_autofavorite">
+		<text>
+		Adicionar/remover automaticamente dos favoritos a munição que as armas equipadas usam
+		</text>
+	</string>
+</string_table>

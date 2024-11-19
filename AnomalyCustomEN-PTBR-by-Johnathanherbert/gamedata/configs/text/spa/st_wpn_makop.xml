@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_makarov_op">
+		<text>Makarov «Silêncio»</text>
+	</string>
+	<string id="st_wpn_makarov_op_descr">
+		<text>Apresentando a pistola Makarov PM «Tishina», uma arma silenciada de elite conhecida por suas capacidades furtivas mortais. Esta arma de fogo semiautomática elegante e compacta, inspirada na lendária Makarov PM, é aprimorada com um silenciador personalizado, garantindo que cada tiro seja discreto e praticamente despercebido. A Tishina foi projetada para operar com um silêncio surpreendente, tornando-a ideal para operações secretas, missões clandestinas e combates de forças especiais. Além disso, o visor integrado fornece precisão exata, dando ao usuário a vantagem de uma rápida aquisição de alvos e perfeita adaptabilidade em ambientes com pouca luz. Projetada para letalidade silenciosa e desempenho ideal, a Makarov PM «Tishina» é uma companheira confiável e temível nas sombras.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]União Soviética \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Izhevsk \n</text>
+	</string>
+</string_table>

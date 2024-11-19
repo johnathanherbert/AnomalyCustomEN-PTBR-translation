@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+    <string id="st_generic_done">
+        <text>Bom trabalho, stalker. Sua ajuda é apreciada.</text>
+    </string>
+    
+    <string id="st_generic_thanks">
+        <text>Obrigado, stalker.</text>
+    </string>
+    
+</string_table>

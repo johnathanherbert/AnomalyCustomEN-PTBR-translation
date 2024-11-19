@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor(es) Original(is) : NLTP_ASHES                                                                         -->
+<!--    Editado : N/A                                                                                               -->
+<!--    Data : 11/11/2023                                                                                           -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)         -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para as tarefas do Western Goods.                                                       -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <!--=============================================================================================================-->
+    <!--    ATO 1 - ENTREGA DE HELICÓPTERO                                                                          -->
+    <!--=============================================================================================================-->
+    <!--    TAREFA 1 - OBSTÁCULOS NA ESTRADA                                                                        -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_act_1_task_1_title">
+        <text>Entrega de Helicóptero: Obstáculos na Estrada</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_stage_0_descr">
+        <text>Williams Heades estava esperando um reabastecimento por helicóptero, mas a tripulação parou de responder. Siga o sinal GPS deles e veja se está tudo bem.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_stage_1_descr">
+        <text>O helicóptero está vazio. A tripulação não está aqui. O sinal GPS deles está ativo em uma serraria não muito longe. Vá até lá.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_stage_2_descr">
+        <text>Alguns dos suprimentos estão faltando, mas ainda restam alguns. Pegue-os e retorne.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_stage_3_descr">
+        <text>A tripulação está morta. Traga de volta o que resta do carregamento para Williams Heades.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_job_descr">
+        <text>Você quer me ajudar? Estou esperando uma entrega. O carregamento está sendo transportado por helicóptero para Zaton.\n \nO problema é que enviei várias mensagens para a tripulação do helicóptero, e eles não me respondem. Esses caras são verdadeiros profissionais, então não estou muito preocupado. Eu iria lá verificar pessoalmente, mas preciso encontrar alguém importante aqui em breve.\n \nVocê pode ir até o ponto de entrega e ver se está tudo bem? Diga à tripulação que eu te enviei. E diga a eles para responderem às malditas mensagens, já que você vai até lá.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_1_task_complete_descr">
+        <text>Você conseguiu! Graças a Deus... Toda essa entrega é uma bagunça. Então, a tripulação estava morta? Maldição. Esses caras eram durões, o que quer que os tenha pegado deve ser algo sério. Pelo menos você conseguiu recuperar uma parte. Me pergunto para onde foi o resto. Inferno, me pergunto por que eles deixaram o helicóptero para trás.\n \nVou pedir aos caras da Estação de Processamento de Resíduos em Zaton para investigarem. Não posso deixar isso acontecer novamente. Já é difícil o suficiente conseguir esses suprimentos na Zona, não preciso que coisas assim aconteçam toda vez.\n \nDe qualquer forma, obrigado pela sua ajuda, Stalker. É bom saber que posso contar com você.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    TAREFA 2 - CONSPIRAÇÃO                                                                                   -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_act_1_task_2_title">
+        <text>Entrega de Helicóptero: Conspiração</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_stage_0_descr">
+        <text>Os Mercs na Estação de Processamento de Resíduos garantiram o helicóptero. Alguns de seus eletrônicos foram danificados. Alguns Stalkers na estação Yanov falam sobre luzes estranhas. Continue a investigação a partir daqui.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_stage_1_descr">
+        <text>O stalker que você encontrou na estação Yanov falou sobre luzes estranhas vindas do Armazém de Contêineres. Continue investigando.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_stage_2_descr">
+        <text>O helicóptero avistou reforços bandidos! Defenda sua posição.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_stage_3_descr">
+        <text>Encontre pistas que possam explicar o que aconteceu com o helicóptero.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_stage_4_descr">
+        <text>Traga de volta as pistas que você encontrou para Williams Heades.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_job_descr">
+        <text>Você se lembra da entrega do helicóptero que você me ajudou? Bem, enviei alguns esquadrões para garantir e recuperar o helicóptero. Eles passaram horas consertando seus eletrônicos. Metade estava danificada. De qualquer forma, felizmente eles conseguiram fazê-lo voar novamente, helicópteros não são exatamente baratos.\n \nEu realmente não gosto do que está acontecendo. Ouvi rumores de que um grupo de bandidos se estabeleceu no Armazém de Contêineres em Jupiter. Alguns Stalkers na estação Yanov continuam dizendo que veem flashes brilhantes à noite vindos daquele lugar. O helicóptero sobrevoou aquele lugar, então fiquei preocupado que os dois pudessem estar conectados.\n \nVocê poderia ir lá e esclarecer exatamente o que está acontecendo?</text>
+    </string>
+
+    <string id="st_wg_act_1_task_2_task_complete_descr">
+        <text>Vejamos... Hm, então eram apenas Bandidos? Veja, é exatamente isso que eu te disse. Não me importo com conflitos na Zona, eu aceito as pessoas como elas são. Exceto por Bandidos. Não sei por que Dushman quer manter boas relações com eles. Deveríamos simplesmente erradicar todos eles. Vermes.\n \nDe qualquer forma - desculpe, me exaltei - Obrigado por me ajudar a descobrir toda essa história. Pelo menos não foi um ataque direcionado, então os negócios não devem ser muito impactados.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    TAREFA 3 - O RESGATE                                                                                     -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_act_1_task_3_title">
+        <text>Entrega de Helicóptero: O Resgate</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_stage_0_descr">
+        <text>Uma equipe de reconhecimento mercenária avistou o que parece ser um dos seus, capturado por forças do Monolith. Resgate-o.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_stage_1_descr">
+        <text>O Merc resgatado não está em bom estado. Escolte-o com segurança até a ponte, na Floresta Vermelha, onde ele será evacuado.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_stage_2_descr">
+        <text>Inimigos do outro lado da ponte impedirão o helicóptero de pousar. Limpe a área.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_stage_3_descr">
+        <text>Aguarde o helicóptero resgatar o Merc.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_stage_4_descr">
+        <text>O Merc foi resgatado e extraído com sucesso. Volte para Williams Heades.</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_job_descr">
+        <text>Que bom que você pergunta. Há uma situação em que você pode me ajudar. Frequentemente enviamos esquadrões para o interior da Zona para acompanhar movimentos inimigos e definir corredores seguros para os helicópteros passarem.\n \nHá algumas horas, um de nossos esquadrões voltou e disse que avistaram um stalker feito refém por um grupo do Monolith. Disseram que poderia ser um dos nossos, mas não conseguiram chegar perto o suficiente para ter certeza. E considerando quantos Monolithianos eles avistaram, ninguém quer ir lá verificar.\n \nSei que é um pedido grande, mas você poderia ir até lá e garantir que não estamos deixando ninguém para trás?</text>
+    </string>
+
+    <string id="st_wg_act_1_task_3_task_complete_descr">
+        <text>Sim, o helicóptero o deixou aqui há cerca de uma hora. Obrigado por resgatá-lo!\n \nNão sei se ele conseguiu te contar quando você o escoltou de volta para a Floresta Vermelha, mas ele era na verdade o co-piloto da primeira tripulação do helicóptero, aquela que você encontrou morta na Serraria em Zaton.\n \nDe qualquer forma, dei a ele alguns medicamentos para tentar controlar sua confusão.\n \nAh, antes que eu me esqueça, ele disse que queria te ver.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    ATO 2 - TRABALHO CONTRATADO                                                                             -->
+    <!--=============================================================================================================-->
+    <!--    TAREFA 1 - KOLOBOK                                                                                      -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_act_2_task_1_title">
+        <text>Trabalho Contratado: Kolobok</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_stage_0_descr">
+        <text>Dushman tem um cliente importante pedindo um Kolobok. Encontre um e entregue na Cidade Morta.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_stage_1_descr">
+        <text>Você encontrou o Kolobok. Retorne-o para Dushman, para que ele possa entregá-lo ao seu cliente.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_job_descr">
+        <text>Trabalho especial? Grandes clientes não costumam confiar em qualquer um. Olha, se você quiser, um dos meus clientes nos pediu para encontrar um Kolobok. Este é um artefato bastante raro e valioso. Então, se você resistir a vendê-lo por dinheiro e me trouxer um, será um começo para provar que é confiável.\n \nSe você lidar com isso, vou dar uma palavra dizendo que você está procurando mais trabalho, combinado?</text>
+    </string>
+
+    <string id="st_wg_act_2_task_1_task_complete_descr">
+        <text>Certo, então você é realmente um homem de palavra.\n \nVocê cumpriu sua parte do acordo, e eu cumprirei a minha. Você ainda quer que eu diga ao meu cliente que você está procurando mais trabalho?</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    TAREFA 2 - MISSÃO DE RECUPERAÇÃO                                                                        -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_act_2_task_2_title">
+        <text>Trabalho Contratado: Missão de Recuperação</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_0_descr">
+        <text>Recupere documentos escoltados por um comboio de cientistas. Localização é nos Arredores.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_1_descr">
+        <text>Zumbis estão em seu caminho, elimine-os antes de avançar.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_2_descr">
+        <text>Um destacamento de soldados está eliminando um grupo de zumbis. Espere eles se moverem ou limpe o caminho você mesmo.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_3_descr">
+        <text>Chegue à escola, mas mate ou escape de qualquer perseguidor antes de chegar lá.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_4_descr">
+        <text>Chegue à escola, e evite ser notado enquanto chega lá.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_5_descr">
+        <text>Vá para o porão da escola e se esconda lá enquanto o comboio chega.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_6_descr">
+        <text>Vá para o porão da escola e se esconda lá enquanto o comboio chega.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_7_descr">
+        <text>O comboio está prestes a chegar, vá para o terceiro andar da escola.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_8_descr">
+        <text>O comboio está prestes a chegar, encontre uma posição em uma das janelas para emboscar o comboio. Aguarde confirmação do seu contato antes de abrir fogo.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_9_descr">
+        <text>O comboio foi atacado por bandidos. Aguarde confirmação do seu contato antes de abrir fogo.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_10_descr">
+        <text>Uma emissão está prestes a acontecer, procure abrigo no porão agora!</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_11_descr">
+        <text>Os cientistas fugiram durante a emissão. Vá até a última localização conhecida do GPS deles.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_12_descr">
+        <text>Pegue o pacote do Ecologista, no KBO.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_stage_13_descr">
+        <text>Você encontrou o pacote. Entregue-o ao seu contato.</text>
+    </string>
+
+    <string id="st_wg_act_2_task_2_job_descr">
+        <text>Recupere documentos escoltados por um comboio de cientistas. Localização é nos Arredores.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    ATO 3 - IRMÃOS CHERNENKO                                                                                -->
+    <!--=============================================================================================================-->
+    <!--    TAREFA 1 - ESCONDERIJO ANTIGO                                                                           -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_act_3_task_1_title">
+        <text>Irmãos Chernenko: Esconderijo Antigo</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_stage_0_descr">
+        <text>O irmão de um dos comerciantes do Mercado das Pulgas está desaparecido. Quando eles estavam no Exército, mantinham um esconderijo no Subsolo do Agroprom. Localize e investigue o esconderijo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_stage_1_descr">
+        <text>Pegue o drive USB que você encontrou no esconderijo dos irmãos Chernenko.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_stage_2_descr">
+        <text>Você encontrou o esconderijo dos irmãos Chernenko. Ele continha um pendrive USB. Encontre uma maneira de acessar seu conteúdo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_1_stage_3_descr">
+        <text>O pendrive USB continha, entre outras coisas, um mapa com desenhos feitos à mão. Encontre o local mostrado nesse mapa.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    TAREFA 2 - PERSEGUIDORES                                                                                -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_act_3_task_2_title">
+        <text>Irmãos Chernenko: Perseguidores</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_stage_0_descr">
+        <text>Você encontrou o irmão de Oleksandr. Parece que algumas pessoas estão procurando por ele. Interrogue o soldado do SSU que ele capturou e tente obter informações.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_stage_1_descr">
+        <text>Depois de interrogar o soldado do SSU, ele revelou a localização de outro esquadrão do SSU. Vá até a localização deles e elimine-os.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_stage_2_descr">
+        <text>Você eliminou o esquadrão do SSU, investigue os corpos em busca de informações úteis.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_stage_3_descr">
+        <text>Um dos soldados do esquadrão do SSU que você eliminou estava de posse de um aviso de destacamento. Pegue-o e retorne-o para Danylo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_2_stage_4_descr">
+        <text>Retorne o aviso de destacamento que você encontrou para Danylo.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    TAREFA 3 - CHEFE DE OPERAÇÕES                                                                           -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_act_3_task_3_title">
+        <text>Irmãos Chernenko: Chefe de Operações</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_stage_0_descr">
+        <text>Encontre e elimine o supervisor corrupto do SSU. Seu último paradeiro conhecido é o Pátio de Máquinas, nos Grandes Pântanos.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_3_stage_1_descr">
+        <text>O supervisor do SSU foi eliminado. Retorne para Danylo.</text>
+    </string>
+
+    <!--=============================================================================================================-->
+    <!--    TAREFA 4 - REUNIÃO                                                                                      -->
+    <!--=============================================================================================================-->
+
+    <string id="st_wg_act_3_task_4_title">
+        <text>Irmãos Chernenko: Reunião</text>
+    </string>
+
+    <string id="st_wg_act_3_task_4_stage_0_descr">
+        <text>Com o Exército resolvido, Danylo quer se reunir com seu irmão. Encontre-se com Danylo.</text>
+    </string>
+
+    <string id="st_wg_act_3_task_4_stage_1_descr">
+        <text>Com o Exército resolvido, Danylo quer se reunir com seu irmão. Escolte-o até o Mercado das Pulgas, na Lixeira.</text>
+    </string>
+
+</string_table>

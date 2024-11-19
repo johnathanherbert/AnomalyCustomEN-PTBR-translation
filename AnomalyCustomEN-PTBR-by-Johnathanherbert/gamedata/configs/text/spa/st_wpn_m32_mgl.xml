@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+			<string id="st_wpn_m32_mgl">
+		<text>M32A1 MGL</text>
+	</string>
+	<string id="st_wpn_m32_mgl_descr">
+		<text>O lançador de granadas Milkor é um sistema de armas portátil versátil e poderoso usado por forças militares e policiais em todo o mundo. Também conhecido como M32 Multiple Grenade Launcher (MGL), é famoso por seu rápido poder de fogo e eficácia em situações de combate. Projetado para fornecer rapidamente uma explosão de poder explosivo, o M32 pode conter várias granadas de 40 mm em um tambor giratório, permitindo uma rápida sucessão de tiros sem a necessidade de recarga manual. Seu design leve e portátil o torna adequado para diversas operações táticas, como apoio de infantaria, controle de distúrbios e defesa perimetral. Com um mecanismo simples, mas eficaz, o lançador de granadas M32 fornece ao pessoal militar e às autoridades policiais uma ferramenta confiável e poderosa para enfrentar os inimigos e garantir a segurança do pessoal em campo.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]África do Sul \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Milkor (Pty) Ltd \n</text>
+	</string>
+</string_table>

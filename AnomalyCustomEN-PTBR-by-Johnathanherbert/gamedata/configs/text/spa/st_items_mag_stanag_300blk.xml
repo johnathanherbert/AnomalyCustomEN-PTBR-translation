@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+
+<string_table>
+ <!-- .300blk -->
+	
+    <string id="st_mag_stanag_300blk_extended">
+		<text>Carregador STANAG estendido de .300 Blackout</text>
+	</string>
+	<string id="st_mag_stanag_300blk_extended_descr">
+		<text>Carregador de polímero estendido para 40 cartuchos, compatível com a maioria dos rifles da OTAN. Reajustado para carregar cartuchos .300 Blackout sem emperrar.</text>
+	</string>
+	
+	<string id="st_mag_stanag_300blk_fast">
+		<text>Carregador STANAG de carregamento rápido de .300 Blackout</text>
+	</string>
+	<string id="st_mag_stanag_300blk_fast_descr">
+		<text>Carregador moderno estilo PMAG com capacidade para 30 cartuchos. Consideravelmente mais leve que sua versão em aço, seu design ergonômico facilita o carregamento rápido dos cartuchos. Reajustado para carregar cartuchos .300 Blackout sem emperrar.</text>
+	</string>
+	
+	<string id="st_mag_stanag_300blk_casket">
+		<text>Carregador STANAG de 60 cartuchos de .300 Blackout</text>
+	</string>
+	<string id="st_mag_stanag_300blk_casket_descr">
+		<text>Carregador quádruplo de 60 cartuchos compatível com rifles da OTAN. Oferece grande poder de fogo, mas é extremamente pesado e sua natureza quádrupla complica a inserção do cartucho. Reajustado para carregar cartuchos .300 Blackout sem emperrar.</text>
+	</string>
+	
+</string_table>

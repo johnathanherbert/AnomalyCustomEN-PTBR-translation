@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_player_skills_medicine">
+		<text>Medicina</text>
+	</string>
+	<string id="st_new_level_medicine">
+		<text>$clr_red• $clr_whiteRestauração aprimorada de itens médicos</text>
+	</string>
+	
+	<string id="st_player_skills_insanity">
+		<text>Loucura</text>
+	</string>
+	<string id="st_new_level_insanity">
+		<text>$clr_purple• $clr_whiteVocê perde mais sanidade... \n $clr_purple• $clr_whiteRegeneração psíquica melhorada \n $clr_purple• $clr_whiteMelhor resistência psíquica</text>
+	</string>
+	
+	<string id="st_player_skills_tinkering">
+		<text>Sucata</text>
+	</string>
+	<string id="st_new_level_tinkering">
+		<text>$clr_cyan• $clr_whiteMelhor uso de kits de reparo</text>
+	</string>
+	<string id="st_tinkering_refund">
+		<text>Você consertou o item sem gastar o kit de reparo.</text>
+	</string>
+	
+	<string id="st_player_skills_bartering">
+		<text>Barganha</text>
+	</string>
+	<string id="st_new_level_bartering">
+		<text>$clr_yellow• $clr_whitePreços de venda aprimorados \n $clr_yellow• $clr_whiteRecompensas monetárias de missões aprimoradas</text>
+	</string>
+	
+	<string id="st_player_skills_magloading">
+		<text>Carregamento</text>
+	</string>
+	<string id="st_new_level_magloading">
+		<text>$clr_white• $clr_whiteAumento da velocidade de carregamento e descarregamento do carregador</text>
+	</string>
+	
+	<string id="st_player_skills_lockpicking">
+		<text>Arrombamento</text>
+	</string>
+	<string id="st_new_level_lockpicking">
+		<text>$clr_white• $clr_whiteDificuldade de fechaduras reduzida</text>
+	</string>
+	
+	<string id="st_player_skills_reloading">
+		<text>Manejo de Armas</text>
+	</string>
+	<string id="st_new_level_reloading">
+		<text>$clr_white• $clr_whiteMaior velocidade de recarga e saque de armas</text>
+	</string>
+</string_table>

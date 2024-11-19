@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+	<string id="st_lootbox_toolbox">
+		<text>Kit de Ferramentas</text>
+	</string>
+	<string id="st_lootbox_toolbox_descr">
+		<text>
+			Kit de ferramentas com uma trava com chave no cabo. Comumente encontrado com mecânicos, que usam essas caixas como meio organizado de carregar ferramentas e outros equipamentos de manutenção. Devido à forma como as ferramentas são mantidas neste tipo de contêiner, ele não pode conter nada além de itens de reparo, peças sobressalentes e talvez um maço de cigarros velho. Boas ferramentas como estas são muito procuradas pela maioria dos mecânicos e, como tal, são protegidas com uma trava de boa qualidade. \n \n
+		</text>
+	</string>
+	<string id="st_lootbox_medbox">
+		<text>Caixa Médica</text>
+	</string>
+	<string id="st_lootbox_medbox_descr">
+		<text>
+			Estojo estéril multicompartimentado projetado para armazenar uma grande quantidade de primeiros socorros, com trava integrada. Uma trava de reposição de qualidade extremamente alta foi usada para manter o estojo fechado. Geralmente encontrada em consultórios médicos e definitivamente vale muito dinheiro para qualquer médico. Claro, ter muitos itens médicos à mão nunca é uma coisa ruim... \n \n
+		</text>
+	</string>
+	<string id="st_lootbox_ammocase">
+		<text>Caixa de Munição</text>
+	</string>
+	<string id="st_lootbox_ammocase_descr">
+		<text>
+			Contêiner à prova d'água usado para armazenar carregadores e munição. Comum entre caçadores e cidadãos ricos. Uma boa descoberta na Zona - geralmente, turistas trazem essas caixas junto com uma boa quantidade de munição de alta qualidade, e o controle climático garante que a munição dentro esteja limpa e seca. A maioria das munições na Zona é antiga, danificada ou pior, recarregada por artesãos inexperientes com equipamento inferior, e como tal, boas munições são raras e bastante valiosas. \n \n
+		</text>
+	</string>
+	<string id="st_lootbox_foodbox">
+		<text>Caixa de Comida Metálica</text>
+	</string>
+	<string id="st_lootbox_foodbox_descr">
+		<text>
+			Caixa metálica isolada e resistente à radiação projetada para armazenar perecíveis. Incomum na Zona e usada principalmente por pessoal do SSU para transportar comida em campo. Há uma alta demanda por essas caixas devido à sua capacidade de manter o álcool gelado. \n \n
+		</text>
+	</string>
+	<string id="st_lootbox_junkbox">
+		<text>Caixa de Sucata do Catador</text>
+	</string>
+	<string id="st_lootbox_junkbox_descr">
+		<text>
+			Um grande contêiner com muito lixo dentro. Uma trava ruim o mantém fechado. Talvez isso fosse uma caixa de peças sobressalentes ou o tesouro de algum acumulador. Deve ter algo útil aqui... \n \n
+		</text>
+	</string>
+	<string id="st_lootbox_devicecase">
+		<text>Maleta de Campo dos Ecologistas</text>
+	</string>
+	<string id="st_lootbox_device_descr">
+		<text>
+			Maleta à prova d'água e resistente a PEM usada pelos Ecologistas para transportar equipamentos e amostras. Depois de muitos incidentes envolvendo 'quedas' de equipamentos de campo em anomalias, o Ministério da Ciência determinou o uso de maletas especializadas para carregar equipamentos em campo. Essas maletas contêm uma grande variedade de dispositivos eletrônicos avançados e também são usadas por Mercenários contratados para armazenar seus equipamentos sensíveis e armaduras extras. Há também um compartimento estéril especial para armazenar amostras de campo.\n \n
+		</text>
+	</string>
+	<string id="st_lootbox_snipercase">
+		<text>Maleta de Rifle de Precisão</text>
+	</string>
+	<string id="st_lootbox_snipercase_descr">
+		<text>
+			Maleta especializada para transportar rifles de precisão. Extra longa para acomodar o comprimento do cano e projetada para ser resistente tanto ao clima quanto à umidade. \n \n
+		</text>
+	</string>
+	<string id="st_lootbox_coinbox">
+		<text>Caixa Operada por Moedas</text>
+	</string>
+	<string id="st_lootbox_coinbox_descr">
+		<text>
+			Uma caixa selada com um símbolo estranho no topo. A caixa é extremamente reforçada e pesada. Em vez de uma fechadura, tem uma fenda para moedas de algum tipo. É grande demais para moedas de rublo. O que poderia abrir isso? \n \n
+		</text>
+	</string>
+	<string id="st_tokens">
+		<text>Fichas Estranhas</text>
+	</string>
+	<string id="st_tokens_descr">
+		<text>Moedas grandes de prata gravadas com um símbolo estranho. Estas não têm valor monetário, embora sejam uma curiosidade divertida. A linguagem nas moedas se assemelha superficialmente ao cirílico, ou talvez ao japonês.\n \n</text>
+	</string>
+	<string id="st_lootbox_ammocase_bad">
+		<text>Caixa de Munição Antiga</text>
+	</string>
+	<string id="st_lootbox_ammocase_bad_descr">
+		<text>
+			Caixa de aço usada para guardar munição. Item comum de excedente militar e muitas delas foram deixadas para trás durante as incursões iniciais na Zona de Exclusão. Sacudir a caixa produz muito barulho. Protegida com uma trava simples.\n \n
+		</text>
+	</string>
+	
+	<string id="st_lootbox_tacklebox">
+		<text>Caixa de Pesca com Cadeado</text>
+	</string>
+	<string id="st_lootbox_tacklebox_descr">
+		<text>
+			Caixa de pesca reaproveitada usada para guardar itens. Não existem peixes na Zona (pelo menos, os Ecologistas esperam que não) então há uma boa chance de você encontrar algo mais útil do que iscas e equipamentos de pesca aqui. \n \n 
+		</text>
+	</string>
+</string_table>

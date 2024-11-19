@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_inv_thirst">
+		<text>Nível de Sede</text>
+	</string>
+	<string id="ui_inv_sleep">
+		<text>Nível de Sono</text>
+	</string>
+</string_table>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->	
+
+<string_table>
+
+	<string id="ui_mcm_menu_intimidation_surrender">
+		<text>Rendição por Intimidação</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_title">
+		<text>Intimidar Inimigos Para Se Renderem</text>
+	</string>
+	
+	<string id="ui_mcm_intimidation_surrender_base_chance_to_intimidate">
+		<text>Chance base de intimidação</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_base_chance_to_intimidate_desc">
+		<text>Chance base sem bônus e penalidades. Usado no cálculo da chance final de intimidação.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_max_intimidation_distance">
+		<text>Distância máxima de intimidação</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_max_intimidation_distance_desc">
+		<text>Você precisa estar a esta distância do seu alvo para intimidar.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_surrender_bonus">
+		<text>Bônus para conversão de NPCs</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_surrender_bonus_desc">
+		<text>Aumenta as chances de converter NPCs para sua facção porque você os persuadiu a se render em vez de causar ferimentos fatais.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_attack_chance_override">
+		<text>Chance de ataque se falhar na conversão</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_attack_chance_override_desc">
+		<text>Sobrepõe a chance de ataque do addon "Converter NPCs para sua facção". Adicionado porque inimigos que nunca foram gravemente feridos devem ter mais força para revidar. Só sobrepõe a chance daqueles inimigos que se renderam após intimidação.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_low_health_bonus">
+		<text>Bônus de intimidação por baixa saúde</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_low_health_bonus_desc">
+		<text>A chance de rendição é aumentada por este valor se o inimigo tiver menos de 50% de saúde.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_sneak_bonus">
+		<text>Bônus de furtividade para intimidação</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_sneak_bonus_desc">
+		<text>A chance de rendição é aumentada por este valor se o inimigo não puder te ver.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_voice">
+		<text>Voz de intimidação</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_voice_desc">
+		<text>As linhas de voz que são reproduzidas quando você tenta intimidar um inimigo.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_delay">
+		<text>Atraso da rendição (milissegundos)</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_delay_desc">
+		<text>Quantos milissegundos leva para o alvo reagir a você. Sem atraso o NPC se rende antes de te ouvir, o que parece estúpido</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_isolation_enabled">
+		<text>Ativar mecânica de isolamento</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_isolation_enabled_desc">
+		<text>A mecânica de isolamento diminui ou aumenta as chances dependendo de quão isolado o alvo está de seus amigos. Sem ela, você pode fazer uma pessoa se render mesmo quando está entre centenas de seus amigos.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_minimal_isolation_distance">
+		<text>Distância mínima de isolamento</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_minimal_isolation_distance_desc">
+		<text>Stalkers fora deste alcance não afetam a chance de intimidação.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_isolation_bonus">
+		<text>Bônus de isolamento</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_isolation_bonus_desc">
+		<text>Este valor é adicionado para cada inimigo adicional do seu alvo próximo a ele. Então, se você cercar um inimigo com seu esquadrão, você tem uma chance maior de assustá-lo.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_isolation_penalty">
+		<text>Penalidade de isolamento</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_isolation_penalty_desc">
+		<text>Este valor é subtraído para cada amigo adicional do seu alvo próximo a ele. Então é menos provável intimidar alguém que está perto de seus amigos.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_enemy_response_enabled">
+		<text>Ativar respostas dos inimigos</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_enemy_response_enabled_desc">
+		<text>Quando ativado, os inimigos reproduzirão linhas de voz sempre que concordarem ou se recusarem a se render. Não foi possível fazer com que reproduzissem diretamente dos NPCs, então é imperfeito, toca junto com outras linhas de voz do NPC e não pode copiar adequadamente suas vozes (Cada facção tem apenas 1 voz de resposta, pois não foi possível detectar as vozes individuais dos NPCs). Além disso, é estacionário, então se o NPC fugir, o som continuará tocando do último lugar onde ele estava.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_novice_bravery">
+		<text>Bravura de Novato</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_novice_bravery_desc">
+		<text>Bravura desta patente. É subtraída da chance total de intimidação. Então NPCs mais bravos têm menor chance.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_trainee_bravery">
+		<text>Bravura de Aprendiz</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_trainee_bravery_desc">
+		<text>Bravura desta patente. É subtraída da chance total de intimidação. Então NPCs mais bravos têm menor chance.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_experienced_bravery">
+		<text>Bravura de Experiente</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_experienced_bravery_desc">
+		<text>Bravura desta patente. É subtraída da chance total de intimidação. Então NPCs mais bravos têm menor chance.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_professional_bravery">
+		<text>Bravura de Profissional</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_professional_bravery_desc">
+		<text>Bravura desta patente. É subtraída da chance total de intimidação. Então NPCs mais bravos têm menor chance.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_veteran_bravery">
+		<text>Bravura de Veterano</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_veteran_bravery_desc">
+		<text>Bravura desta patente. É subtraída da chance total de intimidação. Então NPCs mais bravos têm menor chance.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_expert_bravery">
+		<text>Bravura de Especialista</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_expert_bravery_desc">
+		<text>Bravura desta patente. É subtraída da chance total de intimidação. Então NPCs mais bravos têm menor chance.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_master_bravery">
+		<text>Bravura de Mestre</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_master_bravery_desc">
+		<text>Bravura desta patente. É subtraída da chance total de intimidação. Então NPCs mais bravos têm menor chance.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_legend_bravery">
+		<text>Bravura de Lenda</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_legend_bravery_desc">
+		<text>Bravura desta patente. É subtraída da chance total de intimidação. Então NPCs mais bravos têm menor chance.</text>
+	</string>
+	
+	<string id="ui_mcm_intimidation_surrender_int_calc_descr_text">
+		<text>Fórmula para calcular a chance final de intimidação:\n[chance base] + [bônus de furtividade](se o inimigo não puder te ver) + [bônus de baixa saúde](se o inimigo tiver menos de 50% de vida) + [bônus de isolamento](por cada stalker próximo e hostil ao inimigo) - [penalidade de isolamento](por cada amigo do inimigo que estiver próximo) - [bravura da patente do inimigo] = [chance final de intimidar]%</text>
+	</string>
+	
+	<string id="ui_mcm_intimidation_surrender_convert_descr_text">
+		<text>Interação com o addon "converter inimigos para sua facção"</text>
+	</string>
+
+	
+	
+	<string id="is_stalker_1">
+		<text>Stalker 1</text>
+	</string>
+	<string id="is_stalker_1_muffled">
+		<text>Stalker 1 abafado</text>
+	</string>
+	<string id="is_stalker_2">
+		<text>Stalker 2</text>
+	</string>
+	<string id="is_stalker_2_muffled">
+		<text>Stalker 2 abafado</text>
+	</string>
+	<string id="is_build">
+		<text>Stalker 3</text>
+	</string>
+	<string id="is_build_muffled">
+		<text>Stalker 3 abafado</text>
+	</string>
+	<string id="is_bandit_1">
+		<text>Bandido 1</text>
+	</string>
+	<string id="is_bandit_1_muffled">
+		<text>Bandido 1 abafado</text>
+	</string>
+	<string id="is_bandit_2">
+		<text>Bandido 2</text>
+	</string>
+	<string id="is_bandit_2_muffled">
+		<text>Bandido 2 abafado</text>
+	</string>
+	<string id="is_csky">
+		<text>Clear Sky</text>
+	</string>
+	<string id="is_csky_muffled">
+		<text>Clear Sky abafado</text>
+	</string>
+	<string id="is_dolg">
+		<text>Duty</text>
+	</string>
+	<string id="is_dolg_muffled">
+		<text>Duty abafado</text>
+	</string>
+	<string id="is_ecolog">
+		<text>Ecologista</text>
+	</string>
+	<string id="is_ecolog_muffled">
+		<text>Ecologista abafado</text>
+	</string>
+	<string id="is_freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="is_freedom_muffled">
+		<text>Freedom abafado</text>
+	</string>
+	<string id="is_greh">
+		<text>Sin</text>
+	</string>
+	<string id="is_greh_muffled">
+		<text>Sin abafado</text>
+	</string>
+	<string id="is_military">
+		<text>Militar</text>
+	</string>
+	<string id="is_military_muffled">
+		<text>Militar abafado</text>
+	</string>
+	<string id="is_monolith_random_speeches">
+		<text>Discursos aleatórios do Monolith</text>
+	</string>
+	<string id="is_custom">
+		<text>Personalizado</text>
+	</string>
+	<string id="is_none">
+		<text>Nenhum</text>
+	</string>
+
+
+</string_table>

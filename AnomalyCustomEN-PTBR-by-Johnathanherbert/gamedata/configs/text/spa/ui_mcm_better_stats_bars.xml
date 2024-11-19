@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+	<string id="ui_mcm_better_stats_bars_title">
+		<text>Barras de Status Melhoradas</text>
+	</string>
+	<string id="ui_mcm_menu_better_stats_bars">
+		<text>Status Melhorados</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_positive_color_help">
+		<text>Cor da barra de status aumentados</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_a">
+		<text>Opacidade</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_r">
+		<text>Vermelho</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_g">
+		<text>Verde</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_b">
+		<text>Azul</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_negative_color_help">
+		<text>Cor da barra de status reduzidos</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_a">
+		<text>Opacidade</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_r">
+		<text>Vermelho</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_g">
+		<text>Verde</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_b">
+		<text>Azul</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_neutral_color_help">
+		<text>Cor da barra de status inalterados</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_a">
+		<text>Opacidade</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_r">
+		<text>Vermelho</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_g">
+		<text>Verde</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_b">
+		<text>Azul</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_position">
+		<text>Posição</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_position">
+		<text>A posição das barras extras em relação às barras base</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_bottom">
+		<text>Inferior</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_top">
+		<text>Superior</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_justify">
+		<text>Preencher toda altura</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_use_game_values">
+		<text>Usar Valores do Jogo</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_use_game_values_desc">
+		<text>Ativar esta opção fará com que as barras representem proteção contra ameaças reais do jogo (NPCs, mutantes, anomalias), baseado em seus valores de dano, tipos elementais, e também inclui comportamento corrigido de proteção de traje e capacete. Você pode escolher estas opções \n \n Nenhum: desativa a opção \n \n Máximo: o máximo da barra representa o dano máximo possível de receber. Neste caso, 1/3 da barra geralmente representa campos de fogo, ácido e psi, mutantes fracos e armas de fogo de calibre de pistola. 2/3 da barra representa minas de anomalia como anomalias elétricas, gravitacionais, queimadores e poças de ácido, ataques de cães psi, mutantes de força média e armas de fogo intermediárias. Barra completa representa proteção contra as minas mais fortes, campos, ataques de Controller, mutantes mais fortes e armas de fogo de alto calibre. \n \n Máximo (Sem Minas): Igual ao Máximo mas minas de anomalia não são consideradas nos resultados. Útil se você quiser saber a proteção exata contra campos e planeja evitar minas ao invés de saber quanto dano você recebe delas.</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_use_game_values_none">
+		<text>Nenhum</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_use_game_values_max">
+		<text>Máximo</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_use_game_values_max_no_mines">
+		<text>Máximo (Sem Minas)</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_position">
+		<text>A posição das barras extras em relação às barras base</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_bottom">
+		<text>Inferior</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_top">
+		<text>Superior</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_justify">
+		<text>Preencher toda altura</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_efp_ui_compatibility">
+		<text>Compatibilidade com EFP UI (Modern UI)</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_efp_ui_compatibility_desc">
+		<text>Melhor exibição das barras ao usar o modpack Escape From Pripyat (EFP). Também é recomendado definir a posição para "Preencher toda altura" e reduzir a opacidade de todos os tipos de barras</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_gamma_ui_compatibility">
+		<text>Compatibilidade com G.A.M.M.A. UI (também se aplica ao mod antigo de barras de Fome, Sede e Sono)</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_gamma_ui_compatibility_desc">
+		<text>Melhor exibição das barras ao usar o modpack G.A.M.M.A. ou versão antiga do mod de barras de Fome, Sede e Sono</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_arx_compatibility">
+		<text>Compatibilidade com ARX</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_arx_compatibility_desc">
+		<text>Exibição mais correta dos status ao usar o mod ARX (Artefact Restoration eXperiment)</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_abf_compatibility">
+		<text>Compatibilidade com ABF</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_abf_compatibility_desc">
+		<text>Exibição mais correta dos status ao usar o mod ABF (Anomalous Balance Fix)</text>
+	</string>
+		
+</string_table>

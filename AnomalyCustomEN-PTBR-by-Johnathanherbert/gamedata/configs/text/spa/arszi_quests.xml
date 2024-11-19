@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!-- Butcher -->
+<!-- hunter_gar_trader_task_common_trophy -->
+	<string id="igi_task_text_arszi_fetch_trophy_title">
+		<text>Encontrar troféus de mutantes comuns</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_trophy_descr">
+		<text>Butcher me pediu para levar alguns troféus de mutantes comuns</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_trophy_job_descr">
+		<text>Carne não é a única parte de mutantes que pode ser valiosa. Alguns stalkers valorizam partes específicas de mutantes como troféus ou amuletos. Você sabe, como um belo dente de pseudodog ou uma cauda de gato pendurada na cintura. Qualquer um pode caçar um mutante e usar suas partes como símbolo de realização, mas para criar itens excepcionalmente espetaculares, requer habilidade real! - Traga-me alguns troféus, e eu vou criar alguns acessórios estilosos com eles. Você está dentro?</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_trophy_finish">
+		<text>Algumas materiais finos que você coletou. Muito bem, caçador.</text>
+	</string>
+<!-- hunter_gar_trader_task_common_hide -->
+	<string id="igi_task_text_arszi_fetch_hide_title">
+		<text>Encontrar peles e pele de mutantes comuns</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_hide_job_descr">
+		<text>O clima está ficando cada vez mais frio... Mutantes no Zona aprendem a sobreviver aos perigos do clima local crescendo peles quentes. É hora de coletar algumas peles! Além disso, peles não são apenas para manter você aquecido, mas também têm muitas utilidades como reparar armaduras cansadas ou dar-lhe uma vantagem sobre anomalias! Colete algumas peles para mim, e você será recompensado.</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_hide_finish">
+		<text>Veja, pelar alguns mutantes não foi tão difícil, não foi, caçador?</text>
+	</string>
+	<!-- hunter_gar_trader_task_psy_dog_fur -->
+	<string id="igi_task_text_arszi_fetch_psy_dog_fur_title">
+		<text>A melhor pelagem - Encontrar uma pelagem de Psy-dog para Butcher</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_psy_dog_fur_descr">
+		<text>Butcher me pediu para levar uma pelagem rara de Psy-dog.</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_psy_dog_fur_job_descr">
+		<text>Há uma criatura que habita no coração da Zona. É uma visão rara e poucos stalkers sobrevivem a um encontro com ela. Seu rugido congela seu sangue e seus olhos veem em sua mente e alma! Esta criatura é chamada Psy-dog, uma criatura de beleza e morte com uma pelagem prateada única. A melhor pelagem que muitos caçadores desejam. Traga-me uma pelagem de Psy-dog, caçador.</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_psy_dog_fur_finish">
+		<text>Você tem? Sim! Uma das melhores peles que eu já vi em minha vida. Aqui está sua recompensa, caçador, e algo mais, que eu achei nas últimas horas e não tenho muito uso para.</text>
+	</string>
+	<!-- hunter_gar_trader_arszi_fetch_beak -->
+	<string id="igi_task_text_arszi_fetch_beak_title">
+		<text>Lendas da Zona - Encontrar uma bexiga mutante de uma coruja rara para Butcher</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_beak_descr">
+		<text>Butcher me pediu para levar uma bexiga mutante de uma coruja rara.</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_beak_job_descr">
+		<text>Há muitas lendas sobre a Zona. Mas há apenas algumas que nos interessam, caçadores. A bexiga mutante de uma coruja velha é uma dessas lendas. Alguns stalkers acreditam que se você fizer uma bebida com ela e beber, você ganhará habilidades sobrenaturais temporariamente. Isso significa, há alguns stalkers que pagariam caro por ela. Traga-me uma bexiga mutante de uma coruja velha.</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_beak_finish">
+		<text>Então esta é essa lendária bexiga. Parece um pouco diferente, sim. Aqui está sua recompensa, caçador.</text>
+	</string>
+	<!-- hunter_gar_trader_task_bloodsucker -->
+	<string id="igi_task_text_arszi_fetch_bloodsucker_title">
+		<text>Joias exquisitas</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_bloodsucker_descr">
+		<text>Butcher me pediu para levar uma mandíbula de Bloodsucker.</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_bloodsucker_job_descr">
+		<text>Dizem que Bloodsuckers são raros. Bem, não é inteiramente verdade. As pessoas não vêm muito deles, porque a maioria dos stalkers não sobrevive ao encontro para contar sobre isso... Na verdade, Bloodsuckers estão por toda parte. Durante o dia eles escondem, e saem para caçar durante a noite. Eu posso fazer joias excepcionalmente finas usando suas mandíbulas. Colete-me algumas mandíbulas de Bloodsucker, e cuidado durante a caça! Se você não os vê, não significa que eles não te veem...</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_bloodsucker_finish">
+		<text>Excelente! Espero que eles não te tenham comido durante a caça. Aqui está sua recompensa, caçador.</text>
+	</string>
+	<!-- hunter_gar_trader_task_chimera -->
+	<string id="igi_task_text_arszi_fetch_chimera_title">
+		<text>O caçador supremo</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_chimera_descr">
+		<text>Butcher me pediu para levar uma parte de Chimera.</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_chimera_job_descr">
+		<text>Antes, os humanos temiam os animais, então os animais temiam os humanos. Mas tudo mudou de novo, quando a Zona apareceu... Não há caçadores e presas na Zona, mas apenas caçadores. Hoje você é o caçador, amanhã você pode ser a presa. Há uma criatura, o caçador supremo, a Chimera. O ponto culminante da evolução. Você é capaz de enfrentar o teste final como caçador? Se sim, então caça uma Chimera, e me leva um troféu. Eu vou esperar por você!</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_chimera_finish">
+		<text>A melhor troféu que você me trouxe! Aqui está sua recompensa, mestre caçador, e algo mais, que eu achei nas últimas horas e não tenho muito uso para. Você mereceu!</text>
+	</string>
+<!-- Fanatic -->
+<!-- esc_2_12_stalker_fanat_task_meat -->
+	<string id="igi_task_text_arszi_fetch_meat_title">
+		<text>Comida para os novatos</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_meat_descr">
+		<text>Fanatic me pediu para levar algumas suprimentos.</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_meat_job_descr">
+		<text>Mais e mais novatos chegam cada dia, e por isso a Vila dos Novatos está um pouco sem suprimentos. Eu gostaria de pedir que você vê e colete alguma carne, para podermos ajudar os novatos em necessidade com uma refeição quente.</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_meat_finish">
+		<text>Obrigado, meu amigo, aqui está sua recompensa por nos ajudar!</text>
+	</string>
+<!-- Wolf -->
+<!-- esc_2_12_stalker_wolf_task_night -->
+	<string id="igi_task_text_night_title">
+		<text>Terror noturno em Cordon - Eliminar mutantes</text>
+	</string>
+    <string id="igi_task_text_night_descr">
+		<text>Wolf me pediu para eliminar mutantes perigosos à noite.</text>
+	</string>
+    <string id="igi_task_text_night_job_descr">
+		<text>Não consegue dormir? Talvez para melhor. Estou recebendo uma informação de alguns novatos assustados, que ouviram ruídos estranhos na área. Com base na descrição dos ruídos, deve ser algum tipo de mutante perigoso à noite. Eu quero que você encontre a fonte dos ruídos e caça-os para a segurança da vila!</text>
+	</string>
+	<string id="igi_task_text_night_finish">
+		<text>Obrigado pelo seu trabalho, a Vila dos Novatos está segura, por enquanto... Aqui está sua recompensa.</text>
+	</string>
+<!-- Sakharov -->
+<!-- yan_stalker_sakharov_task_mutant_parts_specimen_monster_common -->
+	<string id="igi_task_text_arszi_fetch_monster_common_title">
+		<text>Coletar amostras de mutantes comuns</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_monster_common_descr">
+		<text>Sakharov me pediu para levar algumas amostras de mutantes comuns.</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_monster_common_job_descr">
+		<text>Estamos sem amostras de mutantes comuns. Enquanto nossa prioridade de pesquisa é em mutantes humanoides raros e artefatos, ainda estamos interessados nas mudanças ocorrendo na fauna local. Além de interesse pessoal, pode haver ainda coisas que podemos aprender sobre as maneiras únicas de evolução que os animais tomaram na Zona. Várias espécies mostram habilidades promissoras, que podemos usar para desenvolver novas medicinas ou apenas entender mais sobre a Zona em si. Você gostaria de ajudar a ciência? Tudo o que você precisa fazer é levar algumas amostras!</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_monster_common_finish">
+		<text>Obrigado, jovem! Aqui está sua recompensa.</text>
+	</string>
+<!-- yan_stalker_sakharov_task_mutant_parts_specimen_zombie -->
+	<string id="igi_task_text_arszi_fetch_zombie_title">
+		<text>Coletar amostras de humanoides zombificados</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_zombie_descr">
+		<text>Sakharov me pediu para levar algumas amostras de humanoides zombificados.</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_zombie_job_descr">
+		<text>Há muitos fenômenos únicos na Zona. Estamos especialmente interessados em efeitos relacionados à Psy, como a habilidade que certos mutantes ou anomalias possuem. Por outro lado, os resultados desses efeitos são impressionantes. As vítimas desses efeitos ainda estão "vivos" de uma forma, enquanto não deveriam estar. Isso muda muitas teorias sobre "vida" em si. Como você já deve ter adivinhado, estou falando sobre aqueles chamados "zombiefied" pessoas, mas eu acho o termo altamente não científico. Eu sempre estou ansioso para estudar os processos biológicos que ocorreram neles após o cérebro se tornar gravemente danificado pelo contato com níveis altos de emissões de Psy. Por favor, me leve algumas amostras!</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_zombie_finish">
+		<text>Triste, de fato, acabar assim... Oh sim, aqui está sua recompensa.</text>
+	</string>
+<!-- yan_stalker_sakharov_task_mutant_parts_specimen_humanoid -->
+	<string id="igi_task_text_arszi_fetch_humanoid_title">
+		<text>Coletar amostras de humanoides</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_humanoid_descr">
+		<text>Sakharov me pediu para levar algumas amostras de humanoides.</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_humanoid_job_descr">
+		<text>A Zona mudou a vida como a conhecemos. Não apenas para os animais, mas para os humanos também! Há uma quantidade considerável de relatos sobre humanos altamente mutados, com novas e fascinantes habilidades. Controle mental, força sobre-humana, regeneração e muito mais. Estamos muito interessados em amostras desses humanos mutados, ou se podemos dizer, mutantes humanoides. Naturalmente, seu intelecto peculiar os torna muito mais formidáveis do que os porcos ou cães com os quais stalkers menos experientes estão acostumados. É certamente um pedido perigoso, mas se você me trouxer uma amostra, você será um stalker rico de fato!</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_humanoid_finish">
+		<text>Fascinante! Essas amostras podem abrir uma porta para a ciência além da imaginação. Sua recompensa, como prometido!</text> 
+	</string>
+<!-- yan_stalker_sakharov_task_mutant_parts_specimen_mutant_rare -->
+	<string id="igi_task_text_arszi_fetch_monster_rare_title">
+		<text>Coletar amostras de mutantes raros</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_monster_rare_descr">
+		<text>Sakharov me pediu para levar algumas amostras de mutantes raros.</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_monster_rare_job_descr">
+		<text>Mutados existem, que podem ser considerados predadores de alto nível, na Zona. Apenas alguns stalkers sobrevivem ao contato com eles, o que torna eles muito raros para nós. Rumores dizem que alguns deles podem até sobreviver às condições mais severas, como alta radiação ou contato com anomalias. Eu quero provar cientificamente se essas histórias são verdadeiras ou não. Muitas coisas são possíveis na Zona, que eu até consideraria não científicas há muito tempo... Será uma missão perigosa. Leve algumas amostras, você será recompensado bem, stalker!</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_monster_rare_finish">
+		<text>Podemos raramente trabalhar em espécimes excelentes como esses. Eles guardam tantas coisas para serem descobertas! Aqui está sua recompensa.</text>
+	</string>
+</string_table>

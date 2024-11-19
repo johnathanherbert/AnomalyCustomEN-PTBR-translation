@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+
+	<string id="st_wpn_saiga_bp">
+		<text>Saiga-23</text>
+	</string>
+	<string id="st_wpn_saiga_bp_descr">
+		<text>A Saiga-23 foi desenvolvida por mecânicos da Zona para stalkers que caçam os mutantes mais resistentes. Inspirada no protótipo russo KS-23K, esta arma foi baseada na Saiga-12 e construída como bullpup para maior mobilidade. A arma foi então adaptada para disparar cartuchos de espingarda 23x75mm e reequipada com um cano KS-23 de 510mm. O resultado é uma arma extremamente letal a curta distância.</text>
+	</string>
+
+
+</string_table>

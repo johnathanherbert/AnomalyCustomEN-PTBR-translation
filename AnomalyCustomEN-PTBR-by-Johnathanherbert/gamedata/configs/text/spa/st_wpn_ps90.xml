@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_ps90">
+		<text>FN PS90</text>
+	</string>
+	<string id="st_wpn_ps90_descr">
+		<text>A PS90 é a versão para o mercado civil da submetralhadora FN P90, desenvolvida no final da década de 1990 como uma arma de defesa pessoal para tropas cujas tarefas não exigem rifles longos ou onde tais rifles seriam impraticáveis. As principais diferenças em relação ao modelo militar/policial são o mecanismo de disparo em modo semiautomático, um cano mais longo de 40 cm para atender às leis de armas dos EUA e carregadores com capacidade reduzida para 30 cartuchos.\n \nApesar da relativa escassez de munição 5,7 mm, deve ser possível encontrar carregadores de 50 cartuchos em algum lugar da Zona, e um armeiro habilidoso será capaz de converter esta arma para disparo automático se tiver as ferramentas e peças adequadas.\n
+\n %c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Bélgica \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]FN Herstal \n</text>
+	</string>
+	
+	<string id="st_up_ps90_mag_name">
+		<text>Fonte de carregador padrão</text>
+	</string>
+	<string id="st_up_ps90_mag_descr">
+		<text>Encontre uma fonte de carregadores originais de qualidade para forças policiais e militares.</text>
+	</string>
+	
+	<string id="st_up_ps90_auto_name">
+		<text>Mecanismo de disparo automático</text>
+	</string>
+	<string id="st_up_ps90_auto_descr">
+		<text>Permite modos de disparo semiautomático e automático.</text>
+	</string>
+	
+</string_table>

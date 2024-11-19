@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_revolver357">
+		<text>Basilisk .357 Magnum</text>
+	</string>
+	<string id="st_wpn_revolver357_descr">
+		<text>Esta arma é um modelo único. Foi fabricada por um nerd que decidiu se juntar à Zona há alguns anos. Ele rapidamente começou a derreter e fundir ligas para criar armas caseiras, já que este era seu hobby no mundo exterior. Dizem que alguns stalkers de diferentes facções estavam cientes disso. Eventualmente, ele foi abordado por um grupo de mercenários que o contratou. As histórias dizem que eles precisavam de alguém para substituir seu armeiro morto. Um dia, ele recebeu um pedido para reutilizar uma armação quebrada de revólver que ele havia aprimorado. Ele a usinava para recriar uma arma de um famoso jogo de videogame e a chamou de "O Basilisco". Como os calibres de revólver são bastante escassos, como .44 Magnum ou .500 SW, ele reduziu o cano para atirar .357 Magnum, muito mais difundido por seu recuo moderado e uso na caça. Alguns modelos foram fabricados e apreendidos de confrontos entre esses grupos e outros stalkers.
+		\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Maioria das miras para o sistema picatinny/weaver.\n
+		%c[d_purple] - %c[ui_gray_2] Silenciador: Nenhum. \n</text>
+	</string>
+</string_table>

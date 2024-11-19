@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<!--Traduzido por Johnathanherbert-->
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia">
+		<text>Guia</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Exibir o guia do usuário</text>
+	</string>
+	
+	<!-- Interface components -->
+	<string id="pda_encyclopedia_title">
+		<text>Guia da Zona</text>
+	</string>
+	
+	<string id="st_pda_encyclopedia_image_checkbox">
+		<text>Imagens no topo</text>
+	</string>
+	
+	<string id="st_pda_encyclopedia_message_checkbox">
+		<text>Exibir mensagens</text>
+	</string>
+	
+	<!-- Messages -->
+	<string id="pda_encyclopedia_notify">
+		<text>Artigo desbloqueado: %s, %s</text>
+	</string>
+	<string id="pda_encyclopedia_notify_note">
+		<text>Nova anotação: %s</text>
+	</string>
+	
+	<!-- Misc -->
+	<string id="pda_encyclopedia_info">
+		<text>Informações</text>
+	</string>
+	<string id="pda_encyclopedia_properties">
+		<text>Propriedades</text>
+	</string>
+	<string id="pda_encyclopedia_subject">
+		<text>Assunto</text>
+	</string>
+	<string id="pda_encyclopedia_content">
+		<text>Conteúdo</text>
+	</string>
+	
+	<string id="pda_encyclopedia_ironman_lifes">
+		<text>Vidas concedidas</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_life">
+		<text>Vidas restantes</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_deaths">
+		<text>Total de mortes</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_cycle">
+		<text>Ciclo de concessão de vida (em horas)</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_1">
+		<text>Um erro e tudo acaba...</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_2">
+		<text>Preciso ter mais cuidado!</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_3">
+		<text>Por enquanto, estou seguro.</text>
+	</string>
+	
+	
+	<!-- Locked articles -->
+	<string id="pda_encyclopedia_locked">
+		<text>??????????</text>
+	</string>
+	
+	<string id="pda_encyclopedia_locked_text">
+		<text>
+			Você ainda não desbloqueou este artigo.\n
+			\nOs artigos podem ser desbloqueados das seguintes formas:\n
+			\n• Descobrindo locais pela primeira vez
+			\n• Baixando dados de cartões de memória
+			\n• Obtendo peças e carnes de mutantes
+			\n• Conversando e interagindo com stalkers
+			\n• Usando itens e equipando armaduras de facção
+		</text>
+	</string>
+	
+</string_table>

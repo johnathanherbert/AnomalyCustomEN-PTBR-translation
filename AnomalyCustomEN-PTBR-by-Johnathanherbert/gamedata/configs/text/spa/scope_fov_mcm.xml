@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por Johnathanherbert -->
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+<string_table>
+
+	<string id="ui_mcm_scop_title">
+		<text>Configurações do HUD da mira</text>
+	</string>	
+	<string id="ui_mcm_menu_scop">
+		<text>Ajustar o HUD da mira</text>
+	</string>
+
+	<string id="ui_mcm_scop_iron_fov">
+		<text>Miras de ferro e miras 3D integradas</text>
+	</string>
+	<string id="ui_mcm_scop_iron_fov_desc">
+		<text>Valores mais baixos aproximam a mira ao usar miras de ferro e miras 3D integradas.</text>
+	</string>
+
+	<string id="ui_mcm_scop_scope_fov">
+		<text>Miras 3D</text>
+	</string>
+	<string id="ui_mcm_scop_scope_fov_desc">
+		<text>Valores mais baixos aproximam a mira ao usar miras 3D.</text>
+	</string>
+
+	<string id="ui_mcm_scop_bad_scope_fov">
+		<text>Miras ópticas com 3D ruim</text>
+	</string>
+	<string id="ui_mcm_scop_bad_scope_fov_desc">
+		<text>Devido a limitações técnicas, algumas miras, como ACOG e SUSAT, precisam ser reduzidas ainda mais para parecerem normais. Esta opção é para essas miras.</text>
+	</string>
+
+	<string id="ui_mcm_scop_pistol_fov">
+		<text>Pistolas</text>
+	</string>
+	<string id="ui_mcm_scop_pistol_fov_desc">
+		<text>Controle deslizante para ajustar a proximidade das pistolas.</text>
+	</string>
+
+	<string id="ui_mcm_scop_grenade_fov">
+		<text>Lançador de granada</text>
+	</string>
+	<string id="ui_mcm_scop_grenade_fov_desc">
+		<text>Valores mais baixos aproximam a mira ao usar lançadores de granadas acoplados.</text>
+	</string>
+
+	<string id="ui_mcm_scop_alt_fov">
+		<text>Miras alternativas</text>
+	</string>
+	<string id="ui_mcm_scop_alt_fov_desc">
+		<text>Valores mais baixos aproximam as miras ao usar miras alternativas.</text>
+	</string>
+
+	<string id="ui_mcm_scop_keybind_add">
+		<text>Afastar a arma</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_add_desc">
+		<text>Afaste a arma que você está segurando, aumentando seu campo de visão.</text>
+	</string>
+
+	<string id="ui_mcm_scop_keybind_subtract">
+		<text>Aproximar a arma</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_subtract_desc">
+		<text>Aproxime a arma que você está segurando, diminuindo o campo de visão.</text>
+	</string>
+
+	<string id="ui_mcm_scop_keybind_reset">
+		<text>Restaurar arma atual</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_reset_desc">
+		<text>Ajuste o campo de visão da arma que você está segurando para seus valores normais.</text>
+	</string>
+
+	<string id="ui_mcm_scop_snk_update_mcm">
+		<text>Atualize o MCM para ver esse recurso. As teclas padrão são + e - no teclado numérico e Backspace para redefinir a arma atual.</text>
+	</string>
+</string_table>

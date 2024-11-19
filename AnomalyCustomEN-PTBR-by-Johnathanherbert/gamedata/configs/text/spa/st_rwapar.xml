@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--Traduzido por johnathanherbert-->
+
+<!--
+	Weapons
+-->
+<string_table>
+  <string id="st_wpn_bcm">
+    <text>BCM CQB MCMR-10</text>
+  </string>
+  <string id="st_wpn_bcm_descr">
+    <text>O M4A1 é uma variante automática da carabina M4. Esta versão customizada do M4A1 produzida pela Bravo Company destina-se ao uso em situações de combate a curta distância.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Bravo Company \n</text>
+  </string>
+  <string id="st_wpn_urgi">
+    <text>M4A1 URG-I</text>
+  </string>
+  <string id="st_wpn_urgi_descr">
+    <text>O "URG-I" é um conjunto superior completo do M4A1 disponível através da Geissele Automatics e também é a evolução mais recente do M4. O URG-I (Upper Receiver Group - Improved) é o resultado de um projeto contratado pelo Comando de Operações Especiais do Exército dos Estados Unidos (USASOC) para desenvolver um M4 aprimorado para uso.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Geissele Automatics \n</text>
+  </string>
+  <string id="st_wpn_gen12">
+    <text>Dracarys Gen-12</text>
+  </string>
+  <string id="st_wpn_gen12_descr">
+    <text>Se você estiver em desvantagem numérica e precisar da melhor arma para combate próximo, a espingarda TTI Dracarys Gen-12 é a escolha ideal. Nenhuma espingarda com carregador na história foi tão confiável, robusta e versátil quanto a TTI Dracarys Gen-12. O último lugar onde você quer estar é na mira desta fera cuspidora de fogo, que não deixa nada além de destruição em seu rastro.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Genesis Arms \n</text>
+  </string>
+  <string id="st_wpn_cr7">
+    <text>CROM CR-7</text>
+  </string>
+  <string id="st_wpn_cr7_descr">
+    <text>O CR-7, com cano para .338 Lapua Magnum, possui um exclusivo cano poligonal de 7 lados que proporciona maior precisão e menor peso. A coronha leve de fibra de carbono foi projetada para máxima durabilidade e conforto, incluindo um punho frontal integrado para melhor manobrabilidade.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]CROM USA \n</text>
+  </string>
+  <string id="st_wpn_n4">
+    <text>Noveske Gen 4 Shorty</text>
+  </string>
+  <string id="st_wpn_n4_descr">
+    <text>O Noveske Gen 4 5.56 Shorty é o ápice do AR-15, meticulosamente fabricado por maquinistas experientes. Este rifle de cano curto possui um receptor inferior de nível militar totalmente equipado e um cano de fabricação própria, garantindo qualidade e precisão em todos os componentes.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Noveske Rifleworks \n</text>
+  </string>
+  <string id="st_wpn_ks1">
+    <text>KAC KS-1</text>
+  </string>
+  <string id="st_wpn_ks1_descr">
+    <text>O KS-1 (Knight's Stoner 1), designado L403A1 no serviço britânico, é um rifle de assalto projetado pela Knight's Armament Company. Foi adotado pelos Royal Marines e pelo Ranger Regiment para substituir o SA80 nas forças de operações especiais, particularmente na Army Special Operations Brigade e na Future Commando Force.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Knight's Armament Company \n</text>
+  </string>
+  <string id="st_wpn_mpx">
+    <text>SIG MPX</text>
+  </string>
+  <string id="st_wpn_mpx_descr">
+    <text>A submetralhadora SIG Sauer MPX apresenta velocidade operacional sem precedentes no formato familiar da plataforma AR. O pistão de gás de curso curto permite que a SIG MPX use toda a gama de munições de 9 mm sem necessidade de ajustes na válvula de gás. A montagem em tamanho real permite conectar uma ampla variedade de miras e dispositivos de pontaria.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]SIG Sauer \n</text>
+  </string>
+  <string id="wpn_m110k1">
+    <text>KAC M110K1</text>
+  </string>
+  <string id="wpn_m110k1_descr">
+    <text>O M110K1 Semi Automatic Sniper System (M110 SASS) é um rifle de precisão semiautomático americano projetado para o cartucho OTAN 7,62 x 51 mm. É fabricado pela Knight's Armament Company.\n \n
+%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Knight's Armament Company \n</text>
+  </string>
+</string_table>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_menu_pda_inter">
+		<text>PDA Interativo</text>
+	</string>
+
+	<!-- Keybind -->
+	<string id="ui_mcm_menu_pda_keys">
+		<text>Teclas</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_keystitle">
+		<text>Teclas</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_keys_int_pda_key">
+		<text>Teclas</text>
+	</string>
+
+		<!-- RAID -->
+	<string id="ui_mcm_menu_pda_raid">
+		<text>Incursão</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_raidtitle">
+		<text>Incursão</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_raid_raid_offer_mult">
+		<text>Multiplicador de chance de resposta</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_raid_raid_base_price">
+		<text>Preço base</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_raid_raid_price_power">
+		<text>Poder do preço</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_raid_raid_price_power_desc">
+		<text>Quanto menor a variável, mais ela diminuirá o custo de esquadrões caros.</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_raid_raid_max_time">
+		<text>Tempo máximo (dias)</text>
+	</string>
+
+
+		<!-- FIND -->
+	<string id="ui_mcm_menu_pda_info">
+		<text>Informação</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_infotitle">
+		<text>Informação</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_info_find_respond_mult">
+		<text>Multiplicador de chance de resposta</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_info_find_see_distance">
+		<text>Distância até o alvo</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_info_find_see_distance_desc">
+		<text>Raio no qual os Emissores devem estar do alvo e poder enviar mensagem.</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_info_find_can_lie">
+		<text>NPC pode mentir</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_info_find_can_lie_desc">
+		<text>Baseado na facção, reputação e relações. NPCs terão chance de mentir sobre a localização do alvo.</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_info_find_base_price">
+		<text>Preço base</text>
+	</string>
+
+
+		<!-- GAMES -->
+	<string id="ui_mcm_menu_pda_games">
+		<text>Jogos</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_gamestitle">
+		<text>Jogos</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_games_puzzle_reward">
+		<text>Recompensa do Puzzle</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_games_slots_bet">
+		<text>Aposta da máquina caça-níquel</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_games_sudoku_reward">
+		<text>Recompensa do Sudoku</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_games_sudoku_diff">
+		<text>Dificuldade do Sudoku</text>
+	</string>
+
+
+		<!-- TRADE -->
+	<string id="ui_mcm_menu_pda_trade">
+		<text>Comércio</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_tradetitle">
+		<text>Comércio</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_trade_trade_respond_mult">
+		<text>Multiplicador de chance de resposta</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_trade_trade_delivery_price_mult">
+		<text>Multiplicador de preço de entrega</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_trade_trade_delivery_price_mult_desc">
+		<text>Quanto maior, mais cara a entrega. O preço da entrega também é baseado no tipo de comerciante.</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_trade_trade_delivery_time_mult">
+		<text>Multiplicador de tempo de entrega</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_trade_trade_delivery_time_mult_desc">
+		<text>Variável menor tornará a entrega mais rápida. O tempo de entrega é baseado na distância.</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_trade_trade_stalker_pool">
+		<text>Pool de Stalkers (em %)</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_trade_trade_stalker_pool_desc">
+		<text>Quantidade de TODOS os stalkers que estarão no pool de comércio. Menos stalkers significa que comerciantes responderão com mais frequência, valor 0 significa que apenas comerciantes podem responder.</text>
+	</string>
+
+
+		<!-- Comms -->
+	<string id="ui_mcm_menu_pda_banter">
+		<text>Comunicações</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_bantertitle">
+		<text>Comunicações</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_banter_banter_sos_distance">
+		<text>Raio do SOS</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_banter_banter_sos_duration">
+		<text>Duração do SOS (segundos)</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_banter_banter_sos_duration_desc">
+		<text>Quando o tempo acabar - NPCs que responderam voltarão (se já não estiverem em combate).</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_banter_banter_sos_cooldown">
+		<text>Tempo de recarga do SOS (segundos)</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_banter_banter_sos_limit">
+		<text>Máximo de esquadrões respondendo ao SOS</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_banter_banter_sos_limit_desc">
+		<text>Quantidade máxima de esquadrões que podem responder ao chamado.</text>
+	</string>
+
+
+		<!-- Tasks -->
+	<string id="ui_mcm_menu_pda_tasks">
+		<text>Tarefas</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_taskstitle">
+		<text>Tarefas</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_respond_mult">
+		<text>Multiplicador de chance de resposta</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_max_tasks">
+		<text>Máximo de tarefas ativas (Necessário recarregar)</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_base_reward">
+		<text>Recompensa base</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_tasks_task_base_reward_desc">
+		<text>Este valor é então multiplicado pela dificuldade do alvo (rank para stalkers por exemplo).</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_cooldown">
+		<text>Tempo de redefinição do alvo NPC</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_tasks_task_cooldown_desc">
+		<text>NPCs escolhem novo alvo após este tempo (em horas do jogo).</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_goodwill_mult">
+		<text>Multiplicador de boa vontade/reputação</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_tasks_task_goodwill_mult_desc">
+		<text>"1" é +25 para boa vontade da facção do emissor da tarefa e reputação do jogador quando a tarefa é completada. "0" desativa.</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_giver_radius">
+		<text>Raio do emissor de tarefa</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_tasks_task_giver_radius_desc">
+		<text>Emissores de tarefa só responderão se estiverem neste raio, "10000" é toda a Zona, "5000" é aproximadamente metade. (Pode ajudar com pequenos congelamentos no momento que você pressiona o botão de encontrar tarefa.)</text>
+	</string>
+
+		<!-- mutant -->
+	<string id="ui_mcm_pda_inter_tasks_mutants_header">
+		<text>Caça a mutantes</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_mutant_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_mutant_distance">
+		<text>Raio para escolher alvo de "Caça a mutantes"</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_mutant_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+		<!-- bounty -->
+	<string id="ui_mcm_pda_inter_tasks_bounty_header">
+		<text>Recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_bounty_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_bounty_distance">
+		<text>Raio para escolher alvo de "Recompensa"</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_bounty_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+		<!-- guide -->
+	<string id="ui_mcm_pda_inter_tasks_guide_header">
+		<text>Guia</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_guide_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_guide_time_mult">
+		<text>Multiplicador de tempo da tarefa de guia</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_guide_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+		<!-- fetch items -->
+	<string id="ui_mcm_pda_inter_tasks_items_header">
+		<text>Encontrar itens</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_items_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_items_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+		<!-- squad -->
+	<string id="ui_mcm_pda_inter_tasks_squad_header">
+		<text>Esquadrão perigoso</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_squad_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_squad_distance">
+		<text>Raio para escolher alvo de "Esquadrão perigoso"</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_squad_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+		<!-- stealth -->
+	<string id="ui_mcm_pda_inter_tasks_stealth_header">
+		<text>Roubar item</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_stealth_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_stealth_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+		<!-- guard -->
+	<string id="ui_mcm_pda_inter_tasks_guard_header">
+		<text>Guardar posição</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_guard_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_guard_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+		<!-- scout -->
+	<string id="ui_mcm_pda_inter_tasks_scout_header">
+		<text>Explorador</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_scout_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_scout_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+		<!-- artefact -->
+	<string id="ui_mcm_pda_inter_tasks_artefact_header">
+		<text>Encontrar artefato</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_artefact_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_artefact_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+		<!-- delivery -->
+	<string id="ui_mcm_pda_inter_tasks_delivery_header">
+		<text>Mensageiro</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_delivery_reward">
+		<text>Multiplicador de recompensa</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_tasks_task_delivery_cd">
+		<text>Tempo de recarga (horas do jogo)</text>
+	</string>
+
+
+		<!-- Incoming -->
+	<string id="ui_mcm_menu_pda_inc">
+		<text>Mensagens recebidas</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_inctitle">
+		<text>Mensagens recebidas</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_inc_inc_sos_enable">
+		<text>Ativar SOS de Stalker</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_inc_inc_sos_enable_desc">
+		<text>Stalkers ocasionalmente pedem ajuda quando estão sob ataque.</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_inc_inc_sos_chance">
+		<text>Chance de SOS de Stalker</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_inc_inc_sos_money">
+		<text>Recompensa base em dinheiro</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_inc_inc_sos_stash">
+		<text>Chance de recompensa em esconderijo</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_inc_inc_sos_stash_desc">
+		<text>"1" fará com que esconderijos sejam a única recompensa possível.</text>
+	</string>
+
+
+		<!-- Debug -->
+	<string id="ui_mcm_menu_pda_debug">
+		<text>Diversos/Debug</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_debugxtitle">
+		<text>Diversos/Debug</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_debug_debugx">
+		<text>Debug</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_debug_debugx_desc">
+		<text>Para exibir informações e coisas no console.</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_debug_notes_export">
+		<text>Exportar Notas para .txt</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_debug_notes_export_desc">
+		<text>Exportando todas as Notas para o arquivo .txt na pasta raiz do Anomaly.</text>
+	</string>
+
+	<string id="ui_mcm_pda_inter_pda_debug_cancel_tasks">
+		<text>Cancelar todas as tarefas ativas</text>
+	</string>
+	<string id="ui_mcm_pda_inter_pda_debug_cancel_tasks_desc">
+		<text>Cancelando todas as tarefas ativas deste addon.</text>
+	</string>
+
+
+</string_table>

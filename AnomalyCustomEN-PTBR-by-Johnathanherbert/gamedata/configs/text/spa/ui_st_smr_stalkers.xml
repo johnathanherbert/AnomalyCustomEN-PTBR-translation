@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<!-- Traduzido por johnathanherbert -->
+	<string id="ui_mcm_menu_smr_stalkers">
+		<text>NTTTW2s</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_squad_size">
+		<text>Tamanho do esquadrão de stalkers</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_squad_size_variance">
+		<text>Variação do tamanho do esquadrão</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_squad_size_variance_desc">
+		<text>Quanto maior esse número, mais aleatório será o tamanho dos esquadrões de stalker.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war">
+		<text>Guerra civil</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_civilwar_disabled">
+		<text>Desabilitado</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_civilwar_stalkers">
+		<text>NTTTW2s</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_civilwar_squads">
+		<text>Esquadrões</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_desc">
+		<text>Se ativado, todos os stalkers ou esquadrões de stalker serão hostis entre si.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_base_population">
+		<text>A guerra civil afeta a população base</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_base_population_desc">
+		<text>Se ativado, os stalkers pertencentes às populações base serão afetados por cenários de guerra civil.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_monolith_allied">
+		<text>Monolith aliado (guerra civil)</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_monolith_allied_desc">
+		<text>Faz com que os stalkers do Monolith permaneçam aliados, independentemente da guerra civil.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population">
+		<text>População base de stalkers</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_desc">
+		<text>A população de stalkers nas bases.</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_base_population_default">
+		<text>Padrão</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_base_population_survival">
+		<text>Sobrevivência</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_base_population_minimal">
+		<text>Mínima</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_base_population_none">
+		<text>Nenhum</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_default">
+		<text>A configuração padrão do Anomaly.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_survival">
+		<text>A configuração padrão de sobrevivência do Anomaly.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_minimal">
+		<text>Elimina quase todas as bases. Das que restam, Rostok é a única segura, pois possui guardas. As aparições fora da base não são afetadas. Se você não começar sozinho, terá que usar o sistema de disfarce.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_none">
+		<text>Elimina todos os geradores de stalkers dentro das bases, inspirado no modo "Last Stand" do Dead Air. Isto significa que não haverá comerciantes, mecânicos ou guardas. As aparições fora da base não são afetadas.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_random_stalkers">
+		<text>Gerar esquadrões de stalkers aleatórios</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_random_stalkers_desc">
+		<text>Substitui os esquadrões de stalker por esquadrões de uma facção aleatória. Isso significa que você pode encontrar facções em lugares onde não as esperaria.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_random_stalkers_chance">
+		<text>Probabilidade de esquadrões stalker aleatórios</text>
+	</string>
+	<string id="ui_mcm_smr_stalkers_factions_title">
+		<text>Facções</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_factions_info">
+		<text>Abaixo você pode ativar ou desativar as facções. As facções desativadas não aparecerão na Zona.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_factions_replace_squads">
+		<text>Substituir esquadrões excluídos</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_factions_replace_squads_desc">
+		<text>Substitui esquadrões de facções desativadas por esquadrões de facções ativadas.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_stalker">
+		<text>Loners</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_bandit">
+		<text>Bandits</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_csky">
+		<text>Clear Sky</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_duty">
+		<text>Duty</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_merc">
+		<text>Mercenaries</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_army">
+		<text>Military</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_ecolog">
+		<text>Ecologists</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_monolith">
+		<text>Monolith</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_renegade">
+		<text>Renegades</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_greh">
+		<text>Sin</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_zombied">
+		<text>Zombified</text>
+	</string>
+</string_table>

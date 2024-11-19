@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>	
+	<string id="ui_mcm_menu_pda_taskboard">
+		<text>Quadro de Tarefas do PDA</text>
+	</string>
+	<string id="ui_mcm_pda_taskboard_banner">
+		<text>Quadro de Tarefas do PDA</text>
+	</string>
+	<string id="ui_mcm_pda_taskboard_scanning_range">
+		<text>Alcance de escaneamento</text>
+	</string>
+	<string id="ui_mcm_pda_taskboard_taskboard_key">
+		<text>Atalho do Quadro de Tarefas do PDA</text>
+	</string>
+</string_table>

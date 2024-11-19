@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_beretta92fs">
+		<text>Beretta 92FS</text>
+	</string>
+
+	<string id="st_wpn_beretta92fs_descr">
+		<text>A 92FS é a última evolução da Beretta 92, uma pistola semiautomática italiana em 9x19 fabricada pela Fabbrica d'Armi Pietro Beretta em 1975. Um de seus designs mais importantes é o fato de não ter rampa de alimentação, possui miras de ferro massivas para sua época e usa carregadores de pilha dupla, que em seu caso são 15 munições por carregador. Usada por muitos países, seja para uso Militar, Policial ou mesmo Civil, esta será uma das pistolas 9x19 mais confiáveis e de alta capacidade que você verá e usará na Zona.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19 (após modificação)</text>
+	</string>
+
+	<string id="st_wpn_beretta92fs_inox">
+		<text>Beretta 92FS INOX</text>
+	</string>
+
+	<string id="st_wpn_beretta92fs_inox_descr">
+		<text>A 92FS é a última evolução da Beretta 92, uma pistola semiautomática italiana em 9x19 fabricada pela Fabbrica d'Armi Pietro Beretta em 1975. Um de seus designs mais importantes é o fato de não ter rampa de alimentação, possui miras de ferro massivas para sua época e usa carregadores de pilha dupla, que em seu caso são 15 munições por carregador. Usada por muitos países, seja para uso Militar, Policial ou mesmo Civil, esta será uma das pistolas 9x19 mais confiáveis e de alta capacidade que você verá e usará na Zona. A variante Inox apresenta uma construção em aço inoxidável em vez de aço carbono azulado, também possui pontos vermelhos pintados nas miras de ferro.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19 (após modificação)</text>
+	</string>
+
+	<string id="st_wpn_beretta_m9">
+		<text>Beretta M9</text>
+	</string>
+	<string id="st_wpn_beretta_m9_descr">
+		<text>Esta é a versão das Forças Armadas dos EUA da Beretta 92FS italiana, feita por demandas de fabricação da referida facção. Como esta é a versão pré-M9A1, as mudanças são poucas, mas visivelmente o carregador é chanfrado, tem um guarda-mato reto quadrado, miras muito maiores com revestimento de trítio, bem como uma cobertura contra poeira quadrada na parte inferior frontal do quadro. Como é famosa entre Mercenários, Liberdade e alguma estranha facção mencionada recentemente, é seguro dizer que o caminho pelo qual este "semi-protótipo" chegou à Zona é através de desertores dos exércitos ocidentais e ex-PMCs.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19</text>
+	</string>
+
+	<string id="st_wpn_beretta_px4">
+		<text>Beretta Px4 Storm</text>
+	</string>
+	<string id="st_wpn_beretta_px4_descr">
+		<text>A Px4 Storm é um avanço da Beretta 8000, destinada a substituir a 92FS para defesa pessoal e uso policial. Seu cano rotativo permite melhor controle de recuo e tiros contínuos, o quadro leve também ajuda com o peso. Este modelo em particular parece vir com miras de trítio também. Pelo que parece, estas armas foram exportadas "ilegalmente" da Armênia e Romênia, por mercenários que costumavam fazer parte da força policial desses países.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 9x19</text>
+	</string>
+	
+	<string id="st_up_px4_a1_name">
+		<text>Mudança de calibre para .45 ACP</text>
+	</string>
+	<string id="st_up_px4_a1_descr">
+		<text>Uma alteração complexa e integrada das partes mecânicas e automatizadas da arma, que permite a mudança de seu calibre ao custo da confiabilidade.</text>
+	</string>
+
+</string_table>

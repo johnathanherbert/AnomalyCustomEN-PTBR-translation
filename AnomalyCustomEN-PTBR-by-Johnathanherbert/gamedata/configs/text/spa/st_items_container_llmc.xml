@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Containers de Artefatos (LLMC)
+-->
+
+<string_table>
+	<string id="st_af_itcher_lead_box_name">
+		<text>LLMC c/ Itcher</text>
+	</string>  
+	<string id="st_af_itcher_lead_box_descr">
+		<text>
+		Uma formação de natureza térmica. O Itcher consiste em duas camadas separadas. A superfície é uma rocha metamórfica dura e densa com cicatrizes profundas cobrindo todo o corpo. Completamente inativo e não possui propriedades notáveis. Por outro lado, o núcleo macio e amarelo brilhante é de natureza orgânica desconhecida. Consome ativamente o calor excessivo e permanece frio o tempo todo.
+		\nNo entanto, não é recomendado aproximar-se de anomalias químicas e ácidas quando estiver de posse do artefato, pois aumentará os efeitos adversos de ácidos e toxinas na corrente sanguínea do usuário.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>  
+
+	<string id="st_af_pin_lead_box_name">
+		<text>LLMC c/ Pin</text>
+	</string>  
+	<string id="st_af_pin_lead_box_descr">
+		<text>
+		Um pequeno artefato formado por anomalias térmicas na Zona sob temperaturas extremas. A aparência deste artefato sugere que era um órgão de uma planta vascular. Estudos posteriores mostraram que outros tecidos orgânicos estão fundidos profundamente em seu interior.
+		\nO caule não possui propriedades úteis. Pelo contrário, os pequenos pinos reduzem a temperatura do corpo do usuário e resfriam todos os objetos em suas proximidades.
+		\nEste artefato oferece uma leve proteção psi, pois ressoará sob a influência de ondas psi. Por outro lado, não é recomendado se aproximar de anomalias químicas e ácidas quando estiver de posse do artefato, pois aumentará os efeitos adversos de ácidos e toxinas na corrente sanguínea do usuário.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+		</text>
+	</string>  
+	
+	<string id="st_af_cristall_lead_box_name">
+		<text>LLMC c/ Cristal</text>
+	</string>
+	<string id="st_af_cristall_lead_box_descr">
+		<text>
+		Este artefato é formado em zonas anômalas com intensa atividade térmica. Consome ativamente o calor excessivo e permanece frio o tempo todo.
+		\nTambém protegerá o usuário contra correntes elétricas. Por outro lado, a exposição a tais ambientes faz com que o artefato aumente a condutividade devido a um mecanismo ainda desconhecido. Por esta razão, é necessário pesar os prós e contras do Cristal quando nas proximidades de áreas de alta condutividade.
+		\nEste artefato também é muito procurado por joalheiros fora da Zona, pois seu núcleo interno não é radioativo e é considerado de excepcional beleza se polido e refinado. Apenas o primeiro 1 cm de sua camada externa emite radiação.
+		\nNo entanto, é altamente aconselhável proceder com cautela ao planejar levar o artefato ao mercado, pois a exposição prolongada a quantidades mínimas de materiais radioativos pode resultar na morte do usuário. Coberto com camada muito dura. Relativamente pesado devido à alta densidade.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+		</text>
+	</string>
+	
+	<string id="st_af_fireball_lead_box_name">
+		<text>LLMC c/ Bola de Fogo</text>
+	</string>
+	<string id="st_af_fireball_lead_box_descr">
+		<text>
+		É um artefato esférico feito de cristal vermelho, criado na anomalia Queimador.
+		\nEle tem uma propriedade única: mantém uma temperatura constante de 24 graus Celsius/75 graus Fahrenheit, independentemente do ambiente ao seu redor. Isso permite que ele absorva o calor das proximidades e crie um pequeno bolsão ao redor do usuário que impede que as chamas danifiquem o corpo.
+		\nUm efeito perigoso deste artefato é o fato de que ele aumentará a condutividade elétrica, então a probabilidade de eletrocução ao usar este artefato é muito maior, especialmente durante tempestades e nas proximidades de anomalias elétricas. É bastante pesado devido à alta densidade do material cristalino.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+		</text>
+	</string>
+	
+	<string id="st_af_blood_lead_box_name">
+		<text>LLMC c/ Sangue Petrificado</text>
+	</string>
+	<string id="st_af_blood_lead_box_descr">
+		<text>
+		Uma formação avermelhada de plantas fossilizadas comprimidas, solo e detritos animais. Pode neutralizar parcialmente venenos químicos absorvendo-os e reduzindo o nível geral de toxicidade na corrente sanguínea do usuário. Bastante comum e não muito eficaz, pois faz com que queimaduras químicas supurem. Pegará fogo quando exposto a chamas abertas ou até mesmo entrará em combustão espontânea.
+		\nOutro efeito positivo deste artefato é que ele acelera a coagulação se usado próximo ao corpo. No entanto, não é recomendado manter este artefato em sua posse por longos períodos, pois coágulos sanguíneos podem ser prejudiciais à sua saúde.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+		</text>
+	</string>
+	
+	<string id="st_af_mincer_meat_lead_box_name">
+		<text>LLMC c/ Pedaço de Carne</text>
+	</string>
+	<string id="st_af_mincer_meat_lead_box_descr">
+		<text>
+		Este artefato tem uma textura macia, porosa, semelhante à pele e dizem que é capaz de se comprimir. Assemelha-se e age como uma esponja nesse aspecto, mas revela suas características especiais apenas quando exposto a certas condições externas.
+		\nPrimeiramente, para levar adiante a metáfora da esponja, os poros em sua superfície são conhecidos por absorver pequenas quantidades de toxicidade do ambiente.
+		\nEm segundo lugar, o artefato amplifica levemente os efeitos danosos dos campos psi em organismos vivos ao absorver energia psi e emiti-la em uma taxa pequena.
+		\nEm terceiro lugar, o Pedaço de Carne também é conhecido por ser um condutor de eletricidade muito semelhante à pele de uma criatura viva.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+		</text>
+	</string>
+	
+	<string id="st_af_bracelet_lead_box_name">
+		<text>LLMC c/ Bracelete</text>
+	</string>  
+	<string id="st_af_bracelet_lead_box_descr">
+		<text>
+		O Bracelete é formado a partir de espécies comuns de plantas briófitas sob alta exposição a anomalias radioativas e químicas, o que explica sua natureza orgânica.
+		\nEle fornece proteção substancial contra todos os tipos de ácidos, aumentando gradualmente seu pH até o nível da água (pH 7).
+		\nQuando usado, o artefato também é conhecido por contrariar levemente os efeitos nocivos de anomalias psi ou ondas psi de alguns mutantes.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+		</text>
+	</string>  
+	
+	<string id="st_af_baloon_lead_box_name">
+		<text>LLMC c/ Bolha</text>
+	</string>
+	<string id="st_af_baloon_lead_box_descr">
+		<text>
+		Um composto de várias formações orgânicas ocas, este artefato emite uma substância gasosa que pode neutralizar partículas químicas ou tóxicas dentro do corpo sem prejudicá-lo. Assim, fornece um ótimo nível de proteção tóxica e química.
+		\nEle também mantém uma temperatura constante, independentemente do ambiente ao seu redor. Isso permite que ele absorva o calor das proximidades e crie um pequeno bolsão ao redor do usuário que impede que as chamas danifiquem o corpo.
+		\nAlém disso, a Bolha possui numerosas propriedades negativas. Por exemplo, ela amplifica muito os efeitos das ondas psi, bem como os campos produzidos por mutantes e anomalias. Esta desvantagem não deve ser subestimada: alguns stalkers relataram que a influência psi era tão potente quando estavam de posse de uma Bolha que sentiam suas cabeças rachando por dentro e a única coisa que podiam fazer era gritar de dor e correr o mais longe possível.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+		</text>
+	</string>
+	
+	<string id="st_af_electra_sparkler_lead_box_name">
+		<text>LLMC c/ Faísca</text>
+	</string>
+	<string id="st_af_electra_sparkler_lead_box_descr">
+		<text>
+		Este artefato tem a aparência de teias de aranha translúcidas. Assim como a seda proteinácea da aranha, é pegajoso e tem propriedades de cola.
+		\nPode ser encontrado mais comumente em ou perto de anomalias elétricas e parece ter absorvido certas características delas: é capaz de suavizar flutuações na densidade do campo elétrico e age como um resistor fraco, protegendo o usuário da eletricidade e reduzindo seus efeitos danosos.
+		\nPor outro lado, deve-se notar que a presença deste artefato aumenta a corrosividade dos ácidos, levando à deterioração acelerada do equipamento e maior dano aos tecidos de qualquer organismo vivo.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+		</text>
+	</string>
+	
+	<string id="st_af_sponge_lead_box_name">
+		<text>LLMC w/ Sponge</text>
+	</string>  
+	<string id="st_af_sponge_lead_box_descr">
+		<text>
+		Sponge has always been under debate among the Ecologists. Some suggest that this artefact is driven from basic form of organisms, while others believe its an advanced life form with self-awareness inherited from living creatures.
+		\nDespite the theories surrounding the artefact, all can agree on one thing: it moves. The sponge sometimes tries to "grab" an object it touches. Putting it in a container might be a hard task, as if it wants to escape.
+		\nThis artefact acts as a powerful resistor and will absorb even lethal doses of electricity. On the other hand, it will catch fire when exposed to open flame or even spontaneously combust.
+		\n \nRadiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		%c[ui_white] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_white] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] radioactive emissions:\n
+		-none\n
+		%c[ui_white] • %c[ui_gray_2] state:%c[ui_gray_1] full\n
+
+		</text>
+	</string> 
+	
+	<string id="st_af_ring_lead_box_name">
+		<text>LLMC w/ Ring</text>
+	</string>  
+	<string id="st_af_ring_lead_box_descr">
+		<text>
+		A very small artefact of electric nature. Difficult to spot. Consists of two ring-shaped materials of organic nature, hence the given name.
+		When the Ring spins, it never stops spinning, defying the first law of thermodynamics. Scientists suggest that this artefact inherits gravitational properties from Vortex anomalies.
+		\nThe outer ring has a high-conductivity. It absorbs electrical current from relative sources then ground it in the inner ring. Despite the basic function, the mechanism behind the disappearance of electrical power inside the second ring is still unknown.
+		\nOn the other side, the Ring is flammable. Prolonged exposure may enhance its flammability and cause it to ignite.
+		\n \nRadiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		%c[ui_white] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_white] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] radioactive emissions:\n
+		-none\n
+		%c[ui_white] • %c[ui_gray_2] state:%c[ui_gray_1] full\n
+
+		</text>
+	</string> 
+	
+	<string id="st_af_electra_flash_lead_box_name">
+		<text>LLMC w/ Flash</text>
+	</string>
+	<string id="st_af_electra_flash_lead_box_descr">
+		<text>
+		This artefact is very similar in appearance to Moonlight and resembles a plasma globe or a plasma lamp.
+		\nBeing a powerful resistor, it is well known for its ability to shield its user from lethal doses of electricity.
+		\nWhen worn, it is known to slightly counter harmful effects of psy-anomalies or psy-waves of certain mutants. Flash acts as a powerful resistor and will absorb even lethal doses of electricity.
+		\nHowever, it also hinders healing process, thus caution is advised especially when wounded or bleeding. This artefact is also extremely light and very portable.
+		\n \nRadiation output is high on the artefact radiation scale.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		%c[ui_white] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_white] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] radioactive emissions:\n
+		-none\n
+		%c[ui_white] • %c[ui_gray_2] state:%c[ui_gray_1] full\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_cristall_flower_lead_box_name">
+		<text>LLMC c/ Flor de Pedra</text>
+	</string>
+	<string id="st_af_cristall_flower_lead_box_descr">
+		<text>
+		Este artefato se assemelha a queijo derretido entremeado com pedras semelhantes a safiras. Apenas a casca externa amarela do artefato parece emitir radiação e, através de um processamento cuidadoso, é possível extrair as partes azuis não radioativas para joalheria e outros fins industriais. Isso ocorre porque, se limpo adequadamente e polido, a comparação com safira torna-se muito mais explícita: as pedras são tão duras e duráveis quanto esta bela gema. Esta qualidade e sua aparência as tornam pedras preciosas perfeitas, e joalheiros de todo o mundo se esforçam para tê-las em estoque.
+		\nA utilidade do artefato, no entanto, não se limita às suas aplicações industriais. Existem evidências científicas sugerindo que as pedras semelhantes a safira protegem efetivamente contra ondas psi, enquanto a casca externa aumenta ligeiramente a resistência à toxicidade.
+		\nNo entanto, pode fazer com que objetos em suas proximidades se aqueçam e, em casos extremos, se incendeiem junto com o artefato. Por esta razão, é seguro concluir que ele absorve calor e é capaz de transmiti-lo a outros objetos.
+		\nDevido à sua densidade, o peso do artefato aumentou além dos padrões normais, sendo assim um dos artefatos anômalos mais pesados da Zona.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_lobster_eyes_lead_box_name">
+		<text>LLMC c/ Olhos de Lagosta</text>
+	</string>  
+	<string id="st_af_lobster_eyes_lead_box_descr">
+		<text>
+		Como o nome sugere, este artefato tem a forma de dois ovos fundidos. A superfície externa é muito espessa, a alta densidade de sua formação pode ser a razão por trás de sua cor profunda.
+		\nEste artefato oferece um pouco mais de proteção psi do que seu primo, a Flor de Pedra. Ele ressoa sob a influência de ondas psi em certo grau e absorve o efeito perigoso.
+		\nOutra propriedade positiva é a capacidade de consumir calor excessivo enquanto permanece frio o tempo todo.
+		\nDevido à densidade da superfície, os Olhos de Lagosta são bastante pesados.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string> 
+	
+	<string id="st_af_electra_moonlight_lead_box_name">
+		<text>LLMC c/ Luz Lunar</text>
+	</string>
+	<string id="st_af_electra_moonlight_lead_box_descr">
+		<text>
+		Este artefato eletrostático único pode ressoar sob a influência de ondas psi. Os Stalkers aprenderam a ajustar o artefato para que ele ressoe em fase oposta à fonte principal de emissões, neutralizando significativamente seus efeitos. Este orbe de considerável beleza também aumenta a proteção elétrica, reduzindo a condutividade no corpo quando exposto a altos níveis de eletricidade.
+		\nDeve-se notar que a Luz Lunar pegará fogo quando exposta a chamas abertas ou até mesmo entrará em combustão espontânea.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_black_spray_lead_box_name">
+		<text>LLMC c/ Spray Negro</text>
+	</string>  
+	<string id="st_af_black_spray_lead_box_descr">
+		<text>
+		Sendo um artefato raro, pouco se sabe sobre suas propriedades e origens.
+		\nO Spray Negro compartilha uma forma similar a outros artefatos tipo safira. No entanto, a natureza orgânica do caule (que compartilha propriedades similares aos artefatos Pin) sugere que é formado a partir de plantas vasculares sob exposição a campos psi perigosos e ondas eletromagnéticas.
+		\nOutra propriedade única é a capacidade de atrasar a transmissão da luz que entra nele. O dito mecanismo misterioso é aplicado também às ondas psi que cercam o artefato. Por esta razão particular, o Spray Negro neutraliza significativamente as interferências psi em um grande raio.
+		\nEstas propriedades benéficas, no entanto, têm um preço. Este artefato é extremamente perigoso quando exposto em ambientes tóxicos, pois amplifica seu efeito e aumenta sua potência. Ao explorar áreas tóxicas, é altamente recomendável manter o artefato em sua mochila.
+		\nDevido à bela aura azul que emite, é muito procurado por joalheiros em todo o mundo.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>  
+	
+	<string id="st_af_medusa_lead_box_name">
+		<text>LLMC c/ Água-Viva</text>
+	</string>
+	<string id="st_af_medusa_lead_box_descr">
+		<text>
+		Muito comum na Zona. Este artefato gravitacional é capaz de proteger ligeiramente o corpo e objetos contra impactos físicos.
+		\nProtegerá levemente seu usuário contra o calor extremo produzido respectivamente por anomalias de fogo.
+		\nEste artefato é bastante pesado, pois o campo gravitacional parece aumentar a massa. Outro ponto negativo deste artefato é que ele aumentará os efeitos negativos das ondas psi e é um potente condutor.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_vyvert_lead_box_name">
+		<text>LLMC c/ Torcido</text>
+	</string>
+	<string id="st_af_vyvert_lead_box_descr">
+		<text>
+		Este artefato de forma bizarra aparece em lugares com atividade gravitacional aumentada.
+		\nEmbora pareça quase orgânico, é na verdade mais similar a um coral. Devido à sua natureza gravitacional, fornece proteção contra impactos físicos, pois reduz muito o atrito causado por objetos rápidos.
+		\nAtuando como uma espécie de esponja que absorve elementos químicos e tóxicos, este artefato fornece proteção contra agentes tóxicos externos, bem como contra partículas químicas que já entraram no corpo.
+		\nO Torcido pode gerar um campo de gravidade localmente direcionado que aumenta sua massa. Por esta razão, este artefato é pesado.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_empty_lead_box_name">
+		<text>LLMC c/ Vazio</text>
+	</string>  
+	<string id="st_af_empty_lead_box_descr">
+		<text>
+		Dois discos de formação orgânica (comumente lipídios, celulose e lignina) com nada além de espaço vazio entre eles. Isso se deve a um campo gravitacional único formado no centro que estabiliza a distância entre os discos.
+		\nQualquer tentativa de pressionar os discos juntos ou separá-los falhará devido a rápidas mudanças positivas/negativas no campo gravitacional. Como se o artefato reagisse a qualquer força física que quebre seu equilíbrio.
+		\nDevido a este mecanismo, mover-se com um Vazio é uma tarefa difícil. O campo gravitacional aumenta a densidade do ar ao redor e desacelera o corpo.
+		\nA verdadeira utilidade deste efeito vem da capacidade de reduzir o atrito, obtendo assim uma grande proteção contra impactos físicos.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string> 
+ 	
+	<string id="st_af_full_empty_lead_box_name">
+		<text>LLMC c/ Vazio Completo</text>
+	</string>  
+	<string id="st_af_full_empty_lead_box_descr">
+		<text>
+		Semelhante ao Vazio, este artefato consiste em dois discos de formação orgânica conectados por um campo gravitacional único entre eles. No entanto, o referido campo no Vazio Completo é extraordinário: todos os átomos que entram no centro, independentemente de sua natureza, tornam-se interativos sob os efeitos desconhecidos do campo. Assim, liberam fótons (emissão de luz).
+		\nOs cientistas geralmente se referem a isso como o "efeito galáxia", que dá ao artefato uma órbita excepcional de luz.
+		\nO incremento de densidade do ar circundante causado pelo movimento é maior em comparação ao Vazio. Por causa disso, o artefato dificultará muito o movimento de seu portador.
+		\nSendo um artefato superior ao Vazio, a proteção contra impactos físicos é notável. Alguns afirmam que o Vazio Completo é capaz de parar balas de 9mm disparadas à queima-roupa.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string> 
+	
+	<string id="st_af_night_star_lead_box_name">
+		<text>LLMC c/ Estrela Noturna</text>
+	</string>
+	<string id="st_af_night_star_lead_box_descr">
+		<text>
+		Este artefato brilhante pode gerar um campo local direcionado de baixa gravidade. Amplamente usado por stalkers junto com o Gravi, um artefato similar, para aumentar a carga máxima.
+		\nDevido ao seu belo núcleo interno, é muito procurado por joalheiros em todo o mundo, no entanto, é melhor proceder com cautela, pois o tratamento inadequado pode fazer com que o artefato exploda com poder suficiente para destruir um pequeno edifício. Portanto, é altamente aconselhável realizar o polimento por meio de maquinário especializado, o que minimiza a probabilidade de explosão. Além disso, apenas o núcleo externo do artefato emite radiação.
+		\nA Estrela Noturna também absorverá agentes tóxicos e químicos do ambiente, o que a torna um artefato valioso para caçadores de artefatos, embora a quantidade de toxicidade absorvida seja insignificante. No entanto, é relativamente barato e até stalkers com orçamentos bem apertados podem comprá-lo se surgir a oportunidade.
+		\nDito isso, a Estrela Noturna emite odor de carne queimada quando na proximidade mais próxima de uma fonte de calor. A exposição prolongada pode aumentar sua inflamabilidade e fazer com que se incendeie.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_gravi_lead_box_name">
+		<text>LLMC c/ Gravi</text>
+	</string>
+	<string id="st_af_gravi_lead_box_descr">
+		<text>
+		O Gravi é formado a partir de substâncias metálicas expostas à gravitação prolongada. Isso o torna capaz de sustentar um poderoso campo anti-gravitacional, que faz com que tenha várias propriedades, entre outras reduzindo o peso de todos os objetos em sua proximidade. Por muito tempo, o artefato foi um mistério, e foi o cientista Sakharov em Yantar quem primeiro descobriu que o Gravi cria um campo minúsculo de singularidade de natureza anti-gravitacional, fenômeno que ocorre em intervalos de 30 minutos.
+		\nUm efeito perigoso deste artefato é o fato de que aumentará a condutividade elétrica, então a probabilidade de eletrocussão ao usar este artefato é muito maior, especialmente durante tempestades e nas proximidades de anomalias elétricas.
+		\nOutro ponto negativo é que aumentará os efeitos negativos das ondas psi e é um potente condutor.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_gold_fish_lead_box_name">
+		<text>LLMC c/ Peixe Dourado</text>
+	</string>
+	<string id="st_af_gold_fish_lead_box_descr">
+		<text>
+		Sucessor direto e uma versão superior do artefato Gravi. Como foi o caso do Gravi, foi o cientista Sakharov em Yantar quem descobriu suas propriedades únicas após uma emissão/surto massivo atingir a Zona.
+		\nGraças à pesquisa meticulosa que se seguiu, foi estabelecido que este novo artefato é produzido quando três artefatos Gravi interagem e são sugados para os campos de singularidade uns dos outros. Este fenômeno é extremamente raro, devido ao qual o artefato é altamente valorizado.
+		\nRumores nos círculos do Spetsnaz ucraniano dizem que na Zona existem agentes do Ministério da Defesa da Federação Russa cujo único objetivo é adquirir e transportar Peixes Dourados para laboratórios especializados localizados fora da Zona.
+		\nO artefato cria um campo constante de singularidade anti-gravitacional que afeta apenas suas proximidades mais próximas. No entanto, alguns stalkers desapareceram sem motivo aparente deixando apenas um Peixe Dourado para trás.
+		\nUm grande ponto negativo, no entanto, vem junto com este poderoso campo anti-gravitacional: a velocidade dos objetos em movimento dentro de seu raio aumentará rapidamente, causando impactos perigosos nos objetos ao redor, incluindo o portador.
+		\n \nA emissão de radiação é a mais alta na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_glassbeads_lead_box_name">
+		<text>LLMC w/ Mama's Beads</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_lead_box_descr">
+		<text>
+		Shaped like a DNA helix, Mama's Beads are created in the Burner anomaly. One of their most characteristic features is that they constantly pulsate, generating emissions beneficial to the human body. These emissions increase the metabolism of any living creature, accelerating coagulation and healing of wounds.The mechanism behind the effects of this artefact is still unknown.
+		\nMama's Beads also possess potent protective qualities: they are able to shield the body and objects from extreme heat.
+		\nOn the other hand, it should be noted that the presence of this artefact increases electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies.
+		\nThe weight is also quite high for such a small artefact, which leads to a conclusion that is of high density.
+		\n \nRadiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		%c[ui_white] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_white] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] radioactive emissions:\n
+		-none\n
+		%c[ui_white] • %c[ui_gray_2] state:%c[ui_gray_1] full\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_eye_lead_box_name">
+		<text>LLMC w/ Eye</text>
+	</string>
+	<string id="st_af_eye_lead_box_descr">
+		<text>
+		This artefact, which resembles the human eye, considerably increases metabolism of the body, helping wounds heal quicker. Experienced stalkers say that Eye also brings luck. Irrespective of the validity of that statement, its positive effects are indeed quite potent. 
+		\nThis artefact soothes the pain and is extremely useful when treating wounds.
+		\nWhen worn, it is known to slightly counter harmful effects of psy-anomalies or psy-waves of certain mutants.
+		\nThese beneficial qualities, however, come at a price. This artefact is extremely dangerous when exposed to chemical anomalies as it amplifies their toxicity and increases their potency. It is hence highly recommended to keep the artefact in your backpack, never on the body, when exploring toxic areas unless you have a death wish.
+		\nThe artefact is also known colloquially as "copper eye" as it conducts electricity and amplifies its dangerous effects in the same way as copper does. 
+		\n \nRadiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		%c[ui_white] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_white] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] radioactive emissions:\n
+		-none\n
+		%c[ui_white] • %c[ui_gray_2] state:%c[ui_gray_1] full\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_fire_lead_box_name">
+		<text>LLMC w/ Flame</text>
+	</string>
+	<string id="st_af_fire_lead_box_descr">
+		<text>
+		This artefact forms in areas of high thermal activity. Produces powerful infrared emissions which intensify metabolic processes, healing wounds before its bearer's very eyes.
+		\nIts healing capabilities are even stronger than in case of the Eye as stalkers in possession of this artefact are said to have survived being wounded by chimeras. Thanks to that, it has earned the reputation of a miraculous artefact.
+		\nMany stalkers owe it their lives, and most veteran mutant hunters carry it in case they run into danger. However, it shares not only positive but also negative properties of its cousin: entering a psy-field with this artefact on the belt is suicide. It will absorb psy energy and emitting it at a considerable rate.
+		\nAlso, it is highly advised to proceed with caution when planning to bring the artefact to the market as prolonged exposure to even minimal amounts of radioactive materials can result in death of the user.
+		\nIt can also be used as a reusable medkit of sorts since it heals wounds very quickly.
+		\n \nRadiation output is high on the artefact radiation scale.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] valuable\n
+		%c[ui_white] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_white] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] radioactive emissions:\n
+		-none\n
+		%c[ui_white] • %c[ui_gray_2] state:%c[ui_gray_1] full\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_battery_lead_box_name">
+		<text>LLMC c/ Bateria</text>
+	</string>
+	<string id="st_af_dummy_battery_lead_box_descr">
+		<text>
+		\nEste artefato é bastante popular na Zona e é valorizado por seus residentes e visitantes por suas propriedades energizantes, embora tenha um efeito adverso no corpo quando usado por longos períodos.
+		\nDeve-se notar, no entanto, que este artefato dificulta a coagulação do sangue e aumenta a taxa de sangramento de feridas abertas. Por outro lado, sendo um poderoso resistor, é bem conhecido por sua capacidade de proteger seu usuário de doses letais de eletricidade.
+		\nSendo um artefato de natureza elétrica, é bem conhecido por sua capacidade de proteger seu usuário de doses letais de eletricidade. Por outro lado, deve-se notar que a Bateria absorve calor e é capaz de transmiti-lo a outros objetos.
+		\nEste artefato também é extremamente leve e muito portátil.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_dummy_lead_box_name">
+		<text>LLMC c/ Concha</text>
+	</string>
+	<string id="st_af_dummy_dummy_lead_box_descr">
+		<text>
+		A Concha é composta por dois discos de cor azulada conectados por material semitransparente de natureza desconhecida.
+		\nEste estranho artefato foi considerado desprovido de quaisquer propriedades úteis por muitos cientistas por muito tempo. Apenas recentemente foi descoberto que ele é realmente bastante benéfico.
+		\nQuando o artefato entra em contato com o corpo, faz com que a pessoa se sinta rejuvenescida e assim aumenta a recuperação de resistência. Este efeito induziu hiperatividade em alguns stalkers. Uma desvantagem deste artefato, no entanto, é que ele reduz o número de plaquetas no sangue, aumentando assim a taxa de sangramento.
+		\nEle fornece um nível considerável de proteção psi e absorve interferência eletromagnética, atuando como material de aterramento.
+		\nPegará fogo quando exposto a chama aberta ou até mesmo entrará em combustão espontânea. Deve-se ter cuidado ao se aproximar de fontes de calor com este artefato.
+		\nA Concha é extremamente leve e muito portátil.
+		\n \nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_ice_lead_box_name">
+		<text>LLMC c/ Floco de Neve</text>
+	</string>
+	<string id="st_af_ice_lead_box_descr">
+		<text>
+		Também conhecido coloquialmente como "Floco de Neve Radioativo". À primeira vista, este artefato se assemelha a um Kolobok branco.
+		\nGraças às suas propriedades únicas, o artefato pode aumentar significativamente o tônus muscular do portador, melhorando assim muito a recuperação de resistência. Devido à sua alta radioatividade, stalkers que o possuem às vezes são chamados de "Flocos de Neve Radioativos" em tom de brincadeira.
+		\nQuando confrontado com a decisão de carregá-lo no cinto durante uma missão, você deve pesar cuidadosamente seus prós e contras: vale a pena ter maior resistência e alta proteção contra eletricidade ao custo de estar constantemente exposto à sua radiação mortal? Mesmo que você esteja determinado a levá-lo com você, deve-se notar que não deve ser usado em longas excursões à Zona.
+		\nO Floco de Neve, no entanto, tem uma grande desvantagem: ele interage com fontes de energia ao redor absorvendo e amplificando seus efeitos. Por esta razão, aproximar-se de fontes de calor, áreas tóxicas e campos psi enquanto segura este artefato é suicídio.
+		\nÉ tão leve quanto um floco de neve e muito fácil de carregar.
+		\n \nA emissão de radiação é alta na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_soul_lead_box_name">
+		<text>LLMC c/ Alma</text>
+	</string>
+	<string id="st_af_soul_lead_box_descr">
+		<text>
+		Alma é um artefato orgânico único com propriedades igualmente únicas: ele secreta uma gosma viscosa que aumenta dramaticamente a taxa de recuperação de feridas. Graças ao seu preço razoável e aparência atraente, este artefato é um item valioso para colecionadores.
+		\nAplicar sua substância pegajosa em feridas alivia a dor e acelera o processo de cura.
+		\nTambém reduz os efeitos das ondas psi e seus danos ao cérebro. Mas deve-se saber que a Alma drena energia de seu usuário. O artefato não tem alta densidade e, portanto, não é muito pesado.
+		\n \nA emissão de radiação é baixa na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_fuzz_kolobok_lead_box_name">
+		<text>LLMC c/ Kolobok</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_lead_box_descr">
+		<text>
+		Um artefato relativamente raro que se forma em áreas químicas, o Kolobok é altamente valorizado por sua capacidade de curar a maioria dos tipos de feridas e parar sangramentos em questão de minutos.
+		\nPor razões desconhecidas, cientistas estão espalhando rumores entre stalkers de que o artefato modifica o código genético do portador, o que não é comprovado e deve ser considerado como uma tentativa consciente de monopolizar o fornecimento do artefato pela comunidade científica. Isso não significa, no entanto, que seja completamente inofensivo.
+		\nUma desvantagem deste artefato é o fato de que ele interagirá com partículas radioativas, então é melhor evitar campos de radiação quando estiver de posse do artefato, especialmente porque seus efeitos negativos não são equilibrados com os positivos. Também reduzirá a recuperação de energia, que é o resultado de seus apêndices pontiagudos como agulhas. As agulhas causam feridas pequenas e de rápida cicatrização que trazem dor constante e coceira, reduzindo assim a resistência.
+		\nEste artefato também enfraquece a proteção contra calor e ácidos devido à sua alta inflamabilidade.
+		\nLeve e não muito pesado para carregar.
+		\nA emissão de radiação é média na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_glass_lead_box_name">
+		<text>LLMC c/ Vaga-lume</text>
+	</string>
+	<string id="st_af_glass_lead_box_descr">
+		<text>
+		O Vaga-lume interage com campos desconhecidos pela ciência, acelerando consideravelmente a regeneração de tecidos e órgãos em seres vivos, além de normalizar processos metabólicos.
+		\nEste artefato pode literalmente colocar um stalker gravemente ferido de pé em questão de minutos. Por outro lado, o Vaga-lume pode entrar em combustão espontânea quando exposto a fontes radioativas potentes.
+		\nUma grande desvantagem deste artefato é que ele enfraquece o corpo e reduz o número de plaquetas no sangue durante o processo de cura, aumentando assim a taxa de sangramento.
+		\nParece drenar energia e diminuir muito a recuperação de resistência também. Alguns dos que usaram o Vaga-lume para fins de cura relataram que não conseguiam andar por horas depois.
+		\nInfelizmente, o Vaga-lume é extremamente raro.
+		\nA emissão de radiação é alta na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_compass_lead_box_name">
+		<text>LLMC c/ Bússola</text>
+	</string>
+	<string id="st_af_compass_lead_box_descr">
+		<text>
+		Um artefato muito raro. Já se passaram vários anos desde que um foi encontrado.
+		\nEle pode localizar lacunas em campos de anomalia. Acredita-se que possa ajudar alguém a atravessar os campos de anomalia mais complexos completamente ileso. No entanto, muito poucos sabem como manuseá-lo adequadamente.
+		\nA Bússola mostrou algumas propriedades únicas nos últimos experimentos. Pode interagir com objetos em movimento, fazendo com que alguns desapareçam completamente. Ou talvez se teletransportem?
+		\nTambém enfraquece o corpo drenando energia e aumentando constantemente a taxa de sangramento. Mas a maior desvantagem, no entanto, é a perigosa emissão de radiação que este artefato emite em comparação com a escala de radiação de artefatos.
+		\nSegurar este artefato perto do corpo causará morte em questão de poucos minutos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_oasis_heart_lead_box_name">
+		<text>LLMC c/ Coração do Oásis</text>
+	</string>
+	<string id="st_af_oasis_heart_lead_box_descr">
+		<text>
+		Este artefato foi encontrado no centro do lendário Oásis. Parece que o Coração é uma planta cristalizada, que adquiriu as propriedades curativas do Oásis.
+		\nNão só aumenta dramaticamente a taxa de recuperação de feridas e o processo de cura, mas também fornece ao corpo uma forte fonte de energia. É um verdadeiro milagre.
+		\nDito isso, o Oásis é muito sensível a fontes externas de energia e ao ambiente ao redor. Por esta razão, interagir com campos de anomalia trará morte ao portador.
+		\n \nA emissão de radiação é a mais alta na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string>
+	
+	<string id="st_af_death_lamp_lead_box_name">
+		<text>LLMC c/ Lâmpada da Morte</text>
+	</string>  
+	<string id="st_af_death_lamp_lead_box_descr">
+		<text>
+		"Grande, vermelha e amaldiçoada."
+		\nÉ assim que os locais preferem descrever a Lâmpada da Morte, enquanto alguns se referem a ela como a "Semente de Satã". Muitos comerciantes acreditam nos rumores que cercam o artefato, recusando-se assim a comprá-lo.
+		Pouco se sabe sobre suas origens, e nada de valor foi descoberto até agora.
+		\nA Lâmpada da Morte foi descoberta pela primeira vez há alguns anos por um grupo de três stalkers experientes. Logo após entregar o artefato aos Ecologistas em Yantar, dois deles foram encontrados mortos com uma expressão horrível em seus rostos. Nada se sabe sobre o destino do terceiro stalker.
+		\nApós o acidente, membros da equipe científica que estudaram o artefato relataram ter distúrbios de pesadelo nos dias seguintes.
+		\nAlém dos efeitos misteriosos, o artefato drena vitalidade e força de vontade do usuário, frequentemente em uma escala que induz tonturas e, em casos extremos, faz com que o usuário desmaie.
+		\n \nA emissão de radiação é a mais alta na escala de radiação de artefatos.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+
+		</text>
+	</string> 
+	
+	<string id="st_af_misery_bread_lead_box_name">
+		<text>LLMC c/ Pão Anômalo</text>
+	</string>
+	<string id="st_af_misery_bread_lead_box_descr">
+		<text>
+		Pão anômalo em um Contêiner Revestido de Chumbo. Tão escuro quanto a alma da pessoa que o deixou.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] item tecnológico\n
+		%c[d_cyan] • %c[ui_gray_2] valioso\n
+		%c[ui_white] • %c[ui_gray_2] dispositivo de armazenamento de artefatos\n
+		%c[ui_white] • %c[ui_gray_2] capacidade máxima:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] emissões radioativas:\n
+		-nenhuma\n
+		%c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] cheio\n
+		</text>
+	</string>
+	
+</string_table>

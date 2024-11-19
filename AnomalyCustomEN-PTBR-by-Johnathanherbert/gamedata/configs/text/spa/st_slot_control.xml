@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="slot_duplicate_item_1">
+		<text>Você já está usando uma placa balística.</text>
+	</string>
+	<string id="slot_duplicate_item_2">
+		<text>Você já está usando um camelbak.</text>
+	</string>
+	<string id="slot_duplicate_item_4">
+		<text>Você já está usando uma estrutura de mochila.</text>
+	</string>
+	<string id="slot_duplicate_item_8">
+		<text>Você já tem um Módulo de Controle Ambiental anexado.</text>
+	</string>
+	<string id="slot_duplicate_item_exo">
+		<text>Você está usando um exoesqueleto, que não comporta uma estrutura de mochila.</text>
+	</string>
+	<string id="st_camelbak_drink">
+		<text>Você toma um gole do seu camelbak.</text>
+	</string>
+	<string id="st_camelbak_fill">
+		<text>Camelbak preenchido.</text>
+	</string>
+	<string id="st_camelbak_full">
+		<text>Camelbak já está cheio.</text>
+	</string>
+	
+	<string id="st_camelbak_capacity">
+		<text>Capacidade</text>
+	</string>
+	
+	<string id="st_camelbak_trydrink">
+		<text>beber</text>
+	</string>
+
+	<string id="st_surge_compat">
+		<text>componentes compatíveis:</text>
+	</string>
+	
+	<string id="st_autodoc_compat">
+		<text>medicamentos compatíveis:</text>
+	</string>
+
+	<string id="st_autodoc_capacity_hp">
+		<text>Estabilizador de Saúde: </text>
+	</string>
+	<string id="st_autodoc_capacity_rads">
+		<text>Medicamento Anti-Radiação: </text>
+	</string>
+	<string id="st_autodoc_capacity_dmgres">
+		<text>Reservatório de Morfina: </text>
+	</string>
+	<string id="st_autodoc_full">
+		<text>Reservatório cheio.</text>
+	</string>
+	
+	<string id="st_autodoc_enable">
+		<text>ativar </text>
+	</string>
+	<string id="st_autodoc_disable">
+		<text>desativar </text>
+	</string>
+	<string id="st_autodoc_hp">
+		<text>cura automática</text>
+	</string>
+	<string id="st_autodoc_rads">
+		<text>antirradiação automático</text>
+	</string>
+	<string id="st_autodoc_dmgres">
+		<text>morfina automática</text>
+	</string>
+
+	<string id="st_armor_penetrated">
+		<text>Bala penetrou a placa balística!</text>
+	</string>
+	<string id="st_armor_broken">
+		<text>A placa balística equipada quebrou completamente.</text>
+	</string>
+	<string id="st_armor_absorbed">
+		<text>Placa balística absorveu o impacto.</text>
+	</string>
+
+	<string id="st_no_frame_equipped">
+		<text>Nenhuma estrutura de mochila instalada.</text>
+	</string>
+	<string id="st_equipped_frame">
+		<text>Estrutura de mochila instalada:</text>
+	</string>
+	<string id="st_remove_frame">
+		<text>remover estrutura instalada</text>
+	</string>
+	<string id="st_install_frame">
+		<text>instalar na mochila</text>
+	</string>
+
+	<string id="ui_mcm_slotControl_title">
+		<text>Aprimoramento de Acessórios de Traje</text>
+	</string>
+	<string id="ui_mcm_menu_slotControl">
+		<text>AAT</text>
+	</string>
+	<string id="ui_mcm_slotControl_ballisticMessage">
+		<text>Notificar jogador sobre condição da placa balística.</text>
+	</string>
+	<string id="ui_mcm_slotControl_ballisticRepair">
+		<text>Permitir reparo de placa balística com técnicos.</text>
+	</string>
+	<string id="ui_mcm_slotControl_debug">
+		<text>Registros de Depuração</text>
+	</string>
+	<string id="ui_mcm_slotControl_plate_chance">
+		<text>Chance de saquear placas balísticas</text>
+	</string>
+	<string id="ui_mcm_slotControl_plate_up_chance">
+		<text>Chance de saquear placas balísticas aprimoradas (multiplicativo)</text>
+	</string>
+	<string id="ui_mcm_slotControl_hp">
+		<text>LSM Limite de Saúde Baixa</text>
+	</string>
+	<string id="ui_mcm_slotControl_hp_crit">
+		<text>LSM Limite de Saúde Crítica</text>
+	</string>
+	<string id="ui_mcm_slotControl_rads">
+		<text>LSM Limite de Radiação</text>
+	</string>
+	
+	<string id="st_stim_none">
+		<text>Não é um Estimulante</text>
+	</string>
+	
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+</string_table>

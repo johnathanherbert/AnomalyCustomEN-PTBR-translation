@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+<string id="st_wpn_famas3"> <!-- NEW GUNS -->
+        <text>FAMAS F3 Tático</text>
+    </string>
+    <string id="st_wpn_famas3_descr">
+        <text>FAMAS significa Fusil d'Assaut de la Manufacture d'Armes de St-Etienne (Fuzil de Assalto da Fábrica de Armas de St-Etienne). O desenvolvimento deste fuzil começou em 1967, por Paul Tellie, um designer de armas francês. Este novo fuzil foi projetado para substituir os envelhecidos fuzis semiautomáticos MAS Mle.49/56, submetralhadoras MAT-49 e metralhadoras leves MAC Mle.1929. O primeiro protótipo do FAMAS foi construído em 1971, e os militares franceses começaram a testar este fuzil em 1972. Enquanto isso, a França adotou um fuzil de assalto SIG SG-540 5.56mm de design suíço como solução intermediária. O FAMAS foi adotado pelos franceses em 1978 e desde então se tornou o fuzil padrão do Exército Francês, conhecido entre os soldados franceses como "Le Clairon" (o clarim). Com um punho frontal adicionado para melhor estabilidade ao atirar.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech \n \n</text>
+    </string>
+	
+	<string id="st_wpn_famasst">
+        <text>FAMAS F3</text>
+    </string>
+    <string id="st_wpn_famasst_descr">
+        <text>FAMAS significa Fusil d'Assaut de la Manufacture d'Armes de St-Etienne (Fuzil de Assalto da Fábrica de Armas de St-Etienne). O desenvolvimento deste fuzil começou em 1967, por Paul Tellie, um designer de armas francês. Este novo fuzil foi projetado para substituir os envelhecidos fuzis semiautomáticos MAS Mle.49/56, submetralhadoras MAT-49 e metralhadoras leves MAC Mle.1929. O primeiro protótipo do FAMAS foi construído em 1971, e os militares franceses começaram a testar este fuzil em 1972. Enquanto isso, a França adotou um fuzil de assalto SIG SG-540 5.56mm de design suíço como solução intermediária. O FAMAS foi adotado pelos franceses em 1978 e desde então se tornou o fuzil padrão do Exército Francês, conhecido entre os soldados franceses como "Le Clairon" (o clarim).\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador compatível com 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech \n \n</text>
+    </string>
+</string_table>

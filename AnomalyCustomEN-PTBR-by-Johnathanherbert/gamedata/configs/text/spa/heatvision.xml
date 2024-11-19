@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_device_torch_nv_4_name">
+		<text>Visor térmico</text>
+	</string>
+	<string id="st_device_torch_nv_4_descr">
+		<text>Dispositivo de reconhecimento térmico de fundo (visor térmico) equipado com lanterna embutida. Permite distinguir assinaturas térmicas de objetos quentes, incluindo pessoas, animais, fogo, campos anômalos e mais. \n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue]  %c[ui_gray_2] item tecnológico\n
+		%c[d_blue]  %c[ui_gray_2] alto consumo de energia elétrica\n
+		</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>	
+	<string id="st_auto_looter_no_valid_tool">
+		<text>Você não possui uma ferramenta válida para desmontagem deste item ou a ferramenta está quase quebrada. A desmontagem automática não será executada.</text>
+	</string>
+	<string id="st_auto_looter_still_running">
+		<text>O saque automático ainda está em execução para este objeto</text>
+	</string>
+	<string id="st_auto_looter_remote_looting_disabled">
+		<text>Saque remoto desativado</text>
+	</string>
+	<string id="st_auto_looter_remote_looting_too_far">
+		<text>O alvo está muito longe para saquear</text>
+	</string>
+	<string id="st_auto_looter_parts_not_stripped">
+		<text>As peças da arma não puderam ser removidas automaticamente (a criação das peças foi atrasada por outro script). Execute novamente o saque para tentar remover as peças.</text>
+	</string>
+
+	<!-- Menu de contexto nos itens -->
+	<string id="st_auto_looter_enable_auto_disassemble">
+		<text>Ativar desmontagem automática</text>
+	</string>
+	<string id="st_auto_looter_disable_auto_disassemble">
+		<text>Desativar desmontagem automática</text>
+	</string>
+
+	<string id="st_auto_looter_enable_auto_loot">
+		<text>Ativar saque automático</text>
+	</string>
+	<string id="st_auto_looter_disable_auto_loot">
+		<text>Desativar saque automático</text>
+	</string>
+</string_table>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    <string id="ui_mcm_melee_degrade_onhit_title">
+        <text>Configuração de Degradação Corpo a Corpo</text>
+    </string>
+    <string id="ui_mcm_menu_melee_degrade_onhit">
+        <text>Degradação por Golpe Corpo a Corpo</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_axe_loss_mult">
+        <text>Multiplicador de Degradação do Machado</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_knife_loss_mult">
+        <text>Multiplicador de Degradação da Faca</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_geometry_loss_mult">
+        <text>Multiplicador de Degradação em Superfície Dura</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_phys_loss_mult">
+        <text>Multiplicador de Degradação em Objetos</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_enemy_loss_mult">
+        <text>Multiplicador de Degradação em Inimigos</text>
+    </string>
+     <string id="ui_mcm_melee_degrade_onhit_light_loss_mult">
+        <text>Multiplicador de Degradação em Ataque Leve</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_heavy_loss_mult">
+        <text>Multiplicador de Degradação em Ataque Pesado</text>
+    </string>
+</string_table>

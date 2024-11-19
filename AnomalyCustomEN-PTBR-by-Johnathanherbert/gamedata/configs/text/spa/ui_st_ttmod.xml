@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_tt_base_cost">
+		<text>Custo Base:</text>
+	</string>
+	<string id="st_tt_af_base_cost">
+		<text>Custo Base do Artefato:</text>
+	</string>
+</string_table>

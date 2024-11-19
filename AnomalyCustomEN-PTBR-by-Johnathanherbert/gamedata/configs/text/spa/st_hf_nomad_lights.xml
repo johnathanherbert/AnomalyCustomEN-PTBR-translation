@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_placeable_gas_lamp">
+		<text>Lampião a Gás</text>
+	</string>
+	<string id="st_placeable_gas_lamp_descr">
+		<text>Gera luz através da ignição de um pavio embebido em querosene. Lampiões são uma fonte de luz incomum entre stalkers, pois o combustível ocupa peso e espaço nas mochilas que poderiam ser usados para munição ou artefatos valiosos. Stalkers experientes que regularmente viajam por caminhos menos percorridos fazem uso dessas lâmpadas em seus esconderijos. Este já apresenta considerável desgaste ao longo dos anos e parece ter perdido sua proteção de vidro.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] item posicionável\n
+		%c[d_blue] • %c[ui_gray_2] baixo consumo de combustível\n
+		%c[d_blue] • %c[ui_gray_2] combustível: querosene\n</text>
+	</string>
+
+	<string id="st_placeable_metal_torch">
+		<text>Lanterna de Metal</text>
+	</string>
+	<string id="st_placeable_metal_torch_descr">
+		<text>Uma lanterna manual da era soviética. A instalação volumosa do recipiente de metal faz uso eficiente das baterias, sendo mais útil para iluminar esconderijos. Esta luz específica pode ser construída em campo, embora sua utilidade seja prejudicada por sua luz cônica. Stalkers experientes usam isso a seu favor, iluminando possíveis intrusos enquanto mantêm seu próprio disfarce.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] item posicionável\n
+		%c[d_blue] • %c[ui_gray_2] baixo consumo de energia elétrica\n
+		%c[d_blue] • %c[ui_gray_2] energia: baterias\n</text>
+	</string>
+
+	<string id="st_placeable_light_altar">
+		<text>Luz Psi Compacta</text>
+	</string>
+	<string id="st_placeable_light_altar_descr">
+		<text>Um objeto de origem e propósito desconhecidos. Originalmente, este estranho objeto emitia ondas psi letais e foi a causa da morte de muitos stalkers desavisados que se aventuraram nas áreas do norte. Este foi modificado por Sakharov e, com a ajuda de alguns artefatos, tornou-se uma fonte ilimitada de luz e força mental.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] item posicionável\n
+		%c[d_blue] • %c[ui_gray_2] valioso\n
+		%c[d_blue] • %c[ui_gray_2] baixo consumo de energia elétrica\n
+		%c[d_blue] • %c[ui_gray_2] usa um artefato Luz Lunar\n
+		%c[d_blue] • %c[ui_gray_2] energia: baterias gauss\n</text>
+	</string>
+</string_table>

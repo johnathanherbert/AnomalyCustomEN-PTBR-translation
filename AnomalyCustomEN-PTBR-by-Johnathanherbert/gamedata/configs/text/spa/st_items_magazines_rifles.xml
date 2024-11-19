@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--
+ traduzido por johnathanherbert
+-->
+
+<string_table><!-- 5.45 --><string id="st_mag_ak74_5.45x39">
+		<text>Carregador padrão AK-74 5,45x39mm</text>
+	</string>
+	<string id="st_mag_ak74_5.45x39_descr">
+		<text>Carregador regulamentar de baquelite com 30 cartuchos do Exército Ucraniano. Um dos carregadores mais comuns na Zone. Designação «6L20».</text>
+	</string>
+	
+	<string id="st_mag_ak74_5.45x39_extended">
+		<text>Carregador AK-74 5,45x39mm de 60 cartuchos</text>
+	</string>
+	<string id="st_mag_ak74_5.45x39_extended_descr">
+		<text>Carregador quádruplo de 60 cartuchos para a série AK-74. Extremamente raro de encontrar na Rússia, já que apenas pequenos lotes foram produzidos, mas há rumores de que o SBU ucraniano começou a produzi-lo para atender suas necessidades de controlar a Zone. Designação «6L31».</text>
+	</string>
+
+	<string id="st_mag_ak74m_5.45x39">
+		<text>Carregador padrão AK-74M 5,45x39mm</text>
+	</string>
+	<string id="st_mag_ak74m_5.45x39_descr">
+		<text>Carregador regulamentar de polímero com 30 cartuchos do Exército Russo e fornecido com o AK-74M. Um dos carregadores mais comuns na Zone. Este carregador pode ser adaptado para aceitar diferentes calibres. Designação «6L23».</text>
+	</string>
+
+	<string id="st_mag_ak74_fast_5.45x39">
+		<text>Carregador de carregamento rápido AK-74M 5,45x39mm</text>
+	</string>
+	<string id="st_mag_ak74_fast_5.45x39_descr">
+		<text>Carregador AK estilo PMAG moderno com 30 cartuchos. A qualidade de construção é muito alta e a inserção dos cartuchos é fácil. Carregadores desse tipo geralmente só são encontrados em unidades de operações especiais da Spetsnaz, junto com Alpha AKs de última geração.</text>
+	</string>
+	
+	<string id="st_mag_rpk74_5.45x39">
+		<text>Carregador padrão RPK-74 5,45x39mm</text>
+	</string>
+	<string id="st_mag_rpk74_5.45x39_descr">
+		<text>Carregador de baquelite com 45 cartuchos que vem como padrão com a metralhadora leve RPK-74. Este carregador também serve nas variantes do AK-74. Designação «6L18».</text>
+	</string>
+
+	<string id="st_mag_rpk74_5.56x45">
+		<text>Carregador RPK-74 5,56x45mm modificado</text>
+	</string>
+	<string id="st_mag_rpk74_5.56x45_descr">
+		<text>Carregador RPK modificado para aceitar cartuchos NATO 5,56mm. Também compatível com AK-101 e AK-102 de exportação.</text>
+	</string>
+
+	<string id="st_mag_ak_7.62x39">
+		<text>Carregador padrão AKM 7,62x39mm</text>
+	</string>
+	<string id="st_mag_ak_7.62x39_descr">
+		<text>Carregador de aço com 30 cartuchos 7,62x39mm. Carregadores desse tipo são bastante antigos, mas ainda funcionam relativamente bem.</text>
+	</string>
+
+	<string id="st_mag_ak103_7.62x39">
+		<text>Carregador padrão AK-103 7,62x39mm</text>
+	</string>
+	<string id="st_mag_ak103_7.62x39_descr">
+		<text>Carregador de 30 cartuchos 7,62x39mm para o AK-103. Os materiais e a construção modernos tornaram o carregador muito mais leve que seus equivalentes de aço. Além disso, este carregador pode ser modificado para aceitar outros calibres.</text>
+	</string>
+	
+	<string id="st_mag_ak103_fast_7.62x39">
+		<text>Carregador de carregamento rápido AK-103 7,62x39mm</text>
+	</string>
+	<string id="st_mag_ak103_fast_7.62x39_descr">
+		<text>Carregador estilo PMAG 7,62x39mm feito de polímero. A qualidade de construção e o design permitem a inserção rápida do cartucho. Este tipo de equipamento é incomum na Zone.</text>
+	</string>
+
+	<string id="st_mag_rpd_7.62x39">
+		<text>Tambor padrão RPD 7,62x39mm</text>
+	</string>
+	<string id="st_mag_rpd_7.62x39_descr">
+		<text>Caixa de tambor com fita para o RPD. A caixa contém 100 cartuchos em uma fita. Embora o RPD tenha sido suplantado pelo RPK, mais preciso e flexível, ser capaz de disparar 100 tiros não é pouca coisa.</text>
+	</string>
+	
+	<string id="st_mag_rpk_7.62x39">
+		<text>Carregador padrão RPK 7,62x39mm</text>
+	</string>
+	<string id="st_mag_rpk_7.62x39_descr">
+		<text>Carregador RPK de aço com 40 cartuchos. Também compatível com o AKM e outros rifles AK 7,62x39mm.</text>
+	</string>
+	
+	<string id="st_mag_rpk_7.62x39_drum">
+		<text>Carregador de tambor RPK de 95 cartuchos</text>
+	</string>
+	<string id="st_mag_rpk_7.62x39_drum_descr">
+		<text>Carregador de tambor de 95 cartuchos para o RPK.</text>
+	</string><!-- 5.56 --><string id="st_mag_ace21_5.56x45">
+		<text>Carregador padrão Galil ACE 21 5,56x45mm</text>
+	</string>
+	<string id="st_mag_ace21_5.56x45_descr">
+		<text>Carregador próprio do ACE 21 contendo 35 cartuchos. O modelo obsoleto encontrado na Zone requer seus próprios carregadores Galil, tornando a arma mais um artigo de luxo do que qualquer outra coisa.</text>
+	</string>
+
+	<string id="st_mag_ak101_5.56x45">
+		<text>Carregador padrão AK-101 5,56x45mm</text>
+	</string>
+	<string id="st_mag_ak101_5.56x45_descr">
+		<text>Carregador de 30 cartuchos para AK-101 e AK-102 de exportação. Este carregador pode ser adaptado para aceitar diferentes calibres.</text>
+	</string>
+	<string id="st_mag_aug_5.56x45">
+		<text>Carregador padrão AUG 5,56x45mm</text>
+	</string>
+	<string id="st_mag_aug_5.56x45_descr">
+		<text>Carregador próprio de 30 cartuchos para a primeira geração de rifles AUG. As variantes posteriores possuem um encaixe de carregador que as adapta para usar o padrão STANAG.</text>
+	</string>
+	
+	<string id="st_mag_g36_5.56x45">
+		<text>Carregador padrão G36 5,56x45mm</text>
+	</string>
+	<string id="st_mag_g36_5.56x45_descr">
+		<text>Carregador G36 semitranslúcido padrão com capacidade para 30 cartuchos 5,56x45mm.</text>
+	</string>
+	
+	<string id="st_mag_stanag">
+		<text>Carregador STANAG 5,56x45mm</text>
+	</string>
+	<string id="st_mag_stanag_descr">
+		<text>Carregador HK STANAG de 30 cartuchos usado na maioria dos rifles de assalto da NATO, como M4, M16, LR-300, L85 e FN F2000. Há rumores de que a NATO ou outra potência ocidental está fornecendo secretamente para a Freedom, o que explica a estranha abundância deste carregador na Zone.</text>
+	</string>
+
+
+	<string id="st_mag_nato_5.45x39">
+		<text>Carregador STANAG 5,45x39mm modificado</text>
+	</string>
+	<string id="st_mag_nato_5.45x39_descr">
+		<text>Carregador STANAG de 30 cartuchos modificado para aceitar cartuchos 5,45x39mm. Por que alguém modificaria um rifle dessa maneira é um mistério.</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_fast">
+		<text>Carregador STANAG 5,56x45mm de carregamento rápido</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_fast_descr">
+		<text>Carregador moderno estilo PMAG com 30 cartuchos. Consideravelmente mais leve que seu equivalente em aço. O design ergonômico facilita a inserção rápida de cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_nato_5.56x45_extended">
+		<text>Carregador STANAG 5,56x45mm estendido</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_extended_descr">
+		<text>Carregador de polímero estendido de 40 cartuchos compatível com a maioria dos rifles NATO.</text>
+	</string>
+
+	<string id="st_mag_nato_5.56x45_casket">
+		<text>Carregador STANAG 5,56x45mm de 60 cartuchos</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_casket_descr">
+		<text>Carregador quádruplo de 60 cartuchos compatível com rifles NATO. Oferece muito poder de fogo, mas é extremamente pesado e a fileira quádrupla dificulta a inserção rápida dos cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_sig550_5.56x45">
+		<text>Carregador padrão SG 550 5,56x45mm</text>
+	</string>
+	<string id="st_mag_sig550_5.56x45_descr">
+		<text>Carregador SG 550 de fabricação suíça contendo 30 cartuchos. Compatível com SIG SG 550, SG 552 e SG 550-1.</text>
+	</string>
+
+	<string id="st_mag_sig550_sniper_5.56x45">
+		<text>Carregador SG550-1 5,56x45mm de 20 cartuchos</text>
+	</string>
+	<string id="st_mag_sig550_sniper_5.56x45_descr">
+		<text>Carregador SG 550-1 de fabricação suíça contendo 20 cartuchos. É usado na variante de atirador SG 550-1, mas é compatível com outros rifles da mesma família.</text>
+	</string>
+	<string id="st_mag_m249_5.56x45">
+		<text>Caixa padrão M249 5,56x45mm</text>
+	</string>
+	<string id="st_mag_m249_5.56x45_descr">
+		<text>Caixa contendo fita com capacidade para 100 cartuchos 5,56x45mm. O M249 é comum em postos avançados da Freedom, proporcionando um alto volume de fogo de supressão contra invasores Monolith.</text>
+	</string>
+	
+	<string id="st_mag_xm8_5.56x45">
+		<text>Carregador padrão XM8 5,56x45mm</text>
+	</string>
+	<string id="st_mag_xm8_5.56x45_descr">
+		<text>Carregador padrão XM8 5,56x45mm.</text>
+	</string>
+
+	<string id="st_mag_type63_7.62x39">
+		<text>Carregador padrão Type 63 7,62x39mm</text>
+	</string>
+	<string id="st_mag_type63_7.62x39_descr">
+		<text>Carregador de 20 cartuchos para o rifle Type 63 feito de aço estampado. A maioria dos Type 63 da Zone não possui um retentor de ferrolho para aceitar os carregadores AKM mais comuns. Este carregador também serve em rifles estilo AK.</text>
+	</string>
+	
+	<string id="st_mag_type63_7.62x54">
+		<text>Carregador Type 63 7,62x54mm modificado</text>
+	</string>
+	<string id="st_mag_type63_7.62x54_descr">
+		<text>Carregador Type 63 modificado para aceitar cartuchos maiores 7,62x54mmR. O Type 63 é o favorito dos clãs de bandidos; A conversão para o cartucho de potência total é a especialidade do técnico bandido Gatillon.</text>
+	</string><!-- 9x39 --><string id="st_mag_val_9x39_pab9">
+		<text>Carregador AS Val 9x39mm de 20 cartuchos</text>
+	</string>
+	<string id="st_mag_val_9x39_pab9_descr">
+		<text>Carregador padrão de 20 cartuchos da AS Val, também compatível com os rifles SR-3M e VSS. Designação "6L25".</text>
+	</string>
+
+	<string id="st_mag_vihr_9x39_pab9">
+		<text>Carregador SR-3M 9x39mm de 30 cartuchos</text>
+	</string>
+	<string id="st_mag_vihr_9x39_pab9_descr">
+		<text>Carregador de 30 cartuchos 9x39mm que vem de série com o rifle SR-3M «Vikhr». Também compatível com os rifles VSS e AS Val. Designação «SR3M.130».</text>
+	</string>
+	
+	<string id="st_mag_vintorez_9x39_pab9">
+		<text>Carregador VSS 9x39mm de 10 cartuchos</text>
+	</string>
+	<string id="st_mag_vintorez_9x39_pab9_descr">
+		<text>Carregador VSS padrão de 10 cartuchos, também compatível com os rifles AS Val e SR-3M. Designação «6L24».</text>
+	</string>
+	
+	<string id="st_mag_vsk94_9x39_pab9">
+		<text>Carregador padrão 9x39mm</text>
+	</string>
+	<string id="st_mag_vsk94_9x39_pab9_descr">
+		<text>Carregador de 20 cartuchos usado nos rifles 9A-91 e VSK-94.</text>
+	</string>
+	
+	<string id="st_mag_groza_9x39_pab9">
+		<text>Carregador Groza 9x39mm de 20 cartuchos</text>
+	</string>
+	<string id="st_mag_groza_9x39_pab9_descr">
+		<text>Carregador de 20 cartuchos 9x39mm que vem como padrão com o rifle de assalto OTs-14 Groza. Design semelhante aos carregadores estilo AK.</text>
+	</string><!--
+sniper rifles / full size rifles
+--><string id="st_mag_g43_7.92x33">
+		<text>Carregador padrão G43 7,92x57mm</text>
+	</string>
+	<string id="st_mag_g43_7.92x33_descr">
+		<text>Carregador padrão de 10 cartuchos para o Gewehr 43.</text>
+	</string>
+
+	<string id="st_mag_galil_7.62x51">
+		<text>Carregador padrão Galil 7,62x51mm</text>
+	</string>
+	<string id="st_mag_galil_7.62x51_descr">
+		<text>Carregador padrão de 20 cartuchos para o rifle de combate israelense Galil.</text>
+	</string>
+	
+	<string id="st_mag_stanag_7.62x51">
+		<text>Carregador STANAG 7,62x51mm</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_descr">
+		<text>Carregador estilo STANAG padrão para cartuchos NATO 7,62x51mm. Usado no HK417, SCAR e SR-25. Contém 20 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_stanag_7.62x51_ext">
+		<text>Carregador STANAG 7,62x51mm estendido</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_ext_descr">
+		<text>Carregador estendido estilo STANAG para cartuchos NATO 7,62x51mm. Usado no HK417, SCAR e SR-25. Contém 30 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_stanag_fast_7.62x51">
+		<text>Carregador STANAG 7,62x51mm de carregamento rápido</text>
+	</string>
+	<string id="st_mag_stanag_fast_7.62x51_descr">
+		<text>Carregador estilo PMAG modernizado para cartuchos NATO 7,62x51mm. Usado no HK417, SCAR e SR-25. Contém 20 cartuchos.</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_short">
+		<text>Carregador STANAG 7,62x51mm de 10 cartuchos</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_short_descr">
+		<text>Carregador compacto estilo STANAG para cartuchos NATO 7,62x51mm. Vem como padrão com o KAC SR-25, mas é compatível com o HK417 e o SCAR Mk. 17.</text>
+	</string>
+
+	<string id="st_mag_hinge_7.62x51">
+		<text>Carregador padrão 7,62x51mm</text>
+	</string>
+	<string id="st_mag_hinge_7.62x51_descr">
+		<text>Carregador padrão de 20 cartuchos 7,62x51mm usado em rifles de combate com mecanismos de travamento de carregador articulados. As pequenas diferenças de compatibilidade entre armas e carregadores deste estilo foram "resolvidas" pelos técnicos da Zone. Usado no FN FAL, Mk. 14 EBR e G3.</text>
+	</string>
+
+	<string id="st_mag_hinge_ext_7.62x51">
+		<text>Carregador 7,62x51mm estendido</text>
+	</string>
+	<string id="st_mag_hinge_ext_7.62x51_descr">
+		<text>Carregador estendido de 30 cartuchos 7,62x51mm usado em rifles de combate com mecanismos de travamento de carregador articulados. Usado no FN FAL, Mk. 14 EBR e G3.</text>
+	</string>
+	
+	<string id="st_mag_l96a1_7.62x51">
+		<text>Carregador L96A1 7,62x51mm de 10 cartuchos</text>
+	</string>
+	<string id="st_mag_l96a1_7.62x51_descr">
+		<text>Carregador regulamentar de 10 cartuchos para o L96A1. O L96 é o favorito dos Mercenaries ocidentais e das forças Monolith.</text>
+	</string>
+
+	<string id="st_mag_remington700_7.62x51">
+		<text>Carregador padrão Remington 700 7,62x51mm</text>
+	</string>
+	<string id="st_mag_remington700_7.62x51_descr">
+		<text>Carregador Remington 700 padrão de 5 cartuchos. O Remington 700 é um rifle de caça popular e tem um excelente desempenho nas condições da Zone.</text>
+	</string>
+
+	<string id="st_mag_wa2000_7.62x51">
+		<text>Carregador padrão Walther WA 2000 7,62x51mm</text>
+	</string>
+	<string id="st_mag_wa2000_7.62x51_descr">
+		<text>Carregador padrão Walther WA 2000 7,62x51mm.</text>
+	</string>
+
+
+	<string id="st_mag_pkm_pkm">
+		<text>Caixa PKM 7,62x54mmR de 100 cartuchos</text>
+	</string>
+	<string id="st_mag_pkm_pkm_descr">
+		<text>Caixa pesada contendo 100 cartuchos 7,62x54mmR em uma fita, para uso com o PKM. Recomenda-se levar um par se você planeja caçar Pseudogiants ou Chimeras.</text>
+	</string>
+
+	<string id="st_mag_l96a1_pkm">
+		<text>Carregador L96A1 7,62x54mm modificado de 10 cartuchos</text>
+	</string>
+	<string id="st_mag_l96a1_pkm_descr">
+		<text>Carregador L96A1 7,62x54mm modificado.</text>
+	</string>
+	
+	<string id="st_mag_sv98_7.62x54">
+		<text>Carregador padrão SV-98 7,62x54mm</text>
+	</string>
+	<string id="st_mag_sv98_7.62x54_descr">
+		<text>Carregador de polímero padrão de 10 cartuchos para o rifle de precisão SV-98. O SV-98 é usado principalmente pelas autoridades russas; um número limitado chegou às mãos da facção Duty através de canais secretos.</text>
+	</string>
+	
+	<string id="st_mag_svd_7.62x54">
+		<text>Carregador padrão SVD 7,62x54mm</text>
+	</string>
+	<string id="st_mag_svd_7.62x54_descr">
+		<text>Carregador padrão de 10 cartuchos para rifles de precisão SVD e SVU. O SVD é popular entre membros de todas as facções, se conseguirem colocar as mãos em tal rifle.</text>
+	</string>
+
+	<string id="st_mag_svd_7.62x54_extended">
+		<text>Carregador SVD 7,62x54mm de 20 cartuchos</text>
+	</string>
+	<string id="st_mag_svd_7.62x54_extended_descr">
+		<text>Carregador estendido de 20 cartuchos para rifles de precisão SVD e SVU. É comumente usado no rifle SVU-A para permitir que ele desempenhe temporariamente a função de uma metralhadora leve em combates de curta distância.</text>
+	</string>
+	
+	<string id="st_mag_svt40_7.62x54">
+		<text>Carregador padrão SVT-40 7,62x54mm</text>
+	</string>
+	<string id="st_mag_svt40_7.62x54_descr">
+		<text>Carregador padrão de 10 cartuchos usado no rifle SVT-40. O SVT-40 é um rifle clássico da Grande Guerra Patriótica, popular entre muitos stalkers, especialmente os solitários.</text>
+	</string>
+	
+	<string id="st_mag_svt40_pkm">
+		<text>Carregador padrão SVT-40 7,62x54mm</text>
+	</string>
+	<string id="st_mag_svt40_pkm_descr">
+		<text>Carregador padrão de 10 cartuchos usado no rifle SVT-40. O SVT-40 é um rifle clássico da Grande Guerra Patriótica, popular entre muitos stalkers, especialmente os solitários. Esta variante foi ligeiramente modificada para permitir o uso de cartuchos de metralhadora 7,62x54mmR.</text>
+	</string>
+	
+	<string id="st_mag_svt40_7.62x39">
+		<text>Carregador SVT-40 7,62x39mm modificado</text>
+	</string>
+	<string id="st_mag_svt40_7.62x39_descr">
+		<text>Carregador SVT-40 modificado para aceitar o cartucho intermediário 7,62x39mm.</text>
+	</string>
+	
+	<string id="st_mag_trg_magnum_300">
+		<text>Carregador padrão .338 LM</text>
+	</string>
+	<string id="st_mag_trg_magnum_300_descr">
+		<text>Carregador de 5 cartuchos para o Sako TRG-42, o L96 AWM e o M24 SWS. Este carregador foi originalmente projetado para o Sako, mas foi ligeiramente "modificado" para caber em diferentes rifles. Funciona bem na maioria dos rifles, desde que você não se esqueça de bater no carregador de vez em quando.</text>
+	</string>
+
+	<string id="st_mag_l96a1m_magnum_300">
+		<text>Carregador L96A1 .338 LM de 10 cartuchos</text>
+	</string>
+	<string id="st_mag_l96a1m_magnum_300_descr">
+		<text>Carregador regulamentar de 10 cartuchos para o L96A1 que aceita o maior e consideravelmente mais poderoso .338 Lapua Magnum. O L96 é o favorito dos Mercenaries ocidentais e das forças Monolith.</text>
+	</string>
+	
+	<string id="st_mag_m98b_magnum_300">
+		<text>Carregador padrão M98B .338 LM</text>
+	</string>
+	<string id="st_mag_m98b_magnum_300_descr">
+		<text>Carregador de 10 cartuchos compatível com o Barrett M98B.</text>
+	</string>
+	
+	
+	<string id="st_mag_vssk_12.7x55">
+		<text>Carregador padrão VSSK 12,7x55mm</text>
+	</string>
+	<string id="st_mag_vssk_12.7x55_descr">
+		<text>Carregador padrão de 5 cartuchos usado no rifle de precisão VSSK.</text>
+	</string>
+
+	<string id="st_mag_ash12_12.7x55">
+		<text>Carregador padrão ASh-12 12,7x55mm</text>
+	</string>
+	<string id="st_mag_ash12_12.7x55_descr">
+		<text>Carregador ASh-12 padrão com capacidade para 10 cartuchos. É improvável que você precise de mais de 10 tiros para um alvo humano.</text>
+	</string>
+
+	<string id="st_mag_ash12_ext_12.7x55">
+		<text>Carregador ASh-12 12,7x55mm estendido</text>
+	</string>
+	<string id="st_mag_ash12_ext_12.7x55_descr">
+		<text>Carregador ASh-12 estendido com capacidade para 20 cartuchos. Para quando você precisar derrubar mutantes gigantes.</text>
+	</string>
+
+	<string id="st_mag_m82_12.7x55">
+		<text>Carregador M82 12,7x55mm de 10 cartuchos</text>
+	</string>
+	<string id="st_mag_m82_12.7x55_descr">
+		<text>Carregador de 10 cartuchos para o rifle Barrett M82, modificado para aceitar cartuchos ST de 12,7x55mm. O primeiro stalker que trouxe essa monstruosidade de arma a abandonou quando ficou sem munição. Técnicos empreendedores adaptaram esta arma para disparar balas mais comuns sem ter que substituir o cano muito pesado.</text>
+	</string>
+	
+	
+	<string id="st_mag_saiga12s_12x70">
+		<text>Carregador padrão Saiga-12S 12x70</text>
+	</string>
+	<string id="st_mag_saiga12s_12x70_descr">
+		<text>Carregador padrão Saiga-12S com capacidade para 8 cartuchos. A Saiga é uma espingarda de boa qualidade, popular entre os membros do Duty.</text>
+	</string>
+
+	<string id="st_mag_saiga12s_ext_12x70">
+		<text>Carregador Saiga-12S 12x70 estendido</text>
+	</string>
+	<string id="st_mag_saiga12s_ext_12x70_descr">
+		<text>Carregador estendido Saiga-12S com capacidade para 12 cartuchos. Quanto mais cartuchos, mais mutantes para eliminar com cada carregador.</text>
+	</string>
+	
+	<string id="st_mag_usas12_12x70">
+		<text>Tambor padrão USAS-12 12x70</text>
+	</string>
+	<string id="st_mag_usas12_12x70_descr">
+		<text>Tambor de 20 tiros para a espingarda automática USAS-12. O poder de fogo oferecido pelo USAS-12 é incomparável a curta distância, embora o peso e o volume do carregador tornem seu transporte impraticável.</text>
+	</string>
+
+	<string id="st_mag_vepr_12x70">
+		<text>Carregador padrão Vepr-12 12x70</text>
+	</string>
+	<string id="st_mag_vepr_12x70_descr">
+		<text>Carregador padrão de 10 cartuchos para o Vepr-12. Apesar das semelhanças, o Vepr não compartilha carregadores com a Saiga.</text>
+	</string>
+
+	<string id="st_mag_vepr_compact_12x70">
+		<text>Carregador compacto Vepr-12 12x70</text>
+	</string>
+	<string id="st_mag_vepr_compact_12x70_descr">
+		<text>Um pequeno carregador para o Vepr-12 com capacidade para apenas cinco cartuchos. Não se engane: o carregador cabe no seu bolso e é extremamente fácil de carregar.</text>
+	</string>
+
+</string_table>

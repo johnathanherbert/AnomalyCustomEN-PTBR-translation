@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_lewd_fad">
+		<text>F.A.D. Fusil Automatico Doble (T1-LEWD)</text>
+	</string>
+	<string id="st_wpn_lewd_fad_descr">
+		<text>
+		O Fusil Automatico Doble (em português: Rifle Automático Duplo) é um fuzil bullpup peruano e é uma visão rara fora do Peru. O país originalmente pretendia comprar 580.000 fuzis de assalto AN-94 para substituir o HK33 já em serviço, mas acabou optando pelo FAD como um compromisso de custo e para impulsionar a indústria local.\n
+O armamento, projetado por Salomon Braga Lozo em 2008, começou a produção no mesmo ano pelo fabricante SIMA Electronica. É o primeiro rifle do Peru e ainda está em serviço até hoje. Está previsto para ser substituído por um sucessor, o FAD-V2 (Estarei lá quando esse rifle estiver disponível!).\n \n
+Como foi fabricado apenas para uso no Peru, a arma só viu ação no conflito interno do Peru, principalmente na região VRAEM da selva peruana. Caso contrário, o rifle só é usado em bases militares ou desfiles nacionais.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] Acessórios Nível 1: %c[ui_gray_2] Silenciador OTAN e lançador de granadas itm_spraycamo_woodland UB.\n
+		%c[d_purple] Miras Nível 1: %c[ui_gray_2] miras red dot ocidentais comuns e miras de combate (miras prismáticas e de baixa ampliação).\n
+		%c[ui_gray_2]REPINTURA: \n
+		%c[d_purple] Pintura Camuflada: %c[ui_gray_2] Usando a tinta spray você pode repintar esta arma em uma cor diferente. (isso consumirá o item tinta spray):\n\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_lewd_fad_camo">
+		<text>F.A.D. Fusil Automatico Doble (T1-LEWD)</text>
+	</string>
+	<string id="st_wpn_lewd_fad_camo_descr">
+		<text>
+		O Fusil Automatico Doble (em português: Rifle Automático Duplo) é um fuzil bullpup peruano e é uma visão rara fora do Peru. O país originalmente pretendia comprar 580.000 fuzis de assalto AN-94 para substituir o HK33 já em serviço, mas acabou optando pelo FAD como um compromisso de custo e para impulsionar a indústria local.\n
+O armamento, projetado por Salomon Braga Lozo em 2008, começou a produção no mesmo ano pelo fabricante SIMA Electronica. É o primeiro rifle do Peru e ainda está em serviço até hoje. Está previsto para ser substituído por um sucessor, o FAD-V2 (Estarei lá quando esse rifle estiver disponível!).\n \n
+Como foi fabricado apenas para uso no Peru, a arma só viu ação no conflito interno do Peru, principalmente na região VRAEM da selva peruana. Caso contrário, o rifle só é usado em bases militares ou desfiles nacionais.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] Acessórios Nível 1: %c[ui_gray_2] Silenciador OTAN e lançador de granadas M320 UB.\n
+		%c[d_purple] Miras Nível 1: %c[ui_gray_2] miras red dot ocidentais comuns e miras de combate (miras prismáticas e de baixa ampliação).\n
+		%c[ui_gray_2]REPINTURA: \n
+		%c[d_purple] Pintura Camuflada: %c[ui_gray_2] Esta arma foi pintada usando tinta spray. Você pode restaurar sua cor original usando querosene (isso consumirá o item Querosene).\n\n
+		Usando a tinta spray você pode repintar esta arma em uma cor diferente. (isso consumirá o item tinta spray):\n\n	
+		</text>
+	</string>
+	
+	<string id="st_wpn_lewd_fad_croco">
+		<text>F.A.D. Fusil Automatico Doble (CAMUFLAGEM ESPECIAL - LEWD)</text>
+	</string>
+	<string id="st_wpn_lewd_fad_croco_descr">
+		<text>
+		Você é um caçador notável e ganhou o direito de exibir esses restos de Quimera em sua arma para que todos os outros STALKERs vejam!\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] Acessórios Nível 1: %c[ui_gray_2] Silenciador OTAN e lançador de granadas M320 UB.\n
+		%c[d_purple] Miras Nível 1: %c[ui_gray_2] miras red dot ocidentais comuns e miras de combate (miras prismáticas e de baixa ampliação).\n
+		%c[ui_gray_2]REPINTURA: \n
+		%c[d_purple] Pintura Especial: %c[ui_gray_2] Esta arma foi aprimorada para sua variante camuflada especial. Esta mudança é permanente, assim como os atributos aumentados da arma.
+		</text>
+	</string>
+	
+	<string id="st_wpn_lewd_fad_secret">
+		<text>F.A.D. Fusil Automatico Doble (CAMUFLAGEM SECRETA - LEWD)</text>
+	</string>
+	<string id="st_wpn_lewd_fad_secret_descr">
+		<text>
+		Bem, "parabéns", você conseguiu, você encontrou a camuflagem secreta. Que pena que é permanente. Sim, não há volta, todos os STALKERs agora sabem o que você secretamente deseja.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] Acessórios Nível 1: %c[ui_gray_2] Silenciador OTAN e lançador de granadas M320 UB.\n
+		%c[d_purple] Miras Nível 1: %c[ui_gray_2] miras red dot ocidentais comuns e miras de combate (miras prismáticas e de baixa ampliação).\n
+		%c[ui_gray_2]REPINTURA: \n
+		%c[d_purple] Pintura Secreta: %c[ui_gray_2] Esta arma foi aprimorada para sua variante camuflada secreta. Esta mudança é permanente.
+		</text>
+	</string>
+	
+	<string id="st_wpn_lewd_fadt2">
+		<text>F.A.D. Fusil Automatico Doble (T2-LEWD)</text>
+	</string>
+	<string id="st_wpn_lewd_fadt2_descr">
+		<text>
+		O Fusil Automatico Doble (em português: Rifle Automático Duplo) é um fuzil bullpup peruano e é uma visão rara fora do Peru. O país originalmente pretendia comprar 580.000 fuzis de assalto AN-94 para substituir o HK33 já em serviço, mas acabou optando pelo FAD como um compromisso de custo e para impulsionar a indústria local.\n
+O armamento, projetado por Salomon Braga Lozo em 2008, começou a produção no mesmo ano pelo fabricante SIMA Electronica. É o primeiro rifle do Peru e ainda está em serviço até hoje. Está previsto para ser substituído por um sucessor, o FAD-V2 (Estarei lá quando esse rifle estiver disponível!).\n \n
+Como foi fabricado apenas para uso no Peru, a arma só viu ação no conflito interno do Peru, principalmente na região VRAEM da selva peruana. Caso contrário, o rifle só é usado em bases militares ou desfiles nacionais.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] Acessórios Nível 2: %c[ui_gray_2] Silenciador OTAN e lançador de granadas M320 UB.\n
+		%c[d_purple] Miras Nível 2: %c[ui_gray_2] miras red dot ocidentais comuns e miras de combate (miras prismáticas e de baixa ampliação) e uma mira laser permanentemente instalada.\n
+		%c[ui_gray_2]REPINTURA: \n
+		%c[d_purple] Pintura Camuflada: %c[ui_gray_2] Usando a tinta spray você pode repintar esta arma em uma cor diferente. (isso consumirá o item tinta spray):\n\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_lewd_fadt2_camo">
+		<text>F.A.D. Fusil Automatico Doble (T2-LEWD)</text>
+	</string>
+	<string id="st_wpn_lewd_fadt2_camo_descr">
+		<text>
+		O Fusil Automatico Doble (em português: Rifle Automático Duplo) é um fuzil bullpup peruano e é uma visão rara fora do Peru. O país originalmente pretendia comprar 580.000 fuzis de assalto AN-94 para substituir o HK33 já em serviço, mas acabou optando pelo FAD como um compromisso de custo e para impulsionar a indústria local.\n
+O armamento, projetado por Salomon Braga Lozo em 2008, começou a produção no mesmo ano pelo fabricante SIMA Electronica. É o primeiro rifle do Peru e ainda está em serviço até hoje. Está previsto para ser substituído por um sucessor, o FAD-V2 (Estarei lá quando esse rifle estiver disponível!).\n \n
+Como foi fabricado apenas para uso no Peru, a arma só viu ação no conflito interno do Peru, principalmente na região VRAEM da selva peruana. Caso contrário, o rifle só é usado em bases militares ou desfiles nacionais.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] Acessórios Nível 2: %c[ui_gray_2] Silenciador OTAN e lançador de granadas M320 UB.\n
+		%c[d_purple] Miras Nível 2: %c[ui_gray_2] miras red dot ocidentais comuns e miras de combate (miras prismáticas e de baixa ampliação) e uma mira laser permanentemente instalada.\n
+		%c[ui_gray_2]REPINTURA: \n
+		%c[d_purple] Pintura Camuflada: %c[ui_gray_2] Esta arma foi pintada usando tinta spray. Você pode restaurar sua cor original usando querosene (isso consumirá o item Querosene).\n\n
+		Usando a tinta spray você pode repintar esta arma em uma cor diferente. (isso consumirá o item tinta spray):\n\n
+		</text>
+	</string>
+
+	
+</string_table>

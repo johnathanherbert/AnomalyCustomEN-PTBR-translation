@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="st_desc_mutant_part_quality">
+		<text>Qualidade</text>
+	</string>
+	<string id="st_desc_mutant_part_quality_verylow">
+		<text>muito baixa</text>
+	</string>
+	<string id="st_desc_mutant_part_quality_low">
+		<text>baixa</text>
+	</string>
+	<string id="st_desc_mutant_part_quality_med">
+		<text>normal</text>
+	</string>
+	<string id="st_desc_mutant_part_quality_high">
+		<text>boa</text>
+	</string>
+	<string id="st_desc_mutant_part_quality_veryhigh">
+		<text>muito boa</text>
+	</string>
+	
+	
+	<string id="ui_mcm_menu_mutant_parts_quality">
+		<text>Qualidade das Partes Mutantes</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_title">
+		<text>Gradação da Qualidade das Partes Mutantes</text>
+	</string>
+	
+	<string id="ui_mcm_mutant_parts_quality_enable_raw_meat">
+		<text>Permitir carne crua</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_enable_raw_meat_desc">
+		<text>(Necessário recarregar o save!) \n \nPermitir gradação de qualidade para carne crua de mutante. \nA qualidade não afeta as estatísticas da carne!</text>
+	</string>
+	
+	<string id="ui_mcm_mutant_parts_quality_immersive_skinning">
+		<text>Esfolamento Imersivo de Mutantes</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_immersive_skinning_desc">
+		<text>Esta configuração atribui uma qualidade às partes dos mutantes, dependendo de qual parte do corpo eles foram atingidos. Por exemplo, se você atirar na cabeça do controlador, então o cérebro, ao saquear, estará em baixa qualidade, enquanto outras partes estarão em boa qualidade, e assim por diante. \n \nNOTA: Se o mutante dropar mais partes do corpo do que deveria logicamente, como quatro máscaras de snork, então uma máscara receberá a qualidade desta configuração, e o resto será processado pelas chances listadas abaixo.</text>
+	</string>
+	
+	<string id="ui_mcm_mutant_parts_quality_desc_cost_mult">
+		<text>Abaixo estão as configurações do multiplicador de preço para partes mutantes, dependendo de sua qualidade.</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_verylow_mult">
+		<text>Mult. preços para qualidade muito baixa</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_low_mult">
+		<text>Mult. preços para qualidade baixa</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_med_mult">
+		<text>Mult. preços para qualidade normal</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_high_mult">
+		<text>Mult. preços para boa qualidade</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_veryhigh_mult">
+		<text>Mult. preços para qualidade muito boa</text>
+	</string>
+	
+	<string id="ui_mcm_mutant_parts_quality_desc_qualities">
+		<text>Abaixo estão as configurações para as chances de atribuir qualidade às partes mutantes quando encontradas no mundo pelo jogador.</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_verylow">
+		<text>Chance para qualidade muito baixa</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_low">
+		<text>Chance para qualidade baixa</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_med">
+		<text>Chance para qualidade normal</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_high">
+		<text>Chance para boa qualidade</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_veryhigh">
+		<text>Chance para qualidade muito boa</text>
+	</string>
+	
+	<string id="ui_mcm_mutant_parts_quality_desc_qualities_kit">
+		<text>Abaixo estão as configurações para as chances de atribuir qualidade às partes mutantes ao esfolar, se o jogador tiver o "Kit de Caçador" equipado.</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_verylow_kit">
+		<text>Chance para qualidade muito baixa</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_low_kit">
+		<text>Chance para qualidade baixa</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_med_kit">
+		<text>Chance para qualidade normal</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_high_kit">
+		<text>Chance para boa qualidade</text>
+	</string>
+	<string id="ui_mcm_mutant_parts_quality_veryhigh_kit">
+		<text>Chance para qualidade muito boa</text>
+	</string>
+
+</string_table>

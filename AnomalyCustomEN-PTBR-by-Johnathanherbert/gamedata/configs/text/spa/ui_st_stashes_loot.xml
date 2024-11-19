@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_stashesx_title">
+		<text>Esconderijos de Saque de NPCs</text>
+	</string>
+	<string id="ui_mcm_menu_stashesx">
+		<text>Esconderijos de Saque de NPCs</text>
+	</string>
+
+			<!-- LOOTING -->
+	<string id="ui_mcm_stashesx_header_loot">
+		<text>Saque de NPCs</text>
+	</string>
+
+	<string id="ui_mcm_stashesx_reward_loot">
+		<text>NPCs saqueiam todos os esconderijos</text>
+	</string>
+	<string id="ui_mcm_stashesx_reward_loot_desc">
+		<text>Permite que NPCs saqueiem esconderijos que não foram feitos pelo jogador (aqueles criados em novo jogo/dados como recompensa/encontrados em PDAs etc). Lembre-se que quando você abrir um esconderijo como este pela primeira vez, ele se tornará saqueável independentemente.</text>
+	</string>
+
+	<string id="ui_mcm_stashesx_update_time">
+		<text>Tempo de Atualização</text>
+	</string>
+	<string id="ui_mcm_stashesx_update_time_desc">
+		<text>Tempo (em segundos reais) após o qual o script escolhe um próximo esquadrão aleatório e verifica os esconderijos ao seu redor. Aumentar isso fará com que os NPCs saqueiem esconderijos com menos frequência. \n 
+				\n Padrão: 4.0</text>
+	</string>
+
+	<string id="ui_mcm_stashesx_sleep_freq">
+		<text>Saque durante o sono</text>
+	</string>
+	<string id="ui_mcm_stashesx_sleep_freq_desc">
+		<text>Frequência de saque durante o sono, em duas palavras: você dorme uma hora e executa a função "x" vezes para corresponder ao tempo passado. Baseado na opção "Tempo de Atualização". Valor "1" significa tempo real, recomendo menor. \n 
+				\n "0" desativa esta opção. \n
+				\n Padrão: 0.25</text>
+	</string>
+
+	<string id="ui_mcm_stashesx_add_perc">
+		<text>Mais Saque Aleatório</text>
+	</string>
+	<string id="ui_mcm_stashesx_add_perc_desc">
+		<text>Aumente se quiser que esconderijos com baixa chance sejam saqueados com mais frequência, por exemplo: dois esconderijos são salvos com chances processadas de 1 e 200, se você aumentar este controle para 100% eles terão 201 e 400 (essencialmente aumentando a chance do esconderijo de menor chance do exemplo para ser saqueado para 50%). \n 
+				\n Padrão: 20</text>
+	</string>
+
+			<!-- PAID STASHES -->
+	<string id="ui_mcm_stashesx_header_paid">
+		<text>Esconderijos Pagos</text>
+	</string>
+
+	<string id="ui_mcm_stashesx_cost">
+		<text>Custo</text>
+	</string>
+	<string id="ui_mcm_stashesx_cost_desc">
+		<text>Custo do esconderijo pago por dia.</text>
+	</string>
+
+	<string id="ui_mcm_stashesx_max_time">
+		<text>Tempo Máximo</text>
+	</string>
+	<string id="ui_mcm_stashesx_max_time_desc">
+		<text>Quantidade máxima de dias que o jogador pode comprar.</text>
+	</string>
+
+			<!-- DEBUG -->
+	<string id="ui_mcm_stashesx_header_debug">
+		<text>Depuração</text>
+	</string>
+
+	<string id="ui_mcm_stashesx_debugx">
+		<text>Depuração</text>
+	</string>
+	<string id="ui_mcm_stashesx_debugx_desc">
+		<text>Permite ver informações no console para depuração.</text>
+	</string>
+
+	<string id="ui_mcm_stashesx_delete_stashes">
+		<text>DELETAR ADDON (por favor leia)</text>
+	</string>
+	<string id="ui_mcm_stashesx_delete_stashes_desc">
+		<text>Para prevenir corrupção do arquivo de save, esta opção irá deletar todos os novos esconderijos (pagos) adicionados por este addon no próximo carregamento. \n 
+				\n Então, se você quiser deletar o addon: \n
+				\n 1) Ative esta opção; \n
+				\n 2) Salve, carregue, salve novamente; \n
+				\n 3) Saia do jogo e desative o addon.</text>
+	</string>
+
+
+</string_table>

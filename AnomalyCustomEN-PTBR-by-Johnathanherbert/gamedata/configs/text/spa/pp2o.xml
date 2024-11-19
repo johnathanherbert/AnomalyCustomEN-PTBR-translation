@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por Johnathanherbert -->
+<string_table>
+	
+	<string id="st_wpn_pp2000_oper">
+		<text>PP-2000 «Operador»</text>
+	</string>
+	<string id="st_wpn_pp2000_oper_descr">
+		<text>Usada por unidades de operações especiais e pela aplicação da lei, a arma de defesa pessoal PP-2000 é frequentemente considerada uma das melhores da sua classe. É compacta, leve e de design simples para maior confiabilidade e manutenção simplificada. Equipada com Barska Electrosight, mira laser e lanterna tática, poucas são as armas que protegem melhor as costas do que o «Operador».\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origem: 			%c[ui_gray_1]Rússia \n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: 			%c[ui_gray_1]KBP Instrument Design Bureau</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<!-- Texto de opção MCM -->
+	<string id="igi_task_text_hf_light_altar_title">
+		<text>Caça ao Artefato para Dispositivo Estranho</text>
+	</string>
+	
+	<!-- Conseguir Luz Lunar para o Altar de Luz -->
+	<string id="igi_task_text_yan_stalker_sakharov_hf_light_altar_title">
+		<text>Caça ao Artefato para Dispositivo Estranho</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_hf_light_altar_descr">
+		<text>O Professor Sakharov me pediu para encontrar uma Luz Lunar para pesquisa e desenvolvimento de um novo dispositivo.</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_hf_light_altar_job_descr">
+		<text>Entramos em posse de um dispositivo estranho que emite ondas psi. Felizmente, ele está atualmente desativado e nossa pesquisa atual sugere uma maneira de usar essa propriedade para algo melhor. Se você obtiver uma Luz Lunar para contrabalancear isso, podemos completar nossa pesquisa e dar a você os frutos do nosso trabalho em troca. Não há pagamento em dinheiro, mas um dispositivo de última geração deve ser mais que suficiente, não é?</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_hf_light_altar_finish">
+		<text>Enquanto você esteve fora, conseguimos continuar nossa pesquisa através de simulações. Com a Luz Lunar que você trouxe, poderemos completá-la. Aqui está sua recompensa, como prometido.</text>
+	</string>
+</string_table>

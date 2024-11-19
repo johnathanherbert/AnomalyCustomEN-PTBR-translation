@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mm_title_modded_exes">
+		<text>Executáveis Modificados</text>
+	</string>
+	<string id="ui_mm_menu_modded_exes">
+		<text>Executáveis Modificados</text>
+	</string>
+	<string id="ui_mm_lst_ON">
+		<text>ATIVADO</text>
+	</string>
+	<string id="ui_mm_lst_OFF">
+		<text>DESATIVADO</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_sds_enable">
+		<text>Ativar Miras com Shader (sds_enable)</text>
+	</string>
+	<string id="ui_mm_modded_exes_sds_speed_enable">
+		<text>Alterar Sensibilidade do Mouse ao Mirar com Shader (sds_speed_enable)</text>
+	</string>
+	<string id="ui_mm_modded_exes_sds_zoom_enable">
+		<text>Fator de Zoom Correto para Miras com Shader (sds_zoom_enable)</text>
+	</string>
+	<string id="ui_mm_modded_exes_new_zoom_enable">
+		<text>Transição Suave de Zoom para Miras com Shader (new_zoom_enable)</text>
+	</string>
+	<string id="ui_mm_modded_exes_zoom_step_count">
+		<text>Quantidade de Passos na Transição Suave de Zoom (zoom_step_count)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_blur_inner">
+		<text>Desfoque Dentro da Mira com Shader (scope_blur_inner)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_blur_outer">
+		<text>Desfoque Fora da Mira com Shader (scope_blur_outer)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_brightness">
+		<text>Brilho Externo da Mira com Shader (scope_brightness)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_ca">
+		<text>Aberração Cromática da Mira com Shader (scope_ca)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_fog_radius">
+		<text>Raio da Névoa da Mira com Shader (scope_fog_radius)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_fog_interp">
+		<text>Velocidade de Movimento da Névoa da Mira (scope_fog_interp)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_fog_sharp">
+		<text>Nitidez da Névoa da Mira (scope_fog_sharp)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_fog_swayAim">
+		<text>Balanço da Névoa com Movimento do Mouse (scope_fog_swayAim)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_fog_swayMove">
+		<text>Balanço da Névoa com Movimento do Personagem (scope_fog_swayMove)</text>
+	</string>
+	<string id="ui_mm_modded_exes_scope_fog_travel">
+		<text>Distância Máxima de Movimento da Névoa (scope_fog_travel)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_particle_update_mod">
+		<text>Taxa de atualização de partículas (1 - 30hz, 0.5 - 60hz, etc) (particle_update_mod)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_pda_map_zoom_in_to_mouse">
+		<text>Zoom do PDA Relativo ao Mouse - Aproximar (pda_map_zoom_in_to_mouse)</text>
+	</string>
+	<string id="ui_mm_modded_exes_pda_map_zoom_out_to_mouse">
+		<text>Zoom do PDA Relativo ao Mouse - Afastar (pda_map_zoom_out_to_mouse)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_crash_save">
+		<text>Ativar Salvamentos de Crash (crash_save)</text>
+	</string>
+	<string id="ui_mm_modded_exes_crash_save_count">
+		<text>Quantidade de Salvamentos de Crash (crash_save_count)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_snd_doppler_power">
+		<text>Intensidade do Efeito Doppler de Som (snd_doppler_power)</text>
+	</string>
+	<string id="ui_mm_modded_exes_snd_doppler_smoothing">
+		<text>Suavização do Efeito Doppler de Som (snd_doppler_smoothing)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_first_person_death">
+		<text>Câmera de Morte em Primeira Pessoa (first_person_death)</text>
+	</string>
+	<string id="ui_mm_modded_exes_first_person_death_position_smoothing">
+		<text>Suavização da Mudança de Posição da Câmera de Morte (first_person_death_position_smoothing)</text>
+	</string>
+	<string id="ui_mm_modded_exes_first_person_death_direction_smoothing">
+		<text>Suavização da Mudança de Direção da Câmera de Morte (first_person_death_direction_smoothing)</text>
+	</string>
+	<string id="ui_mm_modded_exes_pseudogiant_can_damage_objects_on_stomp">
+		<text>Pseudogigante Danifica Objetos ao Pisar (pseudogiant_can_damage_objects_on_stomp)</text>
+	</string>
+	<string id="ui_mm_modded_exes_use_english_text_for_missing_translations">
+		<text>Usar Texto em Inglês para Traduções Ausentes (use_english_text_for_missing_translations)</text>
+	</string>
+	<string id="ui_mm_modded_exes_mouse_wheel_change_weapon">
+		<text>Trocar armas com a roda do mouse (mouse_wheel_change_weapon)</text>
+	</string>
+	<string id="ui_mm_modded_exes_mouse_wheel_invert_zoom">
+		<text>Inverter roda do mouse (mouse_wheel_invert_zoom)</text>
+	</string>
+	<string id="ui_mm_modded_exes_string_table_error_msg">
+		<text>Registrar strings de tradução ausentes (string_table_error_msg)</text>
+	</string>
+	<string id="ui_mm_modded_exes_monster_stuck_fix">
+		<text>Correção de monstros presos (RUIM PARA FPS) (monster_stuck_fix)</text>
+	</string>
+	<string id="ui_mm_modded_exes_log_timestamps">
+		<text>Marcadores de tempo nos logs (log_timestamps)</text>
+	</string>
+	<string id="ui_mm_modded_exes_freelook_cam_limit">
+		<text>Limite de ângulo da câmera livre (freelook_cam_limit)</text>
+	</string>
+	<string id="ui_mm_modded_exes_telekinetic_objects_include_corpses">
+		<text>Poltergeists e Burers arremessam Cadáveres (telekinetic_objects_include_corpses)</text>
+	</string>
+	<string id="ui_mm_modded_exes_lua_gcstep">
+		<text>Passo de Coleta de Lixo Lua (lua_gcstep)</text>
+	</string>
+	<string id="ui_mm_modded_exes_mouse_buffer_size">
+		<text>Tamanho do Buffer de Entrada do Mouse (mouse_buffer_size)</text>
+	</string>
+	<string id="ui_mm_modded_exes_keyboard_buffer_size">
+		<text>Tamanho do Buffer de Entrada do Teclado (keyboard_buffer_size)</text>
+	</string>
+</string_table>

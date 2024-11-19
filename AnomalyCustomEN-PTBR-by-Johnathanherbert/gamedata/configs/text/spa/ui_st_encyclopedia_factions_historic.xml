@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+	<string id="encyclopedia_factions_historic">
+		<text>Facções (Histórico)</text>
+	</string>
+	
+	<string id="encyclopedia_factions_historic_final_day">
+		<text>Final Day</text>
+	</string>
+	<string id="encyclopedia_factions_historic_final_day_text">
+		<text>
+			%c[guide_blue]Final Day%c[ui_gray] era uma facção de cientistas, também conhecida como %c[guide_blue]Last Day%c[ui_gray], ou como "%c[guide_blue]stalkers selvagens%c[ui_gray]".\n
+			\n%c[guide_green]Informações%c[ui_gray]\n
+			\nEles acreditavam que a Zona acabaria por trazer o fim do mundo, expandindo-se e reivindicando cada vez mais terras a cada emissão passageira.\n
+			\nAlém de seu fascínio por caçar stalkers zumbificados para fins de pesquisa, e que seu agora esquecido líder foi assassinado por um stalker chamado Ghost, pouco mais se sabe sobre eles.\n
+			\nCom sua atividade ocorrendo logo após a emissão que eliminou grande parte da Clear Sky, é possível que eles fossem um pequeno grupo de fragmentos - sobreviventes que se tornaram insensíveis ao que tinham testemunhado.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_historic_isg">
+		<text>ISG</text>
+	</string>
+	<string id="encyclopedia_factions_historic_isg_text">
+		<text>
+			O %c[guide_blue]International Scientific Group%c[ui_gray] foi fundado para pesquisar a Zona.\n
+			\n%c[guide_green]Informações%c[ui_gray]\n
+			\nApós o surgimento repentino da Zona, as Nações Unidas criaram um novo órgão de pesquisa, com o único objetivo de pesquisar e explicar este estranho fenômeno novo.\n
+			\nUma área distante no norte ao redor de seis grandes geradores foi vista como a mais interessante cientificamente, e como tal foi escolhida como o local para sua expedição.\n
+			\nCom apenas alguns meses de duração, seu trabalho foi atormentado por problemas para os quais nunca poderiam ter se preparado.\n
+			\nOs pesquisadores seriam consumidos por anomalias não vistas, ou devastados pela horrível mutação da vida selvagem. Outros desapareceriam inexplicavelmente, apenas para retornar dias depois em um transe zumbificado, tentando matar seus colegas.\n
+			\nA expedição acabou sendo encerrada depois de realizar muito pouco, e resultando em uma contagem de corpos inaceitavelmente alta.\n
+			\nSem se deixar levar pelo fracasso, foi criado pelo governo ucraniano um instituto para continuar seu trabalho - agora comumente chamado de Ecologists.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_historic_renegade">
+		<text>Renegades</text>
+	</string>
+	<string id="encyclopedia_factions_historic_renegade_text">
+		<text>
+			Os %c[guide_blue]Renegades%c[ui_gray] eram alguns dos stalkers mais desprezíveis da Zona.\n
+			\n%c[guide_green]Informações%c[ui_gray]\n
+			\nSem limites ou moral, eles consistiam principalmente de stalkers que tinham cometido crimes tão terríveis que suas facções originais os tinham expulsado.\n
+			\nA única lei que respeitavam era a da força, pregando os fracos nos perímetros da Zona, muitas vezes aqueles que eram muito jovens e inexperientes para ter qualquer chance contra eles.\n
+			\nConduzidos aos pântanos por seus numerosos inimigos, foi apenas diante da Clear Sky que seu desejo de sobreviver forçou esses chacais a se unirem como uma facção própria.
+		</text>
+	</string>
+	
+</string_table>

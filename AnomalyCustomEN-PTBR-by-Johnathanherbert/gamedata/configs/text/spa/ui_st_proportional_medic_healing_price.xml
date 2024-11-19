@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    <string id="ui_mcm_menu_proportional_medic_healing_price">
+        <text>Preço Proporcional de Cura do Médico</text>
+    </string>
+	<string id="ui_mcm_proportional_medic_healing_price_injury_heal_price_multiplier">
+        <text>Multiplicador do preço de cura de ferimentos</text>
+    </string>
+	<string id="ui_mcm_proportional_medic_healing_price_radiation_heal_price_multiplier">
+        <text>Multiplicador do preço de cura de radiação</text>
+    </string>
+	<string id="ui_mcm_menu_proportional_medic_healing_price_bhs">
+        <text>Suporte ao Sistema de Saúde Corporal</text>
+    </string>
+	<string id="ui_mcm_proportional_medic_healing_price_bhs_heal_head_price_multiplier">
+        <text>Multiplicador do preço de cura da cabeça</text>
+    </string>
+	<string id="ui_mcm_proportional_medic_healing_price_bhs_heal_torso_price_multiplier">
+        <text>Multiplicador do preço de cura do torso</text>
+    </string>
+	<string id="ui_mcm_proportional_medic_healing_price_bhs_heal_arm_price_multiplier">
+        <text>Multiplicador do preço de cura do braço</text>
+    </string>
+	<string id="ui_mcm_proportional_medic_healing_price_bhs_heal_leg_price_multiplier">
+        <text>Multiplicador do preço de cura da perna</text>
+    </string>
+	<string id="ui_mcm_proportional_medic_healing_price_timedhp_bhs_heal_price_reduction_multiplier">
+        <text>Redução do preço de cura para pontos de vida temporários</text>
+    </string>
+	<string id="ui_mcm_proportional_medic_healing_price_timedhp_bhs_heal_price_reduction_multiplier_desc">
+        <text>Se uma parte do corpo tem pontos de vida temporários, eles contarão como pontos permanentes multiplicados por este número. Portanto, multiplicador maior - preço de cura mais barato.</text>
+    </string>
+	
+	<string id="st_pmhp_heal_actor_injured">
+        <text>Cure minhas feridas. %c[d_orange][$injured_price RU]</text>
+    </string>
+	<string id="st_pmhp_heal_actor_irradiated">
+        <text>Tire a radiação de mim. %c[d_orange][$irradiated_price RU]</text>
+    </string>
+	<string id="st_pmhp_heal_actor_injured_irradiated">
+        <text>Foda-se, preciso estar em perfeitas condições. %c[d_orange][$injured_irradiated_price RU]</text>
+    </string>
+	<string id="st_pmhp_heal_actor_decline">
+        <text>Sabe de uma coisa, doutor? Se vira!</text>
+    </string>
+	
+	<string id="st_pmhp_no_money_actor_1">
+        <text>Não tenho dinheiro suficiente...</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_2">
+        <text>O problema é que não tenho o dinheiro.</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_3">
+        <text>E se eu não tiver o dinheiro?</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_4">
+        <text>Não tenho dinheiro suficiente. Posso te pagar depois?</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_5">
+        <text>Podemos dar um jeito já que não tenho o dinheiro?</text>
+    </string>
+	
+	<string id="st_pmhp_no_money_npc_1">
+        <text>Parece que você ficará em dívida comigo então. Posso te curar agora de graça, mas você terá que me pagar o preço original mais 50% se quiser usar qualquer um dos meus serviços novamente. Isso dá $debt_price RU. Temos um acordo?</text>
+    </string>
+	<string id="st_pmhp_no_money_npc_2">
+        <text>Posso te curar agora de graça, mas você terá que me pagar o preço original mais metade dele se quiser usar qualquer um dos meus serviços novamente. Isso dá $debt_price RU. Fechado?</text>
+    </string>
+	<string id="st_pmhp_no_money_npc_3">
+        <text>Posso te curar agora, mas vou esperar que você me traga $debt_price RU da próxima vez que nos encontrarmos. Até você me pagar, não poderá usar meus serviços. Pegar ou largar.</text>
+    </string>
+	<string id="st_pmhp_no_money_npc_4">
+        <text>Se você não se importa em ficar em dívida, posso te curar agora e depois você me paga $debt_price RU. Até lá, mesmo que você esteja sangrando na minha frente, não vou dar a mínima pros seus problemas. O que me diz?</text>
+    </string>
+	<string id="st_pmhp_no_money_npc_5">
+        <text>Ok, dívida é uma opção. $debt_price RU na próxima vez que nos virmos. Caso contrário, não espere que eu me importe com qualquer um dos seus problemas. Tudo bem pra você?</text>
+    </string>
+	
+	<string id="st_pmhp_no_money_actor_response_accept_1">
+        <text>Fechado.</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_response_accept_2">
+        <text>Tudo bem, pode começar.</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_response_accept_3">
+        <text>Tanto faz, só me conserta logo, cara.</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_response_accept_4">
+        <text>Foda-se, tudo bem pra mim.</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_response_accept_5">
+        <text>Ok. Vou te pagar um dia, prometo.</text>
+    </string>
+	
+	<string id="st_pmhp_no_money_actor_response_decline_1">
+        <text>Não.</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_response_decline_2">
+        <text>É, não vai rolar.</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_response_decline_3">
+        <text>Não, que se foda.</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_response_decline_4">
+        <text>Se vira, doutor!</text>
+    </string>
+	<string id="st_pmhp_no_money_actor_response_decline_5">
+        <text>Vai se foder!</text>
+    </string>
+	
+	<string id="st_pmhp_npc_debt_decline_response_1">
+        <text>Ok, é sua escolha.</text>
+    </string>
+	<string id="st_pmhp_npc_debt_decline_response_2">
+        <text>Sua escolha.</text>
+    </string>
+	<string id="st_pmhp_npc_debt_decline_response_3">
+        <text>É sua escolha, só não volte chorando, ok?</text>
+    </string>
+	<string id="st_pmhp_npc_debt_decline_response_4">
+        <text>Como quiser.</text>
+    </string>
+	<string id="st_pmhp_npc_debt_decline_response_5">
+        <text>Só estou tentando ajudar.</text>
+    </string>
+	
+	<string id="st_pmhp_debt_reminder_1">
+        <text>Sim, e preciso que você pague sua dívida primeiro. Caso não se lembre, são $debt_price RU.</text>
+    </string>
+	<string id="st_pmhp_debt_reminder_2">
+        <text>Claro, trouxe os $debt_price RU que me deve?</text>
+    </string>
+	<string id="st_pmhp_debt_reminder_3">
+        <text>Preciso dos $debt_price RU que você me deve primeiro.</text>
+    </string>
+	<string id="st_pmhp_debt_reminder_4">
+        <text>Pague sua dívida de $debt_price RU primeiro.</text>
+    </string>
+	<string id="st_pmhp_debt_reminder_5">
+        <text>Não tenho amnésia, lembro que você tem uma dívida de $debt_price RU. Agora você também lembra. Pague logo.</text>
+    </string>
+	
+	<string id="st_pmhp_debt_pay_response_accept_1">
+        <text>Beleza, aqui está.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_response_accept_2">
+        <text>Não esqueci, aqui está.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_response_accept_3">
+        <text>Ah, certo, quase esqueci. Aqui está.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_response_accept_4">
+        <text>Tudo bem. Aqui está.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_response_accept_5">
+        <text>Eu sei, aqui está.</text>
+    </string>
+	
+	<string id="st_pmhp_debt_pay_response_decline_1">
+        <text>Ainda não posso te pagar...</text>
+    </string>
+	<string id="st_pmhp_debt_pay_response_decline_2">
+        <text>Talvez na próxima vez.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_response_decline_3">
+        <text>Desculpe, mas ainda não estou pronto para pagar.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_response_decline_4">
+        <text>Merda, não tenho o dinheiro...</text>
+    </string>
+	<string id="st_pmhp_debt_pay_response_decline_5">
+        <text>Droga, ainda não tenho.</text>
+    </string>
+	
+	<string id="st_pmhp_debt_pay_accept_npc_response_1">
+        <text>Obrigado.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_accept_npc_response_2">
+        <text>Bom, sua dívida está quitada.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_accept_npc_response_3">
+        <text>Certo, precisa de algo?</text>
+    </string>
+	<string id="st_pmhp_debt_pay_accept_npc_response_4">
+        <text>Legal, um homem que cumpre sua palavra.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_accept_npc_response_5">
+        <text>Considere sua dívida quitada.</text>
+    </string>
+	
+	<string id="st_pmhp_debt_pay_decline_npc_response_1">
+        <text>Então terminamos por aqui.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_decline_npc_response_2">
+        <text>Então não me incomode.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_decline_npc_response_3">
+        <text>Então vá embora.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_decline_npc_response_4">
+        <text>Não vou te ajudar com nada até você me pagar, ok?</text>
+    </string>
+	<string id="st_pmhp_debt_pay_decline_npc_response_5">
+        <text>Conversamos quando você me pagar.</text>
+    </string>
+	
+	<string id="st_pmhp_debt_pay_dialog_start_1">
+        <text>Estou pronto para pagar minha dívida.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_dialog_start_2">
+        <text>Vim pagar minha dívida.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_dialog_start_3">
+        <text>Posso pagar minha dívida?</text>
+    </string>
+	<string id="st_pmhp_debt_pay_dialog_start_4">
+        <text>Estou aqui pelo dinheiro que te devo.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_dialog_start_5">
+        <text>Vim quitar minha dívida com você.</text>
+    </string>
+	
+	<string id="st_pmhp_debt_pay_dialog_npc_1">
+        <text>Certo, só pra lembrar, são $debt_price RU.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_dialog_npc_2">
+        <text>Ok, caso tenha esquecido, são $debt_price RU.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_dialog_npc_3">
+        <text>Ótimo, são $debt_price RU.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_dialog_npc_4">
+        <text>Certo, você me deve $debt_price RU.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_dialog_npc_5">
+        <text>Bom ouvir isso, são $debt_price RU.</text>
+    </string>
+	
+	<string id="st_pmhp_debt_pay_actor_accept_1">
+        <text>Aqui está o dinheiro que te devo. %c[d_orange][$debt_price RU]</text>
+    </string>
+	<string id="st_pmhp_debt_pay_actor_accept_2">
+        <text>Aqui está. %c[d_orange][$debt_price RU]</text>
+    </string>
+	<string id="st_pmhp_debt_pay_actor_accept_3">
+        <text>Aqui está o dinheiro. %c[d_orange][$debt_price RU]</text>
+    </string>
+	<string id="st_pmhp_debt_pay_actor_accept_4">
+        <text>Sim, pegue. %c[d_orange][$debt_price RU]</text>
+    </string>
+	<string id="st_pmhp_debt_pay_actor_accept_5">
+        <text>Isso mesmo, aqui está. %c[d_orange][$debt_price RU]</text>
+    </string>
+	
+	<string id="st_pmhp_debt_pay_actor_decline_1">
+        <text>Merda, na verdade, ainda não tenho o dinheiro...</text>
+    </string>
+	<string id="st_pmhp_debt_pay_actor_decline_2">
+        <text>Deixa pra lá, ainda não tenho...</text>
+    </string>
+	<string id="st_pmhp_debt_pay_actor_decline_3">
+        <text>Ainda não estou pronto para te pagar.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_actor_decline_4">
+        <text>Ainda não tenho o dinheiro.</text>
+    </string>
+	<string id="st_pmhp_debt_pay_actor_decline_5">
+        <text>Merda, na verdade, ainda não tenho o dinheiro. Talvez na próxima...</text>
+    </string>
+	
+	<string id="st_pmhp_injury_none">
+        <text>Você não tem nenhum ferimento.</text>
+    </string>
+	<string id="st_pmhp_injury_light">
+        <text>Hmm, você parece ter alguns arranhões aqui e ali. Nada sério.</text>
+    </string>
+	<string id="st_pmhp_injury_medium">
+        <text>Ferimentos comuns, nada que vá te derrubar.</text>
+    </string>
+	<string id="st_pmhp_injury_heavy">
+        <text>Caramba, você passou por maus bocados.</text>
+    </string>
+	<string id="st_pmhp_injury_critical">
+        <text>Jesus, onde diabos você meteu o nariz? Mal consegue ficar em pé. É um milagre um mutante não estar mastigando seu cadáver agora.</text>
+    </string>
+	
+	<string id="st_pmhp_injury_price_1">
+        <text>Posso te consertar por $injured_price RU.</text>
+    </string>
+	<string id="st_pmhp_injury_price_2">
+        <text>Vai te custar $injured_price RU.</text>
+    </string>
+	<string id="st_pmhp_injury_price_3">
+        <text>Isso vai custar $injured_price RU.</text>
+    </string>
+	<string id="st_pmhp_injury_price_4">
+        <text>$injured_price RU.</text>
+    </string>
+	<string id="st_pmhp_injury_price_5">
+        <text>Vai ser $injured_price RU.</text>
+    </string>
+	
+	<string id="st_pmhp_radiation_none">
+        <text>Sem radiação em você.</text>
+    </string>
+	<string id="st_pmhp_radiation_light">
+        <text>Só um pouco de radiação em você.</text>
+    </string>
+	<string id="st_pmhp_radiation_medium">
+        <text>Alguma radiação.</text>
+    </string>
+	<string id="st_pmhp_radiation_heavy">
+        <text>Bastante radiação em você.</text>
+    </string>
+	<string id="st_pmhp_radiation_critical">
+        <text>Cara, que porra, você dormiu em cima da usina? Você está cheio de radiação da cabeça aos pés.</text>
+    </string>
+	
+	<string id="st_pmhp_radiation_price_1">
+        <text>Posso te consertar por $irradiated_price RU.</text>
+    </string>
+	<string id="st_pmhp_radiation_price_2">
+        <text>Vai te custar $irradiated_price RU.</text>
+    </string>
+	<string id="st_pmhp_radiation_price_3">
+        <text>Isso vai custar $irradiated_price RU.</text>
+    </string>
+	<string id="st_pmhp_radiation_price_4">
+        <text>$irradiated_price RU.</text>
+    </string>
+	<string id="st_pmhp_radiation_price_5">
+        <text>Vai ser $irradiated_price RU.</text>
+    </string>
+	
+</string_table>

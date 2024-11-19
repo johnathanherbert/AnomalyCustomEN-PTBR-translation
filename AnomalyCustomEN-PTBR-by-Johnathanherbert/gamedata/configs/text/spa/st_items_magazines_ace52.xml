@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_mag_galil_7.62x54_7h1">
+		<text>Carregador Galil 7.62x54 Modificado</text>
+	</string>
+	<string id="st_mag_galil_7.62x54_7h1_descr">
+		<text>
+		Carregador box modificado de 25 tiros para o fuzil de batalha israelense Galil.
+		</text>
+	</string>
+</string_table>

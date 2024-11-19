@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_skill_system_exp_multiplier_strength">
+        <text>Multiplicador de experiência de Força</text>
+    </string>
+    <string id="ui_mcm_skill_system_exp_multiplier_endurance">
+        <text>Multiplicador de experiência de Resistência</text>
+    </string>
+    <string id="ui_mcm_skill_system_exp_multiplier_scavenging">
+        <text>Multiplicador de experiência de Coleta</text>
+    </string>
+    <string id="ui_mcm_skill_system_exp_multiplier_survival">
+        <text>Multiplicador de experiência de Sobrevivência</text>
+    </string>
+    <string id="ui_mcm_skill_system_title">
+        <text>Configuração do Sistema de Habilidades</text>
+    </string>
+     <string id="ui_mcm_menu_skill_system">
+        <text>Habilidades</text>
+    </string>
+    <string id="ui_mcm_skill_system_debug">
+        <text>Depuração</text>
+    </string>
+	<string id="ui_mcm_skill_system_ui_keybind">
+        <text>Tecla do Menu de Habilidades</text>
+    </string>
+	<string id="ui_mcm_skill_system_ui_keybind_desc">
+        <text>Abre o menu onde você pode ver seu progresso nas habilidades.</text>
+    </string>
+	<string id="ui_mcm_skill_system_update_mcm">
+		<text>Atualize o MCM para ver este recurso. A tecla padrão é K.</text>
+	</string>
+</string_table>

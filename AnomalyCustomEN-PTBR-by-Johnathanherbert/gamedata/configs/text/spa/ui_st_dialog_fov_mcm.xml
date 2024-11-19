@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_demonized_dialog_fov_title">
+		<text>Interface Dinâmica de Diálogos</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_dialog_fov">
+		<text>Interface de Diálogo</text>
+	</string>
+
+	<string id="ui_mcm_demonized_dialog_fov_enabled">
+		<text>Ativar</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_zoom_fov_enabled">
+		<text>Ativar zoom</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_zoom_fov_modifier">
+		<text>Modificador de zoom</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_min_zoom_fov">
+		<text>Zoom mínimo</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_min_zoom_fov_desc">
+		<text>Com o zoom ativado, o Campo de Visão mudará para pelo menos este valor</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_distance_fov">
+		<text>Zoom baseado em distância</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_distance_fov_desc">
+		<text>Isso altera o Campo de Visão para que o personagem mantenha o mesmo tamanho independente da distância do jogador</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_fov_smoothing">
+		<text>Suavidade do zoom</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_track_npc">
+		<text>Foco da câmera no NPC</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_turn_modifier">
+		<text>Fator de rotação da câmera</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_turn_modifier_desc">
+		<text>Fator de rotação da câmera para ajustar a posição do personagem, 0 significa sem rotação, valores negativos rotacionarão a câmera na direção oposta</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_smoothing">
+		<text>Suavidade do foco da câmera</text>
+	</string>
+	
+</string_table>

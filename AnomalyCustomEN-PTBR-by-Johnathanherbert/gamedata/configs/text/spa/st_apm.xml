@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <!-- MCM -->
+    <string id="ui_mcm_menu_ui_popup_messages">
+        <text>Mensagens Pop-up</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_title">
+        <text>Mensagens Pop-up</text>
+    </string>
+
+    <string id="ui_mcm_menu_apm_main">
+        <text>Principal</text>
+    </string>
+
+    <string id="ui_mcm_ui_popup_messages_apm_main_scaling">
+        <text>Escala</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_window_amount">
+        <text>Quantidade de Mensagens</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_display_time">
+        <text>Tempo de Exibição</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_animation_time">
+        <text>Tempo de Animação</text>
+    </string>
+
+    <string id="ui_mcm_ui_popup_messages_apm_main_item_shadow">
+        <text>Ativar Sombra do Ícone do Item</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_shadow_alpha">
+        <text>Opacidade da Sombra</text>
+    </string>
+
+    <string id="ui_mcm_ui_popup_messages_apm_main_text_background">
+        <text>Estilo do Fundo do Texto</text>
+    </string>
+    <string id="ui_mcm_lst_apm_background">
+        <text>Padrão</text>
+    </string>
+    <string id="ui_mcm_lst_apm_background2">
+        <text>Lateral</text>
+    </string>
+    <string id="ui_mcm_lst_apm_background3">
+        <text>Fundo APM 3</text>
+    </string>
+    <string id="ui_mcm_lst_apm_background4">
+        <text>Linhas de Varredura</text>
+    </string>
+
+    <string id="ui_mcm_ui_popup_messages_apm_main_animate_style">
+        <text>Estilo de Animação Mostrar/Ocultar Mensagem</text>
+    </string>
+    <string id="ui_mcm_lst_CircularEaseOut">
+        <text>CircularEaseOut (Sem salto)</text>
+    </string>
+    <string id="ui_mcm_lst_BackEaseOut">
+        <text>BackEaseOut (Salto grande)</text>
+    </string>
+    <string id="ui_mcm_lst_BackEaseOutQuadratic">
+        <text>BackEaseOutQuadratic (Salto pequeno)</text>
+    </string>
+
+    <string id="ui_mcm_ui_popup_messages_apm_main_color_r">
+        <text>Cor Vermelha do Texto</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_color_g">
+        <text>Cor Verde do Texto</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_color_b">
+        <text>Cor Azul do Texto</text>
+    </string>
+
+    <string id="ui_mcm_ui_popup_messages_apm_main_color_r_bg">
+        <text>Cor Vermelha do Fundo</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_color_g_bg">
+        <text>Cor Verde do Fundo</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_color_b_bg">
+        <text>Cor Azul do Fundo</text>
+    </string>
+
+    <string id="ui_mcm_ui_popup_messages_apm_main_position">
+        <text>Ajustar Posição</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_pos_x">
+        <text>Deslocamento X</text>
+    </string>
+    <string id="ui_mcm_ui_popup_messages_apm_main_pos_y">
+        <text>Deslocamento Y</text>
+    </string>
+</string_table>

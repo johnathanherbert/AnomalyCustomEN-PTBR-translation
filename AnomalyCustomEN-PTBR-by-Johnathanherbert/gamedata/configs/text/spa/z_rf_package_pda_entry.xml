@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="encyclopedia__notes_rfpackages">
+		<text>Pacotes de Radiofrequência</text>
+	</string>
+	
+	<string id="encyclopedia__notes_rfpackages_text">
+		<text>%c[pda_white]As facções guardam pacotes para você encontrar com o receptor RF.			%c[ui_gray_1]Esses pacotes podem fornecer um conjunto de medicamentos, itens de reparo ou munições, bem como possíveis itens extras que podem incluir mais medicamentos, objetos de valor, explosivos, itens de atualização ou artefatos "lixo".\n \n%c[pda_white]Os pacotes operam em um sistema de filas, onde os pacotes são enfileirados a cada 250 goodwill que você ganha com uma facção.			%c[ui_gray_1]O local em que o pacote será colocado na fila será uma das zonas externas diretamente conectada à zona em que você estava quando atingiu o limite de goodwill de 250 para ativá-lo.\n \n%c[pda_white]Você pode ter um pacote ativo por vez.			%c[ui_gray_1]Você pode escolher pegar o pacote ou cancelá-lo clicando com o botão direito no PDA e selecionando "Cancelar pacote RF" no menu. Cancelar um pacote o remove da fila, portanto, se for o único pacote na fila, você terá que atingir outro limite de 250 goodwill antes de receber outro.\n \n%c[pda_white]Você também pode alterar a frequência com que recebe lembretes de pacotes, se os pacotes são descompactados automaticamente quando retirados e se você recebe itens de atualização simples ou modificados no menu de configurações do mod, em "Opções de Pacotes de Receptor", ou editando os valores padrão no script TB_RF_Receiver_Packages principal se você não tiver o menu de configuração de mods.			%c[ui_gray_1]</text>
+	</string>
+</string_table>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+<string id="st_wpn_mjolnir">
+		<text>MK 18 "Mjolnir"</text>
+	</string>
+	<string id="st_wpn_mjolnir_descr">
+		<text>O rifle MK 18 Mjolnir é uma arma formidável conhecida por seu desempenho excepcional e versatilidade. Projetado com precisão e eficácia em combate em mente, este rifle combina tecnologia de ponta com durabilidade robusta. O MK 18 Mjolnir possui um design compacto e ergonômico, permitindo facilidade de manobra em vários ambientes. Sua construção robusta e materiais avançados garantem confiabilidade mesmo nas condições mais adversas. Equipado com um cano potente e preciso, este rifle oferece poder de fogo impressionante e alcance efetivo. Possui acessórios personalizáveis, permitindo que o usuário adapte a arma às suas necessidades e preferências específicas. O rifle MK 18 Mjolnir é uma escolha favorita entre profissionais táticos e entusiastas que buscam uma arma de fogo confiável e de alto desempenho para uma variedade de perfis de missão. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Todas para picatinny/weaver (exceto Miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa). \n\n</text>
+	</string>	
+</string_table>

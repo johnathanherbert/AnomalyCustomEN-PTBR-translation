@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_campfire_off">
+		<text>Você não pode salvar em uma fogueira apagada</text>
+	</string>
+
+	<string id="st_campfire_danger">
+		<text>Inimigos próximos estão deixando você inquieto. Você não pode descansar com eles tão perto.</text>
+	</string>
+
+	<string id="st_campfire_surge">
+		<text>Seria perigoso descansar durante uma emissão.</text>
+	</string>
+
+	<string id="st_campfire_psi_storm">
+		<text>Seria perigoso descansar durante uma tempestade psi.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_interact">
+		<text>Interagir ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_place_popup">
+		<text>Colocar objeto ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_far_popup">
+		<text>Muito longe</text>
+	</string>
+	<string id="st_collision_warning">
+		<text>O objeto não pode ser colocado, está colidindo com algo</text>
+	</string>
+	<string id="st_rotation_label">
+		<text>Compensação de rotação</text>
+	</string>
+	<string id="st_vertical_label">
+		<text>Compensação vertical</text>
+	</string>
+	<string id="st_enable_collision">
+		<text>Colisão ativada</text>
+	</string>
+	<string id="st_disable_collision">
+		<text>Colisão desativada</text>
+	</string>
+	<string id="st_pickup">
+		<text>Pegar</text>
+	</string>
+    <string id="st_close">
+		<text>Fechar</text>
+	</string>
+    <string id="st_turn_on">
+		<text>Ligar luz</text>
+	</string>
+    <string id="st_turn_off">
+		<text>Desligar luz</text>
+	</string>
+    <string id="st_take_fuel">
+		<text>Pegar combustível</text>
+	</string>
+    <string id="st_add_fuel">
+		<text>Adicionar combustível</text>
+	</string>
+	<string id="st_access_stash">
+		<text>Acessar esconderijo</text>
+	</string>
+	<string id="st_use_workshop">
+		<text>Usar oficina</text>
+	</string>
+	<string id="st_fuel">
+		<text>Combustível</text>
+	</string>
+	<string id="st_duration">
+		<text>Duração</text>
+	</string>
+	<string id="st_autoplay">
+		<text>Reprodução automática</text>
+	</string>
+	<string id="st_configure">
+		<text>Configurar</text>
+	</string>
+	<string id="st_tempo">
+		<text>Tempo</text>
+	</string>
+	<string id="st_transpose">
+		<text>Transposição</text>
+	</string>
+	<string id="st_volume">
+		<text>Volume</text>
+	</string>
+	<string id="st_instrument">
+		<text>Instrumento</text>
+	</string>
+	<string id="st_filter_by_tag">
+		<text>Filtrar por categoria</text>
+	</string>
+</string_table>

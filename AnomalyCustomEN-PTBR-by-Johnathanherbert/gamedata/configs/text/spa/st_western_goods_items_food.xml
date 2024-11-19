@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor Original : NLTP_ASHES                                                                                 -->
+<!--    Editado : N/A                                                                                                 -->
+<!--    Data : 17/03/2023                                                                                             -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)             -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para itens alimentícios do Western Goods.                                                 -->
+<!--                                                                                                                 -->
+<!--    Traduzido por johnathanherbert                                                                             -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <string id="st_wg_hamborgir">
+        <text>Hambúrguer Charal (Queijo)</text>
+    </string>
+
+    <string id="st_wg_hamborgir_s">
+        <text>Hambúrguer Charal</text>
+    </string>
+
+    <string id="st_wg_hamborgir_descr">
+        <text>
+            Charal é uma marca popular na França, especializada em preparações congeladas de carne bovina moída. Alguns comerciantes pela Zona conseguem importar alguns de seus produtos de tempos em tempos. Esta caixa precisa ser preparada por 1 min e 50 segundos no micro-ondas, embora pareça que esta foi preparada recentemente, então mesmo fria, está pronta para comer.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_snickers">
+        <text>Barra de chocolate Snickers</text>
+    </string>
+
+    <string id="st_wg_snickers_s">
+        <text>Snickers</text>
+    </string>
+
+    <string id="st_wg_snickers_descr">
+        <text>
+            Snickers é uma barra de chocolate consistindo de nougat coberto com caramelo e amendoins envolvidos em chocolate ao leite. A maioria dos stalkers na Zona não pode comprá-las, pois são importadas de países estrangeiros. Dito isso, aqueles que podem pagar frequentemente as usam como uma forma rápida de se alimentar em dias ocupados.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_twix">
+        <text>Barra de chocolate Twix</text>
+    </string>
+
+    <string id="st_wg_twix_s">
+        <text>Twix</text>
+    </string>
+
+    <string id="st_wg_twix_descr">
+        <text>
+            Twix é uma barra de chocolate com biscoito amanteigado feita pela Mars, Inc., consistindo de um biscoito coberto com outros complementos e coberturas (mais frequentemente caramelo e chocolate ao leite). Twix são embalados com duas barras em um invólucro.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_mars">
+        <text>Barra de chocolate Mars</text>
+    </string>
+
+    <string id="st_wg_mars_s">
+        <text>Mars</text>
+    </string>
+
+    <string id="st_wg_mars_descr">
+        <text>
+            Mars, comumente conhecido como barra Mars, é o nome de duas variedades de barra de chocolate produzidas pela Mars, Incorporated. A barra consiste em caramelo e nougat cobertos com chocolate ao leite.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_milkyway">
+        <text>Barra de chocolate MilkyWay</text>
+    </string>
+
+    <string id="st_wg_milkyway_s">
+        <text>MilkyWay</text>
+    </string>
+
+    <string id="st_wg_milkyway_descr">
+        <text>
+            MilkyWay é uma marca de barra de confeitaria coberta de chocolate fabricada e comercializada pela Mars, Incorporated. Esta barra é um dos dois tipos vendidos pela marca. Disponível fora dos EUA, esta barra de alguma forma chegou à Zona.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_bounty">
+        <text>Barra de chocolate Bounty</text>
+    </string>
+
+    <string id="st_wg_bounty_s">
+        <text>Bounty</text>
+    </string>
+
+    <string id="st_wg_bounty_descr">
+        <text>
+            Bounty é uma barra de chocolate recheada com coco, fabricada pela Mars, Incorporated. A barra Bounty oferece um forte sabor de coco proporcionado pelo recheio macio e fofo do doce. Há uma camada de chocolate doce por cima que dá à barra sua forma.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_kinder_maxi">
+        <text>Barra de chocolate Kinder Maxi</text>
+    </string>
+
+    <string id="st_wg_kinder_maxi_s">
+        <text>Kinder Maxi</text>
+    </string>
+
+    <string id="st_wg_kinder_maxi_descr">
+        <text>
+            Kinder Maxi é uma barra de chocolate com manteiga de cacau da marca Kinder, do grupo Ferrero. A barra contém principalmente chocolate ao leite, com um recheio macio de leite.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_kinder_bueno">
+        <text>Barra de chocolate Kinder Bueno</text>
+    </string>
+
+    <string id="st_wg_kinder_bueno_s">
+        <text>Kinder Bueno</text>
+    </string>
+
+    <string id="st_wg_kinder_bueno_descr">
+        <text>
+            Kinder Buenos são barras crocantes de wafer cobertas de chocolate com um rico recheio de creme de avelã. Vêm embrulhadas em dois invólucros plásticos selados individualmente, então você pode comer um e guardar o outro para depois.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_kitkat">
+        <text>Chocolate Kit-Kat</text>
+    </string>
+
+    <string id="st_wg_kitkat_s">
+        <text>Chocolate Kit-Kat</text>
+    </string>
+
+    <string id="st_wg_kitkat_descr">
+        <text>
+            Kit Kats são um tipo de chocolate feito com três camadas de wafer. Os wafers são cobertos com uma camada de chocolate por dentro e por fora. Cada pedaço inteiro é considerado um "finger". Cada pacote de Kit Kat geralmente tem quatro fingers conectados.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_milka">
+        <text>Chocolate Milka Leite Alpino</text>
+    </string>
+
+    <string id="st_wg_milka_s">
+        <text>Chocolate Milka</text>
+    </string>
+
+    <string id="st_wg_milka_descr">
+        <text>
+            Barra de chocolate feita pela Milka. É muito popular na Europa ocidental, onde as pessoas apreciam seu chocolate de sabor suave. Contém 30% de cacau.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_mnms">
+        <text>Confeitos de chocolate M&amp;Ms</text>
+    </string>
+
+    <string id="st_wg_mnms_s">
+        <text>M&amp;Ms</text>
+    </string>
+
+    <string id="st_wg_mnms_descr">
+        <text>
+            M&amp;M's são chocolates coloridos em forma de botão, consistindo em uma casca de açúcar envolvendo um recheio que varia dependendo da variedade do M&amp;M's.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] alta qualidade\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_mentos">
+        <text>Balas Mentos Frutas</text>
+    </string>
+
+    <string id="st_wg_mentos_s">
+        <text>Mentos Frutas</text>
+    </string>
+
+    <string id="st_wg_mentos_descr">
+        <text>
+            Mentos Frutas são pequenas balas mastigáveis em diferentes sabores. Mentos Frutas tem uma mistura de morango, laranja e limão. É um item indispensável para qualquer lanche da tarde ou um petisco a qualquer hora do dia!\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_lays">
+        <text>Batatas Lay's (Natural)</text>
+    </string>
+
+    <string id="st_wg_lays_s">
+        <text>Batatas Lay's</text>
+    </string>
+
+    <string id="st_wg_lays_descr">
+        <text>
+            Lays são batatas fritas. Contêm muito sal e conservantes, então tendem a fazer as pessoas sentirem sede.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_doritos">
+        <text>Doritos (Nachos com Queijo)</text>
+    </string>
+
+    <string id="st_wg_doritos_s">
+        <text>Doritos</text>
+    </string>
+
+    <string id="st_wg_doritos_descr">
+        <text>
+            Doritos são salgadinhos fritos. Contêm muito sal e conservantes, então tendem a fazer as pessoas sentirem sede.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_pringles">
+        <text>Pringles mini lata (Natural)</text>
+    </string>
+
+    <string id="st_wg_pringles_s">
+        <text>Pringles mini</text>
+    </string>
+
+    <string id="st_wg_pringles_descr">
+        <text>
+            Pringles são batatas fritas. Ao contrário da crença popular, elas não são feitas de batata, mas sim de uma mistura de milho, farinha de arroz, trigo, milho e raspas de batata. Esta mistura é posteriormente moída e colocada em uma folha, curvada e então frita por alguns segundos. As batatas fritas são então cobertas com pó de sabor e sal. Contêm muito sal e conservantes, então tendem a fazer as pessoas sentirem sede.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_oreo">
+        <text>Oreo Original</text>
+    </string>
+
+    <string id="st_wg_oreo_s">
+        <text>Oreo</text>
+    </string>
+
+    <string id="st_wg_oreo_descr">
+        <text>
+            Oreo é uma marca de biscoito recheado que consiste em duas bolachas com um recheio cremoso doce. As crianças geralmente fazem questão de respeitar a maneira correta de comê-los: Separar as duas bolachas, comer o recheio lambendo-o, juntar as duas bolachas novamente, mergulhar no leite e comer!\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_ferrero_rocher">
+        <text>Caixa de Ferrero Rocher</text>
+    </string>
+
+    <string id="st_wg_ferrero_rocher_s">
+        <text>Ferrero Rocher</text>
+    </string>
+
+    <string id="st_wg_ferrero_rocher_descr">
+        <text>
+            Ferrero Rocher é um chocolate que consiste em uma avelã crocante inteira no centro, um delicioso recheio cremoso de avelã, uma casca crocante de wafer coberta com chocolate e pedaços levemente torrados. Vêm em um prestigioso papel dourado. São bastante populares na Europa Ocidental, onde geralmente são vendidos durante celebrações.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_mon_cheri">
+        <text>Caixa de Mon Cheri</text>
+    </string>
+
+    <string id="st_wg_mon_cheri_s">
+        <text>Mon Cheri</text>
+    </string>
+
+    <string id="st_wg_mon_cheri_descr">
+        <text>
+            O Mon Cheri é um chocolate individualmente embalado que consiste em um "coração" de cereja e licor, contido em uma cobertura de chocolate amargo. O licor é bastante concentrado, então é recomendado não comer muitos de uma vez. Vêm em caixas de 30 unidades.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_toblerone">
+        <text>Toblerone</text>
+    </string>
+
+    <string id="st_wg_toblerone_s">
+        <text>Toblerone</text>
+    </string>
+
+    <string id="st_wg_toblerone_descr">
+        <text>
+            Toblerone é uma barra de chocolate suíça feita com mel e nougat de amêndoa. Toblerone é facilmente reconhecível graças à sua embalagem única. As pessoas na Zona frequentemente fazem piadas sobre como "se você começar a comer, a Zona vai te forçar a terminar de uma vez!". Mas são apenas piadas, um stalker sábio não comeria tudo de uma vez, para não ter um ataque no fígado.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_french_mre">
+        <text>Ration de Combat Individuelle Rechauffable</text>
+    </string>
+
+    <string id="st_wg_french_mre_s">
+        <text>RCIR MRE</text>
+    </string>
+
+    <string id="st_wg_french_mre_descr">
+        <text>
+            Ration de Combat Individuelle Rechauffable (traduzido para Ração de Combate Individual Reaquecível) é a MRE usada no exército francês. Ao longo dos anos, houve várias iterações dela. Uma em 1995, outra em 1999, e foi revisada uma última vez em 2004. Felizmente, esta é a última iteração, então o conteúdo tem pelo menos 14 anos...\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] item militar\n
+            %c[d_blue] • %c[ui_gray_2] importado\n
+            %c[d_cyan] • %c[ui_gray_2] valioso\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+    <string id="st_wg_sandwich">
+        <text>Sanduíche</text>
+    </string>
+
+    <string id="st_wg_sandwich_s">
+        <text>Sanduíche</text>
+    </string>
+
+    <string id="st_wg_sandwich_descr">
+        <text>
+            Um sanduíche feito à mão. Bastante simples: pão, manteiga, queijo e fatias de carne. Ao passar um contador Geiger nele, não parece detectar radiação, então os ingredientes provavelmente foram importados. Não vai durar muito, mas é sempre melhor que carne de mutante.\n
+            \n
+            %c[ui_gray_1]PROPRIEDADES:\n
+            %c[d_blue] • %c[ui_gray_2] alimento\n
+            %c[d_blue] • %c[ui_gray_2] feito à mão\n
+            %c[d_green] • %c[ui_gray_2] fonte de nutrição limpa\n
+        </text>
+    </string>
+
+</string_table>

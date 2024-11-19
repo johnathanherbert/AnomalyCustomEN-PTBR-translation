@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+<string id="st_wpn_honeybadger_j">
+		<text>ACC Honeybadger</text>
+	</string>
+	<string id="st_wpn_honeybadger_j_descr">
+		<text>O Honeybadger é um rifle de assalto compacto e versátil conhecido por sua excepcional adaptabilidade e natureza furtiva. Possui um design elegante com coronha retrátil e supressor integrado, tornando-o uma arma formidável para operações secretas. O Honeybadger utiliza um sistema avançado de pistão a gás, oferecendo desempenho confiável e recuo reduzido. Seu sistema de trilhos integrado permite a fixação de vários acessórios, aumentando sua eficácia em diferentes situações de combate. Com sua combinação de compactação, precisão e operação silenciosa, o Honeybadger é uma escolha favorita entre operadores de elite. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] - %c[ui_gray_2] Miras: Todas as miras de colimador para sistema Picatinny/Weaver. \n
+		%c[d_purple] - %c[ui_gray_2] Silenciador: Supressor: ADVANCED ARMAMENT (AAC) M4-2000 (Acoplado integralmente). \n</text>
+	</string>	
+</string_table>

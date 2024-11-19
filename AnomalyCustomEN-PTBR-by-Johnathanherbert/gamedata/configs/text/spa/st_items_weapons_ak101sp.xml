@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_wpn_ak101_sp">
+		<text>AK-101 Personalizado</text>
+	</string>
+	<string id="st_wpn_ak101_sp_descr">
+		<text>O AK-101 Personalizado foi modificado por técnicos da Zona para aprimorar as características do AK-101 original. O trilho da guarda frontal, a cobertura do ferrolho e a coronha foram todos atualizados para melhor precisão e modularidade em relação aos acessórios.
+		O dispositivo de boca também foi substituído por um mais adequado para munições 5.56 e, como resultado, também pode usar um silenciador SOCOM. Como o cano é envolto pela guarda frontal, o lançador de granadas "Guard" de 30mm deve ser usado em vez do lançador de granadas GP-25 padrão.\n \n </text>
+	</string>
+
+	<string id="st_mag_ak101_ext">
+		<text>Carregador Estendido AK-101 5.56x45</text>
+	</string>
+	<string id="st_mag_ak101_ext_descr">
+		<text>%c[0,255,255,255]PROPRIEDADES:</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_placeable_workshop">
+		<text>Oficina Portátil</text>
+	</string>
+	<string id="st_placeable_workshop_descr">
+		<text>Uma combinação de uma mesa dobrável, ferramentas de oficina e um esconderijo integrado. Isso permite que os stalkers sejam mais autossuficientes em áreas menos amigáveis, embora seu peso seja um impedimento para fabricação durante viagens.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] valioso\n
+		%c[d_blue] • %c[ui_gray_2] alta capacidade (integrado)\n
+		%c[d_orange] • %c[ui_gray_2] utilizável para reparar equipamentos\n</text>
+	</string>
+</string_table>

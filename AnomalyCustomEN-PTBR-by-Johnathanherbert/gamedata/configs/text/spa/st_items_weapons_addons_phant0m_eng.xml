@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Acessórios de Armas
+-->
+
+<string_table>
+
+	<string id="st_addon_scope_march_f_shorty">
+		<text>Luneta March F Shorty 1x-8x24mm LPVO</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2]M4 Tático, Carabina Howa Type 20, Plataformas AK da Rifle Dynamics' ISG\n \n%c[ui_gray_1]A March-F 1x-8x24mm Shorty é a luneta mais leve e curta do mundo com razão de ampliação 8x. Com apenas 212mm de comprimento (8,4 polegadas) e peso de 460g (16,23oz), mantém o mesmo desempenho do modelo D8V24FIML. Fácil de usar para atiradores de curta e média distância, possui retícula iluminada, torres táticas e foco fixo em 100 jardas.\n \n
+		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]1x-8x\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]extremamente boa\n
+		%c[d_purple] • %c[ui_gray_2] Padrão da retícula: %c[ui_gray_1]March F Shorty 1x-8x24™</text>
+	</string>	
+
+	<string id="st_addon_scope_march_f_shorty_alt">
+		<text>March F Shorty 1-8 x 24mm LPVO com Red Dot Leupold Deltapoint Inclinado</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_alt_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2]M4 Tático, Carabina Howa Type 20, Plataformas AK da Rifle Dynamics' ISG\n \n%c[ui_gray_1]A March-F 1x-8x24mm Shorty é a luneta mais leve e curta do mundo com razão de ampliação 8x. Com apenas 212mm de comprimento (8,4 polegadas) e peso de 460g (16,23oz), mantém o mesmo desempenho do modelo D8V24FIML. Fácil de usar para atiradores de curta e média distância, possui retícula iluminada, torres táticas e foco fixo em 100 jardas. Para redundância adicional em curta distância, este kit inclui um Red Dot Leupold Deltapoint inclinado em 45 graus.\n \n
+		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]1x-8x (march f shorty), nenhuma (red dot deltapoint inclinado)\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]extremamente boa\n
+		%c[d_purple] • %c[ui_gray_2] Padrão da retícula: %c[ui_gray_1]March F Shorty + Red Dot Deltapoint</text>
+	</string>
+	
+	<string id="st_addon_scope_lco1">
+		<text>Mira LCO Leupold para Carabina</text>
+	</string>
+	<string id="st_addon_scope_lco1_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2]M4 Tático, Carabina Howa Type 20, Plataformas AK da Rifle Dynamics' ISG\n \n%c[ui_gray_1]O LCO, ou "Leupold Carbine Optic" é uma robusta Mira de Ponto Vermelho (RDS) com um ponto de 1 MOA. O LCO é extremamente durável graças ao seu corpo em alumínio aeronáutico, sendo também à prova d'água até 20 metros de profundidade. O LCO possui um seletor intuitivo que permite alternar rapidamente entre 16 configurações de iluminação para melhor se adequar às condições de luz ambiente.\n \n
+		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]nenhuma (colimador)\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]muito boa\n
+		%c[d_purple] • %c[ui_gray_2] Padrão da retícula: %c[ui_gray_1]Círculo e Ponto - Vermelho</text>
+	</string>
+	
+	<string id="st_addon_scope_e0t2_mag">
+		<text>Eotech XPS3 com Magnificador Eotech G33 4x</text>
+	</string>
+	<string id="st_addon_scope_e0t2_mag_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2]M4 Tático, Carabina Howa Type 20, Plataformas AK da Rifle Dynamics' ISG\n \n%c[ui_gray_1]O Magnificador Eotech G33 é o modelo escolhido pelo USSOCOM, sendo compacto e leve. O suporte permite transição rápida de 4x para 1x para engajamentos de curta e média distância. Usado em conjunto com o Eotech XPS3, não há cenário para o qual esta configuração não tenha resposta.\n \n
+		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]4x\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]muito boa\n
+		%c[d_purple] • %c[ui_gray_2] Padrão da retícula: %c[ui_gray_1]Retícula Eotech XPS3 - Verde</text>
+	</string>
+	
+	<string id="st_addon_scope_razor_mag">
+		<text>Razor AMG UH-1 com Magnificador Eotech G33 4x</text>
+	</string>
+	<string id="st_addon_scope_razor_mag_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2]M4 Tático, Carabina Howa Type 20, Plataformas AK da Rifle Dynamics' ISG\n \n%c[ui_gray_1]O Magnificador Eotech G33 é o modelo escolhido pelo USSOCOM, sendo compacto e leve. O suporte permite transição rápida de 4x para 1x para engajamentos de curta e média distância. Usado em conjunto com o Razor AMG UH-1 Gen. II, não há cenário para o qual esta configuração não tenha resposta.\n \n
+		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]4x\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]muito boa\n
+		%c[d_purple] • %c[ui_gray_2] Padrão da retícula: %c[ui_gray_1]Retícula Razor AMG UH-1 - Vermelha</text>
+	</string>
+	
+	<string id="st_addon_scope_razor">
+		<text>Razor AMG UH-1 Gen. II</text>
+	</string>
+	<string id="st_addon_scope_razor_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2]M4 Tático, Carabina Howa Type 20, Plataformas AK da Rifle Dynamics' ISG\n \n%c[ui_gray_1]Um sistema holográfico revolucionário que oferece a impressionante imagem e visão sem distorção de uma mira holográfica, com a eficiência energética e durabilidade de um red dot tradicional. Com uma imagem extremamente limpa e a incrivelmente rápida retícula EBR-CQB, o AMG UH-1 Gen. II é um dos acessórios para armas mais procurados na Zona. Devido ao Cordão de Isolamento da Zona e às várias leis de importação e exportação das nações, estas miras holográficas ocidentais são extremamente raras e surpreendentemente caras.\n \n
+		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]nenhuma (colimador)\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]muito boa\n
+		%c[d_purple] • %c[ui_gray_2] Padrão da retícula: %c[ui_gray_1]Retícula Razor AMG UH-1 - Vermelha</text>
+	</string>
+	
+</string_table>

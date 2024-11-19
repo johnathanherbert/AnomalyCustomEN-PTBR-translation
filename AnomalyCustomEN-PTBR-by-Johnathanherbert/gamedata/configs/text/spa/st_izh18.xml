@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_izh18">
+		<text>Baikal IZH 18</text>
+	</string>
+	<string id="st_wpn_izh18_descr">
+		<text>
+		A espingarda IZH-18 é uma arma de fogo confiável e versátil que ganhou popularidade por sua simplicidade e eficácia. Esta espingarda de cano único e ação basculante é conhecida por sua construção robusta e facilidade de uso, tornando-a uma escolha popular para caça, tiro esportivo e defesa pessoal. No entanto, esta arma é abandonada por armas mais práticas para uso na Zona. \n \n
+		</text>
+	</string>
+
+		<string id="st_wpn_mp18">
+		<text>Baikal MP18</text>
+	</string>
+	<string id="st_wpn_mp18_descr">
+		<text>
+		O Baikal MP18 é um rifle soviético de tiro único com ação basculante em calibre 7.62x54r. É extremamente simples em manutenção e funcionamento devido à sua natureza de tiro único. No entanto, esta arma é abandonada por armas mais práticas para uso na Zona.\n \n
+		</text>
+	</string>
+</string_table>

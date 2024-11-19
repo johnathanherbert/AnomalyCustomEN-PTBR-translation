@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+    <string id="st_dv_suits">
+        <text>Escuta, os rapazes estão planejando uma emboscada e precisamos conseguir alguns disfarces. Se você nos ajudar, vamos dividir com você o que conseguimos no nosso último roubo.</text>
+    </string>
+    <string id="st_dv_suits_done">
+        <text>Ótimo! Aqui está, como prometido. Hora de colocar em prática nossas antigas habilidades de costura...</text>
+    </string>
+    
+    <string id="st_dv_drugs">
+        <text>Derrubamos uma caixa médica há pouco tempo de uns cabeças-de-ovo. Dê aos rapazes algo pra animar eles pro próximo ataque e vamos te dar parte dos produtos.</text>
+    </string>
+    <string id="st_dv_drugs_done">
+        <text>Ótimo, valeu.</text>
+    </string>
+
+    <string id="st_dv_silencer">
+        <text>Pode me trazer uns silenciadores, irmão? Os caras querem atacar uns acampamentos sem chamar muita atenção.</text>
+    </string>
+
+</string_table>

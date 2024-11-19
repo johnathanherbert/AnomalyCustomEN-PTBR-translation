@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_wpn_vepr_tac">
+		<text>VEPR-12 Tático</text>
+	</string>
+	<string id="st_wpn_vepr_tac_descr">
+		<text>O VEPR-12 Tático é uma espingarda semiautomática multiuso com carregador destacável, produzida pela Molot-Oruzhie Ltd. É baseada no rifle original Kalashnikov e construída sobre o receptor mais pesado da metralhadora leve RPK.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] MIRAS : c-more, rakurs, rmr\n
+		%c[d_purple] • %c[ui_gray_2] SILENCIADOR : PBS-1\n</text>
+	</string>
+</string_table>

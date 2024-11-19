@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--Traduzido por johnathanherbert-->
+<!-- Antes comentado -->
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON DARK VALLEY MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	
+	<!-- Sultan (Bandit Honcho) Default Storyline Task -->
+
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_name">
+		<text>Obter a próxima tarefa</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_text">
+		<text>Receba sua próxima tarefa.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_about">
+		<text>Quero que você se encontre com alguém. Ele tem um trabalho para você. Não faça nenhuma pergunta a ele e faça o serviço bem feito. Entendeu?</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_finish">
+		<text>Boa sorte, stalker.</text>
+	</string>
+
+	
+	<!-- Sultan (Bandit Honcho) Retrieve Lock Box Storyline Task -->
+
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_name">
+		<text>Recuperar cofre para Sultan</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_text">
+		<text>O Sultan precisa do conteúdo que existe dentro de um cofre.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_about">
+		<text>Preciso que você recupere essa caixa para mim. Está escondida num esconderijo. O que quer que esteja nesse esconderijo é seu, mas a caixa é minha. Combinado? Eu lhe darei o resto da recompensa quando você tiver trazido de volta para mim.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_finish">
+		<text>Excelente trabalho stalker.</text>
+	</string>
+
+	
+	<!-- Sultan (Bandit Honcho) Sultan's Enemy Storyline Task -->
+
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_name">
+		<text>O Inimigo de Sultan</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_text">
+		<text>O Sultan quer a vingança de um stalker que o enganou.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_about">
+		<text>Um rato de um stalker me enganou duas vezes. Ninguém se mete comigo e vive para ver o próximo nascer do sol. Mate o imbecil. Eu vou fazer valer a pena.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_finish">
+		<text>Eu deveria ter lhe dito para deixar a cabeça dele em cima de um poste. Não importa, todo mundo sabe que não se deve mexer com o Sultan. Aqui está a sua recompensa.</text>
+	</string>
+
+	
+	<!-- Sultan (Bandit Honcho) Kill the Rat Storyline Task -->
+
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_name">
+		<text>Mate o Rato</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_text">
+		<text>Um ex-colega bandido nos traiu. O Sultan quer que ele seja morto imediatamente.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_about">
+		<text>Há um traidor em nosso meio. Um dos nossos nos traiu, mas ele ainda não sabe que eu sei. Ele será fácil de pegar; basta caminhar até ele, apontar sua pistola para o rosto dele e apertar o gatilho. Você precisa ter cuidado com a reação dos amigos dele, provavelmente você terá que matá-los também. Fale comigo novamente quando ele for mandado para o inferno, e eu lhe pagarei.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_finish">
+		<text>Ótimo, você se livrou daquele idiota! Eis o que eu prometi.</text>
+	</string>
+
+	
+	<!-- Sultan (Bandit Honcho) Search Lab X-16 (Yantar) Storyline Task -->
+
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_name">
+		<text>Encontre o laboratório X-16</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_text">
+		<text>O Sultan precisa dos documentos que estão localizados dentro do laboratório X-16, em Yantar.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_about">
+		<text>Eu tenho um cliente que está disposto a pagar bem por alguns documentos localizados dentro daquele laboratório assustador em Yantar. Nenhum desses vagabundos quer entrar lá porque acha que está assombrado. Se você puder me conseguir esses documentos eu lhe darei metade do que ele está me pagando. O que você diz? Ou você também tem medo de fantasmas?</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_finish">
+		<text>Muito bem, meu jovem. Aqui está a sua parte.</text>
+	</string>
+
+	
+	<!-- Olivius (Bandit Trader) Default Storyline Task -->
+
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_name">
+		<text>Obter a próxima tarefa</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_text">
+		<text>Receba sua próxima tarefa.</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_about">
+		<text>Desculpe, você deve ter se enganado. Se você quiser comprar alguma coisa, vá em frente, mas caso contrário quero que você vá incomodar outra pessoa.</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_finish">
+		<text>Boa sorte, stalker.</text>
+	</string>
+
+	
+	<!-- Olivius (Bandit Trader) Gun Smuggler Storyline Task -->
+
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
+		<text>%s Contrabandista</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_text">
+		<text>Olivius precisa de %s contrabandeado através dos militares.</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
+		<text>Você sabe quem é meu contato no posto Militar? Aquele que costumava olhar para o outro lado quando eu trazia armas através do posto de controle? Você acredita que aquele filho da puta quer começar a me cobrar uma porcentagem? Ele que se foda. Quero que você pegue meu próximo carregamento e o faça passar sorrateiramente por ele.</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_fetch_about">
+		<text>Vá buscar %s. Faça com que eles passem por essa merda e eu farei valer a pena.</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_fetch_finish">
+		<text>Sim, você mandou bem. Aqui está a sua parte.</text>
+	</string>
+
+	
+	<!-- Olivius (Bandit Trader) Kill the Double-Crosser Storyline Task -->
+
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
+		<text>Mate o Double-Crosser</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_text">
+		<text>Olivius foi traído por um membro do Exército e precisa que esse assunto seja resolvido.</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
+		<text>Você conhece nosso amigo no Exército? Aquele que costumava nos deixar passar as armas pelo posto avançado? Agora ele quer que a gente envie uma caixa de cigarros? Aquele merdinha agora diz que quer que eu comece a pagar uma porcentagem toda vez, ou então ele vai nos entregar. Com quem diabos ele pensa que está lidando? Eu o quero morto, está me ouvindo? Morto! Traga-me a cabeça dele!</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
+		<text>Você trabalhou bem. Que se foda esse cara.</text>
+	</string>
+
+	
+	
+
+	
+	<!-- Sultan (Bandit Honcho) Payoff Change Factions Task -->
+
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_name">
+		<text>Fidelidade ao Sultan</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_text">
+		<text>Se você quer ser respeitado como um Bandido, você precisa pagar suas dívidas ao Sultan. Ele exige 5.000 RU como tributo.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_about">
+		<text>Você quer viver a vida romântica de um malandro, é isso? Olha, filho. Qualquer maldito punheteiro pode andar por aí como um bandido comum, se ele quiser. Ele também pode acabar morto em uma vala, o que me importa? Você quer ser um homem? Você quer viver a boa vida? Traga 5.000 RU como tributo, jure fidelidade a mim como seu Sultan e eu o deixarei andar com meus alegres homens.</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_finish">
+		<text>Feito. O resto dos rapazes daqui pode respeitá-lo agora. Vá dizer olá aos gloriosos bastardos para que possam ver o novo maluco no pedaço.</text>
+	</string>
+
+	
+
+	
+	<!-- Sultan (Bandit Honcho) Mob Hit Task -->
+
+	<string id="zat_b7_bandit_boss_sultan_task_1_name">
+		<text>Golpe da Máfia</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_text">
+		<text>Encontre e elimine o alvo. Depois retorne ao Sultan para receber o pagamento.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_about">
+		<text>Veja esta lista? Esta é uma lista de ratos que eu preciso exterminar.\n \n...Os pão-duros baratos que optaram por fugir em vez de pagar suas dívidas.\n \n...Miseráveis que responderam com balas quando meus rapazes lhes imploraram por pão.\n \n...Cadelas e traidores que deixaram Dark Valley para se foder diante de Rostok ou Sidorovich.\n \nTodos eles podem ir se foder. Aqui; um nome fora da minha lista. Gostaria que você me avisasse quando eu puder riscá-lo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_finish">
+		<text>Ah, satisfação. Gosto quando a merda desce suavemente. Aqui, um sinal da minha gratidão.</text>
+	</string>
+
+	
+	<!-- Sultan (Bandit Honcho) Eliminate Military Presence Dynamic Task -->
+
+	<string id="zat_b7_bandit_boss_sultan_task_2_name">
+		<text>Elimine a Presença Militar</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_text">
+		<text>O Sultan quer que eu elimine uma patrulha militar próxima antes que eles façam algo estúpido.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_about">
+		<text>Aqueles merdas militares estão rastejando por aqui novamente. O mais provável é assediar nossos inquilinos, ou tomar outra fenda no laboratório próximo.\n \n...idiotas. Essas cadelas já são homens mortos andando, mas eu lhe pagarei para tirá-los antes que a idiotice deles machuque qualquer um que eu conheça.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_finish">
+		<text>Você me impressionou, stalker. Gostaria que mais garotos por aqui tivessem sua coragem.</text>
+	</string>
+
+	
+	<!-- Sultan (Bandit Honcho) Stalker Elimination Dynamic Task -->
+
+	<string id="zat_b7_bandit_boss_sultan_task_3_name">
+		<text>Eliminação de stalkers</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_text">
+		<text>O Sultan me enviou para decretar vingança contra alguns stalkers que molestaram um de seus rapazes.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_about">
+		<text>Muito bem, prestem atenção. Um grupo de stalkers tentou matar um de meus rapazes não faz muito tempo. Por sorte ele escapou e está ocupado se recuperando no hangar médico, mas não podemos deixar passar esse tipo de desrespeito.\n \nTalvez você precise reunir seu próprio grupo antes de enfrentá-los, mas esses caras tentaram massacrar meu garoto. Mostre a eles o que acontece com quem mexe com Sultan, pise neles como se fossem meros pedaços de bosta.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_finish">
+		<text>Feito? Muito bem.</text>
+	</string>
+	
+	
+	<string id="zat_b7_bandit_boss_sultan_task_4_name">
+		<text>Colete %s</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_4_text">
+		<text>O Sultan me pediu para coletar %s</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_4_about">
+		<text>É hora de lembrar aos retardados quem são realmente os bandidos. Tire-lhes os curativos e traga-os para mim, eu lhe pagarei por isso.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_4_fetch_about">
+		<text>É hora de lembrar aos retardados quem são realmente os bandidos. Tire-lhes os curativos e traga-os para mim, eu lhe pagarei por isso.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_4_fetch_finish">
+		<text>Conseguiu? Aqui está o seu pagamento.</text>
+	</string>
+	
+	
+	<!-- Sultan (Bandit Honcho) Unwelcome in the Hood Task -->
+	
+	<string id="zat_b7_bandit_boss_sultan_task_5_name">
+		<text>Aviso de despejo</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_5_text">
+		<text>O Sultan quer que eu expulse os sem-teto de sua fazenda.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_5_about">
+		<text>Aqui está um trabalho para você; alguns sem-teto se mudaram para minha fazenda no sul. Eles se recusam a pagar o aluguel e estão até mesmo afugentando os possíveis inquilinos. Isto simplesmente não vai continuar. Vá levar alguns caras e educadamente escolte-os para fora, sim?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_5_finish">
+		<text>Então eles tentaram lhe pagar com balas, hein? Típicos mendigos miseráveis. Quanto a você, aqui estão os seus adereços.</text>
+	</string>
+	
+	
+	<!-- Sultan (Bandit Honcho) Night Terror Task -->
+	
+	<string id="zat_b7_bandit_boss_sultan_task_6_name">
+		<text>Noite de terror</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_6_text">
+		<text>O Sultan quer se livrar de um monstro perigoso.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_6_about">
+		<text>Os malditos mutantes são tão irritantes. Não faz muito tempo que um maldito bloodsucker negro acabou com uma equipe inteira de nossos rapazes. Vou lhe dar sua última localização conhecida. Vá procurá-lo e chute seu traseiro.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_6_finish">
+		<text>Talvez isso ensine essas bestas a não se meterem conosco. De qualquer forma, aqui está a sua recompensa.</text>
+	</string>
+
+	
+	<!-- Olivius (Bandit Trader) Eliminate Mutants Task- -->
+
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
+		<text>Eliminar a Ameaça Mutante no Dark Valley</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_text">
+		<text>Olivius me enviou para fazer algumas limpezas em tocas. Eu deveria retornar a ele para receber o pagamento assim que eu tiver liberado os mutantes da área marcada.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
+		<text>Sim, os stalkers não estão mais se mudando com tanta frequência. Por quê? Porque eles veem os mutantes, se cagam e depois vão embora. Se isso continuar acontecendo, não poderemos cobrar aluguel, pedir emprestado... você entendeu? Está na hora de dar ao Vale uma cara nova.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish">
+		<text>Fantástico! Aqui está seu pagamento. Farei questão de falar bem de você para o chefe.</text>
+	</string>
+
+
+
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
+		<text>Guerra da grama</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_text">
+		<text>Concordei em manter um acampamento de stalkers para Olivius. Ele mencionou que talvez eu precisasse trazer aliados.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
+		<text>Este é realmente canja. Sultan tem a intenção de abalar um acampamento de stalkers próximo; sacudir as coisas, lembrá-los de quem está no comando por aqui. Você precisará reunir sua própria gangue, há grandes recompensas para você se você conseguir.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
+		<text>Ha! Muito bem feito! Espero que tenham tirado todo o saque que puderam; aqui está um pequeno extra de mim.</text>
+	</string>
+
+
+
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_name">
+		<text>Chiki-Briki i v Damke</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text">
+		<text>Fui contratado para orientar uma gangue de bandidos enquanto eles "pedem emprestado" aos stalkers locais.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_about">
+		<text>Há alguns caras que estão procurando outro para levá-los às compras, se é que me entende. Procure alguns alvos principais para eles, e você terá um bom corte quando o trabalho estiver feito.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_finish">
+		<text>Boa tomada, hein? Aqui está sua parte.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR OLIVIUS TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_name">
+		<text>Assassino de aluguel</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_text">
+		<text>Olivius o contratou para executar um golpe. Encontre e elimine o alvo, e depois retorne a ele para receber o pagamento.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_about">
+		<text>Eu tenho uma lista de pessoas que me enrolaram da maneira errada. Eu quero que você as apague. O que você diz?</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_finish">
+		<text>Ótimo, você se livrou daquele idiota! Aqui o que eu prometi.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR LIMPID -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_name">
+		<text>Encontre %s para o Limpid</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_text">
+		<text>%s são exigidos por Limpid para instalar atualizações de equipamentos básicos, você deve trazê-los de volta a ele se encontrar algum.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_about">
+		<text>Estou precisando desesperadamente de novas ferramentas. Não posso fazer nada com toda essa merda enferrujada que tenho e estou ficando sem óleo para armas. Se você estiver interessado em me ajudar, eu lhe direi o que preciso.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_about">
+		<text>Eu preciso de um conjunto de ferramentas básicas. Ele deve ter o que eu preciso. Se você puder trazer algumas de volta para mim, ficarei grato, até mesmo lhe oferecerei um desconto aqui.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_finish">
+		<text>Perfeito! Isto é exatamente o que eu preciso. Agora posso atualizar com qualidade alguns equipamentos!</text>
+	</string>
+
+
+
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_name">
+		<text>Encontre %s para o Limpid</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_text">
+		<text>%s são exigidos por Limpid para instalar atualizações avançadas de equipamentos, você deve trazê-los de volta a ele se encontrar algum.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_about">
+		<text>O kit de ferramentas que você me trouxe antes é ótimo, mas não tem tudo o que eu preciso. Você acha que consegue encontrar um conjunto melhor?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_about">
+		<text>Eu preciso de um %s. Não tenho certeza onde você pode conseguir um destes, mas se você conseguir encontrar, eu agradeceria.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish">
+		<text>Você seguiu novamente! Cara, aqui está seu dinheiro.</text>
+	</string>
+
+
+
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_name">
+		<text>Encontre %s para o Limpid</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_text">
+		<text>%s são exigidos por Limpid para instalar atualizações de equipamentos especializados, você deve trazê-los de volta para ele se encontrar algum.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_about">
+		<text>O kit de ferramentas avançadas que você me trouxe é ótimo, mas preciso de mais ferramentas. Será que você pode encontrar um conjunto melhor?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_about">
+		<text>Eu preciso de um %s. Näo tenho certeza onde vocë pode conseguir um destes, mas se vocë conseguir encontrar, eu agradeceria.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish">
+		<text>Excelente! Agora tenho tudo o que preciso, receba seu pagamento.</text>
+	</string>
+
+
+	
+	<!-- Dark Valley Raiders Companion Dialog -->
+
+	<string id="bandit_companion_task_1_start_dialog_1">
+		<text>Lidere o caminho e nós o seguiremos. Você receberá sua parte quando terminarmos. Fique atento para garantir que somos nós que estamos fazendo o saque, e tome cuidado.</text>
+	</string>
+	<string id="bandit_companion_task_1_start_dialog_2">
+		<text>Vamos nos mexer - meu dedo está coçando para atirar. Lembrem-se, o saque é nosso!</text>
+	</string>
+	<string id="bandit_companion_task_1_complete">
+		<text>Você fez um bom trabalho. Aqui está sua parte.</text>
+	</string>
+	<string id="bandit_companion_task_1_actor_reply">
+		<text>Ok.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+	<!-- (Bandit Medic) -->
+	<string id="bandit_main_base_medic_mlr_task_1_name">
+		<text>Encontre %s para o Medic Bandit no Dark Valley</text>
+	</string>
+	<string id="bandit_main_base_medic_mlr_task_1_text">
+		<text>%s é necessário pelo Medic Bandit para trabalhar com suprimentos médicos. Você deve levá-los de volta para ele se encontrar algum.</text>
+	</string>
+	<string id="bandit_main_base_medic_mlr_task_1_about">
+		<text>Manter o estoque de suprimentos médicos com essa quantidade de feridos que tenho que tratar diariamente é preocupante. Logo ficarei sem curativos e medkits. Preciso que você encontre um desses kits antigos de fabricação de medicamentos. Eles serão muito úteis.</text>
+	</string>
+	<string id="bandit_main_base_medic_mlr_task_1_fetch_about">
+		<text>Tenho procurado por toda parte por um %s. Deve conter alguns comprimidos e ampolas que preciso para trabalhar com suprimentos médicos. Pagarei bem por um desses kits se você puder trazer um conjunto completo.</text>
+	</string>
+	<string id="bandit_main_base_medic_mlr_task_1_fetch_finish">
+		<text>Ótimo trabalho! Sou grato por isso.</text>
+	</string>
+
+</string_table>

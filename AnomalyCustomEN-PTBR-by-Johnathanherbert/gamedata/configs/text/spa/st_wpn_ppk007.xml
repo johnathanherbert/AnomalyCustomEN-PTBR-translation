@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_ppk007">
+		<text>Walther PPK</text>
+	</string>
+	<string id="st_wpn_ppk007_descr">
+		<text>A Walther PPK é uma pistola semiautomática compacta conhecida por seu design fino e confiabilidade. Introduzida no início da década de 1930, rapidamente se tornou famosa como a arma icônica de James Bond, consolidando seu status como símbolo cultural. A PPK possui um carregador de coluna única e operação de blowback único. Dispara vários calibres, como .32 ACP ou .380 ACP, proporcionando equilíbrio de poder e recuo gerenciável. Sua empunhadura ergonômica distinta, combinada com um cano fixo e mira de baixo perfil, garante excelente mira e controle. Com sua reputação de confiabilidade e elegância atemporal de design, a Walther PPK continua a cativar entusiastas e colecionadores de armas. Dispara 9 mm para comodidade dos técnicos da Zona. Acredita-se que tenha pertencido anteriormente a um ex-membro dos serviços de inteligência britânicos.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Alemanha \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Walther \n</text>
+	</string>
+</string_table>

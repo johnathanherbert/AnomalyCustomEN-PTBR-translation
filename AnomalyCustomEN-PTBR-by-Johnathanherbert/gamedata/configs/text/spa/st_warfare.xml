@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!-- 
+	EXTRA WARFARE STRINGS
+-->
+
+<string_table>	
+	<string id="st_wrfr_request_squad_1">
+		<text>Base, solicito um esquadrão em %s, você me recebe?</text>
+	</string>
+	<string id="st_wrfr_request_squad_2">
+		<text>Na escuta, base, precisamos de um esquadrão em %s, você me recebe?</text>
+	</string>
+	<string id="st_wrfr_request_squad_3">
+		<text>Na escuta, base, solicito um esquadrão em %s, câmbio.</text>
+	</string>
+	<string id="st_wrfr_request_squad_4">
+		<text>Base, você me recebe? Preciso de um esquadrão em %s, câmbio.</text>
+	</string>
+	<string id="st_wrfr_request_squad_5">
+		<text>Base, precisamos de um esquadrão em %s o mais rápido possível.</text>
+	</string>
+
+	<string id="st_wrfr_respond_affirmative_1">
+		<text>Recebido, enviaremos um esquadrão de %s para sua localização.</text>
+	</string>
+	<string id="st_wrfr_respond_affirmative_2">
+		<text>Copiado, enviando um esquadrão de %s para sua localização agora mesmo.</text>
+	</string>
+	<string id="st_wrfr_respond_affirmative_3">
+		<text>Afirmativo, estamos enviando um esquadrão de %s agora.</text>
+	</string>
+	<string id="st_wrfr_respond_affirmative_4">
+		<text>Positivo, um esquadrão está sendo enviado de %s para sua localização.</text>
+	</string>
+	<string id="st_wrfr_respond_affirmative_5">
+		<text>Recebido, um esquadrão de %s está a caminho da sua localização.</text>
+	</string>
+	
+	<string id="st_wrfr_respond_ontheway_1">
+		<text>Aguente firme, estamos a caminho de %s.</text>
+	</string>
+	<string id="st_wrfr_respond_ontheway_2">
+		<text>Ei, estamos indo em direção a %s.</text>
+	</string>
+	<string id="st_wrfr_respond_ontheway_3">
+		<text>A Base já nos enviou para sua localização em %s.</text>
+	</string>
+	<string id="st_wrfr_respond_ontheway_4">
+		<text>Estamos nos dirigindo a %s, não se preocupe.</text>
+	</string>
+	<string id="st_wrfr_respond_ontheway_5">
+		<text>Atenção, já estamos a caminho de %s.</text>
+	</string>
+	
+	<string id="st_wrfr_respond_negative_1">
+		<text>Negativo, não há base nas proximidades.</text>
+	</string>
+	<string id="st_wrfr_respond_negative_2">
+		<text>Não podemos fazer nada, não há base ao alcance da sua área.</text>
+	</string>
+	<string id="st_wrfr_respond_negative_3">
+		<text>Negativo, não há base ao alcance da sua área.</text>
+	</string>
+	<string id="st_wrfr_respond_negative_4">
+		<text>Impossível, não há base ao alcance da sua área.</text>
+	</string>
+	<string id="st_wrfr_respond_negative_5">
+		<text>Impossível, não há base por perto.</text>
+	</string>
+
+	<string id="st_wrfr_invasion_attack">
+		<text>Uma força de ataque aliada de %s está lançando um ataque contra %s.</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_incoming">
+		<text>As forças inimigas estão se aproximando de %s.</text>
+	</string>
+	
+	<string id="st_wrfr_invasion_defense_clear_1">
+		<text>Base, as forças inimigas que visavam %s foram eliminadas.</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_clear_2">
+		<text>Ótimo trabalho pessoal, conseguimos! Que todos em %s descansem.</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_clear_3">
+		<text>Bom trabalho pessoal. Parece que não há mais inimigos atacando %s.</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_clear_4">
+		<text>Área limpa, %s está protegido.</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_clear_5">
+		<text>Na escuta, base, repelimos as forças que atacavam %s, terminado.</text>
+	</string>
+	
+	<string id="st_wrfr_invasion_defense_fullyreinforced">
+		<text>As forças inimigas estão se aproximando de %s. Reforços foram enviados.</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_partlyreinforced">
+		<text>As forças inimigas estão se aproximando de %s. Precisamos de mais reforços!</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_notreinforced">
+		<text>As forças inimigas estão se aproximando de %s. São necessários reforços!</text>
+	</string>
+
+</string_table>

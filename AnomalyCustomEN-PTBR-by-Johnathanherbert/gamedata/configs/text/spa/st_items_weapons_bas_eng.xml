@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+	
+	<string id="st_not_in_use">
+        <text>Item não está em uso (BaS)</text>
+    </string>
+    <string id="st_not_in_use_descr">
+        <text>Item não está em uso</text>
+    </string>
+
+	<string id="st_knifebf4">
+        <text>Faca de Combate «OTs-04» (BaS)</text>
+    </string>
+    <string id="st_knifebf4_descr">
+        <text>A faca OTs-04 foi desenvolvida no Escritório Central de Pesquisa e Design de Tula (TsKIB) no final dos anos 80 - início dos 90 e foi destinada às forças especiais das tropas do Ministério do Interior.</text>
+    </string>
+	
+	<string id="st_kukri">
+        <text>Kukri (BaS)</text>
+    </string>
+    <string id="st_kukri_descr">
+        <text>Esta é uma lâmina especial feita de aço-mola de alto carbono que permaneceu em um campo anômalo por muitos anos, e por isso possui excelentes propriedades de corte e talho. Ideal para cortar mutantes de todos os tipos e para proteção contra eles.</text>
+    </string>
+		
+	<string id="st_wpn_ak12_custom">
+        <text>AK-12 Monolith (BaS)</text>
+    </string>
+    <string id="st_wpn_ak12_custom_descr">
+        <text>Um item raro. Versão modificada do AK-12 2012. Principalmente usado pela facção Monolith. Possui vários modos de disparo: automático, único e rajada de três tiros.\n \n
+		%c[0,140,140,140]ACESSÓRIOS: \n
+		%c[0,93,0,116] • %c[0,140,140,140] A arma pode ser aprimorada usando kit tático\n
+		%c[0,93,0,116] • %c[0,140,140,140] Miras: Todas as miras para trilho Picatinny\n
+		%c[0,93,0,116] • %c[0,140,140,140] Silenciador: Supressor Sonoro Hexagon 5.45/7.62\n</text>
+    </string>
+
+    <string id="st_wpn_ak12_mono_kit">
+		<text>AK12 Monolith Aprimorado (BaS)</text>
+    </string>
+    <string id="st_wpn_ak12_mono_kit_descr">
+		<text>Um item raro. Versão modificada do AK-12 Monolith. Principalmente usado pela facção Monolith. Possui vários modos de disparo: automático, único e rajada de três tiros. Graças ao novo grupo do gatilho, é uma arma mais avançada e poderosa que a original. Cadência de tiro aumentada e balanceamento aprimorado.
+Este é um aprimoramento irreversível.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[0,93,0,116] • %c[0,140,140,140] A arma foi aprimorada usando o Kit Tático "Monolith"\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon ACOG e AN/PEQ-16 LAM (integrado).\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de Granadas "Guard".\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro Hexagon 5.45/7.62.\n </text>
+    </string>
+				
+	<string id="st_wpn_ak12_m1">
+        <text>AK-12 (2016) (BaS)</text>
+    </string>
+    <string id="st_wpn_ak12_m1_descr">
+        <text>A versão do AK-12 apresentada ao público em 2016. Difere significativamente tanto na aparência quanto no design de várias unidades importantes em relação à versão anterior do AK-12 mostrada em 2015. O design do fuzil foi revisado tanto para eliminar uma série de deficiências e problemas identificados, quanto para melhorar a fabricação, levando em conta os desejos dos militares.\n 
+		%c[0,140,140,140]ACESSÓRIOS: \n
+		%c[0,93,0,116] • %c[0,140,140,140] Miras: Todas as miras para trilho Picatinny\n
+		%c[0,93,0,116] • %c[0,140,140,140] Lançador de granadas GP-25\n
+		%c[0,93,0,116] • %c[0,140,140,140] Silenciador: Supressor Sonoro Hexagon 5.45/7.62\n</text>
+    </string>
+		
+	<string id="st_wpn_usp_tac">
+        <text>HK USP Match Tactical (BaS)</text>
+    </string>
+    <string id="st_wpn_usp_tac_descr">
+        <text>Esta é uma modificação da HK USP Match especialmente desenvolvida para cientistas por encomenda pessoal do Professor Sakharov, projetada para uso no kit "Especialista-Cientista". O funcionamento do sistema de mecanismos é aprimorado com a ajuda de artefatos. A diferença da USP Match padrão é a capacidade de instalar um silenciador. A pistola é equipada com um carregador aumentado para 22 cartuchos de calibre 9mm. (O kit Especialista-Cientista inclui: BCC Savant, HK USP Match Tactical, Lâmina Monolith).\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] O kit inclui Módulo de Mira Laser e suporte para Mira Red Dot.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Docter Sight, Aimpoint T1 (montagem baixa), Trijicon RMR, Leupold DeltaPoint PRO.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC Black Box\n </text>
+    </string>
+	
+	<string id="st_wpn_vintorez_m1">
+		<text>VSS "Savant" (BaS)</text>
+	</string>
+	<string id="st_wpn_vintorez_m1_descr">
+		<text>Este é um protótipo inicial do VSS Savant. Esta versão é mais popular entre stalkers profissionais devido ao preço mais baixo que a versão final.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas exceto Kits Táticos (miras duplas)\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador VSS (integrado)\n </text>
+	</string>
+	
+	<string id="st_wpn_vintorez_m2">
+		<text>VSS "Merc" (BaS)</text>
+	</string>
+	<string id="st_wpn_vintorez_m2_descr">
+		<text>A pedido do Sindicato dos Mercenários, uma equipe de cientistas entusiastas liderada pelo Professor Sakharov se dedicou a finalizar o protótipo. Para desenvolver e conduzir testes de campo, foram necessários cerca de 20 artefatos de anomalias gravitacionais. Como resultado, isso permitiu a instalação do trilho Picatinny no receptor sem perda de precisão, além de mecânica aprimorada, o que levou a indicadores de confiabilidade mais altos.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser tanto em banda visível quanto IR com lanterna IR.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas exceto 1P59 Giperon\n
+		%c[d_purple] • %c[ui_gray_2] Coronha e empunhadura Fab Defense instaladas\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador VSS (integrado)\n </text>
+	</string>
+	
+	<string id="st_tactical_knife">
+		<text>Lâmina Monolith (BaS)</text>
+	</string>
+	<string id="st_tactical_knife_descr">
+		<text>Dizem que estas lâminas são produzidas em pequena quantidade por mestres do grupo Monolith. A composição da liga é desconhecida - fala-se que só é possível extraí-la no coração do sarcófago.</text>
+	</string>
+	
+	<string id="st_wpn_saiga12s_m1">
+		<text>Saiga-12 "Nerd" (BaS)</text>
+	</string>
+	<string id="st_wpn_saiga12s_m1_descr">
+		<text>Nerd - é a evidência da preocupação do professor com seus protegidos. Esta versão da Saiga foi adquirida especificamente para o pessoal. Usada em "negociações" com mutantes especialmente perigosos sobre a doação de seus órgãos para a ciência. Caçadores experientes olham com considerável inveja para os "nerds" armados com este modelo.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras Red Dot para montagem Dovetail.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Hexagon 12K\n </text>
+	</string>
+	
+	
+	<string id="st_wpn_m4_ru556">
+		<text>Ruger SR-556 (BaS)</text>
+	</string>
+	<string id="st_wpn_m4_ru556_descr">
+		<text>Vários destes rifles entraram na Zona através dos cientistas. Segundo a lenda, o Professor Sakharov recebeu 6 pequenos contêineres com estas armas de patrocinadores estrangeiros, mas 5 deles foram perdidos durante o transporte. 
+O Ruger SR-556 é uma carabina semiautomática americana fabricada pela empresa de armas Sturm, 
+Ruger & Company, Inc., sendo o primeiro Ruger da família AR-10. O Ruger SR-762 é calibrado para .308. 
+Pertence a poucos exemplares de rifles AR-15 que utilizam sistema de extração de gases da pólvora.
+A produção cessou em janeiro de 2016 após a introdução da opção Keymod Lightweight.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Suporte universal NcStar com mira Red Dot Trijicon RMR instalada. \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto Red Dots com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: NATO\n </text>
+	</string>
+	
+	<string id="st_wpn_saiga12s_m2">
+		<text>Saiga do Dushman (BaS)</text>
+	</string>
+	<string id="st_wpn_saiga12s_m2_descr">
+		<text>Saiga modificada a pedido dos mercenários. Trilho Picatinny e um freio de boca compensador massivo instalados, reduzindo significativamente o recuo.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras Red Dot para trilho picatinny/weaver e montagem Dovetail exceto OKP-7, Kobra EKP-1S-03, Kobra EKP-8-02.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: SilencerCo Salvo® 12\n </text>
+	</string>
+	
+	<string id="st_wpn_ak74m_beard">
+		<text>AK-74M Beard (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74m_beard_descr">
+		<text>Esta AK é uma espécie de veneno do Beard (não confundir com seu chá). Leve e adaptada às duras condições da Zona. Não permite a montagem de lançador de granadas. É fabricada em Skadovsk e na Estação Yanov, de onde se espalha por toda a Zona.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: todas as miras para montagem Dovetail (exceto 1p59 Giperon e miras PSO com protetor ocular) e todas as miras Red Dot (exceto Aimpoint PRO e Aimpoint T1 com montagem alta e Barska 11090). O uso de miras PSO com protetor ocular nesta arma não é recomendado.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: TGP-A. Nenhum Lançador de Granadas disponível para este modelo\n </text>
+	</string>
+	
+	<string id="st_wpn_ak105_sp">
+		<text>AK-105 Specialist (BaS)</text>
+	</string>
+	<string id="st_wpn_ak105_sp_descr">
+		<text>A modificação foi baseada na AK-105 comum que, como resultado (graças aos artesãos mercenários), tornou-se por muito tempo a arma favorita desses caras. Uma arma muito equilibrada com baixo recuo, boa precisão e alta resistência ao desgaste.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Mira Red Dot Leupold Deltapoint Pro pré-instalada em suporte NcStar 45\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para montagem Dovetail exceto miras PSO com protetor ocular, 1P59 Giperon e miras Red Dot.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: TGP-A.\n </text>
+	</string>
+
+	<string id="st_wpn_akm_isg">
+		<text>Rifle Dynamics RD-47 ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_akm_isg_descr">
+		<text>Um modelo personalizado desenvolvido com base no AKM pela empresa americana Rifle Dynamics. É uma das armas mais tecnológicas da Zona. Usada pelas unidades especiais do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser tanto em banda visível quanto IR com lanterna IR. \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny/weaver\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Rifle Dynamics ISG Sound Suppressor\n </text>
+	</string>
+	
+	<string id="st_wpn_ak74u_isg">
+		<text>Rifle Dynamics RD-74U ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74u_isg_descr">
+		<text>Um modelo personalizado desenvolvido com base no AKSU pela empresa americana Rifle Dynamics. É uma das armas mais tecnológicas da Zona. Usada pelas unidades especiais do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny/weaver\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Rifle Dynamics ISG Sound Suppressor\n </text>
+	</string>
+
+	<string id="st_wpn_ak74u_m1_isg">
+		<text>Rifle Dynamics RD-74U ISG Tactic (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74u_m1_isg_descr">
+		<text>Modificação RD-74U ISG, desenvolvida pela empresa americana Rifle Dynamics. É uma das armas mais tecnológicas da Zona. Usada pelas unidades especiais do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser tanto em banda visível quanto IR com lanterna IR. \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny/weaver\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Rifle Dynamics ISG Sound Suppressor\n </text>
+	</string>
+	
+	<string id="st_wpn_ak74_isg">
+		<text>Rifle Dynamics RD-74M ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74_isg_descr">
+		<text>Uma versão avançada da AK-74M desenvolvida pela empresa americana Rifle Dynamics. É uma das armas mais tecnológicas da Zona. Usada pelas unidades especiais do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser tanto em banda visível quanto IR com lanterna IR. \n
+		%c[d_purple] • %c[ui_gray_2] Suporte universal NcStar com mira Red Dot Trijicon RMR instalada. \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny/weaver.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Rifle Dynamics ISG Sound Suppressor\n </text>
+	</string>
+	
+	<string id="st_wpn_vintorez_isg">
+		<text>Rifle Dynamics RD-9x39 ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_vintorez_isg_descr">
+		<text>A obra-prima do fundador da Rifle Dynamics, Jim Fuller. O modelo é desenvolvido com base no conhecido e consagrado VSS Vintorez. Uma das principais diferenças do original é a presença de um mecanismo especial que permite disparar com falha de dois projéteis e um trilho picatinny instalado ao longo de todo o comprimento da arma. Usado por unidades especiais do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser tanto em banda visível quanto IR com lanterna IR. \n
+		%c[d_purple] • %c[ui_gray_2] Suporte universal NcStar com mira Red Dot Trijicon RMR instalada. \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny/weaver e Dovetail exceto 1P78 Kashtan.\n
+		%c[d_purple] • %c[ui_gray_2] Alguns rumores dizem que esta arma pode ser usada com lançador de granadas) \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Integrado \n </text>
+	</string>
+	
+	<string id="st_wpn_sks_tac">
+		<text>SKS Tactical (BaS)</text>
+	</string>
+	<string id="st_wpn_sks_tac_descr">
+		<text>A Carabina Molot OP-SKS é projetada para munição 7.62x39 - muito popular na Zona. O peso e as dimensões tornam a carabina ergonômica para atiradores de qualquer idade e altura. A opção tática difere do original pela presença de suporte para instalação de miras na área do guarda-mão e também pela possibilidade de instalar um silenciador. Também foi instalado um novo gatilho leve neste modelo que aumentou significativamente a cadência de tiro\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Trilho SKS SOCOM: Integrado \n
+		%c[d_purple] • %c[ui_gray_2] Miras: todas as miras para montagem Dovetail e todas as miras Red Dot (exceto Aimpoint PRO e Aimpoint T1 com montagem alta)\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon SKS 7.62x39 \n</text>
+	</string>
+
+	<string id="st_wpn_sks_molot">
+		<text>SKS Molot (BaS)</text>
+	</string>
+	<string id="st_wpn_sks_molot_descr">
+		<text>A Carabina Molot OP-SKS é projetada para munição 7.62x39 - muito popular na Zona. O peso e as dimensões tornam a carabina ergonômica para atiradores de qualquer idade e altura.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: todas as miras para montagem Dovetail\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum \n</text>
+	</string>
+	
+	
+
+	<string id="st_wpn_ks23">
+		<text>KS-23 (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_descr">
+		<text>Carabina especial, 23 mm - Espingarda pump-action policial soviética multifuncional, projetada para suprimir motins, força seletiva e efeitos mentais e químicos em infratores. Curiosamente, tendo um calibre superior a 20 mm e um cano raiado, a KS-23 não deveria ser classificada como arma pequena, mas como artilharia de pequeno calibre.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: O cano longo de 700mm pode ser substituído por um curto de 510mm para diminuir o peso da arma.\n</text>
+	</string>
+
+
+	<string id="st_wpn_ks23_kaban">
+		<text>KS-23M Drozd (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_kaban_descr">
+		<text>Versão encurtada da KS-23 com coronha metálica removível. 23 mm - Espingarda pump-action policial soviética multifuncional, projetada para suprimir motins, força seletiva e efeitos mentais e químicos em infratores. Curiosamente, tendo um calibre superior a 20 mm e um cano raiado, a KS-23 não deveria ser classificada como arma pequena, mas como artilharia de pequeno calibre.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: Kit Tático Boar para KS-23M Drozd.\n</text>
+	</string>	
+	
+	
+		<string id="st_tomahawk">
+		<text>Machado Tático Gerber Downrange (BaS)</text>
+	</string>
+	<string id="st_tomahawk_descr">
+		<text>Machado tático, multiferramenta e ferramenta de arrombamento, tudo em uma solução.</text>
+	</string>
+	
+	
+		<string id="st_wpn_dvl10_m1">
+		<text>DVL-10 Saboteur (BaS)</text>
+	</string>
+	<string id="st_wpn_dvl10_m1_descr">
+		<text>O DVL-10 é um rifle leve, compacto e silenciado em calibres subsônicos proprietários e militares atuais, desenvolvido para serviços especiais e missões de combate onde precisão e alcance excepcionais são necessários.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny/weaver exceto miras Red Dot.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Integrado \n</text>
+	</string>	
+	
+	
+		<string id="st_wpn_dvl10">
+		<text>DVL-10 Urbana (BaS)</text>
+	</string>
+	<string id="st_wpn_dvl10_descr">
+		<text>O DVL-10 é um rifle de precisão leve e compacto em calibres subsônicos proprietários e militares atuais, desenvolvido para serviços especiais e missões de combate onde precisão e alcance excepcionais são necessários.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny/weaver exceto miras Red Dot.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum \n</text>
+	</string>	
+	
+
+		<string id="st_wpn_saiga12s_isg">
+		<text>Kalashnikov USA Saiga-12 ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_saiga12s_isg_descr">
+		<text>Um modelo desenvolvido pela Kalashnikov USA com base no rifle semiautomático Komrad 12 para caça e proteção dos membros das equipes de pesquisa do ISG contra mutantes. A arma possui tanto uma montagem dovetail quanto uma barra picatinny para uso com vários tipos de miras. Este modelo tem um novo tipo de mecanismo de gatilho, que permite rajadas de dois tiros.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras Red Dot para trilho picatinny/weaver. \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: SilencerCo Salvo® 12 \n</text>
+	</string>
+
+
+		<string id="st_wpn_ak74_pmc">
+		<text>AK-74 PMC (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74_pmc_descr">
+		<text>Uma modificação do fuzil de assalto Kalashnikov, desenvolvido em 1970 para o cartucho 5.45x39.
+ Difere da versão padrão pelo kit tático instalado, que inclui uma empunhadura tática, um guarda-mão com trilhos picatinny e uma coronha telescópica dobrável, que melhora significativamente a ergonomia da arma. O kit também inclui um dispositivo de mira laser, uma lanterna tática e um adaptador para dispositivos de pontaria.
+ Na Zona, modelos similares são geralmente usados por mercenários, forças especiais ucranianas, várias PMCs e outras estruturas de poder para conduzir operações especiais.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produzido pela L3 Insight Technologies. Dispositivo tático que combina designadores laser tanto em banda visível quanto IR com lanterna IR. \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny/weaver e para montagem Dovetail exceto miras PSO com protetor ocular, EOTS-62 e 1P59 Giperon. \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: ATG \n</text>
+	</string>
+
+
+		<string id="st_wpn_svds_pmc">
+		<text>SVDS PMC (BaS)</text>
+	</string>
+	<string id="st_wpn_svds_pmc_descr">
+		<text>Rifle de precisão Dragunov com coronha dobrável - variante SVDS. Foi especialmente projetado para paraquedistas russos e unidades de forças especiais. Na Zona, modelos similares são geralmente usados por mercenários, forças especiais ucranianas, várias PMCs e outras estruturas de poder para conduzir operações especiais.\n 
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para trilho picatinny/weaver exceto miras Red Dot. \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Rotor 43 \n
+		%c[ui_gray_2] O kit inclui:\n
+		%c[d_purple] • %c[ui_gray_2] Adaptador de rosca Rotor 43 para SVD-S, \n
+        %c[d_purple] • %c[ui_gray_2] Chassis SAG MK1 Freefloat para SVD, \n
+        %c[d_purple] • %c[ui_gray_2] Empunhadura frontal Zenit RK-5 (curta) para excelente controle de recuo\n
+        %c[d_purple] • %c[ui_gray_2] Tampa de poeira SVDS personalizada,\n
+        %c[d_purple] • %c[ui_gray_2] Empunhadura de pistola Zenit RK3, \n
+		%c[d_purple] • %c[ui_gray_2] Suporte universal NcStar que permite instalar a mira auxiliar em ângulo de 45 graus com mira Red Dot Trijicon RMR instalada. \n</text>
+	</string>
+
+	<string id="st_wpn_val_tac">
+		<text>AS Val Tático (BaS)</text>
+	</string>
+	<string id="st_wpn_val_tac_descr">
+		<text>O AS Val é amplamente utilizado pelas unidades de reconhecimento do Exército Russo, bem como pelas Forças Especiais do MVD (Ministério de Assuntos Internos) e FSB (Serviço Federal de Segurança). O AS-VAL é uma arma operada a gás com supressor integrado. O receptor é usinado a partir de forjamento de aço para maior resistência. Possui um trilho lateral padrão para miras ópticas, visão noturna ou red dot, mas não tem provisão para montagem de baioneta ou lançador de granadas. O supressor integrado pode ser facilmente removido para manutenção, reparo ou armazenamento compacto, mas o rifle não deve ser disparado com o supressor removido devido a questões de segurança e confiabilidade.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para montagem dovetail\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: VSS (integrado)\n </text>
+	</string>
+
+	<string id="st_wpn_vintorez_n1">
+		<text>VSS Vintorez (BaS)</text>
+	</string>
+	<string id="st_wpn_vintorez_n1_descr">
+		<text>Projetado na TsNIITochMash por Peter Serdyukov e sua equipe, o novo rifle foi destinado a várias tropas Spetsnaz do Exército Soviético, KGB e MVD. O VSS é bastante popular entre seus usuários por suas capacidades furtivas e a grande letalidade dos pesados projéteis 9x39mm. O alcance efetivo do VSS é limitado a 300-400 metros. O equipamento de mira padrão consiste em um trilho lateral no receptor, que geralmente acomoda a mira PSO-1M2-1 4x. Qualquer outra mira ou dispositivo de visão noturna pode ser montado no suporte apropriado. As miras de ferro de backup consistem em alça tangente traseira e massa dianteira. A mira traseira é graduada até 400 metros.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para montagem dovetail\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: VSS (integrado)\n </text>
+	</string>	
+
+	<string id="st_wpn_ak74u_n1">
+		<text>AKS-74U (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74u_n1_descr">
+		<text>O AKS-74U foi destinado principalmente para uso por unidades Spetsnaz, infantaria aerotransportada, unidades de apoio da retaguarda e tripulações de veículos blindados, que necessitam de uma arma automática individual compacta mas relativamente potente. O AKS-74U é significativamente mais manobrável em espaços apertados que o AKS-74, mas uma queda significativa na velocidade de saída resultou em uma diminuição no alcance efetivo.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para montagem dovetail (exceto miras PSO com protetor ocular e 1P59 Giperon). O uso de miras PSO com protetor ocular nesta arma não é recomendado.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor PBS-4\n </text>
+	</string>
+
+	<string id="st_wpn_ak74u_tac">
+		<text>AKS-74U Tático (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74u_tac_descr">
+		<text>O AKS-74U foi destinado principalmente para uso por unidades Spetsnaz, infantaria aerotransportada, unidades de apoio da retaguarda e tripulações de veículos blindados, que necessitam de uma arma automática individual compacta mas relativamente potente. O AKS-74U é significativamente mais manobrável em espaços apertados que o AKS-74, mas uma queda significativa na velocidade de saída resultou em uma diminuição no alcance efetivo. Esta variante especial possui um carregador RPK de 45 tiros.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para montagem dovetail (exceto miras PSO com protetor ocular e 1P59 Giperon) e todas as miras Red Dot exceto Aimpoint PRO e Aimpoint T1 com montagem alta.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor PBS-4\n </text>
+	</string>
+
+	<string id="st_wpn_m4_tac">
+		<text>M4 Tático (BaS)</text>
+	</string>
+	<string id="st_wpn_m4_tac_descr">
+		<text>Colt M4A1 - um fuzil de assalto (carabina), projetado nos EUA com base na plataforma AR-15 para o cartucho 5.56x45 NATO. Foi desenvolvido principalmente para uso por operadores de veículos e equipes de combate, que necessitavam de uma arma mais compacta e leve que um rifle padrão de comprimento total, mas usando a mesma munição. No entanto, o US SOCOM (Comando de Operações Especiais dos Estados Unidos) logo adotou o M4A1 para todas as unidades subordinadas, seguido pela introdução geral do M4A1 no serviço do Exército e Corpo de Fuzileiros Navais dos EUA.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Surefire SOCOM556-MONSTER\n </text>
+	</string>	
+
+	<string id="st_wpn_m4_butcher">
+		<text>M4 Butcher (BaS)</text>
+	</string>
+	<string id="st_wpn_m4_butcher_descr">
+		<text>Modelo modernizado Colt M4A1 Commando (CQBR) é um fuzil de assalto, projetado nos EUA com base na plataforma AR-15 para o cartucho 5.56x45 NATO. Foi desenvolvido principalmente para uso por operadores de veículos e equipes de combate, que necessitavam de uma arma mais compacta e leve que um rifle padrão de comprimento total, mas usando a mesma munição. No entanto, o US SOCOM (Comando de Operações Especiais dos Estados Unidos) logo adotou o M4A1 para todas as unidades subordinadas, seguido pela introdução geral do M4A1 no serviço do Exército e Corpo de Fuzileiros Navais dos EUA.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa) e OKP-7.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: NATO\n </text>
+	</string>
+
+    <string id="st_wpn_mp153_m1">
+        <text>Carabineiro (BaS)</text>
+    </string>
+    <string id="st_wpn_mp153_m1_descr">
+		<text>Uma versão personalizada da espingarda MP-153. Capaz de tiro semiautomático como seu predecessor, mas oferece melhor compensação de recuo graças ao freio de boca bastante eficaz. Também possui trilho Picatinny que permite usar miras reflexivas e holográficas e capacidade de usar supressor de som.\n
+	    %c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Devido à posição da coronha, é possível instalar apenas miras com montagem muito baixa: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7, 1P76 Rakurs. \n \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: SilencerCo Salvo® 12 \n</text>
+    </string>
+
+    <string id="st_wpn_fal_sa58_osw">
+		<text>DS ARMS SA-58 (BaS)</text>
+    </string>
+    <string id="st_wpn_fal_sa58_osw_descr">
+		<text>SA-58 OSW (Operations Specialist Weapon) fabricado pela empresa americana DSA (David Selvaggio Arms) é uma cópia legal do FAL, feita com o mesmo equipamento da linha de produção Steyr-Daimler-Puch do StG-58. Pode vir com diferentes comprimentos de cano, um receptor inferior em liga de alumínio e mobília melhorada em Nylon reforçado com fibra de vidro. Modelos civis são semiautomáticos, mas clientes militares e de aplicação da lei podem adquirir modelos de seleção de tiro que têm uma taxa cíclica totalmente automática de 750 tiros/minuto. O DSA-58 pode usar qualquer carregador FAL de medida métrica.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para picatinny/weaver\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n </text>
+    </string>
+	
+    <string id="st_wpn_toz106_m1">
+        <text>TOZ-106 (BaS)</text>
+    </string>
+    <string id="st_wpn_toz106_m1_descr">
+		<text>Espingarda de caça calibre 20 de cano único com ferrolho deslizante. Amplamente conhecida por seu nome vernacular, a Morte do Presidente, devido ao seu tamanho compacto.\n
+	    %c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Devido à posição da coronha, é possível instalar apenas miras com montagem muito baixa: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7, 1P76 Rakurs. \n \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum \n</text>
+    </string>
+
+    <string id="st_wpn_toz106">
+        <text>TOZ-106 (Coronha Dobrável) (BaS)</text>
+    </string>
+    <string id="st_wpn_toz106_descr">
+		<text>Espingarda de caça calibre 20 de cano único com ferrolho deslizante. Amplamente conhecida por seu nome vernacular, a Morte do Presidente, devido ao seu tamanho compacto.\n
+	    %c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Nenhuma \n \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum \n</text>
+    </string>
+
+    <string id="st_wpn_fal_aus">
+        <text>DS ARMS SA-58 AUS "Estilo Austríaco" (BaS)</text>
+    </string>
+    <string id="st_wpn_fal_aus_descr">
+		<text>SA-58 fabricado pela empresa americana DSA (David Selveggio Arms) é uma cópia legal do FAL, feita com o mesmo equipamento da linha de produção Steyr-Daimler-Puch do StG-58. Este modelo vem com cano de 21", e outros elementos "Estilo Austríaco" como o guarda-mão austríaco original para FAL, receptor inferior em liga de alumínio e mobília melhorada em Nylon reforçado com fibra de vidro. Este modelo é usado por militares e forças de segurança e pode operar em modo totalmente automático. O DSA-58 pode usar qualquer carregador FAL de medida métrica.\n
+	    %c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Nenhuma \n \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser aprimorado usando Kits Táticos \n \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n</text>
+    </string>	
+
+
+		<string id="st_wpn_glock17">
+		<text>Glock 17 (BaS)</text>
+	</string>
+	<string id="st_wpn_glock17_descr">
+		<text>A Glock 17 é uma pistola semiautomática com armação de polímero, operada por recuo curto, com ferrolho travado, projetada e produzida pelo fabricante austríaco Glock Ges.m.b.H.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Nenhuma\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum \n</text>
+	</string>
+		<string id="st_wpn_glock17_m1">
+		<text>Glock 17 Tática (BaS)</text>
+	</string>
+	<string id="st_wpn_glock17_m1_descr">
+		<text>A Glock 17 é uma pistola semiautomática com armação de polímero, operada por recuo curto, com ferrolho travado, projetada e produzida pelo fabricante austríaco Glock Ges.m.b.H. A variante tática da Glock 17 possui alguns recursos adicionais: base Aimtech integrada para miras Red Dot, empunhadura tática de borracha Pachmayr instalada e cano rosqueado fabricado pela Double Diamond.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Docter Sight, Aimpoint T1 (apenas montagem baixa), Trijicon RMR, Leupold Deltapoint PRO\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Osprey 9mm \n</text>
+	</string>	
+
+	<string id="st_wpn_pm_bas_actor">
+		<text>Makarov PM Único (BaS)</text>
+	</string>
+	<string id="st_wpn_pm_bas_actor_descr">
+		<text>Uma PM semi-mítica com cano estendido e rosca para montagem de silenciador. Alguns afirmam que foi uma série limitada fabricada na Bulgária, outros insistem que foi na RDA, e alguns até pensam que é uma modificação artesanal. Como chegou à Zona, nenhuma alma viva pode dizer...\n
+				%c[ui_gray_2]ACESSÓRIOS: \n
+   %c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador 9mm\n</text>
+	</string>
+	
+	<string id="st_wpn_pm_bas_custom">
+		<text>PM (Personalizada) (BaS)</text>
+	</string>
+	<string id="st_wpn_pm_bas_custom_descr">
+	<text>Versão personalizada da Makarov PM com cano rosqueado mais longo para uso com silenciador PMM. Este legado soviético é a pistola mais comum na Zona e é uma das melhores armas compactas de autodefesa disponíveis. É pequena, altamente confiável, fácil de usar e manter em ordem de funcionamento. Também sofre de várias desvantagens, incluindo curto alcance, baixa precisão de tiro e poder de parada fraco, além de perder para pistolas modernas em sua classe em termos de peso e tamanho do carregador. Em 1951, a Pistola Makarova foi selecionada por sua simplicidade, facilidade de fabricação, precisão e poder de parada razoável.\n
+				%c[ui_gray_2]ACESSÓRIOS: \n
+   %c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador PMM\n</text>
+	</string>
+		
+	<string id="st_wpn_pm_bas">
+	      <text>PM (BaS)</text>
+	</string>
+	<string id="st_wpn_pm_bas_descr">
+		<text>Este legado soviético é a pistola mais comum na Zona e é uma das melhores armas compactas de autodefesa disponíveis. É pequena, altamente confiável, fácil de usar e manter em ordem de funcionamento. Também sofre de várias desvantagens, incluindo curto alcance, baixa precisão de tiro e poder de parada fraco, além de perder para pistolas modernas em sua classe em termos de peso e tamanho do carregador. Em 1951, a Pistola Makarova foi selecionada por sua simplicidade, facilidade de fabricação, precisão e poder de parada razoável.</text>
+	</string>
+
+	<string id="st_wpn_pmm_bas">
+		<text>PMM (BaS)</text>
+	</string>
+	<string id="st_wpn_pmm_bas_descr">
+		<text>A variante mais conhecida, a Makarov PMM foi um redesenho da arma original. Em 1990, um grupo de engenheiros retrabalhou a Makarov original, principalmente aumentando a carga do cartucho. O resultado é 25% mais pressão de gás aumentando a velocidade de saída. O carregador da PMM comporta 12 cartuchos, comparado aos 8 cartuchos da PM.\n
+				%c[ui_gray_2]ACESSÓRIOS: \n
+   %c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador PMM\n</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_aus_tri">
+		<text>DS Arms SA-58 AUS "Scout" (BaS)</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_aus_tri_descr">
+		<text>FAL SA58 AUS modernizado usando kit tático DS Arms. Após a modificação, esta arma pode ser usada muito efetivamente em longas e médias distâncias. O SA-58 fabricado pela empresa americana DSA (David Selveggio Arms) é uma cópia legal do FAL, feita com o mesmo equipamento da linha de produção Steyr-Daimler-Puch do StG-58. Este modelo vem com cano de 21", e outros elementos "Estilo Austríaco" como o guarda-mão austríaco original para FAL, receptor inferior em liga de alumínio e mobília melhorada em Nylon reforçado com fibra de vidro. Este modelo é usado por militares e forças de segurança e pode operar em modo totalmente automático. O DSA-58 pode usar qualquer carregador FAL de medida métrica.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon Acog e Aimpoint T1 (integradas)\n \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_sa5x_spec">
+		<text>DS Arms SA-58 AUS "Defender" (BaS)</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_sa5x_spec_descr">
+		<text>FAL SA58 AUS modernizado usando kit tático DS Arms. Após a modificação, esta arma pode ser usada muito efetivamente em longas e médias distâncias. O SA-58 fabricado pela empresa americana DSA (David Selveggio Arms) é uma cópia legal do FAL, feita com o mesmo equipamento da linha de produção Steyr-Daimler-Puch do StG-58. Este modelo vem com cano de 21", e outros elementos "Estilo Austríaco" como o guarda-mão austríaco original para FAL, receptor inferior em liga de alumínio e mobília melhorada em Nylon reforçado com fibra de vidro. Este modelo é usado por militares e forças de segurança e pode operar em modo totalmente automático. O DSA-58 pode usar qualquer carregador FAL de medida métrica.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: ELCAN SpecterDr e Aimpoint T1 (integradas)\n \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_fal_leup">
+		<text>DS Arms SA-58 AUS "Marauder" (BaS)</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_fal_leup_descr">
+		<text>FAL SA58 AUS modernizado usando kit tático DS Arms. Após a modificação, esta arma pode ser usada muito efetivamente em longas e médias distâncias. O SA-58 fabricado pela empresa americana DSA (David Selveggio Arms) é uma cópia legal do FAL, feita com o mesmo equipamento da linha de produção Steyr-Daimler-Puch do StG-58. Este modelo vem com cano de 21", e outros elementos "Estilo Austríaco" como o guarda-mão austríaco original para FAL, receptor inferior em liga de alumínio e mobília melhorada em Nylon reforçado com fibra de vidro. Este modelo é usado por militares e forças de segurança e pode operar em modo totalmente automático. O DSA-58 pode usar qualquer carregador FAL de medida métrica.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Leupold Mark 8 e Aimpoint T1 (integradas)\n \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n</text>
+	</string>
+
+	<string id="st_wpn_ak12_bas">
+		<text>AK-12 2012 (BaS)</text>
+	</string>
+	<string id="st_wpn_ak12_bas_descr">
+		<text>O fuzil de assalto Kalashnikov AK-12 é a mais nova criação da fábrica IZMASH. É destinado a substituir os fuzis mais antigos Kalashnikov AK-74M e série AK-100 para uso doméstico, bem como para exportação. O fuzil é operado a gás, com seletor de tiro usando ação tradicional "tipo Kalashnikov" com pistão de gás de curso longo e travamento por ferrolho rotativo. O grupo do ferrolho é notavelmente aliviado para diminuir o recuo e melhorar a precisão no tiro automático.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Todas as miras para picatinny/weaver\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas GP-25\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Hexagon 5.45/7.62x39\n </text>
+	</string>
+
+	<string id="st_wpn_ak104_alfa">
+    	<text>AK-104 Alpha (BaS)</text>
+  	</string>
+  	<string id="st_wpn_ak104_alfa_descr">
+		<text>Versão personalizada do fuzil de assalto AK-104 em 7.62 mm. Parece uma marca registrada de alguns operadores do Oriente Médio...\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Todas as miras para picatinny/weaver\n		
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon 5.45/7.62x39\n </text>
+  	</string>
+
+	<string id="st_wpn_ak74_n">
+		<text>AK-74 (BaS)</text>
+	</string>
+    <string id="st_wpn_ak74_n_descr">
+		<text>O AK-74 é um fuzil de assalto em 5.45x45mm desenvolvido no início dos anos 1970 por Mikhail Kalashnikov para substituir o AKM anterior. Foi introduzido em 1974 e viu seu primeiro serviço com as forças soviéticas envolvidas no Conflito do Afeganistão. O fuzil AKM foi adaptado para disparar cartuchos menores de 5.45x45mm e equipado com um grande freio de boca.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas GP-25 (após modificação)\n
+		%c[d_purple] • %c[ui_gray_2] Todas as miras de montagem dovetail exceto miras PSO com protetor ocular devido à inconveniência de usar essas miras em fuzis tipo AK e 1P59 Giperon.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador ATG\n </text>
+	</string>
+
+	<string id="st_wpn_svd_m1">
+		<text>SVD (BaS)</text>
+	</string>
+	<string id="st_wpn_svd_m1_descr">
+		<text>Originalmente destinado para atiradores designados em cada unidade básica de infantaria soviética, o Dragunov SVD não foi projetado para equipes especializadas de atiradores de elite. Relativamente leve para um fuzil de precisão, mas bem equilibrado e tendo tiro semiautomático, sua precisão é boa mas não excepcional. Tem um alcance efetivo de até 800 metros.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras de montagem dovetail exceto miras de ponto vermelho.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador KZRZP (após modificação)\n </text>
+	</string>
+
+	<string id="st_wpn_svds">
+		<text>SVDS (BaS)</text>
+	</string>
+	<string id="st_wpn_svds_descr">
+		<text>Fuzil de precisão Dragunov com coronha dobrável - variante SVDS. Foi especialmente projetado para paraquedistas russos e unidades de forças especiais.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras de montagem dovetail exceto miras de ponto vermelho.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador TGP-V\n </text>
+	</string>
+
+	<string id="st_wpn_rpg7">
+		<text>RPG-7 (BaS)</text>
+	</string>
+	<string id="st_wpn_rpg7_descr">
+		<text>O RPG-7 é um desenvolvimento adicional do lançador de granadas antitanque RPG-2 anterior. O RPG-7, em sua primeira versão, conhecida como RPG-7V, foi adotado pelo exército soviético em 1961, e ainda é utilizado na Rússia e em pelo menos 50 países. De longe, o RPG-7 pode ser considerado um dos lançadores de granadas antitanque mais bem-sucedidos já fabricados. Inicialmente pensado como uma arma antitanque, foi posteriormente adaptado para outras missões de apoio de fogo com a introdução de outros tipos de granadas, como HE-FRAG anti-infantaria e Termobárica/FAE multiuso. O RPG-7 é um lançador sem recuo de tiro único, disparado do ombro, de alma lisa, as granadas são carregadas pela frente, e a parte traseira do cano é equipada com bocal venturi. Devido ao design sem recuo, o sopro traseiro é perigoso. O RPG-7 geralmente é fornecido com mira óptica de aumento fixo 2.7X, designada PGO-7. É simples e barato, mas possui uma alta ameaça para tanques modernos e também pode servir em várias outras funções, tornando-o uma arma flexível.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Mira PGO-7V\n </text>
+	</string>
+
+	<string id="st_wpn_ak74m_n">
+		<text>AK-74M (BaS)</text>
+	</string>
+    <string id="st_wpn_ak74m_n_descr">
+		<text>Em 1991, a fábrica Izhmash começou a produção de um AK-74 aprimorado - o fuzil de assalto AK-74M. Além de várias pequenas melhorias na produção, o fuzil também apresenta uma nova coronha sintética dobrável feita de poliamida preta reforçada com fibra de vidro. O AK-74M também usa um dispositivo de boca e cobertura contra poeira reforçados. Cada AK-74M é equipado com um suporte de trilho lateral para montagem de ópticas. O AK-74M foi aceito como o novo fuzil de serviço da Federação Russa\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas GP-25 (após modificação)\n
+		%c[d_purple] • %c[ui_gray_2] Todas as miras de montagem dovetail exceto miras PSO com protetor ocular devido à inconveniência de usar essas miras em fuzis tipo AK e 1P59 Giperon.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador TGP-A\n </text>
+	</string>
+
+	<string id="st_wpn_colt1911_n">
+		<text>Colt M1911 (BaS)</text>
+	</string>
+	<string id="st_wpn_colt1911_n_descr">
+		<text>Uma versão aprimorada de uma pistola automática clássica, que passou por todos os principais conflitos armados do século XX com distinção e entrou no novo milênio com confiança. Produzida por dezenas, se não centenas de fabricantes de armas em todo o mundo, tanto em configurações padrão quanto modificadas. O único ponto fraco da arma, sua capacidade medíocre de carregador, é largamente compensada pela munição potente que utiliza.\n </text>
+	</string>
+
+	<string id="st_wpn_sig226">
+		<text>Sig Sauer P226R (BaS)</text>
+	</string>
+	<string id="st_wpn_sig226_descr">
+		<text>A SIG Sauer P226R é uma pistola de serviço de tamanho completo fabricada pela SIG Sauer, uma arma padrão de serviço dos Navy SEALs. Câmara para o 9x19mm Parabellum, possui um trilho Picatinny montado na parte inferior do frame.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser aprimorada usando Kit Tático.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: nenhum\n </text>
+	</string>
+
+	<string id="st_wpn_sig220_n">
+		<text>Sig Sauer P220 (BaS)</text>
+	</string>
+	<string id="st_wpn_sig220_n_descr">
+		<text>A SIG-Sauer P220, fabricada no final dos anos 1970 pela Companhia J.P. Sauer & Son, é frequentemente considerada a melhor pistola de ação dupla calibre .45 direto de fábrica. Um sucesso instantâneo, a P220 foi adotada pela SDF suíça e japonesa e por muitas organizações policiais europeias. Esta pistola também encontrou seu caminho para os EUA, primeiro através da Browning Arms Company de Utah e desde os anos 1980, através da SIGARMS Company de New Hampshire.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser aprimorada usando Kit Tático.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: nenhum\n </text>
+	</string>
+
+	<string id="st_wpn_walther_p99">
+		<text>Walther P99 (BaS)</text>
+	</string>
+	<string id="st_wpn_walther_p99_descr">
+		<text>Com a ergonomia sendo um foco chave em seu design, a Walther P99 é uma pistola operada por recuo com um frame de polímero com fibra de vidro. Desenvolvida para aplicação da lei e o mercado civil de tiro, é empregada por unidades policiais em vários países.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser aprimorada usando Kit Tático.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: nenhum\n </text>
+	</string>
+
+	<string id="st_wpn_sig226_226sig_kit">
+		<text>Sig Sauer P226R Personalizada (BaS)</text>
+	</string>
+	<string id="st_wpn_sig226_226sig_kit_descr">
+		<text>A SIG Sauer P226R é uma pistola de serviço de tamanho completo fabricada pela SIG Sauer, uma arma padrão de serviço dos Navy SEALs. Câmara para o 9x19mm Parabellum, possui um trilho Picatinny montado na parte inferior do frame.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Kit Tático Instalado: Cano rosqueado para uso com silenciador, placas de empunhadura ergonômicas e mira Red Dot Trijicon RMR com placa de montagem. Esta melhoria é irreversível.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Osprey 9mm\n\n</text>
+	</string>
+
+	<string id="st_wpn_sig220_n_upg220">
+		<text>Sig Sauer P220 Personalizada (BaS)</text>
+	</string>
+	<string id="st_wpn_sig220_n_upg220_descr">
+		<text>A SIG-Sauer P220, fabricada no final dos anos 1970 pela Companhia J.P. Sauer & Son, é frequentemente considerada a melhor pistola de ação dupla calibre .45 direto de fábrica. Um sucesso instantâneo, a P220 foi adotada pela SDF suíça e japonesa e por muitas organizações policiais europeias. Esta pistola também encontrou seu caminho para os EUA, primeiro através da Browning Arms Company de Utah e desde os anos 1980, através da SIGARMS Company de New Hampshire.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Kit Tático Instalado: Cano rosqueado para uso com silenciador, miras de Trítio e mira laser Viridian X5L e carregador de alta capacidade para 12 munições. Esta melhoria é irreversível.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: BLACK BOX .45\n </text>
+	</string>
+
+	<string id="st_wpn_walther_p99_mod9">
+		<text>Walther P99 Personalizada (BaS)</text>
+	</string>
+	<string id="st_wpn_walther_p99_mod9_descr">
+		<text>Com a ergonomia sendo um foco chave em seu design, a Walther P99 é uma pistola operada por recuo com um frame de polímero com fibra de vidro. Desenvolvida para aplicação da lei e o mercado civil de tiro, é empregada por unidades policiais em vários países.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Kit Tático Instalado: Cano rosqueado para uso com silenciador, miras de Trítio e mira laser Viridian X5L. Esta melhoria é irreversível.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Gemtech\n </text>
+	</string>
+
+	<string id="st_wpn_rpk74_16">
+		<text>Metralhadora leve RPK-16 5.45x39 (BaS)</text>
+	</string>
+	<string id="st_wpn_rpk74_16_descr">
+		<text>A mais nova metralhadora leve russa - RPK-16 em calibre 5.45x39mm. As características principais deste tipo de arma são - canos rapidamente destacáveis, ergonomia aprimorada, trilhos weaver no guarda-mão e na cobertura contra poeira.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Todas as miras para picatinny/weaver\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Hexagon para 5.45/7.62x39\n </text>
+	</string>
+
+	<string id="st_wpn_fn57_bas">
+		<text>FN Five-seveN (BaS)</text>
+	</string>
+	<string id="st_wpn_fn57_bas_descr">
+		<text>A Five-seveN é uma arma semiautomática operada por retardo de blowback. A pistola Five-seveN foi projetada pela FN Herstal como uma arma lateral complementar para a submetralhadora P90. A P90 e Five-seveN compartilham a mesma munição, o cartucho 5.7x28mm SS190. A ideia por trás da munição e da arma é fornecer boa penetração contra alvos protegidos por colete à prova de balas, mantendo o peso, dimensões e recuo da arma em níveis razoáveis.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] O kit inclui Módulo de Mira Laser e suporte para Miras Red Dot\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Docter Sight, Aimpoint T1 (montagem baixa), Trijicon RMR, Leupold DeltaPoint PRO.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: silenciador 5.7x28\n </text>
+	</string>
+
+	<string id="st_wpn_abakan_n">
+		<text>AN-94 Abakan (BaS)</text>
+	</string>
+	<string id="st_wpn_abakan_n_descr">
+		<text>Uma melhoria chave do AN-94 sobre o AK-74 é a introdução do modo de rajada adicional de 2 tiros. O design de Nikonov atrasa a força do recuo até que os tiros disparados tenham deixado o cano, o que junto com uma função única de rajada de dois tiros a 1800 rpm aumenta as capacidades de penetração de colete à prova de balas desta arma. Usado por operadores Spetsnaz assim como membros do Dever para eliminar alvos blindados a distâncias relativamente longas.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas GP-25 (após modificação)\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras de montagem dovetail exceto miras PSO com protetor ocular devido à inconveniência de usar essas miras em fuzis tipo AK e 1P59 Giperon.\n </text>
+	</string>
+
+	<string id="st_wpn_ks23_kaban_kab_up">
+		<text>KS-23 Javali (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_kaban_kab_up_descr">
+		<text>Versão encurtada com mira reflexiva Trijicon RMR montada. 23 mm - Espingarda pump-action policial multifuncional soviética, projetada para suprimir motins, força seletiva, efeitos mentais e químicos em infratores. Curiosamente, tendo um calibre superior a 20 mm e um cano raiado, o KS-23 não deveria ser classificado como arma pequena, mas como artilharia de pequeno calibre. Além disso, esta versão tem rosca para silenciador que pode ser encontrado em algum lugar nas localizações sul da Zona.\n </text>
+	</string>
+
+	<string id="st_wpn_ks23_23_up">
+		<text>KS-23 Cano Curto (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_23_up_descr">
+		<text>Carabina especial, 23 mm - Espingarda pump-action policial multifuncional soviética, projetada para suprimir motins, força seletiva, efeitos mentais e químicos em infratores. Curiosamente, tendo um calibre superior a 20 mm e um cano raiado, o KS-23 não deveria ser classificado como arma pequena, mas como artilharia de pequeno calibre. Esta modificação do KS-23 tem um cano curto de 510mm instalado nele em vez do padrão longo de 700mm.\n </text>
+	</string>
+
+	<string id="st_wpn_remington700_bas">
+		<text>Remington 700 (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_bas_descr">
+		<text>O Remington Model 700 é uma série de rifles de ação por ferrolho de fogo central fabricados pela Remington Arms desde 1962.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser melhorado usando: chassis MOD X Gen.3, Magpul "PRO 700", coronha de polímero Promag Archangel e kit The Deer Hunter .338\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Daniel Defence Wave QD \n </text>
+	</string>
+	
+		<string id="st_wpn_remington700_bas_archangel">
+		<text>Remington 700 Archangel (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_bas_archangel_descr">
+		<text>O Remington Model 700 é uma série de rifles de ação por ferrolho de fogo central fabricados pela Remington Arms desde 1962. Este modelo tem a coronha de polímero Promag Archangel instalada.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Coronha de polímero Promag Archangel instalada\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Daniel Defence Wave QD \n </text>
+	</string>
+
+		<string id="st_wpn_remington700_bas_magpul_pro">
+		<text>Remington 700 Magpul PRO (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_bas_magpul_pro_descr">
+		<text>O Remington Model 700 é uma série de rifles de ação por ferrolho de fogo central fabricados pela Remington Arms desde 1962. Este modelo tem o chassis Magpul PRO 700 e uma Mira Red Dot Trijicon RMR adicional instalada.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Chassis Magpul "PRO 700" instalado\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Daniel Defence Wave QD \n </text>
+	</string>
+
+		<string id="st_wpn_remington700_bas_mod_x_gen3">
+		<text>Remington 700 Sistema de Rifle Modular (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_bas_mod_x_gen3_descr">
+		<text>O Remington Model 700 é uma série de rifles de ação por ferrolho de fogo central fabricados pela Remington Arms desde 1962. Este modelo tem o Sistema de Rifle Modular MOD X GEN III e uma Mira Red Dot Leupold DeltaPoint PRO adicional instalada.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Chassis MOD X Gen.3 instalado\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador Daniel Defence Wave QD \n </text>
+	</string>
+
+		<string id="st_wpn_sr1m">
+		<text>9x21 Serdyukov SR1MP Gyurza (BaS)</text>
+	</string>
+	<string id="st_wpn_sr1m_descr">
+		<text>A pistola semiautomática Serdyukov - também conhecida como SPS e Gyurza ("Víbora"), Índice GRAU 6P53. Pistola projetada para fins das forças especiais da Federação Russa por P. Serdyukov e I. Belyaev, para munição 9x21 mm.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser melhorada usando Kit Tático.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum \n</text>
+	</string>
+	
+			<string id="st_wpn_sr1m_sr1upgr1">
+		<text>9x21 Serdyukov SR1MP Gyurza (BaS)</text>
+	</string>
+	<string id="st_wpn_sr1m_sr1upgr1_descr">
+		<text>A pistola semiautomática Serdyukov - também conhecida como SPS e Gyurza ("Víbora"), Índice GRAU 6P53. Pistola projetada para fins das forças especiais da Federação Russa por P. Serdyukov e I. Belyaev, para munição 9x21 mm.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A pistola foi melhorada usando kit tático.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador SR1MP 9x21 \n</text>
+	</string>
+
+	<string id="st_wpn_k98_mod">
+		<text>Mauser 98k Forester (BaS)</text>
+	</string>
+	<string id="st_wpn_k98_mod_descr">
+		<text>Uma versão modificada do rifle de precisão alemão Mauser Karabiner 98k da Segunda Guerra Mundial. A coronha de madeira foi substituída por uma de polímero mais ergonômica. O rifle está equipado com uma excelente luneta de precisão fabricada pela March, Japão. Na Zona, o rifle é usado principalmente para caçar mutantes a longas e muito longas distâncias.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Lunetas: March (integrada)\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: K98 Forester. (Adaptador de cano necessário para montar um silenciador) \n </text>
+	</string>
+
+	<string id="st_wpn_k98_mod_silen98">
+		<text>Mauser 98k Forester (com adaptador de silenciador) (BaS)</text>
+	</string>
+	<string id="st_wpn_k98_mod_silen98_descr">
+		<text>Uma versão modificada do rifle de precisão alemão Mauser Karabiner 98k da Segunda Guerra Mundial. A coronha de madeira foi substituída por uma de polímero mais ergonômica. O rifle está equipado com uma excelente luneta de precisão fabricada pela March, Japão. Na Zona, o rifle é usado principalmente para caçar mutantes a longas e muito longas distâncias.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Lunetas: March (integrada)\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: K98 Forester.\n </text>
+	</string>
+
+	<string id="st_wpn_ks23_ecolog">
+		<text>KS-23 Ecolog (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_ecolog_descr">
+		<text>Modificação do KS-23, desenvolvida para as necessidades da equipe científica localizada na Zona.\n </text>
+	</string>
+
+	<string id="st_wpn_ak105_bas">
+		<text>AK-105 (BaS)</text>
+	</string>
+	<string id="st_wpn_ak105_bas_descr">
+		<text>O AK-105 é uma versão carabina em 5.45x39mm do rifle AK-74M. O AK-105 está substituindo as carabinas AKS-74U no serviço do Exército Russo. Ideal para CQC (combate em ambientes fechados), não é destinado para combate a longa distância. O receptor do rifle é feito de aço estampado; o carregador é feito de fibra de vidro reforçada e a coronha é feita de plástico oco, tornando-o mais leve, mais durável e permitindo que um kit de campo seja armazenado dentro dele.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: todas as miras para montagem Dovetail exceto miras PSO com protetor ocular devido à inconveniência de usar essas miras em fuzis tipo AK e 1P59 Giperon.\n
+		%c[d_purple] • %c[ui_gray_2] Pode ser melhorado usando Kit Tático.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador TGP-A\n </text>
+	</string>
+
+	<string id="st_wpn_ak105_bas_swamp">
+		<text>AK-105 Coisa do Pântano (BaS)</text>
+	</string>
+	<string id="st_wpn_ak105_bas_swamp_descr">
+		<text>O AK-105 é uma versão carabina em 5.45x39mm do rifle AK-74M. O AK-105 está substituindo as carabinas AKS-74U no serviço do Exército Russo. Uma variante muito rara do AK-105. É encontrada principalmente entre os veteranos do grupo Céu Limpo. Devido à presença de vários dispositivos de mira, é ideal para combate tanto a curta quanto a média-longa distância.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi melhorada usando o Kit Tático "Coisa do Pântano"\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Elcan SpecterDr, Trijicon RMR e AN/PEQ-15 LAM (integrado)\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon 5.45/7.62x39\n </text>
+	</string>
+
+<!-- Traduzido por johnathanherbert -->
+<?xml version="1.0" encoding="windows-1252"?>
+		<string id="st_wpn_remington700_bas_lapua700">
+		<text>M700 O Caçador de Cervos (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_bas_lapua700_descr">
+		<text>O Caçador de Cervos é uma modificação do Remington Model 700 para tiro preciso a distâncias muito longas. \n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi melhorada usando o kit Caçador de Cervos .338\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: M700 .338LM \n </text>
+	</string>
+
+		<string id="st_wpn_pl15">
+		<text>Pistola Lebedev PL-15 (BaS)</text>
+	</string>
+	<string id="st_wpn_pl15_descr">
+		<text>Pistola semiautomática russa PL-15-01 calibrada para 9x19 mm Parabellum. A diferença entre esta pistola e suas análogas está em sua ergonomia e equilíbrio, que correspondem às ideias atuais sobre biomecânica humana. Os métodos de cálculo de automação usados durante sua criação contribuem para um grande recurso de tiro e, em combinação com as soluções ergonômicas aplicadas, tornam a pistola confortável em termos de recuo, oscilação após o disparo e rápido retorno à linha de mira. Tudo isso contribui para um rápido redisparo e transferência rápida de fogo, e uma empunhadura ergonômica com um grande ângulo de inclinação facilita o tiro "sem apoio".\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma pode ser melhorada usando o kit: "Tático".\n 
+		%c[d_purple] • %c[ui_gray_2] O LAM para PL-15 pode ser instalado\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador PL-15 \n</text>
+	</string>
+
+		<string id="st_wpn_pl15_pl15_scolaz">
+		<text>Lebedev PL-15 "Tático" (BaS)</text>
+	</string>
+	<string id="st_wpn_pl15_pl15_scolaz_descr">
+		<text>Pistola semiautomática russa PL-15-01 calibrada para 9x19 mm Parabellum. A diferença entre esta pistola e suas análogas está em sua ergonomia e equilíbrio, que correspondem às ideias atuais sobre biomecânica humana. Os métodos de cálculo de automação usados durante sua criação contribuem para um grande recurso de tiro e, em combinação com as soluções ergonômicas aplicadas, tornam a pistola confortável em termos de recuo, oscilação após o disparo e rápido retorno à linha de mira. Tudo isso contribui para um rápido redisparo e transferência rápida de fogo, e uma empunhadura ergonômica com um grande ângulo de inclinação facilita o tiro "sem apoio".\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi melhorada usando: kit "Tático" (LAM, mira Aimpoint T1).\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador PL-15\n</text>
+	</string>
+
+	<string id="st_wpn_ak105_bas_shakal">
+		<text>AK-105 Chacal (BaS)</text>
+	</string>
+	<string id="st_wpn_ak105_bas_shakal_descr">
+		<text>O AK-105 é uma versão carabina em 5.45x39mm do rifle AK-74M. O AK-105 está substituindo as carabinas AKS-74U no serviço do Exército Russo. Uma variante muito rara do AK-105. É encontrada principalmente entre os veteranos do grupo Dever. Devido à presença de vários dispositivos de mira, é ideal para combate tanto a curta quanto a média-longa distância.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi melhorada usando o Kit Tático "Chacal"\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon Acog, Trijicon RMR e AN/PEQ-15 LAM (integrado)\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon 5.45/7.62x39\n </text>
+	</string>
+
+	<string id="st_wpn_sig220_n_u2p2g0r">
+		<text>Sig Sauer P220 Custom Nine (BaS)</text>
+	</string>
+	<string id="st_wpn_sig220_n_u2p2g0r_descr">
+		<text>A SIG-Sauer P220, fabricada no final dos anos 1970 pela Companhia J.P. Sauer & Son, é frequentemente considerada a melhor pistola de ação dupla calibre .45 direto de fábrica. Um sucesso instantâneo, a P220 foi adotada pela Força de Autodefesa Suíça e Japonesa e por muitas organizações policiais europeias. Esta pistola também encontrou seu caminho para os EUA, primeiro através da Browning Arms Company de Utah e desde os anos 1980, através da SIGARMS Company de New Hampshire.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Kit Tático instalado: Cano rosqueado 9x19 para uso com silenciador Black Box .45 padrão, miras de Trítio e mira laser Viridian X5L e carregador de alta capacidade de 19 munições. Esta melhoria é irreversível.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: BLACK BOX .45\n </text>
+	</string>
+
+	<string id="st_wpn_aps_bas">
+		<text>APS (BaS)</text>
+	</string>
+	<string id="st_wpn_aps_bas_descr">
+		<text>A APS Stechkin é uma pistola-metralhadora russa de tiro seletivo, que leva o nome de seu designer Igor Stechkin. A pistola automática Stechkin foi originalmente projetada para o calibre 7.62x25mm Tokarev, mas foi alterada para o calibre 9x18mm usado na nova pistola Makarov, quando ficou claro que este cartucho se tornaria a nova munição de serviço para armas curtas no Exército Soviético. Em 1951, tanto a Makarov quanto a Stechkin foram introduzidas no arsenal militar soviético, substituindo a envelhecida TT-33.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser melhorada usando Kit Tático.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum \n</text>
+	</string>
+
+	<string id="st_wpn_aps_bas_apsabigo">
+		<text>APS Melhorada (BaS)</text>
+	</string>
+	<string id="st_wpn_aps_bas_apsabigo_descr">
+		<text>A APS Stechkin é uma pistola-metralhadora russa de tiro seletivo, que leva o nome de seu designer Igor Stechkin. A pistola automática Stechkin foi originalmente projetada para o calibre 7.62x25mm Tokarev, mas foi alterada para o calibre 9x18mm usado na nova pistola Makarov, quando ficou claro que este cartucho se tornaria a nova munição de serviço para armas curtas no Exército Soviético. Em 1951, tanto a Makarov quanto a Stechkin foram introduzidas no arsenal militar soviético, substituindo a envelhecida TT-33.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Kit Tático instalado: Cano rosqueado para uso com silenciador APB, miras de Trítio e borracha ergonômica para empunhadura.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: APB \n</text>
+	</string>
+
+	<string id="st_wpn_mp133_bas">
+		<text>MP-133 (BaS)</text>
+	</string>
+	<string id="st_wpn_mp133_bas_descr">
+		<text>O MP-133 é um produto da Fábrica Mecânica de Izhevsk. Esta espingarda é uma evolução da antiga espingarda de ação por bombeamento IZh-81, e é destinada aos mercados civil e de segurança. É produzida em duas versões básicas: MP-133 padrão com carregador tubular e MP-133K com carregador destacável tipo caixa, ambas as versões podem ter diferentes comprimentos e estilos de cano, coronha de madeira ou polímero, coronha fixa ou dobrável lateralmente de polímero ou apenas empunhadura de pistola. A espingarda MP-133 usa ação por bombeamento tradicional com guarda-mão deslizante que possui duas barras de ação. O travamento é alcançado por uma peça de travamento basculante, instalada no ferrolho e que se encaixa no entalhe da extensão do cano quando em bateria. A alimentação é feita por um carregador tubular sob o cano que comporta 4 cartuchos, embora a capacidade possa ser aumentada instalando tubos de extensão do carregador.\n </text>
+	</string>
+
+	<string id="st_wpn_mp153_bas">
+		<text>MP-153 (BaS)</text>
+	</string>
+	<string id="st_wpn_mp153_bas_descr">
+		<text>A espingarda semiautomática MP-153 foi a primeira espingarda semiautomática projetada e fabricada pela Fábrica Mecânica de Izhevsk. Foi desenvolvida junto com a espingarda de ação por bombeamento MP-133 e compartilha muitas peças e conjuntos com ela. A MP-153 é uma das espingardas semiautomáticas mais populares de origem russa, e é amplamente utilizada para caçar diversos tipos de caça na Rússia. Também é vendida para exportação, sendo conhecida como Remington "Spartan" SPR-453 nos EUA. As espingardas MP-153 são conhecidas por sua construção sólida, embora um pouco pesada, e confiabilidade.\n </text>
+	</string>
+
+	<string id="st_wpn_gauss_bas">
+		<text>Rifle Gauss (BaS)</text>
+	</string>
+	<string id="st_wpn_gauss_bas_descr">
+		<text>Uma arma altamente experimental, alimentada por artefatos, super precisa feita por uma parte desconhecida na Zona. Seu disparo é quase inaudível, pois em vez de pólvora, usa ímãs para acelerar seu projétil a velocidades incríveis. Apesar do tremendo poder de fogo do rifle Gauss, o recuo é insignificante. A precisão e o poder desta arma excedem os de todas as outras armas pequenas.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Mira computadorizada aprimorada EOTS-62 (integrada)</text>
+	</string>
+
+	<string id="st_wpn_umirotvoritel_bas">
+		<text>Arma não identificada (BaS)</text>
+	</string>
+	<string id="st_wpn_umirotvoritel_bas_descr">
+		<text>Uma arma desconhecida, cujo mecanismo de disparo não foi estabelecido. A arma parece defeituosa - apertar o gatilho não faz nada. É muito pesada e definitivamente de alta tecnologia. Vale notar que parece não disparar projéteis baseados em ignição. Muito provavelmente, as munições são propelidas por forças eletromagnéticas. Só se pode suspeitar que tipo de potencial destrutivo ela possui.</text>
+	</string>
+
+	<string id="st_wpn_pb_bas">
+		<text>PB (BaS)</text>
+	</string>
+	<string id="st_wpn_pb_bas_custom">
+		<text>PB (moderna) (BaS)</text>
+	</string>
+	<string id="st_wpn_pb_bas_descr">
+		<text>A PB (Pistolet Besshumnyj ou Pistola Silenciosa), também conhecida no exército soviético como 6P9, foi desenvolvida em 1967 para unidades Spetsnaz do Exército Soviético, bem como para operativos da KGB. A pistola é baseada em uma pistola Makarov PM modificada e apresenta um silenciador integral único de duas partes. Introduzida em serviço em 1967, a PB (índice GRAU 6P9) é uma pistola silenciada soviética baseada na Makarov PM. Foi destinada para uso pela KGB e grupos de reconhecimento do exército. A parte frontal do silenciador é destacável, para que a pistola possa ser desmontada em duas partes para transporte conveniente. O silenciador integral da PB também reduz a velocidade do projétil para níveis subsônicos.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador 6P9 (integrado)</text>
+	</string>
+
+	<string id="st_wpn_akm_alfa">
+		<text>CAA AK-Alfa (BaS)</text>
+	</string>
+	<string id="st_wpn_akm_alfa_descr">
+		<text>Desenvolvido em Israel pela Command Arms & Acessories (CAA), o fuzil de assalto AK-Alfa foi apresentado ao público pela primeira vez em 2016. Esta arma é comercializada sob duas marcas - "Kalashnikov USA" e "Kalashnikov Israel". Aparentemente, esta arma chegou à Zona com a facção ISG. O fuzil de assalto AK-Alpha é uma tentativa de melhorar a ergonomia do fuzil AK mantendo suas principais vantagens - alta confiabilidade e facilidade de manutenção.
+		A base para o AK-Alpha é o receptor, o cano com o tubo de gás, o grupo do ferrolho e os principais componentes do gatilho da carabina Saiga fabricada na Rússia.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver exceto miras com montagem muito baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight.\n		
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Hexagon 5.45/7.62x39\n </text>
+	</string>
+
+	<string id="st_wpn_sr2_veresk">
+		<text>SR-2M Veresk (BaS)</text>
+	</string>
+	<string id="st_wpn_sr2_veresk_descr">
+		<text>SR.2 "Veresk" é uma submetralhadora russa (fabricada pela TsNIITOCHMASH), projetada para engajar pessoal inimigo em combate próximo (a uma distância de até 200 m) usando colete à prova de balas individual. A principal vantagem do SR-2 é seu alto poder de fogo, alta precisão de tiro e o efeito destrutivo do projétil a curta distância.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Mira Reflexiva KP SR-2\n	
+		%c[d_purple] • %c[ui_gray_2] Pode ser melhorada usando Kit Tático.\n 		
+		%c[d_purple] • %c[ui_gray_2] Silenciador: GZV-SR2\n </text>
+	</string>
+
+	<string id="st_wpn_sr2_veresk_sr2_upkit">
+    	<text>SR-2M Veresk (Melhorado)(BaS)</text>
+  	</string>
+  	<string id="st_wpn_sr2_veresk_sr2_upkit_descr">
+		<text>SR.2 "Veresk" é uma submetralhadora russa (fabricada pela TsNIITOCHMASH), projetada para engajar pessoal inimigo em combate próximo (a uma distância de até 200 m) usando colete à prova de balas individual. A principal vantagem do SR-2 é seu alto poder de fogo, alta precisão de tiro e o efeito destrutivo do projétil a curta distância.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n		
+        %c[d_purple] • %c[ui_gray_2] A arma foi melhorada usando kit de atualização tática. (Melhoria irreversível) \n	
+		%c[d_purple] • %c[ui_gray_2] Silenciador: GZV-SR2\n </text>
+  	</string>	
+
+	<string id="st_wpn_sr2_m1">
+    	<text>SR-2M Veresk (Modernizado)(BaS)</text>
+  	</string>
+  	<string id="st_wpn_sr2_m1_descr">
+		<text>SR.2 "Veresk" é uma submetralhadora russa (fabricada pela TsNIITOCHMASH), projetada para engajar pessoal inimigo em combate próximo (a uma distância de até 200 m) usando colete à prova de balas individual. A principal vantagem do SR-2 é seu alto poder de fogo, alta precisão de tiro e o efeito destrutivo do projétil a curta distância.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n		
+        %c[d_purple] • %c[ui_gray_2] Todas as miras Red Dot para trilho picatinny/weaver, e duas lunetas com ampliação: PN-23 e Leupold Mark 8 CQBSS 1.1-8x24 . \n	
+		%c[d_purple] • %c[ui_gray_2] Silenciador: GZV-SR2\n </text>
+  	</string>
+
+	<string id="st_wpn_aug_a1_bas">
+		<text>Steyr AUG A1 (BaS)</text>
+	</string>
+	<string id="st_wpn_aug_a1_bas_descr">
+		<text>Steyr AUG A1 na configuração padrão de rifle (cor verde militar). O AUG é um fuzil de assalto bullpup austríaco de 5.56mm, projetado nos anos 1960 pela Steyr Mannlicher GmbH & Co KG (anteriormente Steyr-Daimler-Puch). O AUG (Armee-Universal-Gewehr "fuzil universal do exército") foi adotado pelo Exército Austríaco como StG 77 (Sturmgewehr 77) em 1978, onde substituiu o fuzil automático StG 58 de 7.62mm (uma versão licenciada do FN FAL). Em produção desde 1978, é a arma padrão do Bundesheer austríaco e várias unidades policiais nacionais.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Luneta 1.5x (integrada).\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Steyr UMS \n</text>
+	</string>
+	
+	<string id="st_wpn_aug_a3_bas">
+		<text>Steyr AUG A3 (BaS)</text>
+	</string>
+	<string id="st_wpn_aug_a3_bas_descr">
+		<text>Steyr AUG (Armee Universal Gewehr - Fuzil Universal do Exército) é um fuzil de assalto bullpup austríaco de 5.56x45mm NATO, projetado nos anos 1960 pela Steyr-Daimler-Puch e atualmente fabricado pela Steyr Mannlicher GmbH & Co KG. O Steyr AUG A3 difere do modelo base pela presença de quatro trilhos Picatinny: o superior é usado para fixação de miras, um lançador de granadas ou uma empunhadura frontal vertical pode ser fixada na parte inferior, e uma mira laser ou outro equipamento adicional necessário é fixado nas laterais.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver exceto miras com montagem muito baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Steyr UMS \n</text>
+	</string>	
+
+	<string id="st_wpn_aug_a1_custom_bas">
+		<text>Steyr AUG A1 CQB (BaS)</text>
+	</string>
+	<string id="st_wpn_aug_a1_custom_bas_descr">
+		<text>Steyr AUG A1 na configuração padrão de rifle (cor verde militar). O AUG é um fuzil de assalto bullpup austríaco de 5.56mm, projetado nos anos 1960 pela Steyr Mannlicher GmbH&Co KG (anteriormente Steyr-Daimler-Puch). O AUG (Armee-Universal-Gewehr "fuzil universal do exército") foi adotado pelo Exército Austríaco como StG 77 (Sturmgewehr 77) em 1978, onde substituiu o fuzil automático StG 58 de 7.62mm (uma versão licenciada do FN FAL). Em produção desde 1978, é a arma padrão do Bundesheer austríaco e várias unidades policiais nacionais. CQB - tem menos peso e cadência de tiro aumentada em comparação com o original.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Luneta 1.5x (integrada).\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Steyr UMS \n</text>
+	</string>
+
+	<string id="st_wpn_aug_a3_custom_bas">
+		<text>Steyr AUG A3 Commando (BaS)</text>
+	</string>
+	<string id="st_wpn_aug_a3_custom_bas_descr">
+		<text>Steyr AUG (Armee Universal Gewehr - Fuzil Universal do Exército) é um fuzil de assalto bullpup austríaco de 5.56x45mm NATO, projetado nos anos 1960 pela Steyr-Daimler-Puch e atualmente fabricado pela Steyr Mannlicher GmbH & Co KG. O Steyr AUG A3 difere do modelo base pela presença de quatro trilhos Picatinny: o superior é usado para fixação de miras, um lançador de granadas ou uma empunhadura frontal vertical pode ser fixada na parte inferior, e uma mira laser ou outro equipamento adicional necessário é fixado nas laterais.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Instalada mira Trijicon Acog (x4) e PEQ LA5 LAM.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Steyr UMS \n</text>
+	</string>
+
+	<string id="st_wpn_ak5c_bas">
+		<text>AK 5C (BaS)</text>
+	</string>
+	<string id="st_wpn_ak5c_bas_descr">
+		<text>O Ak 5 ou Automatkarbin 5 ("carabina automática 5", sendo "carabina automática" o termo sueco para fuzil de assalto) é a versão sueca do fuzil de assalto FN FNC com certas modificações, principalmente para adaptar a arma ao clima parcialmente subártico sueco. O Ak 5 é o fuzil de serviço das Forças Armadas Suecas. O Bofors Ak 5C é a versão modernizada do Ak 5 original, seguindo a tendência de armas modulares. Uma das melhorias mais significativas é o sistema de trilhos MIL-STD-1913 ao qual uma variedade de diferentes ópticas, luzes e miras podem ser montadas, como miras telescópicas e intensificadores de imagem. A posição dupla de gás, miras de ferro e trava do ferrolho da família original de fuzis Ak 5 foram descartados.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser melhorada usando Kit Tático.\n 
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: NATO \n</text>
+	</string>
+	
+	<string id="st_wpn_ak5c_bas_5c_tik">
+		<text>AK 5C ISG Special (BaS)</text>
+	</string>
+	<string id="st_wpn_ak5c_bas_5c_tik_descr">
+		<text>O Ak 5 ou Automatkarbin 5 ("carabina automática 5", sendo "carabina automática" o termo sueco para fuzil de assalto) é a versão sueca do fuzil de assalto FN FNC com certas modificações, principalmente para adaptar a arma ao clima parcialmente subártico sueco. O Ak 5 é o fuzil de serviço das Forças Armadas Suecas. O Bofors Ak 5C é a versão modernizada do Ak 5 original, seguindo a tendência de armas modulares. Uma das melhorias mais significativas é o sistema de trilhos MIL-STD-1913 ao qual uma variedade de diferentes ópticas, luzes e miras podem ser montadas, como miras telescópicas e intensificadores de imagem. A posição dupla de gás, miras de ferro e trava do ferrolho da família original de fuzis Ak 5 foram descartados.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] A arma foi melhorada com kit tático. As peças no kit: empunhadura frontal de baixo perfil, LA5 LAM, miras Leupold LCO+D'evo e cano curto. (Melhoria irreversível).\n 
+		%c[d_purple] • %c[ui_gray_2] Miras instaladas: Leupold (LCO), Leupold D'evo x6 e Módulo de Mira Laser LA5.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Rifle Dynamics ISG Sound Suppressor \n</text>
+	</string>	
+
+	<string id="st_wpn_ak5c_isg">
+		<text>AK 5C ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_ak5c_isg_descr">
+		<text>A modificação ISG do AK5C sueco. Arma rara na Zona. Raramente usada por alguns esquadrões do ISG. O Ak 5 ou Automatkarbin 5 ("carabina automática 5", sendo "carabina automática" o termo sueco para fuzil de assalto) é a versão sueca do fuzil de assalto FN FNC com certas modificações, principalmente para adaptar a arma ao clima parcialmente subártico sueco. O Ak 5 é o fuzil de serviço das Forças Armadas Suecas. O Bofors Ak 5C é a versão modernizada do Ak 5 original, seguindo a tendência de armas modulares. Uma das melhorias mais significativas é o sistema de trilhos MIL-STD-1913 ao qual uma variedade de diferentes ópticas, luzes e miras podem ser montadas, como miras telescópicas e intensificadores de imagem. A posição dupla de gás, miras de ferro e trava do ferrolho da família original de fuzis Ak 5 foram descartados.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver. LA5 LAM (instalado).\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Rifle Dynamics ISG Sound Suppressor \n</text>
+	</string>
+
+	<string id="st_wpn_m4a1_siber">
+		<text>M4A1 RAS (BaS)</text>
+	</string>
+	<string id="st_wpn_m4a1_siber_descr">
+		<text>A Carabina M4 descende de uma família de armas que remonta sua linhagem às versões anteriores de carabina do M16, todas baseadas no AR-15 original feito pela ArmaLite. É uma versão mais curta e leve do fuzil de assalto M16, compartilhando 80% de suas peças. O M4 dispara munição 5.56x45mm NATO e é operado a gás, refrigerado a ar, alimentado por carregador, com seletor de tiro e coronha telescópica de 4 posições. Como muitas carabinas, o M4 é prático e mais conveniente de carregar do que um rifle de comprimento total. Foi adotado pelo Comando de Operações Especiais dos Estados Unidos (USSOCOM) e é a arma preferida das Forças Especiais do Exército dos EUA e dos SEALs da Marinha.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa) e OKP-7.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000 \n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas M203\n</text>
+	</string>
+
+	<string id="st_wpn_akm_bas">
+		<text>AKM (BaS)</text>
+	</string>
+	<string id="st_wpn_akm_bas_descr">
+		<text>O AKM é um fuzil de assalto 7.62x39mm projetado por Mikhail Kalashnikov. É uma versão aprimorada do fuzil AK-47 e foi desenvolvido na década de 1950. Introduzido no Exército Vermelho em 1959, o AKM é a variante mais ubíqua da série AK de armas de fogo e encontrou amplo uso nos antigos estados do Pacto de Varsóvia e seus muitos aliados africanos e asiáticos. A produção dos fuzis AKM foi realizada no Arsenal de Tula e na Fábrica Mecânica de Izhevsk.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Nenhuma\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas GP-25 (após modificação)\n</text>
+	</string>
+
+	<string id="st_wpn_akms_bas">
+		<text>AKMS (BaS)</text>
+	</string>
+	<string id="st_wpn_akms_bas_descr">
+		<text>Uma variante do AKM, equipada com uma coronha de metal dobrável sob a arma no lugar da coronha fixa de madeira. A coronha de metal do AKMS é um pouco diferente da coronha dobrável do modelo anterior AK-47, pois tem um mecanismo de travamento modificado, que trava ambos os braços de suporte da coronha AKMS em vez de apenas um.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n		
+		%c[d_purple] • %c[ui_gray_2] Miras: Nenhuma\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas GP-25 (após modificação)\n</text>
+	</string>
+
+	<string id="st_wpn_sks_b">
+		<text>SKS (BaS)</text>
+	</string>
+	<string id="st_wpn_sks_b_descr">
+		<text>O SKS é uma das primeiras armas projetadas para o cartucho 7.62x39mm. Substituído no serviço de primeira linha soviético pelo AK-47 no início dos anos 1950, permaneceu em serviço de segunda linha por décadas e ainda é usado como arma cerimonial hoje.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n%c[d_purple]• %c[ui_gray_2] nenhum\n</text>
+	</string>
+
+	<string id="st_wpn_l85_m1">
+		<text>L85 A2 (BaS)</text>
+	</string>
+	<string id="st_wpn_l85_m1_descr">
+		<text>O desenvolvimento do sistema SA80, que incluía duas armas - o fuzil de assalto SA80 IW e a metralhadora leve SA80 LSW, começou no final dos anos 1960 quando o Exército Britânico decidiu desenvolver um novo rifle para substituir o envelhecido L1 SLR 7.62x51mm fabricado pela FN FAL britânica. A arma individual padrão para as forças armadas britânicas, o L85 (em sua versão original A1) teve numerosos problemas de desempenho. A variante A2 surgiu como resultado de uma significativa atualização no início dos anos 2000 pela Heckler & Koch e permanece em serviço até 2020. O L85A2 é extremamente confiável em uma variedade de climas para vários cenários operacionais. Os rifles L85A2 atuais são reconhecidos como confiáveis e precisos, especialmente quando usando miras telescópicas SUSAT padrão.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n		
+		%c[d_purple] • %c[ui_gray_2] Miras: Susat com montagem nativa L85\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas: nenhum\n</text>
+	</string>
+	
+	<string id="st_wpn_l85_m2">
+		<text>L85 A2 Modernizado (BaS)</text>
+	</string>
+	<string id="st_wpn_l85_m2_descr">
+		<text>O desenvolvimento do sistema SA80, que incluía duas armas - o fuzil de assalto SA80 IW e a metralhadora leve SA80 LSW, começou no final dos anos 1960 quando o Exército Britânico decidiu desenvolver um novo rifle para substituir o envelhecido L1 SLR 7.62x51mm fabricado pela FN FAL britânica. A arma individual padrão para as forças armadas britânicas, o L85 (em sua versão original A1) teve numerosos problemas de desempenho. A variante A2 surgiu como resultado de uma significativa atualização no início dos anos 2000 pela Heckler & Koch e permanece em serviço até 2020. O L85A2 é extremamente confiável em uma variedade de climas para vários cenários operacionais. Os rifles L85A2 atuais são reconhecidos como confiáveis e precisos, especialmente quando usando miras telescópicas SUSAT padrão.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+        %c[d_purple] • %c[ui_gray_2] Melhorado: Trilho Picatinny instalado no topo da montagem nativa\n		
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas: nenhum\n</text>
+	</string>
+
+	<string id="st_wpn_l85_m3">
+		<text>L85 A2 Tático (BaS)</text>
+	</string>
+	<string id="st_wpn_l85_m3_descr">
+		<text>O desenvolvimento do sistema SA80, que incluía duas armas - o fuzil de assalto SA80 IW e a metralhadora leve SA80 LSW, começou no final dos anos 1960 quando o Exército Britânico decidiu desenvolver um novo rifle para substituir o envelhecido L1 SLR 7.62x51mm fabricado pela FN FAL britânica. A arma individual padrão para as forças armadas britânicas, o L85 (em sua versão original A1) teve numerosos problemas de desempenho. A variante A2 surgiu como resultado de uma significativa atualização no início dos anos 2000 pela Heckler & Koch e permanece em serviço até 2020. O L85A2 é extremamente confiável em uma variedade de climas para vários cenários operacionais. Os rifles L85A2 atuais são reconhecidos como confiáveis e precisos, especialmente quando usando miras telescópicas SUSAT padrão.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+        %c[d_purple] • %c[ui_gray_2] Melhorado: Trilho Picatinny instalado no topo da montagem nativa, guarda-mão quadrail, empunhadura frontal e módulo de mira laser tático verde B.E. MEYERS MAWL-C1.\n		
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas: Heckler&Koch M320\n</text>
+	</string>	
+
+	<string id="st_wpn_scar_siber">
+		<text>FN SCAR-H (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_descr">
+		<text>O Special Operations Forces Combat Assault Rifle (SCAR) é um rifle modular fabricado pela FN Herstal para o SOCOM para satisfazer os requisitos da competição SCAR. Esta família de rifles consiste em dois tipos, o SCAR-H e SCAR-L. O SCAR-H (Heavy) é calibrado para o cartucho 7.62x51mm NATO.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas: FN HERSTAL FN40GL Mk2\n</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_black">
+		<text>FN SCAR-H (Preto) (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_black_descr">
+		<text>O Special Operations Forces Combat Assault Rifle (SCAR) é um rifle modular fabricado pela FN Herstal para o SOCOM para satisfazer os requisitos da competição SCAR. Esta família de rifles consiste em dois tipos, o SCAR-H e SCAR-L. O SCAR-H (Heavy) é calibrado para o cartucho 7.62x51mm NATO.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas: FN HERSTAL FN40GL Mk2\n</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_m1">
+		<text>FN SCAR-H Tático (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_m1_descr">
+		<text>O Special Operations Forces Combat Assault Rifle (SCAR) é um rifle modular fabricado pela FN Herstal para o SOCOM para satisfazer os requisitos da competição SCAR. Esta família de rifles consiste em dois tipos, o SCAR-H e SCAR-L. O SCAR-H (Heavy) é calibrado para o cartucho 7.62x51mm NATO.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Melhorias Instaladas: Empunhadura frontal tática Magpull, Miras de Trítio\n		
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas: nenhum\n</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_m1_black">
+		<text>FN SCAR-H Tático Preto (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_m1_black_descr">
+		<text>O Special Operations Forces Combat Assault Rifle (SCAR) é um rifle modular fabricado pela FN Herstal para o SOCOM para satisfazer os requisitos da competição SCAR. Esta família de rifles consiste em dois tipos, o SCAR-H e SCAR-L. O SCAR-H (Heavy) é calibrado para o cartucho 7.62x51mm NATO.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Melhorias Instaladas: Empunhadura frontal tática Magpull, Miras de Trítio\n	
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas: nenhum\n</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_m2">
+		<text>FN SCAR-H Operador Especialista (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_m2_descr">
+		<text>O Special Operations Forces Combat Assault Rifle (SCAR) é um rifle modular fabricado pela FN Herstal para o SOCOM para satisfazer os requisitos da competição SCAR. Esta família de rifles consiste em dois tipos, o SCAR-H e SCAR-L. O SCAR-H (Heavy) é calibrado para o cartucho 7.62x51mm NATO.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Melhorias Instaladas: Empunhadura frontal tática Magpull, Miras de Trítio, módulo de mira laser tático verde B.E. MEYERS MAWL-C1\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas: nenhum\n</text>
+	</string>
+	
+	<string id="st_wpn_scar_siber_m2_custom">
+		<text>FN SCAR-H Operador Especialista (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_m2_custom_descr">
+		<text>O Special Operations Forces Combat Assault Rifle (SCAR) é um rifle modular fabricado pela FN Herstal para o SOCOM para satisfazer os requisitos da competição SCAR. Esta família de rifles consiste em dois tipos, o SCAR-H e SCAR-L. O SCAR-H (Heavy) é calibrado para o cartucho 7.62x51mm NATO.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Melhorias Instaladas: Módulo de mira laser tático verde B.E. MEYERS MAWL-C1\n
+		%c[d_purple] • %c[ui_gray_2] Miras instaladas: Vortex RAZOR UH-1 e magnificador EOTech G33.STS\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Lançador de granadas: nenhum\n</text>
+	</string>
+
+	<string id="st_wpn_korth">
+		<text>Korth Cano 4" (BaS)</text>
+	</string>
+	<string id="st_wpn_korth_descr">
+		<text>A Korth é uma fabricante de armas de fogo de alta qualidade localizada em Lollar, Hesse, Alemanha. Korth. Para alguns aficionados por armas, nada mais precisa ser dito. Construtores na tradição das marcas de luxo europeias definitivas, a Korth é talvez mais conhecida por revólveres com preços que a maioria das pessoas acharia mais fácil associar a carros alemães do que a armas alemãs. Mas essa reputação de preços estratosféricos, que é tema de lendas em balcões de armas em todo o mundo, deriva de seus produtos totalmente personalizados; o ponto de entrada é muito mais acessível. O preço inicial de uma Korth é semelhante ao de um Rolex: cinco mil dólares colocarão um pouco dessa excelência europeia em suas mãos, e certamente será memorável. As armas Korth são lendárias.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n		
+		%c[d_purple] • %c[ui_gray_2] Silenciador: nenhum\n </text>
+	</string>
+
+	<string id="st_wpn_korth_custom">
+		<text>Korth Cano 6" (BaS)</text>
+	</string>
+	<string id="st_wpn_korth_custom_descr">
+		<text>A Korth é uma fabricante de armas de fogo de alta qualidade localizada em Lollar, Hesse, Alemanha. Para alguns aficionados por armas, nada mais precisa ser dito. Construtores na tradição das marcas de luxo europeias definitivas, a Korth é talvez mais conhecida por revólveres com preços que a maioria das pessoas acharia mais fácil associar a carros alemães do que a armas alemãs. Mas essa reputação de preços estratosféricos, que é tema de lendas em balcões de armas em todo o mundo, deriva de seus produtos totalmente personalizados; o ponto de entrada é muito mais acessível. O preço inicial de uma Korth é semelhante ao de um Rolex: cinco mil dólares colocarão um pouco dessa excelência europeia em suas mãos, e certamente será memorável. As armas Korth são lendárias.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Instalado cano longo de 6 polegadas com rosca.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Docter Sight\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: BLACK BOX .45\n </text>
+	</string>
+
+
+<string id="st_grenade_launcher">
+	<text>Lançador de granadas GP-25 "Kostyor" (BaS+Van)</text>
+</string>
+<string id="st_grenade_launcher_descr">
+	<text>Um lançador de granadas de tiro único, carregamento frontal e cano raiado para rifles de assalto fabricados em países do Pacto de Varsóvia. Projetado para expandir significativamente o poder de fogo de uma esquadra de infantaria básica. O mecanismo de disparo é de auto-armamento, com trava de segurança manual e prevenção automática de disparo se instalado incorretamente no rifle.\n \n
+	%c[d_purple] • %c[ui_gray_2] velocidade do projétil: %c[ui_gray_1]~76 m/s\n
+	%c[d_purple] • %c[ui_gray_2] alcance de tiro: %c[ui_gray_1]~300 m\n
+	%c[d_purple] • %c[ui_gray_2] tempo de recarga: %c[ui_gray_1]lento\n
+	%c[d_purple] • %c[ui_gray_2] munição: %c[ui_gray_1]granada VOG-25 40mm</text>
+</string>
+
+<string id="st_grenade_launcher_m203">
+	<text>Lançador de granadas M203 (BaS+Van)</text>
+</string>
+
+<string id="st_grenade_launcher_m203_descr">
+	<text>Um lançador de granadas M203 modificado cujo comprimento foi reduzido em três polegadas, e que pode ser acoplado a armas por meio de um trilho Picatinny. Graças a uma montagem modificada, este lançador de granadas é amplamente utilizado em todo o mundo e pode ser instalado na maioria dos rifles atualmente produzidos. Embora de design mais moderno, tem praticamente as mesmas propriedades que seu equivalente soviético - o lançador de granadas GP-25.\n \n
+	%c[d_purple] • %c[ui_gray_2] velocidade do projétil: %c[ui_gray_1]~76 m/s\n
+	%c[d_purple] • %c[ui_gray_2] alcance de tiro: %c[ui_gray_1]~300 m\n
+	%c[d_purple] • %c[ui_gray_2] tempo de recarga: %c[ui_gray_1]lento\n
+	%c[d_purple] • %c[ui_gray_2] munição: %c[ui_gray_1]granada M203 40mm</text>
+</string>
+
+<string id="st_wpn_howa20">
+	<text>Howa Type 20 (BaS)</text>
+</string>
+<string id="st_wpn_howa20_descr">
+	<text>O rifle de assalto foi oficialmente apresentado ao público em maio de 2020. Esta arma destina-se a substituir o rifle de assalto Type 89, que está em serviço há cerca de 30 anos. O novo rifle das Forças de Autodefesa Japonesas, como o anterior, foi desenvolvido pela Howa Machinery Co, e usa munição 5.56 mm. O desenvolvimento de um novo rifle para substituir o Type 89 começou a pedido das Forças Armadas Japonesas em 2014. Externa e estruturalmente, o novo rifle Type 20 é uma espécie de média aritmética de muitos rifles modernos, como o HK433 ou CZ BREN II, e, aparentemente, não possui características originais. No entanto, não há nada de errado com isso, já que não é a originalidade do design que é exigida da arma do exército, mas sim confiabilidade, baixo preço e conformidade com os requisitos do cliente. Continua sendo um mistério como e em que quantidade este rifle chegou aos participantes de uma expedição científica à Zona.\n
+	%c[ui_gray_2]ACESSÓRIOS: \n
+	%c[d_purple] • %c[ui_gray_2] Inclui: Mira MARCH Shorty e Dispositivo Laser AN/PEQ-15A DBAL-A2\n
+	%c[d_purple] • %c[ui_gray_2] Silenciador: KAC QDSS NT-4 5.56x45\n </text>
+</string>
+
+<string id="st_wpn_ar15_freedom">
+	<text>AR-15 HERA (BaS)</text>
+</string>
+<string id="st_wpn_ar15_freedom_descr">
+	<text>Um rifle AR15 profundamente modernizado, geralmente em serviço com os veteranos da Liberdade. O kit de corpo instalado na arma permite que você se sinta confiante em qualquer distância de tiro, mas ao mesmo tempo, a arma se distingue por um alto preço devido ao uso de componentes muito caros no kit.\n \n
+	%c[ui_gray_2]ACESSÓRIOS: \n
+	%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+	%c[d_purple] • %c[ui_gray_2] Melhorias Instaladas: Módulo de mira laser tático verde B.E. MEYERS MAWL-C1 e empunhadura frontal Hera Arms (ajuda no controle de recuo) e coronha.\n
+	%c[d_purple] • %c[ui_gray_2] Silenciador: Surefire SOCOM556-MONSTER\n </text>
+</string>
+
+<string id="st_wpn_m4_skryaga">
+	<text>AR do Pão-Duro (BaS)</text>
+</string>
+<string id="st_wpn_m4_skryaga_descr">
+	<text>Como Beard, um comerciante de Zaton, em seu tempo, Skryaga também decidiu ganhar um dinheiro extra vendendo carabinas em "seu" kit personalizado. O resultado foi um bom cano leve e muito ergonômico baseado no M4.\n \n
+	%c[ui_gray_2]ACESSÓRIOS: \n
+	%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa) e MarchF).\n
+	%c[d_purple] • %c[ui_gray_2] Silenciador: KAC QDSS NT-4 5.56x45\n
+	%c[d_purple] • %c[ui_gray_2] Lançador de granadas M203\n</text>
+</string>
+
+<string id="st_wpn_ak12_mono_com">
+	<text>AK-12 Pregador (BaS)</text>
+</string>
+<string id="st_wpn_ak12_mono_com_descr">
+	<text>Uma peça rara. Versão modificada do AK-12 2012. Principalmente utilizada pelos comandantes de esquadrão do Monolith. Possui vários modos de disparo: automático, único e rajada de três tiros.\n \n
+	%c[0,140,140,140]ACESSÓRIOS: \n
+	%c[0,93,0,116] • %c[0,140,140,140] Miras: Todas as miras para picatinny\n
+	%c[0,93,0,116] • %c[0,140,140,140] Silenciador: Supressor Sonoro Hexagon 5.45/7.62\n</text>
+</string>
+
+<string id="st_wpn_sig550_siber">
+	<text>SIG SG550 (BaS)</text>
+</string>
+<string id="st_wpn_sig550_siber_descr">
+	<text>Reconhecido por sua alta qualidade de produção e bom desempenho, o SG 550 é frequentemente referido como o melhor rifle 5.56 mm já fabricado. Possui uma coronha esqueletizada dobrável lateralmente e um bipé leve de alumínio que se dobra em ranhuras no guarda-mão inferior.\n \n
+	%c[ui_gray_2]ACESSÓRIOS: \n
+	%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+	%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000\n</text>
+</string>
+
+<string id="st_wpn_sig550_tac_siber">
+	<text>SIG SG550 Tático (BaS)</text>
+</string>
+<string id="st_wpn_sig550_tac_siber_descr">
+	<text>Reconhecido por sua alta qualidade de produção e bom desempenho, o SG 550 é frequentemente referido como o melhor rifle 5.56 mm já fabricado. Possui uma coronha esqueletizada dobrável lateralmente e um bipé leve de alumínio que se dobra em ranhuras no guarda-mão inferior.\n \n
+	%c[ui_gray_2]ACESSÓRIOS: \n
+	%c[d_purple] • %c[ui_gray_2] Melhorias Instaladas: Guarda-mão tático, Empunhadura vertical, Módulo de mira laser AN/PEQ-16 e Miras de Trítio.\n 
+	%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+	%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000\n
+	%c[d_purple] • %c[ui_gray_2] Lançador de granadas M203\n</text>
+</string>
+
+
+	<string id="st_wpn_sig552_siber">
+		<text>SIG SG552 Commando (BaS)</text>
+	</string>
+	<string id="st_wpn_sig552_siber_descr">
+		<text>O SG 552 Commando foi projetado para combate urbano, sendo o membro mais compacto da renomada família SG 550 da SIG, o que melhora suas capacidades CQC.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000\n</text>
+	</string>
+
+	<string id="st_wpn_sig552_tac_siber">
+		<text>SIG SG552 Tático Commando (BaS)</text>
+	</string>
+	<string id="st_wpn_sig552_tac_siber_descr">
+		<text>O SG 552 Commando foi projetado para combate urbano, sendo o membro mais compacto da renomada família SG 550 da SIG, o que melhora suas capacidades CQC.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Melhorias Instaladas: Empunhadura vertical, Módulo de mira laser AN/PEQ-16 e Miras de Trítio.\n 		
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000\n</text>
+	</string>
+
+	<string id="st_wpn_sig552_isg_siber">
+		<text>SIG SG552 Commando ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_sig552_isg_siber_descr">
+		<text>O SG 552 Commando foi projetado para combate urbano, sendo o membro mais compacto da renomada família SG 550 da SIG, o que melhora suas capacidades CQC. Esta versão do SG552 foi vista em uso por equipes de infiltração do ISG.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Melhorias Instaladas: Empunhadura tática Magpul e miras, Módulo de mira laser tático verde B.E. MEYERS MAWL-C1.\n 		
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para trilho picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight e 1P76 Rakurs (picatinny).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro ISG Rifle Dynamics\n</text>
+	</string>	
+
+	<string id="st_wpn_kiparis_s">
+		<text>OTs-02 Kiparis (BaS)</text>
+	</string>
+	<string id="st_wpn_kiparis_s_descr">
+		<text>OTs-02 "Kiparis" (Cipreste) é uma submetralhadora, desenvolvida em 1972 por ordem do Ministério da Defesa da URSS por projetistas de armas do TsKIB COO de Tula. O layout é baseado na submetralhadora tcheca Scorpion Vz.61 (variante de 1961). O mecanismo automático do OTs-02 "Kiparis" é alimentado por um recuo de ferrolho livre. Os disparos são feitos com o ferrolho fechado, o que aumenta a precisão do tiro. Para aumentar a estabilidade da arma, é utilizada uma coronha dobrável que, na posição compacta, é dobrada sobre o receptor. Na Zona, esta arma não é incomum e geralmente é usada por bandidos e solitários que não podem pagar por uma arma melhor.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro 0217.\n</text>
+	</string>
+
+	<string id="st_wpn_kiparis_m1">
+		<text>OTs-02 Kiparis "Nonpro" (BaS)</text>
+	</string>
+	<string id="st_wpn_kiparis_m1_descr">
+		<text>OTs-02 "Kiparis" (Cipreste) é uma submetralhadora, desenvolvida em 1972 por ordem do Ministério da Defesa da URSS por projetistas de armas do TsKIB COO de Tula. O layout é baseado na submetralhadora tcheca Scorpion Vz.61 (variante de 1961). O mecanismo automático do OTs-02 "Kiparis" é alimentado por um recuo de ferrolho livre. Os disparos são feitos com o ferrolho fechado, o que aumenta a precisão do tiro. Para aumentar a estabilidade da arma, é utilizada uma coronha dobrável que, na posição compacta, é dobrada sobre o receptor. Na Zona, esta arma não é incomum e geralmente é usada por bandidos e solitários que não podem pagar por uma arma melhor.\n 
+		O Mecânico Polimer, como se descobriu, se considera um verdadeiro fã do antigo, mas muito acessível cartucho 9x18 nas regiões sul da Zona. A linha de submetralhadoras econômicas que ele desenvolveu é muito popular entre stalkers de todas as facções na Zona.
+		Este modelo difere do padrão principalmente em alguns acessórios simples e taxa de disparo ligeiramente aumentada.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] As armas são equipadas com: a mira laser mais barata possível e um trilho picatinny para fixação de algumas miras pequenas. (Além disso, como bônus, Polimer lhe dá um conjunto de carregadores de 40 tiros ao comprá-la).\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras Red Dot para picatinny/weaver exceto miras com montagem longa como: Eotech 553/XPS, C-More, OKP-7, Meprolight M21, EKP-8-18 e Kemper.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro 0217.\n</text>
+	</string>
+	
+	<string id="st_wpn_kiparis_m2">
+		<text>OTs-02 Kiparis "Obligor" (BaS)</text>
+	</string>
+	<string id="st_wpn_kiparis_m2_descr">
+		<text>OTs-02 "Kiparis" (Cipreste) é uma submetralhadora, desenvolvida em 1972 por ordem do Ministério da Defesa da URSS por projetistas de armas do TsKIB COO de Tula. O layout é baseado na submetralhadora tcheca Scorpion Vz.61 (variante de 1961). O mecanismo automático do OTs-02 "Kiparis" é alimentado por um recuo de ferrolho livre. Os disparos são feitos com o ferrolho fechado, o que aumenta a precisão do tiro. Para aumentar a estabilidade da arma, é utilizada uma coronha dobrável que, na posição compacta, é dobrada sobre o receptor. Na Zona, esta arma não é incomum e geralmente é usada por bandidos e solitários que não podem pagar por uma arma melhor.\n 
+		O Mecânico Polimer, como se descobriu, se considera um verdadeiro fã do antigo, mas muito acessível cartucho 9x18 nas regiões sul da Zona. A linha de submetralhadoras econômicas que ele desenvolveu é muito popular entre stalkers de todas as facções na Zona. Este modelo foi feito por Polimer para a facção Dever.\n
+		Este modelo difere do padrão principalmente em alguns acessórios simples e taxa de disparo ligeiramente aumentada. Além disso, este modelo vem com empunhadura frontal artesanal de baquelite que aumenta o controle do recuo. A empunhadura de baquelite é fixada a um suporte de aço conectado à parte inferior do guarda-mão do Kiparis e reforçada com três parafusos de titânio.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] As armas são equipadas com: mira laser, trilho picatinny para fixação de algumas miras pequenas e empunhadura frontal artesanal de baquelite. (Além disso, como bônus, Polimer lhe dá um conjunto de carregadores de 40 tiros ao comprá-la).\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon Acog e miras Red Dot para picatinny/weaver exceto miras com montagem longa como: Eotech 553, C-More, Meprolight M21, EKP-8-18.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro 0217.\n</text>
+	</string>
+			<string id="st_wpn_kiparis_m3">
+		<text>OTs-02 Kiparis "Zhmich (Torta de Óleo)" (BaS)</text>
+	</string>
+	<string id="st_wpn_kiparis_m3_descr">
+		<text>OTs-02 "Kiparis" (Cipreste) é uma submetralhadora, desenvolvida em 1972 por ordem do Ministério da Defesa da URSS por projetistas de armas do TsKIB COO de Tula. O layout é baseado na submetralhadora tcheca Scorpion Vz.61 (variante de 1961). O mecanismo automático do OTs-02 "Kiparis" é alimentado por um recuo de ferrolho livre. Os disparos são feitos com o ferrolho fechado, o que aumenta a precisão do tiro. Para aumentar a estabilidade da arma, é utilizada uma coronha dobrável que, na posição compacta, é dobrada sobre o receptor. Na Zona, esta arma não é incomum e geralmente é usada por bandidos e solitários que não podem pagar por uma arma melhor.\n 
+		O Mecânico Polimer, como se descobriu, se considera um verdadeiro fã do antigo, mas muito acessível cartucho 9x18 nas regiões sul da Zona. A linha de submetralhadoras econômicas que ele desenvolveu é muito popular entre stalkers de todas as facções na Zona. Este modelo foi feito por Polimer para a facção Céu Limpo.\n
+		Este modelo difere do padrão principalmente em alguns acessórios simples e taxa de disparo ligeiramente aumentada. Além disso, este modelo vem com empunhadura frontal artesanal de baquelite que aumenta o controle do recuo. A empunhadura de baquelite é fixada a um suporte de aço conectado à parte inferior do guarda-mão do Kiparis e reforçada com três parafusos de titânio.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] As armas são equipadas com: mira laser e trilho picatinny para fixação de algumas miras pequenas e empunhadura frontal artesanal de baquelite. O kit inclui um conjunto de carregadores tipo tambor de 81 tiros.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon Acog e miras Red Dot para picatinny/weaver exceto miras com montagem longa como: Eotech 553, C-More, Meprolight M21, EKP-8-18.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor Sonoro 0217.\n</text>
+	</string>
+
+	    <string id="st_wpn_vz61_scorpion">
+		<text>Skorpion vz.61 (BaS)</text>
+	</string>
+	<string id="st_wpn_vz61_scorpion_descr">
+		<text>O Skorpion vz. 61 (ou Sa vz. 61 Skorpion) é uma pistola-metralhadora tcheca desenvolvida em 1959 por Miroslav Rybar (1924–1970) e produzida sob a designação oficial Samopal vzor 61 ("submetralhadora modelo 1961") pela fábrica de armas Ceska zbrojovka em Uhersky Brod de 1963 a 1979.
+		Embora tenha sido desenvolvida para uso com forças de segurança, a arma também foi aceita no serviço do Exército Tcheco como arma lateral pessoal para funcionários do exército de baixa patente, motoristas de veículos, pessoal de veículos blindados e forças especiais. Atualmente, a arma está em uso com as forças armadas de vários países como arma lateral. Originalmente em .32 ACP, mas a maioria dos modelos que chegaram à Zona são vz.65, vz.82 em 9x18mm Makarov.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Scorpion\n</text>
+	</string>
+	
+		<string id="st_wpn_vz61_scorpion_m1">
+		<text>Skorpion vz.61 Aprimorado (BaS)</text>
+	</string>
+	<string id="st_wpn_vz61_scorpion_m1_descr">
+		<text>O Skorpion vz. 61 (ou Sa vz. 61 Skorpion) é uma pistola-metralhadora tcheca desenvolvida em 1959 por Miroslav Rybar (1924–1970) e produzida sob a designação oficial Samopal vzor 61 ("submetralhadora modelo 1961") pela fábrica de armas Ceska zbrojovka em Uhersky Brod de 1963 a 1979.
+		Embora tenha sido desenvolvida para uso com forças de segurança, a arma também foi aceita no serviço do Exército Tcheco como arma lateral pessoal para funcionários do exército de baixa patente, motoristas de veículos, pessoal de veículos blindados e forças especiais. Atualmente, a arma está em uso com as forças armadas de vários países como arma lateral. Originalmente em .32 ACP, mas a maioria dos modelos que chegaram à Zona são vz.65, vz.82 em 9x18mm Makarov.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] As armas são equipadas com: Mira laser e suporte para miras Red Dot pequenas. O kit inclui um conjunto de carregadores de 30 tiros.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon RMR, Leupold Deltapoint PRO, Aimpoint T1 (montagem baixa) e Docter Sight.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Scorpion.\n</text>
+	</string>
+	
+			<string id="st_wpn_vz61_scorpion_m2">
+		<text>Skorpion vz.61 do Polimer (BaS)</text>
+	</string>
+	<string id="st_wpn_vz61_scorpion_m2_descr">
+		<text>O Skorpion vz. 61 (ou Sa vz. 61 Skorpion) é uma pistola-metralhadora tcheca desenvolvida em 1959 por Miroslav Rybar (1924–1970) e produzida sob a designação oficial Samopal vzor 61 ("submetralhadora modelo 1961") pela fábrica de armas Ceska zbrojovka em Uhersky Brod de 1963 a 1979.
+		Embora tenha sido desenvolvida para uso com forças de segurança, a arma também foi aceita no serviço do Exército Tcheco como arma lateral pessoal para funcionários do exército de baixa patente, motoristas de veículos, pessoal de veículos blindados e forças especiais. Atualmente, a arma está em uso com as forças armadas de vários países como arma lateral. Originalmente em .32 ACP, mas a maioria dos modelos que chegaram à Zona são vz.65, vz.82 em 9x18mm Makarov.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] As armas são equipadas com: Mira laser da empresa Zenit, empunhadura frontal compacta e suporte para miras Red Dot pequenas. O kit inclui um conjunto de carregadores tipo tambor de 60 tiros.\n
+		%c[d_purple] • %c[ui_gray_2] Miras: Trijicon RMR, Leupold Deltapoint PRO, Aimpoint T1 (montagem baixa) e Docter Sight.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador Scorpion.\n</text>
+	</string>
+
+	<string id="st_wpn_pkm_siber">
+		<text>PKM (BaS)</text>
+	</string>
+	<string id="st_wpn_pkm_siber_descr">
+		<text>Modificação de uma metralhadora do exército com alimentação por fita. Apesar da alta massa e precisão insatisfatória, encontrou uma aplicação bastante ampla na Zona. É principalmente usada para suprimir um inimigo em menor número e ao limpar covis de mutantes.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Nenhum \n</text>
+	</string>
+
+			<string id="st_wpn_g28">
+		<text>Fuzil de Atirador HK G28 7.62x51 (BaS)</text>
+	</string>
+	<string id="st_wpn_g28_descr">
+		<text>O fuzil HK G28 foi desenvolvido pela Heckler&Koch especificamente para o Bundeswehr como uma arma de suporte para pequenas unidades de infantaria. O G28 é baseado no HK MR308, que, por sua vez, é uma versão civil do fuzil automático HK 417. Apesar de várias diferenças, o HK G28 é 75% intercambiável com o HK 417. Este fuzil é projetado para atirar em distâncias inacessíveis aos fuzis de assalto padrão 5.56mm.\n
+		A luneta Schmidt & Bender PM II 3-12x50 foi originalmente criada para forças militares de elite para aquisição de alvos de alta qualidade e precisão pontual. A luneta é equipada com uma retícula Tremor2 iluminada que oferece uma variedade de marcações para calcular tiros precisos levando em conta distância e vento.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Luneta Schmidt&Bender PM II 3-12x50 e Aimpoint T1 incluídos.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Supressor sonoro HK G28 B&T QD 7.62x51.\n</text>
+	</string>
+
+	<string id="st_wpn_adar2_15">
+		<text>ADAR 2-15 (BaS)</text>
+	</string>
+	<string id="st_wpn_adar2_15_descr">
+		<text>A carabina civil russa ADAR 2-15 é baseada no design do AR-15. A carabina é produzida em São Petersburgo com uso de componentes israelenses e canos cromados fabricados pela Molot Arms.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas para picatinny/weaver (exceto miras Red Dot com montagem baixa: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (montagem baixa), Docter Sight, 1P76 Rakurs (montagem baixa) e OKP-7.\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000\n</text>
+	</string>
+
+	<string id="st_wpn_sr2_m2">
+    	<text>SR-2M do Mangun (BaS)</text>
+  	</string>
+  	<string id="st_wpn_sr2_m2_descr">
+		<text>O SR.2 "Veresk" é uma submetralhadora russa (fabricada pela TsNIITOCHMASH), projetada para engajar pessoal inimigo em combate próximo (a uma distância de até 200 m) usando colete balístico individual. A principal vantagem do SR-2 é seu alto poder de fogo, alta precisão de tiro e o efeito destrutivo do projétil a curta distância.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+        %c[d_purple] • %c[ui_gray_2] Versão do SR-2M aperfeiçoada pelo mecânico da facção Duty, Sargento "Mangun" Gromov. As melhorias incluíram: um grupo de ferrolho leve que aumenta a cadência de tiro, uma coronha Magpul para melhor ergonomia, um trilho picatinny que permite montar miras red dot/ampliação e um Módulo de Mira Laser LA5 (com feixe verde).\n		
+        %c[d_purple] • %c[ui_gray_2] Todas as miras para picatinny/weaver, exceto MarchF, Leupold Mark 8, Susat e EOTS-62.\n	
+		%c[d_purple] • %c[ui_gray_2] Silenciador: GZV-SR2\n </text>
+  	</string>
+
+	<string id="st_wpn_pk_siber">
+    	<text>PK (BaS)</text>
+  	</string>
+  	<string id="st_wpn_pk_siber_descr">
+		<text>O PK (Pulemyot Kalashnikova, ou "metralhadora de Kalashnikov"), é uma metralhadora de uso geral alimentada por fita, com câmara para o cartucho 7.62×54mmR. Projetada na União Soviética e atualmente em produção na Rússia, a metralhadora PK original foi introduzida em 1961 e a variante PKM aprimorada foi introduzida em 1969. O PK foi projetado para substituir as metralhadoras SGM e RP-46 que estavam anteriormente em serviço soviético. A arma permanece em uso como arma de infantaria de linha de frente e montada em veículos com as forças armadas da Rússia e também foi extensivamente exportada e produzida em vários outros países sob licença.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Nenhum \n</text>
+  	</string>
+
+	<string id="st_wpn_ppsh_bas">
+		<text>PPSh-41 (BaS)</text>
+	</string>
+	<string id="st_wpn_ppsh_bas_descr">
+		<text>Uma importante arma de infantaria das forças armadas soviéticas durante a Segunda Guerra Mundial, a PPSh-41 era uma arma durável, de baixa manutenção, feita de componentes baratos e facilmente obtidos. Utiliza cartuchos 7.62x25mm.\n 
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser aprimorada usando Kit Tático.\n 
+		%c[d_purple] • %c[ui_gray_2] Miras: Nenhuma \n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum \n</text>
+	</string>
+
+	<string id="st_wpn_ppsh_bas_uptacppsh">
+		<text>PPSh-41 Bandolero (BaS)</text>
+	</string>
+	<string id="st_wpn_ppsh_bas_uptacppsh_descr">
+		<text>Uma importante arma de infantaria das forças armadas soviéticas durante a Segunda Guerra Mundial, a PPSh-41 era uma arma durável, de baixa manutenção, feita de componentes baratos e facilmente obtidos. Utiliza cartuchos 7.62x25mm.\n 
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] O kit tático "Bandolero" está instalado na arma, que inclui a mira colimadora EKP-8-18 e carcaça do cano aprimorada (o calor é removido mais rapidamente), resultando na possibilidade de aumentar a cadência de tiro em comparação com o original. (Esta melhoria é irreversível).\n 
+		%c[d_purple] • %c[ui_gray_2] Miras: Mira reflexiva Axion Kobra EKP-8-18 - incluída.\n 
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum \n</text>
+	</string>
+
+	<string id="st_wpn_karabiner98k">
+		<text>Karabiner 98 Kurz (BaS)</text>
+	</string>
+	<string id="st_wpn_karabiner98k_descr">
+		<text>Durante a Segunda Guerra Mundial, certos rifles Karabiner 98k foram selecionados por sua excepcional precisão e equipados com a mira telescópica ZF39. Estes rifles foram usados pela Alemanha Nazista como rifles de atirador. Em mãos habilidosas, tinham um alcance efetivo de até 1000 metros. \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Pode ser aprimorado usando Kit Tático (adaptador de silenciador).\n 		
+		%c[d_purple] • %c[ui_gray_2] Miras: ZF-4 (incluída).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Nenhum (Kit adaptador de cano necessário para montar um silenciador) \n</text>
+	</string>
+
+	<string id="st_wpn_karabiner98k_silen98">
+		<text>Karabiner 98 Kurz (com adaptador de silenciador) (BaS)</text>
+	</string>
+	<string id="st_wpn_karabiner98k_silen98_descr">
+		<text>Durante a Segunda Guerra Mundial, certos rifles Karabiner 98k foram selecionados por sua excepcional precisão e equipados com a mira telescópica ZF39. Estes rifles foram usados pela Alemanha Nazista como rifles de atirador. Em mãos habilidosas, tinham um alcance efetivo de até 1000 metros. \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: ZF-4 (incluída).\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: K98 Forester.\n </text>
+	</string>
+
+	<string id="st_wpn_kar98_retrotac">
+		<text>Karabiner 98 Caçador da Floresta (BaS)</text>
+	</string>
+	<string id="st_wpn_kar98_retrotac_descr">
+		<text>Versão modificada do rifle de precisão alemão Mauser Karabiner 98k da Segunda Guerra Mundial - outro trabalho do Forester, conhecido por seu amor pela restauração e modernização de antigas armas capturadas da era da Segunda Guerra Mundial. A coronha original de madeira foi levemente aliviada; um guarda-mão foi instalado em sua parte frontal, permitindo a instalação de uma mira noturna adicional. O rifle está equipado com uma excelente luneta de precisão fabricada pela March, Japão. De acordo com o Forester, este rifle é mais adequado para caçar intrusos na Floresta Vermelha do que mutantes.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: March (incluída), PN-23 "Nozzle" \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: K98 Forester.\n </text>
+	</string>
+
+	<string id="st_wpn_rem700_mcmillan">
+		<text>Remington 700 McMillan (BaS)</text>
+	</string>
+	<string id="st_wpn_rem700_mcmillan_descr">
+		<text>Os rifles Modelo 700 têm sido produzidos nos EUA pela Remington desde 1962. É possivelmente o rifle de ação por ferrolho mais utilizado para caça e tiro de precisão nos Estados Unidos. É o produto principal da Remington Arms. Existem muitas variantes do rifle para diferentes cartuchos, no entanto, o cartucho .338 Lapua Magnum foi escolhido como munição para este modelo para tiro a longas e extra-longas distâncias. O rifle é equipado com uma coronha McMillan A5, cano estriado PGW Defense C14 de 26" e compensador de freio de boca, além de um trilho frontal embutido Badger Ordanance para miras noturnas adicionais.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Schmidt&Bender PM II 3-12x50 (incluída), PN-23 "Nozzle" \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: PGW Defense C14 Timberwolf.\n </text>
+	</string>
+
+	<string id="st_wpn_rem700_aics">
+		<text>Remington 700 AICS (BaS)</text>
+	</string>
+	<string id="st_wpn_rem700_aics_descr">
+		<text>Os rifles Modelo 700 têm sido produzidos nos EUA pela Remington desde 1962. É possivelmente o rifle de ação por ferrolho mais utilizado para caça e tiro de precisão nos Estados Unidos. É o produto principal da Remington Arms. Existem muitas variantes do rifle para diferentes cartuchos, no entanto, o cartucho .338 Lapua Magnum foi escolhido como munição para este modelo para tiro a longas e extra-longas distâncias. O rifle é equipado com uma coronha AICS (Accuracy International Chassis Systems), cano estriado PGW Defense C14 de 22" e compensador de freio de boca, além de um trilho frontal embutido Badger Ordanance para miras noturnas adicionais.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Schmidt&Bender PM II 3-12x50 (incluída), PN-23 "Nozzle" \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: PGW Defense C14 Timberwolf.\n </text>
+	</string>
+
+	<string id="st_wpn_pkm_zenit_shorty">
+		<text>Shorty (BaS)</text>
+	</string>
+	<string id="st_wpn_pkm_zenit_shorty_descr">
+		<text>Uma modificação mais leve e aprimorada da metralhadora PKM em um kit da empresa Zenitka. Graças ao cano curto, o modelo tem ergonomia aprimorada, o que o torna mais adequado para combate em áreas urbanas. O modelo tem empunhadura angular instalada para melhor controle do recuo. Na Zona, é usado principalmente pelos militares (forças especiais).\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para picatinny/weaver, dispositivo tático Zenit Perst-3 com laser vermelho (incluído) \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador TGP-V\n </text>
+	</string>
+
+		<string id="st_wpn_pkm_zenit_siber">
+		<text>PKM Zenit (BaS)</text>
+	</string>
+	<string id="st_wpn_pkm_zenit_siber_descr">
+		<text>Uma modificação aprimorada da metralhadora PKM em um kit da empresa Zenitka. O modelo tem empunhadura angular instalada para melhor controle do recuo. Na Zona, é usado principalmente pelos militares (forças especiais).\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para picatinny/weaver, dispositivo tático Zenit Perst-3 com laser vermelho (incluído) \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador TGP-V\n </text>
+	</string>
+
+		<string id="st_wpn_scar_l_tac">
+		<text>Scar-L CQB (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_l_tac_descr">
+		<text>O fuzil de assalto FN SCAR-L (Special Operation Forces Combat Assault Rifle - Light) em calibre 5.56x45 NATO, foi adotado pelo USSOCOM (Comando de Operações Especiais dos Estados Unidos) como Mk 16. Possui uma coronha dobrável de polímero e um cano flutuante forjado a frio Mil-Spec com furo cromado. Controles operacionais totalmente ambidestros adaptam-se instantaneamente a qualquer usuário ou posição de tiro. O trilho óptico integrado ao receptor mais três trilhos acessórios permitem a montagem de uma ampla variedade de miras telescópicas, miras eletrônicas, luzes táticas e lasers. Fabricado pela Fabrique Nationale Herstal. Disponível em preto e marrom terra escuro.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para picatinny/weaver, módulo de mira laser verde tático B.E. MEYERS MAWL-C1 (incluído) \n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: ADVANCED ARMAMENT (AAC) M4-2000\n </text>
+	</string>
+
+		<string id="st_wpn_pkp_siber">
+		<text>PKP Pecheneg (BaS)</text>
+	</string>
+	<string id="st_wpn_pkp_siber_descr">
+		<text>O PKP "Pecheneg" é uma metralhadora leve russa que utiliza munição 7.62x54mmR. É uma metralhadora PKM modernizada. Diz-se que o Pecheneg é mais preciso que todos os seus predecessores devido a um cano mais pesado, não removível, com resfriamento forçado a ar com aletas de resfriamento radiais e uma alça que elimina o efeito de névoa dos gases quentes e mantém o cano mais frio, tornando a arma mais confiável.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: todas as miras para montagem Dovetail\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador TGP-V\n </text>
+	</string>
+
+		<string id="st_wpn_pkp_tac_siber">
+		<text>PKP Pecheneg Tático (BaS)</text>
+	</string>
+	<string id="st_wpn_pkp_tac_siber_descr">
+		<text>Uma modificação mais leve e aprimorada da metralhadora PKP. Graças ao cano curto, o modelo tem ergonomia aprimorada, o que o torna mais adequado para combate em áreas urbanas. O modelo tem empunhadura angular instalada para melhor controle do recuo. Na Zona, é usado principalmente pelos militares (forças especiais) e Mercenários.\n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Miras: Todas as miras para picatinny/weaver, dispositivo tático Zenit Perst-3 com laser vermelho (incluído)\n
+		%c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador TGP-V\n</text>
+	</string>
+	
+</string_table>

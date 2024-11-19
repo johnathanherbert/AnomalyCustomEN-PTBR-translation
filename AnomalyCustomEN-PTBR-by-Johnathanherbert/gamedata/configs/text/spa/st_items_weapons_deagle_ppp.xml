@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+	Armas
+-->
+
+<string_table>
+
+	<string id="st_wpn_desert_eagle_gold">
+		<text>Desert Eagle (Dourada)</text>
+	</string>
+	
+	<string id="st_wpn_desert_eagle_black">
+		<text>Desert Eagle (Preta)</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_dhampyr">
+		<text>Desert Eagle "Dhampyr"</text>
+	</string>
+	<string id="st_wpn_desert_eagle_dhampyr_descr">
+		<text>Uma versão mais modernizada da Desert Eagle, com compensador embutido e trilhos picatinny no quadro e slide. Mesmo assim, ainda tem um recuo considerável, mas muito menor que qualquer outra Desert Eagle, sem falar em magnum, as pequenas melhorias no cano também melhoram um pouco a precisão, e é possível instalar algumas miras. Parece ser de formato relativamente novo, mas olhando para o slide e o carregador, afirma usar .50AE e ainda assim está alimentando .357 Magnum. Sem dúvida, foi modificada na própria Zona, talvez pelo próprio Nimble.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical</text>
+	</string>
+	
+	<string id="st_up_deagle_127_name">
+		<text>Mudança de calibre para 12.7x55mm</text>
+	</string>
+
+	<string id="st_up_deagle_127_descr">
+		<text>Projeto do Nimble que veio com a própria arma como bônus. Isso permite mudar o calibre para 12.7x55mm, mas você terá apenas uma munição no carregador.</text>
+	</string>
+
+</string_table>

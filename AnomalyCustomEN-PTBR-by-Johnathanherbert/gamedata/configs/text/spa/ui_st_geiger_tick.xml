@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_geiger_tick_title">
+		<text>Contador Geiger</text>
+	</string>
+	<string id="ui_mcm_menu_geiger_tick">
+		<text>Contador Geiger</text>
+	</string>
+
+	<string id="ui_mcm_geiger_tick_tick_dist">
+		<text>Distância da nuvem de radiação</text>
+	</string>
+
+</string_table>

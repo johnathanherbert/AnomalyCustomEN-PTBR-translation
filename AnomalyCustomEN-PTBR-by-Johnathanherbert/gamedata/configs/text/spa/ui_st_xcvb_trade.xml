@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<!-- Categorias -->
+	<string id="xcvb_trade_mut_1">
+		<text>Partes de mutantes (comum)</text>
+	</string>
+	<string id="xcvb_trade_mut_2">
+		<text>Partes de mutantes (incomum)</text>
+	</string>
+	<string id="xcvb_trade_mut_3">
+		<text>Partes de mutantes (raro)</text>
+	</string>
+
+	<string id="xcvb_trade_meat_1">
+		<text>Carne (comum)</text>
+	</string>
+	<string id="xcvb_trade_meat_2">
+		<text>Carne (rara)</text>
+	</string>
+
+	<string id="xcvb_trade_hide_1">
+		<text>Peles (comum)</text>
+	</string>
+	<string id="xcvb_trade_hide_2">
+		<text>Peles (rara)</text>
+	</string>
+
+	<string id="xcvb_trade_arts_1">
+		<text>Artefatos (sucata)</text>
+	</string>
+	<string id="xcvb_trade_arts_2">
+		<text>Artefatos (comum)</text>
+	</string>
+	<string id="xcvb_trade_arts_3">
+		<text>Artefatos (incomum)</text>
+	</string>
+	<string id="xcvb_trade_arts_4">
+		<text>Artefatos (raro)</text>
+	</string>
+
+	<string id="xcvb_trade_xt_weapons">
+		<text>Armas</text>
+	</string>
+
+	<string id="xcvb_trade_xt_armors">
+		<text>Armadura</text>
+	</string>
+
+	<string id="xcvb_trade_xt_repair">
+		<text>Reparo</text>
+	</string>
+
+	<string id="xcvb_trade_xt_supplies">
+		<text>Suprimentos</text>
+	</string>
+
+	<string id="xcvb_trade_xt_med">
+		<text>Medicamentos</text>
+	</string>
+
+
+	<!-- para HUD -->
+	<string id="xcvb_trade_discount">
+		<text>Desconto</text>
+	</string>
+
+	<string id="xcvb_trade_sell_to">
+		<text>Vender ao comerciante</text>
+	</string>
+
+	<string id="xcvb_trade_buy_from">
+		<text>Comprar do comerciante</text>
+	</string>
+
+	<string id="xcvb_trade_group">
+		<text>grupo:</text>
+	</string>
+
+	<string id="xcvb_trade_buy_krug">
+		<text>•</text>
+	</string>
+
+
+	<!-- mensagem -->
+	<string id="xcvb_trade_trade">
+		<text>(Comércio)</text>
+	</string>
+
+	<string id="xcvb_trade_hi">
+		<text>Stalkers, tenho novos descontos:</text>
+	</string>
+
+	<string id="xcvb_trade_stay">
+		<text>estes permanecerão pelos próximos</text>
+	</string>
+
+	<string id="xcvb_trade_day">
+		<text>dia.</text>
+	</string>
+
+	<string id="xcvb_trade_days">
+		<text>dias.</text>
+	</string>
+
+	<string id="xcvb_trade_buy_msg">
+		<text>Vendendo</text>
+	</string>
+
+	<string id="xcvb_trade_sell_msg">
+		<text>Comprando</text>
+	</string>
+
+</string_table>

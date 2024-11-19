@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_grok_goodwill_loss">
+		<text>Você matou um aliado a sangue frio. Sua reputação e boa vontade diminuíram.</text>
+	</string>
+</string_table>

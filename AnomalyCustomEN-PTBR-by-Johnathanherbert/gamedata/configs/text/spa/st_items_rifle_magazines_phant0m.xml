@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+    
+<!--
+Pistolas e Submetralhadoras
+-->
+
+	<string id="st_mag_nato_5.56x45_casket_phant0m">
+		<text>Carregador Tambor 5.56x45 OTAN de 60 Tiros</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_casket_phant0m_descr">
+		<text>
+		Incomum na Zona, estes Carregadores Tambor de Polímero de 60 tiros oferecem uma imensa quantidade de poder de fogo, mas são extremamente pesados e incômodos quando totalmente carregados, sem mencionar caros. Ter que tensionar a mola do carregador e o seguidor durante o recarregamento significa uma velocidade de recarga mais lenta.
+		</text>
+	</string>
+	
+		<string id="st_mag_ak_5.56x45_extended_phant0m">
+		<text>Carregador 5.56x45 de 60 tiros</text>
+	</string>
+	<string id="st_mag_ak_5.56x45_extended_phant0m_descr">
+		<text>
+		Carregador quad-stack de 60 tiros compatível com AKs em 5.56x45. Extremamente raro de encontrar na Rússia já que apenas pequenos lotes foram produzidos, mas rumores dizem que o SSU ucraniano começou a produzir seus próprios para atender suas necessidades de controlar a Zona. Estes carregadores ucranianos são os encontrados no kit de atualização "Monstro do Pântano" do AK-105. Designação "6L31".
+		</text>
+	</string>
+
+
+</string_table>

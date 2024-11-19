@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--
+    Storyline: Hidden Threat
+	Version:   1.0
+    Autor:     Longreed
+	Last Edit: 29/10/2021
+-->
+<string_table>
+    <string id="st_hidden_threat_ser_gorobez_name">
+		<text>Sargento Gorobets</text>
+	</string>
+	<string id="st_hidden_threat_isg_leader_name">
+		<text>Major Hernandez</text>
+	</string>
+	<string id="st_hidden_threat_isg_agent_name">
+		<text>Tenente Godunov</text>
+	</string>
+	<string id="st_hidden_threat_spirit_name">
+		<text>(Pensamentos em voz alta):</text>
+	</string>
+	<string id="st_hidden_threat_strelok_name">
+		<text>Strelok</text>
+	</string>
+	<string id="st_hidden_threat_degtyarev_name">
+		<text>Coronel Degtyarev</text>
+	</string>
+	<string id="st_agr_1_6_ht_vereshagin_name">
+		<text>Major Vereshchagin</text>
+	</string>
+</string_table>

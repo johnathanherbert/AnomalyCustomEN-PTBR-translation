@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_ak_em">
+		<text>AK-EM</text>
+	</string>
+	<string id="st_wpn_ak_em_descr">
+		<text>O AKS-74U é uma variante compacta do renomado rifle de assalto AK-74, conhecido por sua confiabilidade e uso generalizado. Com cano e comprimento reduzidos, o AKS-74U foi projetado para combate corpo a corpo e operações especiais onde a manobrabilidade é crucial. Ele dispara munição de 5,45 x 39 mm, que fornece precisão decente e alcance efetivo em um pacote compacto. O rifle possui coronha dobrável para maior portabilidade e facilidade de armazenamento, tornando-o adequado para unidades aerotransportadas e blindadas. Sua construção robusta e design simples garantem durabilidade e facilidade de manutenção, contribuindo para sua popularidade entre usuários militares, policiais e civis. O AKS-74U continua a tradição da série AK, oferecendo uma arma de fogo confiável e poderosa para situações que exigem uma arma compacta e versátil. Esta conversão especial para uma operação particularmente energética foi adaptada para munição 5,56 mm para facilitar a utilização nas forças da NATO.</text>
+	</string>
+</string_table>

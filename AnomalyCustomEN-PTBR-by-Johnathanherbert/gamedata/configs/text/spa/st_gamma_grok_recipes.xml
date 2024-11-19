@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<!-- Traduzido por johnathanherbert -->
+	<!-- Sorter -->
+	<string id="st_gamma_recipe_basic_1">
+		<text>Guia de Sobrevivência Vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_1_descr">
+		<text>Contém dicas para sobrevivência em ambientes hostis, bem como receitas para criar itens básicos relacionados à sobrevivência, como mochilas, placas de kevlar, acessórios para cinto, kits de cozinha, barracas e sacos de dormir.</text>
+	</string>
+	<string id="st_gamma_recipe_advanced_1">
+		<text>Guia de Sobrevivência Vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_1_descr">
+		<text>Contém dicas para sobrevivência em ambientes hostis, bem como receitas para criar itens avançados relacionados à sobrevivência, como mochilas, placas de kevlar, acessórios para cinto, kits de cozinha, barracas e sacos de dormir.</text>
+	</string>	
+	<string id="st_gamma_recipe_expert_1">
+		<text>Guia de Sobrevivência Vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_1_descr">
+		<text>Contém dicas para sobrevivência em ambientes hostis, bem como receitas para criar itens especializados relacionados à sobrevivência, como mochilas, placas de kevlar, acessórios para cinto, kits de cozinha, barracas e sacos de dormir.</text>
+	</string>		
+
+	<string id="st_gamma_recipe_basic_2">
+		<text>Manual de Eletrônica Vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_2_descr">
+		<text>Este manual contém dicas e projetos para fazer placas eletrônicas, chips e esquemas. Pode ser usado para criar sistemas básicos de visão noturna, detectores de artefatos e contêineres de artefatos.</text>
+	</string>
+	<string id="st_gamma_recipe_advanced_2">
+		<text>Manual de Eletrônica Vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_2_descr">
+		<text>Este manual contém dicas e projetos para fazer placas eletrônicas, chips e esquemas. Pode ser usado para criar sistemas avançados de visão noturna, detectores de artefatos e contêineres de artefatos.</text>
+	</string>	
+	<string id="st_gamma_recipe_expert_2">
+		<text>Manual de Eletrônica Vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_2_descr">
+		<text>Este manual contém dicas e projetos para fazer placas eletrônicas, chips e esquemas. Pode ser usado para criar sistemas especializados de visão noturna, detectores de artefatos e contêineres de artefatos.</text>
+	</string>		
+	
+	<string id="st_gamma_recipe_basic_3">
+		<text>Fundamentos de Melhorias de Armas e Armaduras Vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_3_descr">
+		<text>Este livro abrangente contém dicas e projetos para fazer sistemas básicos de melhoria para armas, armaduras e capacetes.</text>
+	</string>
+	<string id="st_gamma_recipe_advanced_3">
+		<text>Fundamentos de Melhorias de Armas e Armaduras Vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_3_descr">
+		<text>Este livro abrangente contém dicas e projetos para fazer sistemas avançados de melhoria para armas, armaduras e capacetes.</text>
+	</string>	
+	<string id="st_gamma_recipe_expert_3">
+		<text>Receitas para artefatos especiais</text>
+	</string>
+    <string id="st_gamma_recipe_expert_3_descr">
+		<text>Este livro abrangente contém dicas e projetos para criar vários artefatos com habilidades especiais.</text>
+	</string>		
+		
+	<string id="st_gamma_recipe_basic_4">
+		<text>A Arte da Fusão de Artefatos Vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_4_descr">
+		<text>Este livro contém versões impressas das últimas publicações do Prof. Sakharov sobre derretimento e fusão de Artefatos. Apresenta várias receitas para o Derretedor de Artefatos fundir artefatos comuns em artefatos incomuns.</text>
+	</string>
+	<string id="st_gamma_recipe_advanced_4">
+		<text>A Arte da Fusão de Artefatos Vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_4_descr">
+		<text>Este livro contém versões impressas das últimas publicações do Prof. Sakharov sobre derretimento e fusão de Artefatos. Apresenta várias receitas para o Derretedor de Artefatos fundir artefatos incomuns em artefatos raros.</text>
+	</string>	
+	<string id="st_gamma_recipe_expert_4">
+		<text>A Arte da Fusão de Artefatos Vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_4_descr">
+		<text>Este livro contém versões impressas das últimas publicações do Prof. Sakharov sobre derretimento e fusão de Artefatos. Apresenta várias receitas para o Derretedor de Artefatos fundir artefatos raros em artefatos extremamente raros e únicos.</text>
+	</string>
+	<string id="st_gamma_recipe_ammo_4">
+		<text>Avanços em Aplicações Militares: Exoesqueletos (Confidencial)</text>
+	</string>
+    <string id="st_gamma_recipe_ammo_4_descr">
+		<text>Esta edição muito especial e rara de "Avanços em Aplicações Militares" compreende comunicações científicas confidenciais e resumos sobre Exoesqueletos produzidos pelos líderes do desenvolvimento de soluções militares. Estas informações preciosas certamente permitirão que você repare os exoesqueletos e exocapacetes específicos encontrados na Zona.</text>
+	</string>
+	
+</string_table>

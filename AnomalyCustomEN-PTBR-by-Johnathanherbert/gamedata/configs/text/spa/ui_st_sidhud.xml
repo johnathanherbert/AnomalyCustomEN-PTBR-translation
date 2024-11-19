@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!-- 
+	SidHUD strings
+-->
+
+<string_table>
+	<string id="ui_mm_video_hud_sidslide">
+		<text>Opções do SidHUD</text>
+	</string>
+
+	<string id="ui_mm_video_hud_armorbar">
+		<text>Barra de status da armadura</text>
+	</string>
+	<string id="ui_mm_video_hud_armorbar_desc">
+		<text>Mostra a barra de status da armadura.</text>
+	</string>
+	<string id="ui_mm_video_hud_armortext">
+		<text>Texto de status da armadura</text>
+	</string>
+	<string id="ui_mm_video_hud_armortext_desc">
+		<text>Exibe o status da armadura como uma porcentagem em texto ciano. \n %c[ui_gray_2]Não faz nada se a barra estiver desativada.</text>
+	</string>
+	<string id="ui_mm_video_hud_weaponshow">
+		<text>Barra de status da arma</text>
+	</string>
+	<string id="ui_mm_video_hud_weaponshow_desc">
+		<text>Mostra a barra de status da arma.</text>
+	</string>
+	<string id="ui_mm_video_hud_weapontext">
+		<text>Texto de status da arma</text>
+	</string>
+	<string id="ui_mm_video_hud_weapontext_desc">
+		<text>Exibe o status da arma como uma porcentagem em texto laranja. \n %c[ui_gray_2]Não faz nada se a barra estiver desativada.</text>
+	</string>
+	<string id="ui_mm_video_hud_weaponbarhide">
+		<text>Ocultar quando desequipada</text>
+	</string>
+	<string id="ui_mm_video_hud_weaponbarhide_desc">
+		<text>Faz com que a barra de status da arma desapareça quando ela estiver desequipada. \n %c[ui_gray_2]Não faz nada se a barra estiver desativada.</text>
+	</string>
+	<string id="ui_mm_video_hud_ammoshow">
+		<text>Contador de munição total</text>
+	</string>
+	<string id="ui_mm_video_hud_ammoshow_desc">
+		<text>Mostra a quantidade TOTAL de munição que você possui para cada um dos 3 tipos disponíveis no inventário.</text>
+	</string>
+	<string id="ui_mm_video_hud_oldammoshow">
+		<text>Munição antiga</text>
+	</string>
+	<string id="ui_mm_video_hud_oldammoshow_desc">
+		<text>Faz com que a munição antiga apareça onde for relevante (como não ter suas contrapartes "boas").</text>
+	</string>
+	<string id="ui_mm_video_hud_radhealthshow">
+		<text>Barra de exposição à radiação</text>
+	</string>
+	<string id="ui_mm_video_hud_radhealthshow_desc">
+		<text>Mostra a quantidade de radiação que você possui na barra de saúde, da esquerda para a direita.</text>
+	</string>
+	<string id="ui_mm_video_hud_bleedingbarshow">
+		<text>Barra de sangramento</text>
+	</string>
+	<string id="ui_mm_video_hud_bleedingbarshow_desc">
+		<text>Mostra a quantidade de sangue que você está perdendo na barra de resistência, da esquerda para a direita.</text>
+	</string>
+	<string id="ui_mm_video_hud_healingbar">
+		<text>Barra de previsão de cura</text>
+	</string>
+	<string id="ui_mm_video_hud_healingbar_desc">
+		<text>Ativa uma barra sutil na barra de saúde que mostra a quantidade exata de cura que você receberá ao usar um item de cura.</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_player_skills_strength">
+		<text>Força</text>
+	</string>
+	<string id="st_player_skills_endurance">
+		<text>Resistência</text>
+	</string>
+	<string id="st_player_skills_survival">
+		<text>Sobrevivência</text>
+	</string>
+	<string id="st_player_skills_scavenging">
+		<text>Saqueador</text>
+	</string>
+    <string id="st_haruka_skills_main">
+		<text>Habilidades do Personagem</text>
+	</string>
+	<string id="st_new_level_endurance">
+		<text>$clr_green• $clr_whiteConsumo de resistência reduzido \n $clr_cyan• $clr_whiteVelocidade aumentada</text>
+	</string>
+	<string id="st_new_level_strength">
+		<text>$clr_yellow• $clr_whiteMaior capacidade de carga \n $clr_red• $clr_whiteMaior dano corpo a corpo \n</text>
+	</string>
+	<string id="st_new_level_scavenging">
+		<text>$clr_purple• $clr_whiteCapacidade de saque melhorada</text>
+	</string>
+	<string id="st_new_level_survival">
+		<text>$clr_cyan• $clr_whiteResistência melhorada \n $clr_purple• $clr_whiteHabilidade de caça aprimorada</text>
+	</string>
+	<string id="st_new_level_header">
+		<text>Nível $level de $name alcançado.</text>
+	</string>
+</string_table>

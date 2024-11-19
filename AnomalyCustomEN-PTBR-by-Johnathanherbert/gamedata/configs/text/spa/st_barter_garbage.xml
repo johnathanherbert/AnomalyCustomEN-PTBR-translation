@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    
+    <string id="st_hunter_meat">
+        <text>Stalker, já experimentou carne de mutante? Sei que não é das melhores, mas tenho alguns contatos lá fora que pagariam uma boa grana por um pouco de carne seca de mutante, temperada e salgada. Quanto mais exótica, melhor, hein? Então, se você me trouxer carne, garanto que vou mantê-lo abastecido com os meios para continuar trazendo mais carne, se é que me entende.</text>
+    </string>
+    <string id="st_hunter_meat_done">
+        <text>Obrigado, stalker. Já tenho o suficiente deste tipo por enquanto.</text>
+    </string>
+    
+    <string id="st_hunter_knife">
+        <text>Você não parece estar equipado para caçar. Tenho uma faca de caça sobrando - prove que é capaz de matar pelo menos um Flesh ou algo assim e ela será sua.</text>
+    </string>
+    <string id="st_hunter_knife_done">
+        <text>Nada mal. Aqui está.</text>
+    </string>
+
+    <string id="st_hunter_toz">
+        <text>Você está mesmo tentando caçar com essa coisa? Vai acabar desperdiçando munição só para derrubar um porco! Um caçador não consegue caçar direito sem um bom rifle, então me traga a pele de um javali e te darei um bom rifle.</text>
+    </string>
+    <string id="st_hunter_done">
+        <text>Bom trabalho. Aqui está.</text>
+    </string>
+    <string id="st_hunter_mp412">
+        <text>Sempre posso usar uma boa comida. Não posso sair deste lugar, os caçadores daqui dependem de mim para suprimentos. Você sabe cozinhar mais ou menos? Me traga uma comida decente e te darei esta pistola de caça.</text>
+    </string>
+    <string id="st_hunter_tozcer">
+        <text>Está faltando um item na minha coleção de troféus - o couro, os chifres e as garras de uma Quimera. Se você conseguir isso pra mim, vou te presentear com minha espingarda pessoal.</text>
+    </string>
+    <string id="st_hunter_tozcer_done">
+        <text>Excelente trabalho! Aqui está, use-a bem.</text>
+    </string>
+    <string id="st_mutants_killed">
+        <text>mutantes mortos:</text>
+    </string>
+    
+    <string id="st_flea_containers">
+        <text>Os escavadores estão tendo sorte em encontrar artefatos, mas não tanta sorte em transportá-los. Pode nos trazer alguns contêineres?</text>
+    </string>
+    
+    <string id="st_flea_artifacts">
+        <text>Procurando trocar artefatos? Veio ao lugar certo.</text>
+    </string>
+    
+</string_table>

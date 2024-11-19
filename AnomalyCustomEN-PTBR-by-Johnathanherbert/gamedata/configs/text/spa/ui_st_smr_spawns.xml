@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_SMR">
+		<text>ZCP</text>
+	</string>
+	<string id="ui_mcm_menu_smr_spawns">
+		<text>Modelos de geração</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_desc">
+		<text>Os modelos de geração oferecem maior controle sobre geradores de mutantes aleatórios. Com eles você pode ajustar quais mutantes aparecem em cada local e quanto tempo leva para os mutantes mais fortes aparecerem na Zona.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_file">
+		<text>Arquivo de modelo</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_file_desc">
+		<text>Os seguintes arquivos de modelo estão incluídos: \n - Default: Semelhante aos spawners do jogo base: em cada local você verá principalmente os mutantes que aparecem lá no jogo base. \n - All: Todos os mutantes podem aparecer em todos os locais, mas ainda são classificados em níveis. \n - Balanced: Uma adaptação dos valores usados no mod "ZCP Kinda Balanced Spawns" do TheMrDemonized para ZCP 1.4. \nSe você adicionar seu próprio modelo de compilação, ele aparecerá automaticamente ao lado dos incluídos.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_apply_random">
+		<text>Aplicar a geradores mutantes aleatórios</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_apply_replaced">
+		<text>Aplicar a geradores mutantes desativados</text>
+	</string><!-- WEEK 0 --><string id="ui_mcm_smr_spawns_preset_week0_title">
+		<text>Primeira semana</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week0_tier1">
+		<text>Chance de nível 1</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week0_tier2">
+		<text>Chance de nível 2</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week0_tier3">
+		<text>Chance de nível 3</text>
+	</string><!-- WEEK 1 --><string id="ui_mcm_smr_spawns_preset_week1_title">
+		<text>Segunda semana</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week1_tier1">
+		<text>Chance de nível 1</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week1_tier2">
+		<text>Chance de nível 2</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week1_tier3">
+		<text>Chance de nível 3</text>
+	</string><!-- WEEK 2 --><string id="ui_mcm_smr_spawns_preset_week2_title">
+		<text>Terceira semana</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week2_tier1">
+		<text>Chance de nível 1</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week2_tier2">
+		<text>Chance de nível 2</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week2_tier3">
+		<text>Chance de nível 3</text>
+	</string><!-- WEEK 3 --><string id="ui_mcm_smr_spawns_preset_week3_title">
+		<text>Quarta semana e depois</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week3_tier1">
+		<text>Chance de nível 1</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week3_tier2">
+		<text>Chance de nível 2</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_spawns_preset_week3_tier3">
+		<text>Chance de nível 3</text>
+	</string>
+</string_table>

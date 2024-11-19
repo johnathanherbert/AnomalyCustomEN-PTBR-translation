@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_kriss">
+		<text>KRISS Vector</text>
+	</string>
+
+	<string id="st_wpn_kriss_descr">
+		<text>O KRISS Vector é uma série de armas baseadas no projeto da submetralhadora desenvolvida pela empresa americana KRISS USA, anteriormente Transformational Defense Industries (TDI). Eles usam um sistema de recuo retardado não convencional combinado com um design em linha para reduzir o recuo percebido e a elevação do cano.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos\n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]KRISS USA\n</text>
+	</string>
+
+</string_table>

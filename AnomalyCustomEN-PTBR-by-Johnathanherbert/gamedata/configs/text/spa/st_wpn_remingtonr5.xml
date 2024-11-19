@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	
+
+<string id="st_wpn_remington_r5">
+		<text>Remington R5</text>
+	</string>
+	<string id="st_wpn_remington_r5_descr">
+		<text>O Remington R5 é um rifle de assalto conhecido por sua versatilidade e precisão. É baseado no design Remington ACR. Este rifle automático oferece um bom equilíbrio entre manuseio e poder de fogo. O Remington R5 é popular devido ao seu bom desempenho em diversas situações de combate. Tem uma cadência de tiro moderada e causa danos consideráveis, tornando-o eficaz em combates de médio e longo alcance. O recuo da arma é controlável e permite tiros precisos e sustentados. No geral, o Remington R5 é um rifle de assalto confiável e adaptável, preferido por muitos devido à sua versatilidade e precisão.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Estados Unidos \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Remington Arms \n</text>
+	</string>	
+</string_table>

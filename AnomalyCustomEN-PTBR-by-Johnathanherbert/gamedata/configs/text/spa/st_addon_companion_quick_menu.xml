@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por Johnathanherbert -->
+
+<string_table>
+	<string id="st_addon_companion_quick_menu_tooFar">
+		<text>Minha equipe não pode me ouvir. Preciso me aproximar ou contatá-los pelo PDA.</text>
+	</string>
+
+	<string id="st_addon_companion_quick_menu_followMe">
+		<text>SIGA-ME</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_waitHere">
+		<text>ESPERE AQUI</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stopStealth">
+		<text>ABANDONAR FURTIVIDADE</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stealth">
+		<text>MODO FURTIVO</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stayClose">
+		<text>MANTENHA-SE PRÓXIMO</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stayFar">
+		<text>MANTENHA DISTÂNCIA</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_fireAtWill">
+		<text>FOGO À VONTADE</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">
+		<text>IGNORE O COMBATE, MAS ME PROTEJA</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombat">
+		<text>IGNORE O COMBATE</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_doNotLootCorpses">
+		<text>NÃO SAQUEAR CORPOS</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_lootCorpses">
+		<text>PODE SAQUEAR CORPOS</text>
+	</string>
+	
+</string_table>

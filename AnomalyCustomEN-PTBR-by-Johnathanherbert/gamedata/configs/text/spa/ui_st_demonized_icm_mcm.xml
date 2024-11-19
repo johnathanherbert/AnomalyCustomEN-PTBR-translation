@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	
+	<string id="ui_mcm_demonized_icm_title">
+		<text>Modificadores de Custo de Itens (ICM)</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_icm">
+		<text>Mod. Custo Itens</text>
+	</string>
+
+	<string id="ui_mcm_demonized_icm_presets">
+		<text>Predefinições</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_presets_desc">
+		<text>Escolha configurações predefinidas da lista</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_default">
+		<text>Sem alteração</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_more_arties">
+		<text>Artefatos caros</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_helmet_balance">
+		<text>Balanceamento de trajes</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_gun_balance">
+		<text>Balanceamento de armas</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_all_of_them">
+		<text>Todos acima</text>
+	</string>
+
+	<string id="ui_mcm_demonized_icm_i_arty">
+		<text>Artefatos</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_mutant_belt">
+		<text>Peles de Mutantes (Equipáveis)</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_mutant_part">
+		<text>Partes de Mutantes (Não Equipáveis)</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_backpack">
+		<text>Mochilas</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_device">
+		<text>Dispositivos</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_food">
+		<text>Comida</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_medical">
+		<text>Medicamentos e outros curativos</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_kit">
+		<text>Kits, Reparos, Ferramentas</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_misc">
+		<text>Sucata</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_part">
+		<text>Peças</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_upgrade">
+		<text>Melhorias</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_helmet">
+		<text>Capacetes</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_helmet_medium">
+		<text>Capacetes Médios</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_helmet_heavy">
+		<text>Capacetes Pesados</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_light">
+		<text>Trajes Leves</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_medium">
+		<text>Trajes Médios</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_sci">
+		<text>Trajes Científicos</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_heavy">
+		<text>Trajes Pesados</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_melee">
+		<text>Armas Corpo a Corpo</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_pistol">
+		<text>Pistolas</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_shotgun">
+		<text>Espingardas</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_smg">
+		<text>Submetralhadoras</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_rifle">
+		<text>Rifles</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_sniper">
+		<text>Rifles de Precisão</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_misc">
+		<text>Acessórios</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_ammo">
+		<text>Munição</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_explosive">
+		<text>Explosivos</text>
+	</string>
+
+	<string id="ui_mcm_demonized_icm_debug_mode">
+		<text>Modo de depuração</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_debug_mode_desc">
+		<text>Exibe informações no console</text>
+	</string>
+	
+</string_table>

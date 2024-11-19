@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por Johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_menu_free_zoom">
+		<text>Zoom livre</text>
+	</string>
+	<string id="ui_mcm_free_zoom_key_bind_toggle">
+		<text>Tecla de zoom livre</text>
+	</string>
+	<string id="ui_mcm_free_zoom_key_bind_toggle_desc">
+        <text>Concentre sua visão, ampliando a visualização às custas da velocidade de movimento.</text>
+	</string>
+	<string id="ui_mcm_free_zoom_pistol_mult">
+		<text>Multiplicador de FOV base para pistolas</text>
+	</string>
+	<string id="ui_mcm_free_zoom_pistol_mult_desc">
+        <text>Dimensiona o FOV apenas para armas, aumentando o zoom para que as armas fiquem mais distantes da câmera.</text>
+	</string>
+	<string id="ui_mcm_free_zoom_ads_mult">
+		<text>Multiplicador ao mirar</text>
+	</string>
+	<string id="ui_mcm_free_zoom_ads_mult_desc">
+        <text>Define o quanto a visualização aumenta ao mirar. Diminuir o multiplicador torna o zoom mais forte.</text>
+	</string>
+	<string id="ui_mcm_free_zoom_free_zoom_mult">
+		<text>Multiplicador de zoom livre</text>
+	</string>
+	<string id="ui_mcm_free_zoom_free_zoom_mult_desc">
+        <text>Define o quanto a visualização é ampliada quando você pressiona a tecla de zoom livre. Diminuir o multiplicador torna o zoom mais forte.</text>
+	</string>
+</string_table>

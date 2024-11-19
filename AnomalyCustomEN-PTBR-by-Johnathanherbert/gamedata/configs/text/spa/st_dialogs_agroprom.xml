@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por Johnathanherbert -->
+
+<string_table>
+
+<!-- Sergeant Spooner (Military Trader) -->
+	<string id="guid_agr_mlr_military_0">
+		<text>Você pode organizar uma viagem? Há um lugar que eu preciso ir.</text>
+	</string>
+	<string id="guid_agr_mlr_military_1">
+		<text>Sim, eu posso te levar para o Cordon e Yantar... Espera, quem é você? Eu ofereço transporte, mas não para um soldado comum como você. Saia daqui!</text>
+	</string>
+
+	<string id="guid_agr_mlr_military_list_0">
+		<text>Para onde você vai mesmo?</text>
+	</string>
+	<string id="guid_agr_mlr_military_list_1">
+		<text>Ao nosso posto de controle no Cordon por cinco mil rublos, e para a base em Yantar por sete mil.</text>
+	</string>
+
+	<string id="guid_agr_mlr_military_vert_0">
+		<text>Eu preciso de um piloto.</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_1">
+		<text>Tudo bem, nosso próximo voo sai em breve. Para onde deseja ir?</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_2">
+		<text>Para o ponto de controle no Cordon. %c[d_orange][5000 RU]</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_3">
+		<text>Para a base em Yantar. %c[d_orange][7000 RU]</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_4">
+		<text>Eu mudei de ideia.</text>
+	</string>
+	
+	<string id="find_blackbox_mlr_reward_army_0">
+		<text>Encontrei um gravador de voo em um destroço de helicóptero.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_army_1">
+		<text>Boa descoberta! Muito bem, soldado.</text>
+	</string>
+
+	
+<!-- Military - Medic -->
+	<string id="rogovets_about_himself_1_6_army_mlr_0">
+		<text>Me conte sua história.</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_1">
+		<text>Eu sou o médico desta base. Cheguei à Zona pela primeira vez por contrato há anos. Após alguma preparação, fui destacado para o prestigioso Grupo Fairway. Infelizmente, a própria Operação Fairway foi um fracasso. Não tivemos escolha a não ser ficar em Pripyat - bem, aqueles de nós que ainda estavam vivos - até que um investigador da SSU chegou e ajudou na nossa evacuação.\n \nEstou contente por ter saído daquele lugar. Coisas estranhas acontecem o tempo todo naquela cidade amaldiçoada, e uma das minhas experiências mais estranhas foi acordar num frigorífico trancado. Até hoje, não faço ideia de como cheguei lá, nem do que estava fazendo antes. Os outros homens zombaram de mim por isso, mas lembro do suor, da falta de ar, da visão turva. Quando os soldados começaram a encontrar os chamados Controladores "míticos", bem, digamos que as provocações pararam.</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_2">
+		<text>E depois, o que aconteceu? Por que não desistiu?</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_3">
+		<text>Ah, eu "desisti" por um tempo. Ou melhor, fui para a reserva. Depois que meu comandante foi dispensado pelo fracasso da Operação Fairway, fiquei com um gosto amargo. Deixei então o serviço ativo assim que pude para avançar na minha carreira médica. Ainda assim, há algo especial em trabalhar com soldados, e sinto que os abandonaria se não voltasse eventualmente. Não é culpa dos recrutas que alguns do pessoal sejam... hehe, er, ahem.\n \nComo estava dizendo, o estilo de comando do Coronel Kuznetsov não é certamente como meu antigo comandante, o ex-Coronel Kovalsky, faria as coisas. Mas estou feliz em manter as tropas vivas mesmo assim. Ficaria mais feliz se aquele investigador da SSU - o Coronel Degtyarev - assumisse um papel de liderança mais ativo também aqui, mas suponho que é suficiente saber que ele ainda anda por aí, chutando a bunda da Zona. Salvou minha vida mais vezes do que eu gostaria de admitir.</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_4">
+		<text>Entendi. Desejo-lhe boa sorte em suas viagens.</text>
+	</string>
+	
+	<string id="rogovets_hello_1_6_army_mlr_0">
+		<text>O que...? Ah, é você...</text>
+	</string>
+
+	
+<!-- Commander, barman in Agroprom -->
+	<string id="barmen_about_himself_1_6_army_mlr_0">
+		<text>Quem é você?</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_1">
+		<text>Bem, eu sou o barman local - ou um gerente de suprimentos - como preferir. As tropas por aqui me chamam de Comandante. Minha primeira missão na Zona foi como liquidante, limpando ao redor da usina nuclear após o acidente de 86. Não sou exatamente daqui, mas depois da queda da União Soviética, decidi ficar na Zona por contrato. Tenho alguma experiência, hehe.</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_2">
+		<text>Como foi a limpeza após o primeiro acidente?</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_3">
+		<text>Bem, eu era muito mais novo - apenas um recruta do exército, entende? Não esse homenzarrão que você vê hoje. Tive sorte. Só precisei limpar o pó de aldeias vazias e revirar o solo depois. Os oficiais mediam a radiação, e eu era enviado para limpar. No entanto, os liquidantes perto da usina acabavam metidos em problemas sérios. Lá em cima, até nossos equipamentos paravam de funcionar devido à chuva radioativa, imagine só as pessoas.\n \nEntão, tiveram que limpar os telhados de grafite com pás comuns. Mas tinha que ser feito, pelo bem do Estado - seja lá o que isso signifique agora. Eu costumava pensar que a radiação era algo estranho - como amaldiçoa uns e poupa outros, como Dyatlov, que sobreviveu para acabar na prisão. Mas, comparado ao que tem acontecido desde 2006, não sei. Certamente há coisas mais estranhas que a radiação acontecendo por aqui hoje em dia.</text>
+	</string>
+</string_table>

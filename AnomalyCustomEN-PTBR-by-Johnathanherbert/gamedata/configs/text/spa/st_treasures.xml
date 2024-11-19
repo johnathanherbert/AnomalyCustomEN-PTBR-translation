@@ -1,0 +1,2570 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_dark_valley_treasure_1_name">
+		<text>Caixote no porão</text>
+	</string>
+	<string id="st_dark_valley_treasure_1_descr">
+		<text>Guardei minhas coisas no porão perto das portas com uma placa de perigo. Não tenho tempo agora, mas depois volto para buscar.</text>
+	</string>
+	<string id="st_dark_valley_treasure_2_name">
+		<text>Caixa na sala do quadro elétrico</text>
+	</string>
+	<string id="st_dark_valley_treasure_2_descr">
+		<text>Fiz um ótimo esconderijo na sala do quadro de distribuição, no segundo andar da fábrica abandonada. Vou esperar juntar mais alguns artefatos e depois vender tudo por um bom dinheiro.</text>
+	</string>
+	<string id="st_dark_valley_treasure_3_name">
+		<text>Esconderijo no beco sem saída do esgoto</text>
+	</string>
+	<string id="st_dark_valley_treasure_3_descr">
+		<text>Encontrei por acaso um beco sem saída no esgoto embaixo da base. Parecia um bom esconderijo, então guardei algumas coisas boas na parte transversal do tubo do esgoto.</text>
+	</string>
+	<string id="st_dark_valley_treasure_4_name">
+		<text>Cesta na tubulação</text>
+	</string>
+	<string id="st_dark_valley_treasure_4_descr">
+		<text>Fiz um esconderijo dentro de um cano no primeiro andar da fábrica abandonada, perto das escadas.</text>
+	</string>
+	<string id="st_dark_valley_treasure_5_name">
+		<text>Tubo embaixo da cisterna</text>
+	</string>
+	<string id="st_dark_valley_treasure_5_descr">
+		<text>Uma matilha de cães começou a me perseguir quando eu passava pela fazenda, então larguei minhas coisas dentro do cano debaixo da cisterna e fugi. Voltarei para buscá-las quando puder.</text>
+	</string>
+	<string id="st_dark_valley_treasure_6_name">
+		<text>Depósito na fábrica</text>
+	</string>
+	<string id="st_dark_valley_treasure_6_descr">
+		<text>Um grande esconderijo na fábrica abandonada. Está do outro lado da entrada, na peça transversal com uma válvula. É fácil confundir com outras parecidas.</text>
+	</string>
+	<string id="st_dark_valley_treasure_7_name">
+		<text>Mochila na cabine</text>
+	</string>
+	<string id="st_dark_valley_treasure_7_descr">
+		<text>Preciso mesmo ir buscar minha mochila no banco da frente do trator-reboque tombado. Tive que jogá-la fora outro dia para não ser pego.</text>
+	</string>
+	<string id="st_dark_valley_treasure_8_name">
+		<text>Esconderijo sob o pinheiro</text>
+	</string>
+	<string id="st_dark_valley_treasure_8_descr">
+		<text>É melhor eu não esquecer aquele pinheiro específico onde escondi meu saque. A entrada do esgoto está próxima, mas isso não faz a árvore se destacar.</text>
+	</string>
+	<string id="st_dark_valley_treasure_9_name">
+		<text>Mochila na árvore</text>
+	</string>
+	<string id="st_dark_valley_treasure_9_descr">
+		<text>Todo mundo esconde suas coisas no subsolo, mas eu fiz meu esconderijo em uma árvore. Aposto que ninguém vai procurar lá!</text>
+	</string>
+	<string id="st_dark_valley_treasure_10_name">
+		<text>Esconderijo secreto no teto</text>
+	</string>
+	<string id="st_dark_valley_treasure_10_descr">
+		<text>Não estou preocupado com meu esconderijo. Mesmo que alguém venha procurá-lo, terá que pular sobre as vigas como um esquilo para alcançá-lo.</text>
+	</string>
+	<string id="st_dark_valley_treasure_11_name">
+		<text>Esconderijo na torre</text>
+	</string>
+	<string id="st_dark_valley_treasure_11_descr">
+		<text>Disse ao meu parceiro que havia perdido minha mochila no caminho, e o otário acreditou. Na verdade, escondi ela no topo da torre d'água. Ainda está lá me esperando.</text>
+	</string>
+	<string id="st_dark_valley_treasure_12_name">
+		<text>Mochila no elevador</text>
+	</string>
+	<string id="st_dark_valley_treasure_12_descr">
+		<text>Com todo esse tiroteio, tive pouco tempo para esconder minhas coisas direito. Joguei tudo na "mangueira" embaixo das tábuas. Vou buscar quando for mais seguro.</text>
+	</string>
+	<string id="st_dark_valley_treasure_13_name">
+		<text>Estojo do serralheiro</text>
+	</string>
+	<string id="st_dark_valley_treasure_13_descr">
+		<text>Encontrei um antigo estojo de serralheiro e guardei meu "tesouro" lá dentro por enquanto. Vou mudar para um esconderijo mais seguro quando puder.</text>
+	</string>
+	<string id="st_dark_valley_treasure_14_name">
+		<text>Cofre na fábrica</text>
+	</string>
+	<string id="st_dark_valley_treasure_14_descr">
+		<text>Se alguém está lendo isso, significa que estou a sete palmos abaixo da terra. Então, eis o que quero que você saiba sobre o esconderijo no cofre - espero que você nunca o abra, idiota!</text>
+	</string>
+	<string id="st_dark_valley_treasure_15_descr">
+		<text>Não tinha certeza se sairia vivo daquele lugar, então escondi minhas coisas neste cofre enferrujado na fazenda abandonada. Agora é hora de recuperá-las.</text>
+	</string>
+	<string id="st_dark_valley_treasure_16_name">
+		<text>Toco de árvore na ilha</text>
+	</string>
+	<string id="st_dark_valley_treasure_16_descr">
+		<text>Um amigo meu tinha uns itens muito bons quando foi emboscado naqueles pântanos. Ele não sobreviveu, mas conseguiu me dizer que escondeu parte do saque em um toco podre não muito longe de uma antena. Preciso ir verificar.</text>
+	</string>
+	<string id="st_dark_valley_treasure_17_name">
+		<text>Madeira podre</text>
+	</string>
+	<string id="st_dark_valley_treasure_17_descr">
+		<text>Não confio no meu parceiro. Acho que ele vai tentar me roubar, por isso escondi meu saque. Fiz um esconderijo perto da ponte da ilha, em um tronco de árvore. Espero que ele não encontre.</text>
+	</string>
+	<string id="st_dark_valley_treasure_18_name">
+		<text>Toco de árvore podre</text>
+	</string>
+	<string id="st_dark_valley_treasure_18_descr">
+		<text>Outro dia estava fugindo de javalis e joguei minhas coisas no buraco de um toco, não muito longe da fazenda velha.</text>
+	</string>
+	<string id="st_dark_valley_treasure_19_name">
+		<text>Toco de árvore perto da colina</text>
+	</string>
+	<string id="st_dark_valley_treasure_19_descr">
+		<text>Fiz meu esconderijo no pé da colina, debaixo de um toco velho. É um bom esconderijo - só espero que minha sorte continue para eu ficar rico algum dia.</text>
+	</string>
+	<string id="st_dark_valley_treasure_20_name">
+		<text>Toco de árvore próximo ao deck</text>
+	</string>
+	<string id="st_dark_valley_treasure_20_descr">
+		<text>Já vi o Kolya se aproximar daquele toco na ilha várias vezes. Aposto que esse rato tem um esconderijo lá dentro. Vou deixar ele juntar mais alguns saques antes de ir verificar.</text>
+	</string>
+	<string id="st_dark_valley_treasure_21_name">
+		<text>Velho Zaporozhets</text>
+	</string>
+	<string id="st_dark_valley_treasure_21_descr">
+		<text>Os coitados estão quebrando a cabeça tentando descobrir para onde suas coisas estão sumindo! Ha-ha-ha! Bem, tenho escondido tudo naquele velho Zaporozhets perto dos pântanos. Aposto que ninguém vai procurar ali.</text>
+	</string>
+	<string id="st_yantar_treasure_1_name">
+		<text>Caixa elétrica na fábrica</text>
+	</string>
+	<string id="st_yantar_treasure_1_descr">
+		<text>Olhei o PDA do Andrey e vi que quando o "triturador de cérebros" começou a funcionar, ele fez um esconderijo em uma caixa elétrica enferrujada na fábrica.</text>
+	</string>
+	<string id="st_yantar_treasure_2_name">
+		<text>Painel na sala do transformador</text>
+	</string>
+	<string id="st_yantar_treasure_2_descr">
+		<text>Quando toda a fábrica começou a enlouquecer, joguei todas as minhas coisas dentro do painel na sala do transformador.</text>
+	</string>
+	<string id="st_yantar_treasure_3_name">
+		<text>Caixa na fábrica</text>
+	</string>
+	<string id="st_yantar_treasure_3_descr">
+		<text>Estava no hangar quando encontrei uma antiga caixa de ferramentas. Estava balançando, mas não tive tempo de olhar dentro - apenas deixei lá até poder voltar.</text>
+	</string>
+	<string id="st_yantar_treasure_4_name">
+		<text>Caixa pequena no caminhão</text>
+	</string>
+	<string id="st_yantar_treasure_4_descr">
+		<text>Um bom lugar para um esconderijo - bem entre a cabine e a carroceria do caminhão. Os zumbis locais e a radiação servem como boa proteção natural.</text>
+	</string>
+	<string id="st_yantar_treasure_5_name">
+		<text>Esconderijo junto à cerca</text>
+	</string>
+	<string id="st_yantar_treasure_5_descr">
+		<text>Escondi umas coisinhas na junção dos tubos perto do veículo de construção, ao lado da cerca.</text>
+	</string>
+	<string id="st_yantar_treasure_6_name">
+		<text>Bugigangas dentro do tubo</text>
+	</string>
+	<string id="st_yantar_treasure_6_descr">
+		<text>Levei o material mais valioso comigo e coloquei o resto dentro de um cano na sala com um buraco na parede.</text>
+	</string>
+	<string id="st_yantar_treasure_7_name">
+		<text>Mochila perto da entrada</text>
+	</string>
+	<string id="st_yantar_treasure_7_descr">
+		<text>Tive que deixar uma mochila cheia de saque nas ruínas bem ao lado da entrada. Será que alguém já achou?</text>
+	</string>
+	<string id="st_yantar_treasure_8_name">
+		<text>Caixa no duto de ventilação</text>
+	</string>
+	<string id="st_yantar_treasure_8_descr">
+		<text>Ei, Tony, anote as coordenadas e o ponto de referência - a mochila está dentro do duto de ventilação ao lado da parede quebrada do complexo. Saudações, Owl.</text>
+	</string>
+	<string id="st_yantar_treasure_9_name">
+		<text>Mochila embaixo do banco</text>
+	</string>
+	<string id="st_yantar_treasure_9_descr">
+		<text>Não tive tempo de pensar, então coloquei meu saque embaixo do banco do motorista no UAZ enferrujado.</text>
+	</string>
+	<string id="st_yantar_treasure_10_name">
+		<text>Sacola na caixa de engrenagens do guindaste</text>
+	</string>
+	<string id="st_yantar_treasure_10_descr">
+		<text>Só Deus sabe o que me fez subir lá em cima e fazer meu esconderijo. Agora nem eu consigo alcançá-lo!</text>
+	</string>
+	<string id="st_yantar_treasure_11_name">
+		<text>Esconderijo no cofre</text>
+	</string>
+	<string id="st_yantar_treasure_11_descr">
+		<text>O melhor saque da Zona é meu. Está em um cofre nas instalações da fábrica.</text>
+	</string>
+	<string id="st_yantar_treasure_12_name">
+		<text>Tronco oco</text>
+	</string>
+	<string id="st_yantar_treasure_12_descr">
+		<text>Escondi minhas coisas em um tronco oco ao lado do "espinho".</text>
+	</string>
+
+	<string id="st_yantar_treasure_13_name">
+		<text>Lenha perto da colina</text>
+	</string>
+	<string id="st_yantar_treasure_13_descr">
+		<text>Com aqueles zumbis vindos da fábrica, não tive outra escolha senão me separar do meu saque. Escondi em um tronco no pé da colina.</text>
+	</string>
+	<string id="st_yantar_treasure_14_name">
+		<text>Cepo de árvore perto da torre</text>
+	</string>
+	<string id="st_yantar_treasure_14_descr">
+		<text>Montei outro esconderijo no buraco de um toco, naquela colina com a torre de alta tensão. Todo mundo pensa que eu vou para lá apreciar a vista, burros!</text>
+	</string>
+	<string id="st_gar_treasure_17_name">
+		<text>Boca de cano Bellmouth</text>
+	</string>
+	<string id="st_gar_treasure_17_descr">
+		<text>Eu fiz um esconderijo na boca de um cano, naquele monte de lixo radioativo.</text>
+	</string>
+	<string id="st_gar_treasure_18_name">
+		<text>Tubulação próxima ao motor</text>
+	</string>
+	<string id="st_gar_treasure_18_descr">
+		<text>Ao lado do motor velho no ferro-velho, há um cano com meu saque.</text>
+	</string>
+	<string id="st_agr_treasure_1_name">
+		<text>Sob a cruz</text>
+	</string>
+	<string id="st_agr_treasure_1_descr">
+		<text>Agroprom, arbustos, cruz. Tumba sob a cruz.</text>
+	</string>
+	<string id="st_agr_treasure_2_name">
+		<text>Painel elétrico na oficina</text>
+	</string>
+	<string id="st_agr_treasure_2_descr">
+		<text>O filho da puta do Dehydrator nos tira todo nosso saque. O maldito velho fudido. Estou escondendo minhas coisas do seu rabo, dentro do painel elétrico do segundo andar.</text>
+	</string>
+	<string id="st_agr_treasure_3_name">
+		<text>Trator</text>
+	</string>
+	<string id="st_agr_treasure_4_name">
+		<text>Carro na garagem</text>
+	</string>
+	<string id="st_agr_treasure_4_descr">
+		<text>Eu escondi meu lixo no porta-malas do 4x4 do comandante. Desde que não vá a lugar nenhum, minhas coisas estarão seguras.</text>
+	</string>
+	<string id="st_agr_treasure_5_name">
+		<text>Estojo sob o vagão do trem</text>
+	</string>
+	<string id="st_agr_treasure_5_descr">
+		<text>Caixa de ferramentas sob vagão de trem em Agroprom.</text>
+	</string>
+	<string id="st_agr_treasure_6_name">
+		<text>Ônibus na parada</text>
+	</string>
+	<string id="st_agr_treasure_6_descr">
+		<text>Caixa de ferramentas em um ônibus no ponto, perto da base neutra.</text>
+	</string>
+	<string id="st_agr_treasure_3_descr">
+		<text>Quando Timmy consertou o trator, nós nos carregamos e fomos dar uma volta selvagem à noite. Depois nos deparamos com uma bloodsucker. Tivemos que dar uma volta bem rápida, e deixamos nosso saque para trás.</text>
+	</string>
+	<string id="st_agr_treasure_7_name">
+		<text>Tubo nos escombros</text>
+	</string>
+	<string id="st_agr_treasure_7_descr">
+		<text>Esconderijo: entrada bloqueada no subsolo, dentro de um tubo em forma de L.</text>
+	</string>
+	<string id="st_agr_treasure_8_name">
+		<text>A mochila de ninguém</text>
+	</string>
+	<string id="st_agr_treasure_9_name">
+		<text>Base Stalker</text>
+	</string>
+	<string id="st_agr_treasure_9_descr">
+		<text>Atirei minha mochila para cima daquela árvore, senão todos saberiam que fui eu quem aprontei com Vitaly. O caminho mais curto para chegar lá é através dos tubos na base neutra.</text>
+	</string>
+	<string id="st_agr_treasure_8_descr">
+		<text>Eu vi um, em uma árvore perto da base da Duty, mas não tive tempo de subir.</text>
+	</string>
+	<string id="st_agr_treasure_10_name">
+		<text>Tubulação nos pântanos</text>
+	</string>
+	<string id="st_agr_treasure_11_name">
+		<text>Mochila perdida</text>
+	</string>
+	<string id="st_agr_treasure_11_descr">
+		<text>Voltamos de uma viagem e estávamos descansando nas rochas, e de alguma forma eu deixei minha mochila pra trás. Voltarei para buscá-la quando eu conseguir tempo.</text>
+	</string>
+	<string id="st_agr_treasure_12_name">
+		<text>Mochila do Rigman</text>
+	</string>
+	<string id="st_agr_treasure_12_descr">
+		<text>Tive que subir até o topo daquela torre até que nossos homens expulsassem aqueles malditos cães. Tive que largar minha mochila nos arbustos.</text>
+	</string>
+	<string id="st_agr_treasure_10_descr">
+		<text>Meu esconderijo está em um cano nos pântanos. Está tudo na mochila.</text>
+	</string>
+	<string id="st_agr_treasure_13_name">
+		<text>Cofre nos arbustos</text>
+	</string>
+	<string id="st_agr_treasure_13_descr">
+		<text>Tentamos arrastar aquele cofre cheio de porcarias através da ravina. Estava tão lamacento da chuva que continuamos escorregando e caindo, e eventualmente deixamos cair ao longo do caminho.</text>
+	</string>
+	<string id="st_agr_treasure_14_name">
+		<text>Diário de bordo isolado</text>
+	</string>
+	<string id="st_agr_treasure_15_name">
+		<text>Easter eggs</text>
+	</string>
+	<string id="st_agr_treasure_15_descr">
+		<text>Na Páscoa, Tony nos fez fazer esconderijos para o clã. Coloquei um desses "Easter eggs" em um tronco.</text>
+	</string>
+	<string id="st_agr_treasure_14_descr">
+		<text>Ninguém será doido o suficiente de procurar meu esconderijo no tronco tão distante dos galhos.</text>
+	</string>
+	<string id="st_agru_treasure_1_name">
+		<text>Tubulação na sala de controle</text>
+	</string>
+	<string id="st_agru_treasure_1_descr">
+		<text>Quando os monstros começaram a inundar a área, escondi algumas de minhas coisas em um cano e dei no pé.</text>
+	</string>
+	<string id="st_agru_treasure_2_name">
+		<text>Mochila na anomalia</text>
+	</string>
+	<string id="st_agru_treasure_2_descr">
+		<text>Eu estava atravessando essa ponte e acidentalmente deixei minha mochila escorregar e cair em uma área contaminada. Eu tentei recuperá-la, mas não consegui, não serei maluco de querer colocar minha vida em risco para pegar meu saque pela anomalia.</text>
+	</string>
+	<string id="st_agru_treasure_4_name">
+		<text>Mochila perto do cadáver</text>
+	</string>
+	<string id="st_agru_treasure_4_descr">
+		<text>Pequenos mutantes malvados, que pareciam ratos, despedaçaram meu amigo. Eu quase não escapei - graças a Deus, havia escadas por perto.</text>
+	</string>
+	<string id="st_agru_treasure_5_name">
+		<text>Mochila sob as escadas</text>
+	</string>
+	<string id="st_agru_treasure_5_descr">
+		<text>Vi uma grande mochila preta na água sob as escadas. Eu iria lá e a pegaria se não fosse por aquela anomalia assustadora.</text>
+	</string>
+	<string id="st_esc_treasure_1_name">
+		<text>Sob a cruz na colina</text>
+	</string>
+	<string id="st_esc_treasure_1_descr">
+		<text>Escondi meu saque sob uma falsa cova de stalker, na colina.</text>
+	</string>
+	<string id="st_esc_treasure_2_name">
+		<text>Baú sobre a ponte</text>
+	</string>
+	<string id="st_esc_treasure_2_descr">
+		<text>Guardei meu saque em uma arca no cruzamento das vigas da ponte. Cara, suei feito um condenado subindo até lá em cima.</text>
+	</string>
+	<string id="st_esc_treasure_3_name">
+		<text>Tubo sob a árvore caída</text>
+	</string>
+	<string id="st_esc_treasure_3_descr">
+		<text>Montamos acampamento não muito longe do Rookie Village. Escondi minhas coisas dentro de um cano embaixo da árvore caída. Voltarei para buscá-las mais tarde.</text>
+	</string>
+	<string id="st_esc_treasure_15_name">
+		<text>Tubulação no túnel</text>
+	</string>
+	<string id="st_esc_treasure_15_descr">
+		<text>Estávamos atirando todo tipo de tranqueira nas anomalias e acidentalmente acertamos um cano que tinha algo dentro. Ainda está lá, juntando poeira.</text>
+	</string>
+	<string id="st_esc_treasure_4_name">
+		<text>Mochila na chaminé</text>
+	</string>
+	<string id="st_esc_treasure_4_descr">
+		<text>Não sou Papai Noel, mas quando era rookie, fiz um pequeno esconderijo naquele fogão junto à chaminé. Já nem lembro mais o que tem lá dentro.</text>
+	</string>
+	<string id="st_esc_treasure_5_name">
+		<text>Esconderijo na árvore</text>
+	</string>
+	<string id="st_esc_treasure_5_descr">
+		<text>Eu estava observando a estação de veículos do alto de uma árvore e decidi deixar minha mochila dentro dela. A maneira mais fácil de subir é pelo galho próximo à colina.</text>
+	</string>
+	<string id="st_esc_treasure_6_name">
+		<text>Sob a locomotiva</text>
+	</string>
+	<string id="st_esc_treasure_6_descr">
+		<text>Meu comandante ordenou que ajudássemos o grupo do Nikolaev o mais rápido possível. Foi quando joguei minha mochila embaixo da locomotiva, ao lado do aterro.</text>
+	</string>
+	<string id="st_esc_treasure_7_name">
+		<text>Mochila atrás do arbusto</text>
+	</string>
+	<string id="st_esc_treasure_7_descr">
+		<text>Uma noite topamos com bandidos e houve um combate, um verdadeiro tiroteio. Saímos correndo de lá, então joguei minha mochila entre algumas pedras, atrás de um arbusto.</text>
+	</string>
+	<string id="st_esc_treasure_8_name">
+		<text>Mochila sob a lenha</text>
+	</string>
+	<string id="st_esc_treasure_8_descr">
+		<text>Empilhei lenha para cobrir meu esconderijo, que fica ao lado de um prédio de dois andares em frente à fazenda.</text>
+	</string>
+	<string id="st_esc_treasure_16_name">
+		<text>Cofre na tubulação</text>
+	</string>
+	<string id="st_esc_treasure_17_name">
+		<text>Cofre na base</text>
+	</string>
+	<string id="st_esc_treasure_17_descr">
+		<text>Zil guarda suas tralhas em um cofre na base neutra, em Cordon.</text>
+	</string>
+	<string id="st_esc_treasure_16_descr">
+		<text>Kolyan e eu fizemos um esconderijo em um cofre naquele ferro-velho perto do Rookie Village.</text>
+	</string>
+	<string id="st_esc_treasure_9_name">
+		<text>Caixa escondida</text>
+	</string>
+	<string id="st_esc_treasure_9_descr">
+		<text>Fui atacado por cães, então não tive escolha - escondi o saque em um tronco rachado, no meio do campo, e corri para o acampamento.</text>
+	</string>
+	<string id="st_esc_treasure_10_name">
+		<text>Esconderijo do stalker</text>
+	</string>
+	<string id="st_esc_treasure_10_descr">
+		<text>Consegui as coordenadas do esconderijo de um stalker morto - está em um tronco atrás da fazenda.</text>
+	</string>
+	<string id="st_esc_treasure_11_name">
+		<text>Cepo na floresta de pinheiros</text>
+	</string>
+	<string id="st_esc_treasure_11_descr">
+		<text>Meu amigo e eu escondemos o pequeno saque que tínhamos em um velho cepo entre os pinheiros.</text>
+	</string>
+	<string id="st_esc_treasure_12_name">
+		<text>Cepo perto do acampamento</text>
+	</string>
+	<string id="st_esc_treasure_12_descr">
+		<text>Não fui muito longe para fazer meu esconderijo. Escolhi o primeiro cepo decente ao lado do Rookie Camp. É lá que escondo o que consigo encontrar pelo acampamento.</text>
+	</string>
+	<string id="st_esc_treasure_13_name">
+		<text>Cepo na floresta</text>
+	</string>
+	<string id="st_esc_treasure_13_descr">
+		<text>Sidorovich nos pediu para fazer um esconderijo ao lado do posto avançado que leva para fora, supostamente para algum rookie. Escondi tudo embaixo de um tronco perto do morro.</text>
+	</string>
+	<string id="st_esc_treasure_14_name">
+		<text>Cepo em Cordon</text>
+	</string>
+	<string id="st_esc_treasure_14_descr">
+		<text>A caminho do Garbage, escondi tudo dentro de um toco na floresta para que os bandidos não roubassem nada de mim.</text>
+	</string>
+	<string id="st_gar_treasure_1_name">
+		<text>Painel elétrico no ferro-velho</text>
+	</string>
+	<string id="st_gar_treasure_1_descr">
+		<text>Guardei uma coisinha para vender depois no ferro-velho. Está no painel elétrico ao lado da cabine do guindaste caído.</text>
+	</string>
+	<string id="st_gar_treasure_2_name">
+		<text>Painel sob o galpão</text>
+	</string>
+	<string id="st_gar_treasure_2_descr">
+		<text>Mal posso esperar para vender esta coisa que deixei escondida dentro de um painel embaixo de um galpão, não muito longe daqui.</text>
+	</string>
+	<string id="st_gar_treasure_16_name">
+		<text>Painel elétrico no ferro-velho</text>
+	</string>
+	<string id="st_gar_treasure_16_descr">
+		<text>O saque está sob a tampa do painel elétrico em uma pilha de sucata.</text>
+	</string>
+	<string id="st_gar_treasure_3_name">
+		<text>Tubo no ferro-velho</text>
+	</string>
+	<string id="st_gar_treasure_3_descr">
+		<text>Coloquei minhas preciosidades dentro de um tubo, para que ninguém pudesse levá-las de mim.</text>
+	</string>
+	<string id="st_gar_treasure_4_name">
+		<text>Tubo no pé do guindaste</text>
+	</string>
+	<string id="st_gar_treasure_4_descr">
+		<text>Há um cano no pé de um guindaste caído - foi onde escondi algumas das minhas bugigangas, sabe, para os dias difíceis.</text>
+	</string>
+	<string id="st_gar_treasure_5_name">
+		<text>Mochila sob o pinheiro</text>
+	</string>
+	<string id="st_gar_treasure_19_name">
+		<text>Mochila na cabine do guindaste</text>
+	</string>
+	<string id="st_gar_treasure_19_descr">
+		<text>Escondi minha mochila na cabine do guindaste quando ele ainda estava em pé. Agora não consigo mais entrar ali.</text>
+	</string>
+	<string id="st_gar_treasure_5_descr">
+		<text>Até virem dias melhores, minha mochila e todo seu conteúdo ficarão escondidos sob essa árvore.</text>
+	</string>
+	<string id="st_gar_treasure_20_name">
+		<text>Esconderijo dos meus inimigos</text>
+	</string>
+	<string id="st_gar_treasure_20_descr">
+		<text>Joguei minha mochila em uma pilha de lixo radioativo para que meus inimigos não a pegassem.</text>
+	</string>
+	<string id="st_gar_treasure_6_name">
+		<text>Armazenagem no ferro-velho</text>
+	</string>
+	<string id="st_gar_treasure_6_descr">
+		<text>Coloquei minhas coisas debaixo de uma laje de concreto perto do cemitério de veículos contaminados. É melhor recuperá-las logo, ou alguém vai pegar.</text>
+	</string>
+	<string id="st_gar_treasure_7_name">
+		<text>Teto da locomotiva</text>
+	</string>
+	<string id="st_gar_treasure_7_descr">
+		<text>Deixei minha mochila em cima da locomotiva. É fácil chegar pelo aterro, mas não tão fácil de localizar.</text>
+	</string>
+	<string id="st_gar_treasure_8_name">
+		<text>Cofre na poça</text>
+	</string>
+	<string id="st_gar_treasure_8_descr">
+		<text>Duvido muito que alguém vá procurar um cofre meio afundado em uma poça como essa. É um bom lugar para um esconderijo temporário.</text>
+	</string>
+	<string id="st_gar_treasure_9_name">
+		<text>Caixa no suporte</text>
+	</string>
+	<string id="st_gar_treasure_9_descr">
+		<text>Coloquei meu saque em um cofre próximo a uma placa de perigo de radiação. Um ladrão teria que ser suicida para tentar roubá-lo!</text>
+	</string>
+	<string id="st_gar_treasure_10_name">
+		<text>Buraco no tronco</text>
+	</string>
+	<string id="st_gar_treasure_10_descr">
+		<text>Usei um buraco em um tronco não muito longe do hangar como meu esconderijo.</text>
+	</string>
+	<string id="st_gar_treasure_11_name">
+		<text>Tora atrás do carvalho</text>
+	</string>
+	<string id="st_gar_treasure_11_descr">
+		<text>Kolyan me passou uma informação - disse que Weedy esconde seu saque em um buraco em um tronco atrás do carvalho morto.</text>
+	</string>
+	<string id="st_gar_treasure_12_name">
+		<text>Acesso aos arbustos</text>
+	</string>
+	<string id="st_gar_treasure_12_descr">
+		<text>Enfiei meu saque em um tronco e o arrastei para os arbustos. Deve ficar seguro e fora de vista.</text>
+	</string>
+	<string id="st_gar_treasure_13_name">
+		<text>Esconderijo dos fugitivos</text>
+	</string>
+	<string id="st_gar_treasure_13_descr">
+		<text>Um dos stalkers pensou em fugir com seu saque, mas Shepherd e seus homens tinham outros planos. Eles acabaram com o cara, mas não acharam o saque. Só eu vi o cepo que os stalkers usavam como esconderijo.</text>
+	</string>
+	<string id="st_gar_treasure_14_name">
+		<text>Esconderijo solitário</text>
+	</string>
+	<string id="st_gar_treasure_14_descr">
+		<text>Escolhi um toco oco isolado para usar como esconderijo - caso um dos nossos próprios homens decida me roubar.</text>
+	</string>
+	<string id="st_gar_treasure_15_name">
+		<text>Esconderijo perto da base</text>
+	</string>
+	<string id="st_gar_treasure_15_descr">
+		<text>Não sei de mais ninguém, mas escondo minhas coisas bem embaixo do nariz do Yoga - ao lado da cerca, debaixo de um tronco velho.</text>
+	</string>
+	<string id="st_hos_treasure_1_name">
+		<text>Painel elétrico no hospital</text>
+	</string>
+	<string id="st_hos_treasure_1_descr">
+		<text>Nosso grupo fez um esconderijo no painel elétrico no primeiro andar do hospital.</text>
+	</string>
+	<string id="st_hos_treasure_2_name">
+		<text>Mochila embaixo da escada</text>
+	</string>
+	<string id="st_hos_treasure_2_descr">
+		<text>Quando estávamos invadindo o segundo andar, tivemos que nos livrar de tudo que não precisávamos.</text>
+	</string>
+	<string id="st_hos_treasure_3_name">
+		<text>Barricadas no corredor</text>
+	</string>
+	<string id="st_hos_treasure_3_descr">
+		<text>Eu estava em um tiroteio, preso no corredor do segundo andar do hospital. Tive que esconder meu saque em um velho cofre nas barricadas.</text>
+	</string>
+	<string id="st_lim_treasure_3_name">
+		<text>Tubulação no esgoto</text>
+	</string>
+	<string id="st_lim_treasure_3_descr">
+		<text>Vi o esconderijo de alguém no cano de esgoto. Vou buscá-lo quando voltar àquela área.</text>
+	</string>
+	<string id="st_lim_treasure_6_name">
+		<text>Bolsa escondida</text>
+	</string>
+	<string id="st_lim_treasure_5_name">
+		<text>Bolsa no sótão</text>
+	</string>
+	<string id="st_lim_treasure_5_descr">
+		<text>Passamos dois dias lutando contra os ataques. No final, eles nos fizeram recuar até o telhado, mas foi quando chegaram nossos reforços. Vi um cofre no sótão, mas esqueci de levá-lo comigo.</text>
+	</string>
+	<string id="st_lim_treasure_6_descr">
+		<text>Estávamos passando por um quintal quando notei uma pequena caixa de ferramentas atrás da cerca.</text>
+	</string>
+	<string id="st_lim_treasure_7_name">
+		<text>Tubo sob o UAZ</text>
+	</string>
+	<string id="st_lim_treasure_8_name">
+		<text>Atrás das garagens</text>
+	</string>
+	<string id="st_lim_treasure_8_descr">
+		<text>Vi o esconderijo de alguém atrás das garagens, mas não tive tempo de verificar o que havia lá. Está dentro de um cano grande atrás da árvore.</text>
+	</string>
+	<string id="st_lim_treasure_1_name">
+		<text>Tubo no container</text>
+	</string>
+	<string id="st_lim_treasure_1_descr">
+		<text>Ficamos encurralados. Havia um container de lixo e acho que vi algo dentro dele, em um cano. Assim que terminarmos nosso trabalho aqui, voltarei para verificar.</text>
+	</string>
+	<string id="st_lim_treasure_7_descr">
+		<text>Uma bolsa com algumas coisas dentro estava embaixo de um UAZ. Não tive tempo de verificar, mas talvez mais tarde eu vá - se ainda estiver vivo.</text>
+	</string>
+	<string id="st_lim_treasure_9_name">
+		<text>Mochila sob o painel</text>
+	</string>
+	<string id="st_lim_treasure_9_descr">
+		<text>Enfiei a mochila do pobre Tin Can embaixo do painel de um Moskvich velho.</text>
+	</string>
+	<string id="st_lim_treasure_2_name">
+		<text>Mochila na cerca</text>
+	</string>
+	<string id="st_lim_treasure_14_name">
+		<text>Pertences do homem ferido</text>
+	</string>
+	<string id="st_lim_treasure_14_descr">
+		<text>Acertaram o Sanek quando estávamos pulando um muro. Ele teve que largar sua mochila para salvar sua pele.</text>
+	</string>
+	<string id="st_lim_treasure_2_descr">
+		<text>Estava sendo perseguido, então deixei cair minha mochila perto de uma cerca nestas coordenadas.</text>
+	</string>
+	<string id="st_lim_treasure_10_name">
+		<text>Mochila do homem morto</text>
+	</string>
+	<string id="st_lim_treasure_10_descr">
+		<text>Um novato ao meu lado foi morto por uma granada - ficou todo despedaçado. Dan pegou sua mochila e a jogou embaixo da ponte. Um homem morto não tem uso para isso, mas nós talvez tenhamos.</text>
+	</string>
+	<string id="st_lim_treasure_11_name">
+		<text>Cofre na garagem</text>
+	</string>
+	<string id="st_lim_treasure_11_descr">
+		<text>Estávamos procurando nas garagens por um fugitivo e encontramos um cofre. Deveríamos tentar abri-lo algum dia.</text>
+	</string>
+	<string id="st_lim_treasure_12_name">
+		<text>Diário semienterrado</text>
+	</string>
+	<string id="st_lim_treasure_12_descr">
+		<text>Antes de acabarmos com aquele idiota, eu o vi mexendo naquele tronco atrás do mirante.</text>
+	</string>
+	<string id="st_lim_treasure_13_name">
+		<text>Pacote no tronco</text>
+	</string>
+	<string id="st_lim_treasure_13_descr">
+		<text>Vi algum tipo de pacote em um buraco dentro deste tronco enquanto nos preparávamos para um ataque.</text>
+	</string>
+	<string id="st_mar_treasure_1_name">
+		<text>Esconderijo próximo ao bunker</text>
+	</string>
+	<string id="st_mar_treasure_1_descr">
+		<text>A gangue do Squint estava me perseguindo, então joguei um monte de itens ao lado de uma escotilha de bunker, em um pântano não muito longe da estação de veículos abandonada.</text>
+	</string>
+	<string id="st_mar_treasure_2_name">
+		<text>Caixa pequena sob a torre</text>
+	</string>
+	<string id="st_mar_treasure_2_descr">
+		<text>Estou reunindo todo o meu saque em um esconderijo que fiz embaixo de uma das torres de alta tensão.</text>
+	</string>
+	<string id="st_mar_treasure_3_name">
+		<text>Caixa na cabine do ZIL</text>
+	</string>
+	<string id="st_mar_treasure_3_descr">
+		<text>Lame Alex trouxe uma caixa de ferramentas de algum lugar. Nós a enchemos com alguns itens valiosos e a escondemos na cabine de um ZIL enferrujado.</text>
+	</string>
+	<string id="st_mar_treasure_4_name">
+		<text>Tubo na estação</text>
+	</string>
+	<string id="st_mar_treasure_4_descr">
+		<text>Escondi algo na boca de um tubo ao lado de uma válvula, na velha estação de bombeamento no meio do pântano.</text>
+	</string>
+	<string id="st_mar_treasure_6_name">
+		<text>Tubo no pântano</text>
+	</string>
+	<string id="st_mar_treasure_6_descr">
+		<text>Me cansei de carregar minhas coisas por estes pântanos, então as deixei em um tubo com uma válvula. Pensei em aliviar minha carga, e o esconderijo ficaria seguro naqueles canaviais.</text>
+	</string>
+	<string id="st_mar_treasure_5_name">
+		<text>Mochila nos pântanos</text>
+	</string>
+	<string id="st_mar_treasure_5_descr">
+		<text>Mal escapei de uma dessas criaturas do pântano. Deixei cair minha mochila enquanto fugia, mas não quero voltar lá mais...</text>
+	</string>
+	<string id="st_mar_treasure_8_name">
+		<text>Cofre submerso</text>
+	</string>
+	<string id="st_mar_treasure_8_descr">
+		<text>Há um cofre submerso na água, não muito longe da ponte desmoronada. Coloquei todas as minhas coisas e toda a minha confiança nesse esconderijo.</text>
+	</string>
+	<string id="st_mar_treasure_7_name">
+		<text>Mochila nos canaviais</text>
+	</string>
+	<string id="st_mar_treasure_7_descr">
+		<text>Joguei minha mochila nos canaviais enquanto lutava contra alguns javalis. Não tenho ponto de referência, apenas as coordenadas de localização.</text>
+	</string>
+	<string id="st_mar_treasure_10_name">
+		<text>Artefatos abandonados</text>
+	</string>
+	<string id="st_mar_treasure_10_descr">
+		<text>Enganei um idiota e peguei sua mochila cheia de itens. Depois decidi escondê-la nos canaviais por um tempo para não ser pego.</text>
+	</string>
+	<string id="st_mar_treasure_9_name">
+		<text>Tronco de árvore</text>
+	</string>
+	<string id="st_mar_treasure_9_descr">
+		<text>Decidi guardar meu saque em um tronco ao lado da árvore seca. Vou levá-lo comigo quando sair dos pântanos.</text>
+	</string>
+	<string id="st_mar_treasure_12_name">
+		<text>Tronco próximo à torre</text>
+	</string>
+	<string id="st_mar_treasure_12_descr">
+		<text>Um tronco rachado não muito longe de uma torre de alta tensão.</text>
+	</string>
+	<string id="st_mar_treasure_11_name">
+		<text>Saque na máscara de gás</text>
+	</string>
+	<string id="st_mar_treasure_11_descr">
+		<text>Confio mais nos mortos do que nos vivos. Meu esconderijo está no cemitério, na cova mais à esquerda, junto à máscara de gás.</text>
+	</string>
+	<string id="st_mar_treasure_14_name">
+		<text>Cruz de madeira</text>
+	</string>
+	<string id="st_mar_treasure_14_descr">
+		<text>Guardo algo para um dia de necessidade. Está no túmulo com a única cruz de madeira no cemitério da igreja.</text>
+	</string>
+	<string id="st_mar_treasure_13_name">
+		<text>Pilha de madeira da igreja</text>
+	</string>
+	<string id="st_mar_treasure_13_descr">
+		<text>Querido Deus, por favor, cuide dos meus pertences. Eu os escondi em um tronco rachado na pilha de madeira.</text>
+	</string>
+	<string id="st_mar_treasure_16_name">
+		<text>Esconderijo nos canaviais</text>
+	</string>
+	<string id="st_mar_treasure_16_descr">
+		<text>Deixei minha mochila nos canaviais não muito longe da igreja. Agora não consigo encontrá-la, mesmo com as coordenadas exatas no meu PDA.</text>
+	</string>
+	<string id="st_mar_treasure_15_name">
+		<text>Cofre enterrado</text>
+	</string>
+	<string id="st_mar_treasure_15_descr">
+		<text>Coloquei todo o meu saque em um cofre em uma margem do pântano perto da igreja. Se danem, malditos ladrões!</text>
+	</string>
+	<string id="st_mar_treasure_18_name">
+		<text>Embaixo do fogão</text>
+	</string>
+	<string id="st_mar_treasure_18_descr">
+		<text>O que um fogão quente e uma garota quente têm em comum? Se você mexer por muito tempo, vai acabar se queimando! Ha-ha. Pois é nesse tipo de fogão que escondi meu saque.</text>
+	</string>
+	<string id="st_mar_treasure_17_name">
+		<text>Itens no Zaporozhets</text>
+	</string>
+	<string id="st_mar_treasure_17_descr">
+		<text>Passamos meia noite naquele Zaporozhets meio afundado antes de nossos homens chegarem para o resgate. Não sabia quem chegaria primeiro até nós, então escondi minhas coisas por lá. Preciso ir desenterrá-las enquanto o sol ainda brilha.</text>
+	</string>
+	<string id="st_mar_treasure_20_name">
+		<text>Tronco próximo à ferrovia</text>
+	</string>
+	<string id="st_mar_treasure_20_descr">
+		<text>Estávamos passando pela ferrovia quando ouvimos alguns tiros. Joguei minhas coisas dentro de um tronco atrás de algumas pedras, só por precaução.</text>
+	</string>
+	<string id="st_mar_treasure_19_name">
+		<text>Cano na cisterna</text>
+	</string>
+	<string id="st_mar_treasure_19_descr">
+		<text>Meus rapazes e eu guardamos nossas coisas na extremidade do tubo, aquele com a válvula, que vai da cisterna até os pântanos.</text>
+	</string>
+	<string id="st_mar_treasure_22_name">
+		<text>Mochila perto do colchão</text>
+	</string>
+	<string id="st_mar_treasure_22_descr">
+		<text>O idiota do Lekha dormiu em um colchão no barco afundado e acabou esquecendo sua mochila ali.</text>
+	</string>
+	<string id="st_mar_treasure_21_name">
+		<text>Caixa na cozinha</text>
+	</string>
+	<string id="st_mar_treasure_21_descr">
+		<text>Separei algumas mercadorias para trocar mais tarde, estão em uma caixa azul na cozinha.</text>
+	</string>
+	<string id="st_mar_treasure_24_name">
+		<text>Esconderijo na tora</text>
+	</string>
+	<string id="st_mar_treasure_24_descr">
+		<text>Antes de partir para outra área dos pântanos, tive que aliviar minha mochila. Enfiei parte do meu saque dentro de um tronco rachado.</text>
+	</string>
+	<string id="st_mar_treasure_23_name">
+		<text>Caixinha no painel</text>
+	</string>
+	<string id="st_mar_treasure_23_descr">
+		<text>O painel fora da sala do transformador na fazenda. Perigo! Mantenha distância!</text>
+	</string>
+	<string id="st_mar_treasure_25_name">
+		<text>Unidade de controle elétrico no posto de veículos</text>
+	</string>
+	<string id="st_mar_treasure_25_descr">
+		<text>Quando me juntei à gangue do Grey, guardei alguns itens na unidade de controle elétrico da estação. Quem sabe, pode ser útil algum dia.</text>
+	</string>
+	<string id="st_mar_treasure_26_name">
+		<text>Mochila na trilha</text>
+	</string>
+	<string id="st_mar_treasure_26_descr">
+		<text>Encontrei um mutante em uma trilha e só tinha uma faca. Larguei a mochila e corri. Alguns companheiros me encontraram depois, a uma milha de distância. Preciso voltar lá mais tarde.</text>
+	</string>
+	<string id="st_mar_treasure_27_name">
+		<text>Tronco perto da árvore jovem</text>
+	</string>
+	<string id="st_mar_treasure_27_descr">
+		<text>Que os tolos sejam espancados pelo Hook. Eu recolhi meu saque aos poucos e o guardei embaixo de um tronco perto de uma árvore jovem.</text>
+	</string>
+	<string id="st_mar_treasure_28_name">
+		<text>Cofre atrás da árvore morta</text>
+	</string>
+	<string id="st_mar_treasure_28_descr">
+		<text>Estou juntando dinheiro para os remédios do meu filho, guardando-o em um cofre atrás de uma árvore morta. Assim que tiver o suficiente, vou fugir para o exterior.</text>
+	</string>
+	<string id="st_mar_treasure_29_name">
+		<text>Esconderijo nos arbustos</text>
+	</string>
+	<string id="st_mar_treasure_29_descr">
+		<text>Saí dos pântanos exausto demais para continuar, então deixei cair minhas coisas no caminho, nos arbustos.</text>
+	</string>
+	<string id="st_mar_treasure_30_name">
+		<text>Saque embaixo da cama do caminhão</text>
+	</string>
+	<string id="st_mar_treasure_30_descr">
+		<text>Em uma caixa de ferramentas debaixo de um caminhão, do outro lado da ponte.</text>
+	</string>
+	<string id="st_mar_treasure_31_name">
+		<text>No meio do pântano</text>
+	</string>
+	<string id="st_mar_treasure_31_descr">
+		<text>Deixei uma caixa com pertences no meio de um pântano, sobre um pedaço de concreto com vergalhões expostos. Vou levá-la quando partir para o exterior.</text>
+	</string>
+	<string id="st_mar_treasure_32_name">
+		<text>Pequena caixa dentro do fogão</text>
+	</string>
+	<string id="st_mar_treasure_32_descr">
+		<text>Meu esconderijo está em uma caixa, a caixa está em um fogão, o fogão está em uma casa queimada e a casa está nos pântanos.</text>
+	</string>
+	<string id="st_mar_treasure_33_name">
+		<text>Esconderijo nos canaviais</text>
+	</string>
+	<string id="st_mar_treasure_33_descr">
+		<text>Não sei o que um cofre desses está fazendo aqui em um pântano, mas não pude ignorá-lo. Por enquanto, vou guardar minhas coisas lá.</text>
+	</string>
+	<string id="st_mar_treasure_34_name">
+		<text>Tronco de árvore no pântano</text>
+	</string>
+	<string id="st_mar_treasure_34_descr">
+		<text>Nosso líder disse para não levarmos muita coisa conosco. Escondi meus pertences debaixo de um toco ao lado da torre d'água, nos arbustos sob uma árvore.</text>
+	</string>
+	<string id="st_mar_treasure_35_name">
+		<text>Serrador no pântano</text>
+	</string>
+	<string id="st_mar_treasure_35_descr">
+		<text>Estava atravessando os pântanos quando notei este serrador apodrecido perto de uma plataforma de madeira. Pensei que seria um bom esconderijo para meus "tesouros".</text>
+	</string>
+	<string id="st_mar_treasure_36_name">
+		<text>Mochila ilhada</text>
+	</string>
+	<string id="st_mar_treasure_36_descr">
+		<text>Esta criatura do pântano não parava de me perseguir. Depois de alguns quilômetros daquela corrida, fiquei tão exausto que tive que largar minha mochila em uma das ilhas.</text>
+	</string>
+	<string id="st_mar_treasure_37_name">
+		<text>Escotilha próxima à estação</text>
+	</string>
+	<string id="st_mar_treasure_37_descr">
+		<text>Enterrei minhas mercadorias sob uma das escotilhas perto da estação, apenas para não perder tudo para algum ladrão.</text>
+	</string>
+	<string id="st_mar_treasure_38_name">
+		<text>Cofre no tubo</text>
+	</string>
+	<string id="st_mar_treasure_38_descr">
+		<text>Aquela mochila preta no tubo grande é tudo o que resta do Mitka.</text>
+	</string>
+	<string id="st_mar_treasure_39_name">
+		<text>Caixa de ferramentas na cabine</text>
+	</string>
+	<string id="st_mar_treasure_39_descr">
+		<text>Encontrei uma caixa de ferramentas em um pântano, coloquei todos os meus pertences nela e a escondi em uma cabine de guindaste. Vou esperar até que as coisas melhorem antes de usá-la.</text>
+	</string>
+	<string id="st_mar_treasure_40_name">
+		<text>Mochila sob o vagão do trem</text>
+	</string>
+	<string id="st_mar_treasure_40_descr">
+		<text>Estava tentando fugir, então aliviei minha carga deixando minha mochila debaixo de um vagão de trem.</text>
+	</string>
+	<string id="st_mar_treasure_41_name">
+		<text>Na borda da cúpula</text>
+	</string>
+	<string id="st_mar_treasure_41_descr">
+		<text>Deixei minha mochila no parapeito da cúpula da igreja. Devo ter parecido uma cabra selvagem pulando no telhado.</text>
+	</string>
+	<string id="st_mar_treasure_42_name">
+		<text>Debaixo da ponte</text>
+	</string>
+	<string id="st_mar_treasure_42_descr">
+		<text>Nos escondemos debaixo de uma ponte enquanto os caras que nos perseguiam passavam. Deixei minha mochila com o saque lá embaixo, ao lado de uma viga.</text>
+	</string>
+	<string id="st_mar_treasure_43_name">
+		<text>Entre as rochas</text>
+	</string>
+	<string id="st_mar_treasure_43_descr">
+		<text>Joguei minha bolsa em uma fenda entre três pedras, ou então seria um alvo fácil para bandidos.</text>
+	</string>
+	<string id="st_mar_treasure_44_name">
+		<text>Serrador sob as rochas</text>
+	</string>
+	<string id="st_mar_treasure_44_descr">
+		<text>Continuei procurando por um lugar seguro para meu esconderijo e encontrei um bom serrador com uma cavidade sob alguns pedregulhos nos canaviais.</text>
+	</string>
+	<string id="st_mil_treasure_11_name">
+		<text>Caixa-forte</text>
+	</string>
+	<string id="st_mil_treasure_11_descr">
+		<text>Enterrei minhas coisas debaixo de uma cruz de sepultura. Deixei descansando em paz até que eu volte para buscá-las.</text>
+	</string>
+	<string id="st_mil_treasure_12_name">
+		<text>Cruz perto da árvore</text>
+	</string>
+	<string id="st_mil_treasure_12_descr">
+		<text>Fiz um esconderijo na cova ao lado de uma árvore.</text>
+	</string>
+	<string id="st_mil_treasure_1_name">
+		<text>Estojo no fogão</text>
+	</string>
+	<string id="st_mil_treasure_1_descr">
+		<text>Enfiei um pequeno estojo dentro de um fogão em uma cabana em ruínas. Vou guardando minhas coisas lá por enquanto.</text>
+	</string>
+	<string id="st_mil_treasure_13_name">
+		<text>Tubo na entrada da base</text>
+	</string>
+	<string id="st_mil_treasure_13_descr">
+		<text>Escondi minhas coisas debaixo do nariz deles. Está dentro do cano atrás da cabine do vigia, na entrada da base.</text>
+	</string>
+	<string id="st_mil_treasure_2_name">
+		<text>Mochila perto da chaminé</text>
+	</string>
+	<string id="st_mil_treasure_14_name">
+		<text>Esconderijo no Moskvich</text>
+	</string>
+	<string id="st_mil_treasure_14_descr">
+		<text>Quando o Max voltar, devolverei sua mochila. Enquanto isso, vai ficar naquele velho Moskvich.</text>
+	</string>
+	<string id="st_mil_treasure_2_descr">
+		<text>Deixei minha mochila ao lado de uma chaminé no sótão de uma casa velha. Eu voltaria se não fosse por aquele Bloodsucker que vagueia pelo vilarejo.</text>
+	</string>
+	<string id="st_mil_treasure_3_name">
+		<text>Mochila embaixo do trailer</text>
+	</string>
+	<string id="st_mil_treasure_4_name">
+		<text>Esconderijo embaixo da ponte</text>
+	</string>
+	<string id="st_mil_treasure_4_descr">
+		<text>A mochila está em um vagão de trem embaixo da ponte na base do Military.</text>
+	</string>
+	<string id="st_mil_treasure_5_name">
+		<text>Rachadura no túnel</text>
+	</string>
+	<string id="st_mil_treasure_5_descr">
+		<text>Deixei cair minha mochila na fenda por cima do túnel quando o tiroteio começou, mas ela ficou presa em uma barra de metal. Foi uma pena sair sem ela - realmente deveria voltar para pegá-la.</text>
+	</string>
+	<string id="st_mil_treasure_6_name">
+		<text>Esconderijo no banheiro</text>
+	</string>
+	<string id="st_mil_treasure_6_descr">
+		<text>Duvido que alguém vá procurar um esconderijo no banheiro do Village. Mas é lá que está o meu, por isso não estou preocupado.</text>
+	</string>
+	<string id="st_mil_treasure_7_name">
+		<text>Caixa perto da cerca</text>
+	</string>
+	<string id="st_mil_treasure_7_descr">
+		<text>Deixei a mochila do pobre Kolyan atrás do hangar. Eu já tinha muita coisa para carregar. Por acaso sou uma mula de carga?!</text>
+	</string>
+	<string id="st_mil_treasure_8_name">
+		<text>Mochila sob a árvore</text>
+	</string>
+	<string id="st_mil_treasure_8_descr">
+		<text>No segundo em que vi aquele mutante ao lado da torre d'água, larguei minha mochila debaixo de uma árvore caída como uma batata quente. Em momentos como esse, ser leve pode salvar sua vida.</text>
+	</string>
+	<string id="st_mil_treasure_15_name">
+		<text>Mochila no porão</text>
+	</string>
+	<string id="st_mil_treasure_15_descr">
+		<text>Fiquei tão tonto após a Emission que joguei minha mochila em um porão. Voltarei para buscá-la depois.</text>
+	</string>
+	<string id="st_mil_treasure_16_name">
+		<text>Mochila esquecida</text>
+	</string>
+	<string id="st_mil_treasure_16_descr">
+		<text>Uma explosão quebrou uma parede em pedaços e um deles me prendeu embaixo. Tive que largar minha mochila para sair dali e chutar alguns traseiros, e isso foi tão divertido que acabei esquecendo dela. Provavelmente ainda está lá embaixo...</text>
+	</string>
+	<string id="st_mil_treasure_17_name">
+		<text>Esconderijo na cozinha</text>
+	</string>
+	<string id="st_mil_treasure_17_descr">
+		<text>Uma mochila verde no fogão da cozinha em uma das casas do acampamento abandonado. Coordenadas registradas.</text>
+	</string>
+	<string id="st_mil_treasure_18_name">
+		<text>Caixa embaixo do pedregulho</text>
+	</string>
+	<string id="st_mil_treasure_18_descr">
+		<text>Estava correndo outro dia e deixei uma mochila cheia de comida no meio dos arbustos entre duas pedras.</text>
+	</string>
+	<string id="st_mil_treasure_3_descr">
+		<text>Vi este cara jogar sua mochila debaixo de um trailer antes de uma Emission. Deveria ir dar uma olhada.</text>
+	</string>
+	<string id="st_mil_treasure_9_name">
+		<text>Tronco de árvore rachado</text>
+	</string>
+	<string id="st_mil_treasure_19_name">
+		<text>Esconderijo em trenó de camponeses</text>
+	</string>
+	<string id="st_mil_treasure_19_descr">
+		<text>Esconderijo nos enormes troncos ao lado dos trenós dos camponeses.</text>
+	</string>
+	<string id="st_mil_treasure_20_name">
+		<text>Esconderijo sob as rochas</text>
+	</string>
+	<string id="st_mil_treasure_20_descr">
+		<text>Na extremidade de algumas rochas há um tronco, e dentro dele, longe de olhares curiosos, está meu espólio.</text>
+	</string>
+	<string id="st_mil_treasure_9_descr">
+		<text>Escondi minhas coisas em um tronco embaixo de um pinheiro, ao lado da torre caída.</text>
+	</string>
+	<string id="st_mil_treasure_10_name">
+		<text>Toco atrás das lajes de concreto</text>
+	</string>
+	<string id="st_mil_treasure_21_name">
+		<text>Toco próximo à cerca</text>
+	</string>
+	<string id="st_mil_treasure_21_descr">
+		<text>Vityok disse que deixou minha parte do espólio no buraco de um toco que está entre a cerca da base militar e o pequeno pântano.</text>
+	</string>
+	<string id="st_mil_treasure_10_descr">
+		<text>Um toco entre duas rochas, atrás de uma pilha de lajes de concreto.</text>
+	</string>
+	<string id="st_red_treasure_2_name">
+		<text>Caixa azul</text>
+	</string>
+	<string id="st_red_treasure_2_descr">
+		<text>Meu espólio está em uma caixa azul no segundo andar do prédio, perto da plaina.</text>
+	</string>
+	<string id="st_red_treasure_1_name">
+		<text>Tubo no carrinho</text>
+	</string>
+	<string id="st_red_treasure_1_descr">
+		<text>Enfiei minhas coisas dentro de um cano e coloquei em um carrinho enferrujado na antiga pedreira.</text>
+	</string>
+	<string id="st_red_treasure_8_name">
+		<text>Mochila preta</text>
+	</string>
+	<string id="st_red_treasure_9_name">
+		<text>Mochila no galho</text>
+	</string>
+	<string id="st_red_treasure_9_descr">
+		<text>Me escondi de um mutante em uma árvore. Não o vi, mas o ouvi muito bem. Deixei a mochila no galho, pulei e corri pela minha vida.</text>
+	</string>
+	<string id="st_red_treasure_8_descr">
+		<text>Droga, perdi minha mochila preta quando estava fugindo da floresta. Sei onde ela está, mas não vou voltar lá a não ser que explodam todo o maldito lugar.</text>
+	</string>
+	<string id="st_red_treasure_10_name">
+		<text>Árvore junto à cerca</text>
+	</string>
+	<string id="st_red_treasure_10_descr">
+		<text>Uma maldita Bloodsucker me perseguiu até a cerca da reserva e subi em uma árvore. Se não tivesse deixado minha mochila naquela árvore, eu nunca teria conseguido pular a cerca.</text>
+	</string>
+	<string id="st_red_treasure_19_name">
+		<text>Mochila na caverna</text>
+	</string>
+	<string id="st_red_treasure_19_descr">
+		<text>Rastejei para dentro de uma caverna à noite para descansar um pouco. Tive um despertar brutal quando uma Bloodsucker puxou minha bolsa. Saí correndo como um campeão, mas ela ficou com minha mochila.</text>
+	</string>
+	<string id="st_red_treasure_11_name">
+		<text>Pedregulho próximo ao barranco</text>
+	</string>
+	<string id="st_red_treasure_11_descr">
+		<text>Vários Blind Dogs me encurralaram perto de um barranco, então joguei minha mochila em alguns pedregulhos e tentei fugir.</text>
+	</string>
+	<string id="st_red_treasure_3_name">
+		<text>Mochila nos arbustos</text>
+	</string>
+	<string id="st_red_treasure_12_name">
+		<text>Mochila na floresta</text>
+	</string>
+	<string id="st_red_treasure_12_descr">
+		<text>Foi como estar dentro de um filme de terror. Não sei como consegui escapar... Perdi minha mochila, mas lembro que só há um lugar onde posso tê-la deixado cair.</text>
+	</string>
+	<string id="st_red_treasure_13_name">
+		<text>Mochila sob as rochas</text>
+	</string>
+	<string id="st_red_treasure_13_descr">
+		<text>A mochila do Kolya estava pesada demais para carregar, então a coloquei embaixo de algumas pedras na saída para a ponte de Limansk.</text>
+	</string>
+	<string id="st_red_treasure_14_name">
+		<text>Espólio amaldiçoado</text>
+	</string>
+	<string id="st_red_treasure_14_descr">
+		<text>Essa mochila tem uma história e tanto! Todos que lidaram com ela estão mortos. Joguei fora para nunca mais ver a maldita coisa.</text>
+	</string>
+	<string id="st_red_treasure_15_name">
+		<text>Lugar estranho</text>
+	</string>
+	<string id="st_red_treasure_15_descr">
+		<text>Adormeci ao lado de um rochedo, deitado sobre minha mochila. De manhã, acordei em um lugar totalmente diferente. Tentei encontrar aquele rochedo, mas algo me fazia andar em círculos.</text>
+	</string>
+	<string id="st_red_treasure_16_name">
+		<text>Mochila sob as pedras</text>
+	</string>
+	<string id="st_red_treasure_16_descr">
+		<text>Algumas rochas se soltaram do barranco e caíram sobre mim na saída da Red Forest. Então, algo sombrio começou a se aproximar por trás delas. Mal consegui escapar, mas tive que abandonar minhas coisas pelo caminho.</text>
+	</string>
+	<string id="st_red_treasure_3_descr">
+		<text>Estávamos atravessando os arbustos quando, de alguma forma, perdi minha mochila.</text>
+	</string>
+	<string id="st_red_treasure_17_name">
+		<text>Mochila perdida</text>
+	</string>
+	<string id="st_red_treasure_17_descr">
+		<text>Aquele idiota do Abe perdeu minha mochila em algumas rochas por aqui. Agora está com muito medo de voltar para pegá-la. Um verdadeiro amigo, sem dúvida!</text>
+	</string>
+	<string id="st_red_treasure_18_name">
+		<text>Caixa na galeria da mina</text>
+	</string>
+	<string id="st_red_treasure_18_descr">
+		<text>Escondi meus Artifacts no final de uma galeria de mina abandonada.</text>
+	</string>
+	<string id="st_red_treasure_24_name">
+		<text>Toco no deserto</text>
+	</string>
+	<string id="st_red_treasure_24_descr">
+		<text>Me perdi na Red Forest e larguei todas as minhas tralhas aqui mesmo, dentro de um buraco em um toco.</text>
+	</string>
+	<string id="st_red_treasure_4_name">
+		<text>Itens dentro do buraco da árvore</text>
+	</string>
+	<string id="st_red_treasure_4_descr">
+		<text>No caminho para Limansk, eu e Whip escondemos nossas coisas no buraco de uma árvore caída, perto da saída da reserva.</text>
+	</string>
+	<string id="st_red_treasure_5_name">
+		<text>Toco de árvore carregado</text>
+	</string>
+	<string id="st_red_treasure_6_name">
+		<text>Toco em frente à floresta</text>
+	</string>
+	<string id="st_red_treasure_6_descr">
+		<text>Não sabemos o que nos espera nessa floresta... por isso escondemos nossos extras em um toco podre.</text>
+	</string>
+	<string id="st_red_treasure_7_name">
+		<text>Toco próximo ao barranco</text>
+	</string>
+	<string id="st_red_treasure_7_descr">
+		<text>Guardamos nossas coisas perto daquele inferno, uma Anomaly. Nosso alvo é a própria Anomaly. É tão assustadora que deve ter alguns Artifacts realmente valiosos.</text>
+	</string>
+	<string id="st_red_treasure_20_name">
+		<text>Toco grande</text>
+	</string>
+	<string id="st_red_treasure_20_descr">
+		<text>Seva me falou sobre um grande toco oco na Red Forest. Vou tentar localizá-lo e ver o que há dentro.</text>
+	</string>
+	<string id="st_red_treasure_21_name">
+		<text>Esconderijo no toco</text>
+	</string>
+	<string id="st_red_treasure_21_descr">
+		<text>Gene e eu escondemos algumas coisas em um toco na Red Forest.</text>
+	</string>
+	<string id="st_red_treasure_22_name">
+		<text>Toco próximo ao barranco</text>
+	</string>
+	<string id="st_red_treasure_22_descr">
+		<text>Bati neste toco quando estava caindo no barranco, então escondi meu espólio nele por enquanto.</text>
+	</string>
+	<string id="st_red_treasure_5_descr">
+		<text>Ouvi gritos e uivos, então coloquei minhas coisas dentro do tronco mais próximo e dei o fora.</text>
+	</string>
+	<string id="st_red_treasure_23_name">
+		<text>Zaporozhets na entrada da mina</text>
+	</string>
+	<string id="st_red_treasure_23_descr">
+		<text>Escondi meu espólio sob o banco daquele Zaporozhets ao lado da entrada da mina. Vou buscá-lo antes de ir ver o Sidorovich.</text>
+	</string>
+	<string id="st_dark_valley_treasure_15_name">
+		<text>Cofre na fazenda</text>
+	</string>
+	<string id="st_yantar_treasure_15_name">
+		<text>Esconderijo atrás das garagens</text>
+	</string>
+	<string id="st_yantar_treasure_15_descr">
+		<text>Escondi meu espólio em um tronco perto das garagens, ao lado da fábrica de Yantar. O melhor lugar que pude encontrar no momento.</text>
+	</string>
+	<string id="st_dark_valley_treasure_22_name">
+		<text>Esconderijo sob o pinheiro jovem</text>
+	</string>
+	<string id="st_dark_valley_treasure_22_descr">
+		<text>Não muito longe do pântano, joguei minha mochila por um cano, debaixo de um pinheiro jovem.</text>
+	</string>
+	<string id="st_esc_treasure_weapon_prisoner_descr">
+		<text>Um pequeno cofre está escondido no tubo de concreto. Tem algumas coisas que guardei para tempos difíceis.</text>
+	</string>
+	<string id="st_esc_treasure_weapon_prisoner_name">
+		<text>O estoque do Major Khaletskiy</text>
+	</string>
+	<string id="st_gar_treasure_quest_bandit_base_name">
+		<text>Antigo esconderijo</text>
+	</string>
+	<string id="st_gar_treasure_quest_bandit_base_descr">
+		<text>Os Stalkers costumavam esconder seu espólio neste esconderijo.</text>
+	</string>
+	<string id="st_gar_treasure_quest_old_pda_name">
+		<text>Caixa de ferramentas</text>
+	</string>
+	<string id="st_gar_treasure_quest_old_pda_descr">
+		<text>O PDA antigo está sob o fundo falso da caixa de ferramentas.</text>
+	</string>
+	<string id="st_gar_treasure_quest_reward_in_anomaly_name">
+		<text>Esconderijo na Anomaly</text>
+	</string>
+	<string id="st_gar_treasure_quest_reward_in_anomaly_descr">
+		<text>Se Yoga não estava mentindo, um esconderijo no meio das Anomalies tem um rifle especial.</text>
+	</string>
+	<string id="st_gar_treasure_quest_smuggler_weapons_name">
+		<text>Porta-malas do carro</text>
+	</string>
+	<string id="st_gar_treasure_quest_smuggler_weapons_descr">
+		<text>Segundo Stringov, o velho porta-malas do carro guarda o lote de mercadorias de algum contrabandista.</text>
+	</string>
+	<string id="st_mar_q_n_10_name">
+		<text>Cofre nos pântanos</text>
+	</string>
+	<string id="st_mar_q_n_10_descr">
+		<text>Há um esconderijo muito valioso na fábrica de reciclagem nos pântanos. Qualquer que seja seu conteúdo, agora será seu.</text>
+	</string>
+	<string id="st_mar_q_n_11_name">
+		<text>Cofre com recompensa</text>
+	</string>
+	<string id="st_mar_q_n_11_descr">
+		<text>Parceiro, essas chaves abrem um cofre que contém algo valioso. Ou pelo menos é o que me dizem...</text>
+	</string>
+	<string id="st_mar_q_n_12_name">
+		<text>Recompensa</text>
+	</string>
+	<string id="st_mar_q_n_12_descr">
+		<text>Esconderijos secretos pelo seu dinheiro. Vendo todos exclusivamente para você.</text>
+	</string>
+	<string id="st_mar_q_n_13_name">
+		<text>Estojo pequeno</text>
+	</string>
+	<string id="st_mar_q_n_13_descr">
+		<text>Nesse esconderijo, aqui estão as coordenadas, tem algum espólio. Você o encontrará atrás da lixeira, perto da parede.</text>
+	</string>
+	<string id="st_mar_q_n_14_name">
+		<text>Cofre sob a ponte</text>
+	</string>
+	<string id="st_mar_q_n_14_descr">
+		<text>Não vou te enrolar com minhas histórias. Você encontrará o cofre escondido embaixo da ponte.</text>
+	</string>
+	<string id="st_mar_q_n_6_name">
+		<text>Mochila como pagamento</text>
+	</string>
+	<string id="st_mar_q_n_6_descr">
+		<text>O conteúdo desta mochila, cujas coordenadas estou carregando em seu PDA, vale mais que o dinheiro que você está colocando em meus bolsos.</text>
+	</string>
+	<string id="st_mar_q_n_7_name">
+		<text>Cofre com trava codificada</text>
+	</string>
+	<string id="st_mar_q_n_7_descr">
+		<text>Seu pagamento vale bem o espólio escondido neste cofre nos pântanos.</text>
+	</string>
+	<string id="st_mar_q_n_8_name">
+		<text>Espólio como pagamento</text>
+	</string>
+	<string id="st_mar_q_n_8_descr">
+		<text>O espólio que você encontrará na mochila preta embaixo das rochas agora é seu. Vamos considerar esta transação encerrada.</text>
+	</string>
+	<string id="st_mar_q_n_9_name">
+		<text>Pequeno caixote na torre</text>
+	</string>
+	<string id="st_mar_q_n_9_descr">
+		<text>Uma fonte confiável certa vez me falou de um espólio escondido sob uma torre.</text>
+	</string>
+	<string id="st_mar_q_t_a_15_name">
+		<text>Preciosa mochila do soldado</text>
+	</string>
+	<string id="st_mar_q_t_a_15_descr">
+		<text>Você receberá mais do que pagou. Sua recompensa está dentro de uma mochila ao lado do corpo de um soldado.</text>
+	</string>
+	<string id="st_mar_q_t_a_3_name">
+		<text>Esforço extra</text>
+	</string>
+	<string id="st_mar_q_t_a_3_descr">
+		<text>Vá mais longe, encontre a mochila do stalker morto - e você terá seu dinheiro de volta com juros.</text>
+	</string>
+	<string id="st_mar_q_t_l_16_name">
+		<text>Recompensa perigosa</text>
+	</string>
+	<string id="st_mar_q_t_l_16_descr">
+		<text>Vou te recompensar com informações sobre um espólio valioso, mas "perigoso". Mas não se esqueça - o dono anterior não seguiu meu conselho...</text>
+	</string>
+	<string id="st_mar_q_t_l_1_name">
+		<text>Mochila no cadáver</text>
+	</string>
+	<string id="st_mar_q_t_l_1_descr">
+		<text>Aqui está uma dica para você: está na mochila nas costas de um cadáver.</text>
+	</string>
+	<string id="st_mar_q_t_l_2_name">
+		<text>Paraquedista</text>
+	</string>
+	<string id="st_mar_q_t_l_2_descr">
+		<text>Você encontrará o cadáver nestas coordenadas - sua mochila guarda o que lhe é devido.</text>
+	</string>
+	<string id="st_mar_q_t_l_4_name">
+		<text>O cadáver do stalker</text>
+	</string>
+	<string id="st_mar_q_t_l_4_descr">
+		<text>Aqui está uma informação: um jovem stalker "descansando" nos arbustos está guardando sua mochila para você.</text>
+	</string>
+	<string id="st_mar_q_t_l_5_name">
+		<text>Mochila sob o gasoduto</text>
+	</string>
+	<string id="st_mar_q_t_l_5_descr">
+		<text>Pegue estas coordenadas - elas apontam para uma mochila ao lado do cadáver de um stalker embaixo do gasoduto.</text>
+	</string>
+	<string id="st_esc_q10_n_name">
+		<text>Toco de árvore perto do arame farpado</text>
+	</string>
+	<string id="st_esc_q10_n_descr">
+		<text>Ok amigo, para conseguir sua recompensa vá e procure um toco não muito longe do arame farpado</text>
+	</string>
+	<string id="st_esc_q1_n_name">
+		<text>Caixote verde</text>
+	</string>
+	<string id="st_esc_q1_n_descr">
+		<text>Guardei este espólio especialmente para você. Está no caixote do Military na beira do Cordon. Um pedaço do meu coração vai com ele!</text>
+	</string>
+	<string id="st_esc_q2_n_name">
+		<text>Pequena mochila solitária</text>
+	</string>
+	<string id="st_esc_q2_n_descr">
+		<text>E assim sua generosidade será recompensada com generosidade! He-he-he. Aqui está um esconderijo meu - pegue seu conteúdo como quiser.</text>
+	</string>
+	<string id="st_esc_q3_t_l_name">
+		<text>O caminho para os Marshes</text>
+	</string>
+	<string id="st_esc_q3_t_l_descr">
+		<text>Eu pego seu dinheiro, você pega meu esconderijo. Você o encontrará ao longo do caminho para os Marshes, ao lado de um cadáver.</text>
+	</string>
+	<string id="st_esc_q4_t_a_name">
+		<text>Recompensa para um herói</text>
+	</string>
+	<string id="st_esc_q4_t_a_descr">
+		<text>Sua compra o aguarda dentro da mochila ao lado do cadáver de um stalker sem sorte. Procure-o perto da velha locomotiva elétrica.</text>
+	</string>
+	<string id="st_esc_q5_n_name">
+		<text>Compensação</text>
+	</string>
+	<string id="st_esc_q5_n_descr">
+		<text>Você encontrará o "mel" nestas coordenadas, dentro da mochila que está embaixo de uma árvore.</text>
+	</string>
+	<string id="st_esc_q6_n_name">
+		<text>Acesso permitido</text>
+	</string>
+	<string id="st_esc_q6_n_descr">
+		<text>Minha parte do negócio está dentro do painel elétrico do elevador. Vá em frente e chegue lá dentro, não há eletricidade. Embora eu não possa ter certeza do mesmo em relação a uma anomalia.</text>
+	</string>
+	<string id="st_esc_q7_n_name">
+		<text>Estojo sob o vagão do trem</text>
+	</string>
+	<string id="st_esc_q7_n_descr">
+		<text>Seu espólio é o conteúdo de um estojo embaixo de um vagão de trem.</text>
+	</string>
+	<string id="st_esc_q8_n_name">
+		<text>Túmulo falso</text>
+	</string>
+	<string id="st_esc_q8_n_descr">
+		<text>Profanar túmulos é errado. Mas meu esconderijo está em um túmulo falso, então você não perturbará nenhum morto.</text>
+	</string>
+	<string id="st_esc_q9_t_a_name">
+		<text>Estojo atrás do ferro-velho</text>
+	</string>
+	<string id="st_esc_q9_t_a_descr">
+		<text>Eu lhe pagarei com o conteúdo do esconderijo que se encontra ao lado de uma anomalia atrás do ferro-velho no Cordon. Há um outro sujeito por perto que está tentando pegá-lo também, mas não se preocupe com ele - ele não está mais em ação.</text>
+	</string>
+	<string id="st_gar_q10_n_name">
+		<text>Toco de árvore perto do Garbage</text>
+	</string>
+	<string id="st_gar_q10_n_descr">
+		<text>Bem, eu lhe darei uma dica. Sua compensação o aguarda dentro de um toco na beira do Garbage.</text>
+	</string>
+	<string id="st_gar_q1_n_name">
+		<text>Mochila preta nos escombros</text>
+	</string>
+	<string id="st_gar_q1_n_descr">
+		<text>O que eu lhe devo está dentro de uma mochila preta dentro do guindaste de construção destruído.</text>
+	</string>
+	<string id="st_gar_q2_n_name">
+		<text>Tubo de corte</text>
+	</string>
+	<string id="st_gar_q2_n_descr">
+		<text>Eu tenho meu dinheiro, mas para ter o seu, você terá que arrastar seu traseiro até esse esconderijo dentro de um tubo de corte.</text>
+	</string>
+	<string id="st_gar_q3_n_name">
+		<text>Caixa de painel elétrico nos destroços</text>
+	</string>
+	<string id="st_gar_q3_n_descr">
+		<text>Há algum tempo atrás eu fiz este esconderijo para mim mesmo, mas agora terei que entregá-lo a você. Ah, bem.</text>
+	</string>
+	<string id="st_gar_q4_n_name">
+		<text>Pequena caixa no meio do lixo radioativo</text>
+	</string>
+	<string id="st_gar_q4_n_descr">
+		<text>Estou lhe dando as coordenadas de uma pequena caixa com um espólio dentro. Só não frite seu cérebro - a radiação lá está fora de escala.</text>
+	</string>
+	<string id="st_gar_q5_n_name">
+		<text>Caixa próxima à lâmina do bulldozer</text>
+	</string>
+	<string id="st_gar_q5_n_descr">
+		<text>Você encontrará o que acabou de comprar na base de uma escavadeira bulldozer.</text>
+	</string>
+	<string id="st_gar_q6_t_l_name">
+		<text>Mochila do homem morto</text>
+	</string>
+	<string id="st_gar_q6_t_l_descr">
+		<text>Você não tem medo de fantasmas, tem? Então procure por um esconderijo na mochila ao lado de um cadáver.</text>
+	</string>
+	<string id="st_gar_q7_t_l_name">
+		<text>Cadáver próximo à escavadeira</text>
+	</string>
+	<string id="st_gar_q7_t_l_descr">
+		<text>O sujeito morto perto da escavadeira tombada lhe apresentará o conteúdo de sua mochila.</text>
+	</string>
+	<string id="st_gar_q8_t_a_name">
+		<text>Cadáver no Garbage</text>
+	</string>
+	<string id="st_gar_q8_t_a_descr">
+		<text>Acho que você terá que suar um pouco para conseguir o que lhe devo. O espólio está dentro da mochila desta vítima da anomalia.</text>
+	</string>
+	<string id="st_gar_q9_n_name">
+		<text>A caminho de Agroprom</text>
+	</string>
+	<string id="st_gar_q9_n_descr">
+		<text>Localize uma pequena caixa dentro do UAZ a caminho de Agroprom. Acho que você vai apreciar o conteúdo.</text>
+	</string>
+	<string id="st_val_q10_n_name">
+		<text>Cofre no hangar</text>
+	</string>
+	<string id="st_val_q10_n_descr">
+		<text>Eu sou fiel às minhas palavras - o esconderijo prometido o aguarda em um cofre na velha fábrica.</text>
+	</string>
+	<string id="st_val_q11_t_l_name">
+		<text>Cadáver perto das rochas</text>
+	</string>
+	<string id="st_val_q11_t_l_descr">
+		<text>Você acabou de comprar o conteúdo de uma mochila que está sobre o cadáver deitado perto das rochas.</text>
+	</string>
+	<string id="st_val_q1_n_name">
+		<text>Debaixo da cisterna</text>
+	</string>
+	<string id="st_val_q1_n_descr">
+		<text>Meu espólio - correção, seu espólio agora - está dentro da mochila embaixo da cisterna.</text>
+	</string>
+	<string id="st_val_q2_n_name">
+		<text>Arbustos perto do abeto</text>
+	</string>
+	<string id="st_val_q2_n_descr">
+		<text>Voltando de uma viagem de sorte, escondi meu espólio nos arbustos. Agora você pode fazer uso dele.</text>
+	</string>
+	<string id="st_val_q3_t_a_name">
+		<text>O cadáver do militar</text>
+	</string>
+	<string id="st_val_q3_t_a_descr">
+		<text>Anote isto: espólio muito valioso - mochila - militar sem sorte - bem ao lado de uma anomalia.</text>
+	</string>
+	<string id="st_val_q4_n_name">
+		<text>Espólio nos arbustos</text>
+	</string>
+	<string id="st_val_q4_n_descr">
+		<text>Eu sempre acerto minhas contas. E neste momento minha conta está me dizendo para lhe dar as coordenadas do meu espólio.</text>
+	</string>
+	<string id="st_val_q5_n_name">
+		<text>Cofre na base da Freedom</text>
+	</string>
+	<string id="st_val_q5_n_descr">
+		<text>No prédio de três andares da base da Freedom há um cofre que guarda algo valioso para os caçadores de recompensas.</text>
+	</string>
+	<string id="st_val_q6_n_name">
+		<text>Caixote no topo da torre</text>
+	</string>
+	<string id="st_val_q6_n_descr">
+		<text>Agradeço seu interesse e o satisfarei com o conteúdo de uma caixa azul no topo da torre, logo após a base da Freedom.</text>
+	</string>
+	<string id="st_val_q7_n_name">
+		<text>Túmulo do stalker</text>
+	</string>
+	<string id="st_val_q7_n_descr">
+		<text>Você acabou de comprar o que está embaixo da cruz de um stalker, ao lado de uma árvore velha.</text>
+	</string>
+	<string id="st_val_q8_n_name">
+		<text>Caixa debaixo do assento</text>
+	</string>
+	<string id="st_val_q8_n_descr">
+		<text>Sob o assento do motorista de um LAZ vermelho você encontrará um caixote. Sinta-se à vontade para conferir. Ou não - depende de você.</text>
+	</string>
+	<string id="st_val_q9_n_name">
+		<text>Toco de árvore próximo à cerca</text>
+	</string>
+	<string id="st_val_q9_n_descr">
+		<text>Para situações como esta, tenho mercadorias escondidas em segurança dentro do toco de árvore que está perto de uma cerca.</text>
+	</string>
+	<string id="st_agr_q10_t_l_name">
+		<text>Mercadorias confiscadas perto da anomalia</text>
+	</string>
+	<string id="st_agr_q10_t_l_descr">
+		<text>Este militar tropeçou em uma anomalia, e sua mochila com o espólio que ele apreendeu dos stalkers ainda está lá, parada ao seu lado. Se você tiver sorte, pode torná-la sua.</text>
+	</string>
+	<string id="st_agr_q1_n_name">
+		<text>Por cercas perto de arame farpado</text>
+	</string>
+	<string id="st_agr_q1_n_descr">
+		<text>Ok, eu lhe pagarei com este esconderijo secreto - uma mochila de um stalker que está perto de uma cerca. A torre de alta tensão servirá como seu ponto de referência.</text>
+	</string>
+	<string id="st_agr_q2_n_name">
+		<text>Sob as árvores arrancadas</text>
+	</string>
+	<string id="st_agr_q2_n_descr">
+		<text>Não temos salas de armazenamento na Zona, desculpe! Portanto, apresse-se e pegue este esconderijo embaixo de uma árvore arrancada antes que outra pessoa o faça.</text>
+	</string>
+	<string id="st_agr_q3_t_a_name">
+		<text>Cadáver no ponto radioativo</text>
+	</string>
+	<string id="st_agr_q3_t_a_descr">
+		<text>Você quer grandes esconderijos e grandes esconderijos é o que eu tenho. Eles serão seus se você se atrever a ir em um local de alta radiação. Sua recompensa está ao lado de um cadáver.</text>
+	</string>
+	<string id="st_agr_q4_n_name">
+		<text>Cilindros sobre cova</text>
+	</string>
+	<string id="st_agr_q4_n_descr">
+		<text>A honra vale mais que dinheiro, então vá em frente e pegue os objetos de dentro de alguns cilindros em uma cova desconhecida.</text>
+	</string>
+	<string id="st_agr_q5_n_name">
+		<text>Esquina da cerca</text>
+	</string>
+	<string id="st_agr_q5_n_descr">
+		<text>Após a última Emissão, Valka Squint, que Deus o tenha, escondeu algo dentro deste velho toco no canto de uma cerca.</text>
+	</string>
+	<string id="st_agr_q6_n_name">
+		<text>Quadro de distribuição</text>
+	</string>
+	<string id="st_agr_q6_n_descr">
+		<text>Meu esconderijo - opa, desculpe, seu esconderijo - está dentro do quadro de distribuição na base da Duty.</text>
+	</string>
+	<string id="st_agr_q7_n_name">
+		<text>Tora perto da árvore</text>
+	</string>
+	<string id="st_agr_q7_n_descr">
+		<text>No outro dia, algumas pessoas simpáticas me falaram de um esconderijo que pertence aos meus inimigos. Esvazie-o, ok?</text>
+	</string>
+	<string id="st_agr_q8_t_a_name">
+		<text>Cadáver em furgão</text>
+	</string>
+	<string id="st_agr_q8_t_a_descr">
+		<text>Estes soldados estavam acelerando o ônibus tão rápido que se depararam com uma anomalia nesta área. Todos eles bateram as botas, e você acabou de herdar o espólio deles.</text>
+	</string>
+	<string id="st_agr_q9_n_name">
+		<text>Deslizamento seguro sob a terra</text>
+	</string>
+	<string id="st_agr_q9_n_descr">
+		<text>Eu enterrei um cofre com meu espólio no fundo de uma ravina. Vamos fingir que foi feito para você desde o início.</text>
+	</string>
+	<string id="st_agru_q1_n_name">
+		<text>Travessa sob as escadas</text>
+	</string>
+	<string id="st_agru_q1_n_descr">
+		<text>Há um esconderijo que eu conheço nesse lugar sinistro. Por outro lado, você pode ter certeza de que nunca foi invadido. Procure-o no porão, embaixo das escadas.</text>
+	</string>
+	<string id="st_agru_q2_n_name">
+		<text>Estojo debaixo da terra</text>
+	</string>
+	<string id="st_agru_q2_n_descr">
+		<text>No fundo da escada em espiral você encontrará uma caixa perdida com mercadorias dentro. Tenha cuidado para não perturbar os muitos moradores do subsolo.</text>
+	</string>
+	<string id="st_agru_q3_t_a_name">
+		<text>Debaixo do solo</text>
+	</string>
+	<string id="st_agru_q3_t_a_descr">
+		<text>Aqui é um lugar onde você pode pegar a mochila de um soldado. Ele se deparou com uma anomalia no Subterrâneo de Agropom. Certifique-se apenas de não fazer o mesmo!</text>
+	</string>
+	<string id="st_agru_q4_n_name">
+		<text>Tubo no coletor</text>
+	</string>
+	<string id="st_agru_q4_n_descr">
+		<text>O PDA de algum stalker me contou sobre seu espólio escondido no Subterrâneo de Agropom. Copie as coordenadas, por favor.</text>
+	</string>
+	<string id="st_yan_q8_t_l_name">
+		<text>Cadáver no lago</text>
+	</string>
+	<string id="st_yan_q8_t_l_descr">
+		<text>Procure a mochila deste soldado que está tomando um banho no lago.</text>
+	</string>
+	<string id="st_yan_q1_n_name">
+		<text>Caixa no telhado da sala da caldeira</text>
+	</string>
+	<string id="st_yan_q1_n_descr">
+		<text>Há um pequeno esconderijo dentro de uma caixa azul no teto de uma sala de caldeiras. A área está repleta de zumbis, portanto, cuidado.</text>
+	</string>
+	<string id="st_yan_q2_n_name">
+		<text>Caixa no vagão do trem</text>
+	</string>
+	<string id="st_yan_q2_n_descr">
+		<text>Ótimo - agora pegue estas coordenadas de uma caixa dentro do vagão de trem na fábrica. Vá até lá e você saberá o que fazer.</text>
+	</string>
+	<string id="st_yan_q3_t_l_name">
+		<text>Mochila através de cano de esgoto</text>
+	</string>
+	<string id="st_yan_q3_t_l_descr">
+		<text>Encontre esta mochila junto ao cano de esgoto e ficaremos quites. Há um morto por perto, por isso, você vai identificar este lugar facilmente.</text>
+	</string>
+	<string id="st_yan_q4_n_name">
+		<text>Caixa na base de cientistas</text>
+	</string>
+	<string id="st_yan_q4_n_descr">
+		<text>Excelente! Leve tudo o que encontrar dentro da caixa no porta-malas de um UAZ na base de cientistas.</text>
+	</string>
+	<string id="st_yan_q5_n_name">
+		<text>Cabine com quadro elétrico</text>
+	</string>
+	<string id="st_yan_q5_n_descr">
+		<text>Eu o reembolsarei com as coordenadas de um esconderijo no estande próximo à fábrica.</text>
+	</string>
+	<string id="st_yan_q6_n_name">
+		<text>Boca de sino da cisterna</text>
+	</string>
+	<string id="st_yan_q6_n_descr">
+		<text>Algo está escondido na boca do sino da cisterna na fábrica. Eu nunca chequei exatamente.</text>
+	</string>
+	<string id="st_yan_q7_n_name">
+		<text>Cabine do caminhão MAZ</text>
+	</string>
+	<string id="st_yan_q7_n_descr">
+		<text>Você encontrará o material na cabine deste caminhão MAZ, embalado em uma caixa.</text>
+	</string>
+	<string id="st_yan_q9_n_name">
+		<text>Cepo de árvore em frente ao acampamento dos cientistas</text>
+	</string>
+	<string id="st_yan_q9_n_descr">
+		<text>Procure o esconderijo embaixo do tronco em frente ao acampamento dos cientistas.</text>
+	</string>
+	<string id="st_red_q10_n_name">
+		<text>Tubulação na mina</text>
+	</string>
+	<string id="st_red_q10_n_descr">
+		<text>Sei com certeza que há algo de valioso neste esconderijo na Floresta Vermelha.</text>
+	</string>
+	<string id="st_red_q1_t_l_name">
+		<text>Stalker morto</text>
+	</string>
+	<string id="st_red_q1_t_l_descr">
+		<text>Eu vi no PDA de um stalker morto que sua mochila continha algo de interesse. Aqui estão essas coordenadas.</text>
+	</string>
+	<string id="st_red_q2_t_a_name">
+		<text>Esconderijo perigoso</text>
+	</string>
+	<string id="st_red_q2_t_a_descr">
+		<text>Eu já mandei um idiota para este esconderijo, mas sei que ele nunca chegou até lá - ele bateu as botas em uma anomalia por perto.</text>
+	</string>
+	<string id="st_red_q3_n_name">
+		<text>Válvula vermelha</text>
+	</string>
+	<string id="st_red_q3_n_descr">
+		<text>O esconderijo está escondido atrás da válvula vermelha do sistema de tubulação da mina. Seu conteúdo não me interessa de modo algum.</text>
+	</string>
+	<string id="st_red_q4_n_name">
+		<text>Ônibus</text>
+	</string>
+	<string id="st_red_q4_n_descr">
+		<text>Um amigo meu fez seu esconderijo sob o banco de trás deste ônibus. Ele não está mais conosco, por isso não se importará se você invadir seu pequeno esconderijo.</text>
+	</string>
+	<string id="st_red_q5_n_name">
+		<text>Tubo nos escombros</text>
+	</string>
+	<string id="st_red_q5_n_descr">
+		<text>Aprendi sobre este esconderijo com um prisioneiro - está em um pedaço de cano nos escombros atrás do APC.</text>
+	</string>
+	<string id="st_red_q6_n_name">
+		<text>Caixote com mochila</text>
+	</string>
+	<string id="st_red_q6_n_descr">
+		<text>Seu tesouro é simplesmente fabuloso! OK, tome nota - a recompensa está na mochila, a mochila está na caixa, a caixa está na ponte, a ponte está do outro lado da Floresta Vermelha.</text>
+	</string>
+	<string id="st_red_q7_t_a_name">
+		<text>Mochila do pobre rapaz</text>
+	</string>
+	<string id="st_red_q7_t_a_descr">
+		<text>Este pobre coitado estava me trazendo uma mochila através da Floresta Vermelha, mas nunca conseguiu chegar. Se você a encontrar, ela é toda sua.</text>
+	</string>
+	<string id="st_red_q8_n_name">
+		<text>Cofre próximo ao carrinho</text>
+	</string>
+	<string id="st_red_q8_n_descr">
+		<text>Minhas informações são todas verdadeiras e nenhuma besteira. Alguns vagabundos esconderam algo valioso em um cofre perto do carrinho virado.</text>
+	</string>
+	<string id="st_red_q9_n_name">
+		<text>Cepo de árvore velho comum</text>
+	</string>
+	<string id="st_red_q9_n_descr">
+		<text>Há um esconderijo no toco carregado de buracos. Nada de especial, apenas um lugar discreto que você não encontrará sem minhas coordenadas. É por isso que eu as estou dando a você.</text>
+	</string>
+	<string id="st_mil_q10_n_name">
+		<text>Depósito nas madeiras</text>
+	</string>
+	<string id="st_mil_q10_n_descr">
+		<text>Uma mochila está escondida sob as rochas da floresta, e estou passando as coordenadas para um bom homem.</text>
+	</string>
+	<string id="st_mil_q1_t_l_name">
+		<text>Mochila debaixo de cadáver</text>
+	</string>
+	<string id="st_mil_q1_t_l_descr">
+		<text>Pode não ser um verdadeiro esconderijo, mas deve ter algum saque valioso naquela mochila na torre de água.</text>
+	</string>
+	<string id="st_mil_q2_n_name">
+		<text>Esconderijo sob árvore desenraizada</text>
+	</string>
+	<string id="st_mil_q2_n_descr">
+		<text>Tire isso de mim - há um esconderijo debaixo da árvore caída.</text>
+	</string>
+	<string id="st_mil_q3_n_name">
+		<text>O cofre da vovó</text>
+	</string>
+	<string id="st_mil_q3_n_descr">
+		<text>Não sei como um cofre entrou naquele fogão, mas minhas fontes dizem que não está vazio.</text>
+	</string>
+	<string id="st_mil_q4_n_name">
+		<text>Esconderijo</text>
+	</string>
+	<string id="st_mil_q4_n_descr">
+		<text>Dizem que você pode ficar rico se olhar sob a cruz nestas coordenadas.</text>
+	</string>
+	<string id="st_mil_q5_n_name">
+		<text>Caixa na base militar</text>
+	</string>
+	<string id="st_mil_q5_n_descr">
+		<text>Se você conseguir entrar sorrateiramente na base militar, encontrará uma recompensa em um caixote no sótão.</text>
+	</string>
+	<string id="st_mil_q6_n_a_name">
+		<text>Cofre no armário</text>
+	</string>
+	<string id="st_mil_q6_n_a_descr">
+		<text>Minhas fontes me dizem que algo é guardado no cofre do quartel militar.</text>
+	</string>
+	<string id="st_mil_q7_n_a_name">
+		<text>Pequeno cofre</text>
+	</string>
+	<string id="st_mil_q7_n_a_descr">
+		<text>O Capitão Yeltyshev carregou este cofre com ele o tempo todo, até ser transferido para outro local. Por que você não verifica e vê o que tem dentro?</text>
+	</string>
+	<string id="st_mil_q8_n_a_name">
+		<text>Pilha de lixo</text>
+	</string>
+	<string id="st_mil_q8_n_a_descr">
+		<text>Java enfiou suas coisas numa pilha de lixo de propósito, só que mais tarde ele esqueceu. Mas fiz uma nota e agora estou passando para você.</text>
+	</string>
+	<string id="st_mil_q9_n_a_name">
+		<text>Caixa com segredo</text>
+	</string>
+	<string id="st_mil_q9_n_a_descr">
+		<text>Atrás da cabine do exército MAZ, há uma pequena caixa com um segredo. Esse é o segredo que estou vendendo para você.</text>
+	</string>
+
+	<string id="st_trc_inventory_box_descr">
+		<text>Tudo está no baú, em um vagão de trem não muito longe da base. Foi assim que planejamos, agora tudo o que temos que fazer é esperar.</text>
+	</string>
+	<string id="st_trc_inventory_box_name">
+		<text>O esconderijo secreto</text>
+	</string>
+	<string id="st_trc_inventory_box_0000_descr">
+		<text>Coloque o baú dentro do ônibus - parece ser imperceptível</text>
+	</string>
+	<string id="st_trc_inventory_box_0000_name">
+		<text>Esconderijo secreto no ônibus</text>
+	</string>
+	<string id="st_trc_inventory_box_0001_descr">
+		<text>Deixei algumas das minhas munições no painel elétrico.</text>
+	</string>
+	<string id="st_trc_inventory_box_0001_name">
+		<text>Caixa no painel elétrico</text>
+	</string>
+	<string id="st_trc_inventory_box_0002_descr">
+		<text>Escondi minha mochila debaixo de um abeto.</text>
+	</string>
+	<string id="st_trc_inventory_box_0002_name">
+		<text>Esconderijo sob a árvore</text>
+	</string>
+	<string id="st_trc_inventory_box_0003_descr">
+		<text>Há um cofre parcialmente enterrado em uma pilha de lixo. Tudo está no cofre. É melhor não esquecer o que estava dentro dele.</text>
+	</string>
+	<string id="st_trc_inventory_box_0003_name">
+		<text>Cofre na pilha Sul</text>
+	</string>
+	<string id="st_trc_inventory_box_0004_descr">
+		<text>Há um esconderijo secreto nas sombras - um bom lugar para escondê-lo.</text>
+	</string>
+	<string id="st_trc_inventory_box_0004_name">
+		<text>Cepo podre</text>
+	</string>
+	<string id="st_trc_inventory_box_0005_descr">
+		<text>Uma anomalia pegou alguém pela escada rolante - a mochila está à vista, mas é difícil chegar até ela.</text>
+	</string>
+	<string id="st_trc_inventory_box_0005_name">
+		<text>Sob a concha</text>
+	</string>
+	<string id="st_trc_inventory_box_0006_descr">
+		<text>Deixei a mochila nas ruínas radioativas. Tive medo de mostrar meu rosto lá.</text>
+	</string>
+	<string id="st_trc_inventory_box_0006_name">
+		<text>Segredo perigoso</text>
+	</string>
+	<string id="st_trc_inventory_box_0007_descr">
+		<text>Escondido no carro, o Long One disse que era um bom lugar.</text>
+	</string>
+	<string id="st_trc_inventory_box_0007_name">
+		<text>Esconderijo secreto no carro</text>
+	</string>
+	<string id="st_trc_inventory_box_0008_descr">
+		<text>Escondi a mochila debaixo do carro, ninguém vai se preocupar em olhar lá</text>
+	</string>
+	<string id="st_trc_inventory_box_0008_name">
+		<text>Mochila escondida</text>
+	</string>
+	<string id="st_trc_inventory_box_0009_descr">
+		<text>Coloquei a caixa no carro no meio do pântano</text>
+	</string>
+	<string id="st_trc_inventory_box_0009_name">
+		<text>Carro com o esconderijo secreto</text>
+	</string>
+	<string id="st_trc_inventory_box_0011_descr">
+		<text>Escondi minhas tralhas no carro em uma colina</text>
+	</string>
+	<string id="st_trc_inventory_box_0011_name">
+		<text>Um esconderijo secreto em uma colina</text>
+	</string>
+	<string id="st_trc_inventory_box_0012_descr">
+		<text>Tenho que ir. Sakharov e Kruglov são psicopatas totais - eles querem que eu vá com algum stalker para o centro da radiação. Eles que se danem, assim que eu reunir todos os suprimentos no poço de descarga, eu vou embora.</text>
+	</string>
+	<string id="st_trc_inventory_box_0012_name">
+		<text>O esconderijo secreto do cientista</text>
+	</string>
+	<string id="st_trc_inventory_box_0013_descr">
+		<text>Tive que deixar a mochila</text>
+	</string>
+	<string id="st_trc_inventory_box_0013_name">
+		<text>A mochila deixada para trás</text>
+	</string>
+	<string id="st_trc_inventory_box_0014_descr">
+		<text>O novato acabou roubando o baú dos bandidos. Ele o colocou no Niva, que virou de cabeça para baixo. Ele diz que, pelo que parece, é um baú do governo. Teremos que armar nossos caras e pegá-lo.</text>
+	</string>
+	<string id="st_trc_inventory_box_0014_name">
+		<text>Baú do governo</text>
+	</string>
+	<string id="st_trc_inventory_box_0015_descr">
+		<text>Deixamos tudo o que encontramos no baú, vamos buscá-lo quando voltarmos.</text>
+	</string>
+	<string id="st_trc_inventory_box_0015_name">
+		<text>Esconderijo secreto no baú</text>
+	</string>
+	<string id="st_trc_inventory_box_0016_descr">
+		<text>A mochila de alguém está jogada no vale, com anomalias por toda parte. Como você poderia chegar até ela?</text>
+	</string>
+	<string id="st_trc_inventory_box_0016_name">
+		<text>A mochila de ninguém</text>
+	</string>
+	<string id="st_trc_inventory_box_0017_descr">
+		<text>Joguei minha tralha ali - vou pegá-la mais tarde.</text>
+	</string>
+	<string id="st_trc_inventory_box_0017_name">
+		<text>A carroceria do caminhão</text>
+	</string>
+	<string id="st_trc_inventory_box_0018_descr">
+		<text>Enfiei a mercadoria em um tronco, não pense que eles vão encontrá-la.</text>
+	</string>
+	<string id="st_trc_inventory_box_0018_name">
+		<text>Um tesouro em um tronco</text>
+	</string>
+	<string id="st_trc_inventory_box_0019_name">
+		<text>Armário abandonado</text>
+	</string>
+	<string id="st_trc_inventory_box_0019_descr">
+		<text>Eu sempre valorizei aquele armário. Espaçoso. Quando os mutantes começaram a sair de seus buracos, tivemos que recuar e eu o deixei para trás.</text>
+	</string>
+	<string id="st_trc_inventory_box_0010_name">
+		<text>Carro Zaporozhets branco</text>
+	</string>
+	<string id="st_trc_inventory_box_0010_descr">
+		<text>Algum dia, o reinado do Yoga sobre o Lixão vai acabar. Então vou pegar minhas coisas do carro branco e me retirar.</text>
+	</string>
+	<string id="st_trc_inventory_box_0020_descr">
+		<text>Há um esconderijo secreto em um toco - bom lugar</text>
+	</string>
+	<string id="st_trc_inventory_box_0020_name">
+		<text>Cepo secreto</text>
+	</string>
+	<string id="st_trc_inventory_box_0021_descr">
+		<text>Tire as coisas do tronco podre</text>
+	</string>
+	<string id="st_trc_inventory_box_0021_name">
+		<text>Tronco podre</text>
+	</string>
+	<string id="st_trc_inventory_box_0022_descr">
+		<text>Há um baú no carro no acampamento dos bandidos. Precisamos entrar sorrateiramente no carro e verificar - sinto que há algo lá dentro</text>
+	</string>
+	<string id="st_trc_inventory_box_0022_name">
+		<text>Baú no carro</text>
+	</string>
+	<string id="st_trc_inventory_box_0023_descr">
+		<text>Um bom cofre para guardar itens extras</text>
+	</string>
+	<string id="st_trc_inventory_box_0023_name">
+		<text>Baú com mercadorias</text>
+	</string>
+	<string id="st_trc_inventory_box_0024_descr">
+		<text>Escondi os itens no escritório do KAMAZ</text>
+	</string>
+	<string id="st_trc_inventory_box_0024_name">
+		<text>Esconderijo secreto no KAMAZ</text>
+	</string>
+	<string id="st_trc_inventory_box_0025_descr">
+		<text>Escondi a mochila do novato e ele nunca a encontrou</text>
+	</string>
+	<string id="st_trc_inventory_box_0025_name">
+		<text>Mochila escondida</text>
+	</string>
+	<string id="st_trc_inventory_box_0026_descr">
+		<text>Há assaltos por toda parte. Estão roubando até dos próprios amigos... mas nunca encontrarão minha caixa.</text>
+	</string>
+	<string id="st_trc_inventory_box_0026_name">
+		<text>Caixa</text>
+	</string>
+	<string id="st_trc_inventory_box_0027_descr">
+		<text>Escondi minhas coisas em uma cápsula de ferro</text>
+	</string>
+	<string id="st_trc_inventory_box_0027_name">
+		<text>O esconderijo secreto do Stalker</text>
+	</string>
+	<string id="st_trc_inventory_box_0028_descr">
+		<text>Joguei as coisas no cano, vou pegá-las mais tarde. Tive que fazer isso, caso contrário obviamente as teria levado comigo. Só espero que não molhem.</text>
+	</string>
+	<string id="st_trc_inventory_box_0028_name">
+		<text>Coisas na tubulação</text>
+	</string>
+	<string id="st_trc_inventory_box_0029_descr">
+		<text>Há um esconderijo secreto no toco - um bom lugar</text>
+	</string>
+	<string id="st_trc_inventory_box_0029_name">
+		<text>Toco secreto</text>
+	</string>
+	<string id="st_trc_inventory_box_0030_descr">
+		<text>Joguei a mochila debaixo de uma árvore. Caso contrário, não teria escapado dos bandidos.</text>
+	</string>
+	<string id="st_trc_inventory_box_0030_name">
+		<text>Mochila do Stalker</text>
+	</string>
+	<string id="st_trc_inventory_box_0031_descr">
+		<text>A caixa foi deixada na van - precisa ser recolhida</text>
+	</string>
+	<string id="st_trc_inventory_box_0031_name">
+		<text>Baú esquecido</text>
+	</string>
+	<string id="st_trc_inventory_box_0032_descr">
+		<text>Tudo o que roubei do Borov, escondi em um cofre debaixo do pinheiro. Agora tenho que esperar eles passarem.</text>
+	</string>
+	<string id="st_trc_inventory_box_0032_name">
+		<text>Esconderijo seguro</text>
+	</string>
+
+	<string id="st_agr_smart_terrain_6_4_box_descr">
+		<text>Por enquanto, nosso esconderijo secreto está no túnel. É um bom lugar - poucos sabem dele, e as anomalias impedirão que outros entrem.</text>
+	</string>
+	<string id="st_agr_smart_terrain_6_4_box_name">
+		<text>O esconderijo secreto do Seriy</text>
+	</string>
+	<string id="st_agr_duty_bar_secret_4_descr">
+		<text>Escondi no toco no túnel. Tem um bom buraco ali.</text>
+	</string>
+	<string id="st_agr_duty_bar_secret_4_name">
+		<text>Tronco com buraco</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_2_box_descr">
+		<text>Enterrei algumas guloseimas debaixo da cruz, no mato.</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_2_box_name">
+		<text>O sinal está debaixo da cruz</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_n_1_box_descr">
+		<text>Eles estavam atirando. Tive que largar a mochila debaixo do vagão do trem, atrás do assento. Pelo menos consegui escapar. Vou voltar e pegá-la.</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_n_1_box_name">
+		<text>Mochila do bêbado</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_box_descr">
+		<text>Na arca sob as escadas há um esconderijo secreto.</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_box_name">
+		<text>Baú na escadaria</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_n_2_box_descr">
+		<text>Escondi nesse baú, ninguém vai verificar mesmo!</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_n_2_box_name">
+		<text>Baú da fábrica</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_2_box_descr">
+		<text>Encontrei um cofre debaixo de uma árvore caída. Por enquanto, vou esconder tudo lá dentro.</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_2_box_name">
+		<text>Cofre debaixo da árvore</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_3_box_descr">
+		<text>A mercadoria está no cano velho, teremos que avisar os rapazes.</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_3_box_name">
+		<text>Tubo radioativo</text>
+	</string>
+	<string id="st_agr_smart_terrain_3_5_box_descr">
+		<text>Há um cofre meio enterrado debaixo do mato - é onde escondo tudo.</text>
+	</string>
+	<string id="st_agr_smart_terrain_3_5_box_name">
+		<text>Cofre debaixo do mato</text>
+	</string>
+	<string id="st_agr_smart_terrain_6_6_box_descr">
+		<text>Eles descobriram o baú sob a viga de apoio. Alguém o arrastou desde o Instituto de Pesquisa Científica. Vamos esperar pelo blowout e depois pegá-lo.</text>
+	</string>
+	<string id="st_agr_smart_terrain_6_6_box_name">
+		<text>Caixa de arquivo</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_box_descr">
+		<text>Bom esconderijo para guardar itens extras</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_box_name">
+		<text>Cofre do instituto</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_n_1_box_descr">
+		<text>Escondi tudo no cofre, mas depois vieram os militares e agora não consigo mais acessar o esconderijo.</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_n_1_box_name">
+		<text>Agro-seguro</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_n_2_box_descr">
+		<text>Bom baú para guardar itens extras. O inventário de equipamentos do instituto já esteve lá.</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_n_2_box_name">
+		<text>Baú do Zavhoz</text>
+	</string>
+	<string id="st_agr_duty_bar_secret_2_descr">
+		<text>Bom esconderijo para coisas pequenas. Guardei meus instrumentos de metalurgia em uma arca como aquela em casa.</text>
+	</string>
+	<string id="st_agr_duty_bar_secret_2_name">
+		<text>Inventário metalúrgico</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0002_descr">
+		<text>Escondi a mochila perto da base da Duty. Vou buscá-la mais tarde.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0002_name">
+		<text>Mochila escondida</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0003_descr">
+		<text>Uma grande matilha de cães veio atrás de mim. Se não tivesse deixado minha mochila, não teria conseguido chegar até o portão.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0003_name">
+		<text>A mochila que foi deixada para trás</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0004_descr">
+		<text>Tudo o que sobrou foi enterrado embaixo da cruz</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0004_name">
+		<text>Esconderijo secreto sob a cruz</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0005_descr">
+		<text>Deixei minha mochila aqui - será mais fácil assim</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0005_name">
+		<text>Mochila</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0006_descr">
+		<text>A munição do posto de segurança da Duty é armazenada em um bunker, mas ninguém está de olho no lugar.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0006_name">
+		<text>Suprimentos no bunker</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0007_descr">
+		<text>Eu vi um funcionário escondendo algo no encanamento perto do portão</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0007_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0008_descr">
+		<text>Tudo isso pertencia a ele, melhor ficar aqui por enquanto</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0008_name">
+		<text>Esconderijo secreto sob a cruz</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0009_descr">
+		<text>Vou para o bar, deixei a mochila no hangar</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0009_name">
+		<text>Mochila</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0010_descr">
+		<text>Dizem que há algo valioso escondido no território da Duty no quadro de distribuição.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0010_name">
+		<text>Mesa telefônica com um esconderijo secreto</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0011_descr">
+		<text>Coloquei um baú no topo da torre em frente à Duty - ninguém vai notar</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0011_name">
+		<text>Esconderijo secreto na torre</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0012_descr">
+		<text>Escondi na tubulação sob as escadas</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0012_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0013_descr">
+		<text>Escondi a mercadoria não muito longe do bar, atrás das anomalias - ninguém vai entrar lá. E mesmo que chegassem lá, não saberiam como abrir. Mas é tudo muito simples - basta puxar ligeiramente para cima na porta, e tudo se abrirá.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0013_name">
+		<text>O esconderijo secreto do Arnie</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0014_descr">
+		<text>Enterrei a mercadoria não muito longe do bar</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0014_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0015_descr">
+		<text>Junto ao balcão, em um baú</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0015_name">
+		<text>Baú</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0016_descr">
+		<text>Escondi a arca em uma rua lateral junto ao bar</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0016_name">
+		<text>Arca pequena</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0017_descr">
+		<text>Enterrou embaixo da cruz atrás dos pinheiros</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0017_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0018_descr">
+		<text>Escondi um item valioso embaixo da cruz, junto à montanha</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0018_name">
+		<text>Esconderijo secreto sob a cruz</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0019_descr">
+		<text>Escondi a arca com anti-radiação em um cano junto à Arena</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0019_name">
+		<text>Arca pequena</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0020_descr">
+		<text>Escondi minhas coisas em um cano embaixo da torre</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0020_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0021_descr">
+		<text>Há um esconderijo secreto sob a cruz</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0021_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="st_esc_smart_terrain_6_8_box_descr">
+		<text>Quando meus camaradas e eu estávamos lutando contra os cães, enterrei algumas mercadorias debaixo da ponte. Deixe ficar lá por enquanto.</text>
+	</string>
+	<string id="st_esc_smart_terrain_6_8_box_name">
+		<text>Debaixo da cruz</text>
+	</string>
+	<string id="st_esc_treasure_novice_stalker_descr">
+		<text>Descobri pelo Lihoi que o esconderijo secreto está no sótão. Ele estava falando demais e nós o calamos de vez.</text>
+	</string>
+	<string id="st_esc_treasure_novice_stalker_name">
+		<text>Sótão no vilarejo</text>
+	</string>
+	<string id="st_esc_recover_item_4_corpse_descr">
+		<text>Eles viram que o comandante tem um baú secreto em seu escritório, e há uma tonelada de mercadorias valiosas lá.</text>
+	</string>
+	<string id="st_esc_recover_item_4_corpse_name">
+		<text>Os objetos de valor do comandante</text>
+	</string>
+	<string id="st_esc_smart_terrain_7_11_box_descr">
+		<text>Os itens valiosos estão escondidos no sótão dos bandidos. Eles não estavam lá antes, então vamos esperar pelo momento certo para pegar tudo.</text>
+	</string>
+	<string id="st_esc_smart_terrain_7_11_box_name">
+		<text>O sótão dos bandidos</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_5_box_descr">
+		<text>Eu vi como um bandido escondeu seus bens em um cofre no hangar. Como posso roubá-lo silenciosamente?</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_5_box_name">
+		<text>Armazenagem dos bandidos</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_7_box_descr">
+		<text>O chefe da comunicação via rádio nos transmitiu uma mensagem: recuar. Encontrei uma arca, joguei tudo o que eu tinha e recuei de mãos vazias.</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_7_box_name">
+		<text>Suprimentos no baú</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_2_box_descr">
+		<text>Enquanto os Dutyers estavam atirando, eu escondi o equipamento no vagão do trem. De alguma forma tenho que entrar para pegá-lo. E para agradecer à Duty.</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_2_box_name">
+		<text>Baú no posto de controle militar fortemente armado</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_3_box_descr">
+		<text>Mal consegui passar sob as vigas, mas pelo menos a mochila está bem escondida - ninguém tentará entrar aqui.</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_3_box_name">
+		<text>O dinheiro extra está sob os blocos de concreto</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_2_box_descr">
+		<text>Enfiei minha mochila na fornalha, ela virá a calhar mais tarde.</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_2_box_name">
+		<text>Esconderijo secreto do Forno</text>
+	</string>
+	<string id="st_l07_military_inventory_box_0020_descr">
+		<text>Escondi as coisas boas no carro no acampamento abandonado.</text>
+	</string>
+	<string id="st_l07_military_inventory_box_0020_name">
+		<text>Esconderijo secreto no carro</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_4_box_descr">
+		<text>Escondi a mochila com o equipamento em um local aconchegante.</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_4_box_name">
+		<text>Mochila com equipamentos</text>
+	</string>
+	<string id="st_mil_additional_quest_1_box_descr">
+		<text>Um helicóptero caiu bem perto da base militar abandonada, e o baú está bem ali, embaixo do helicóptero. Um problema - há anomalias e radiação em todo lugar.</text>
+	</string>
+	<string id="st_mil_additional_quest_1_box_name">
+		<text>Caixa do helicóptero</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_8_box_descr">
+		<text>Deixei a mochila na cabine da grua. Vou voltar buscar mais tarde</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_8_box_name">
+		<text>Esconderijo secreto do trabalhador</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_8_box_descr">
+		<text>Bom cofre para armazenar equipamento extra</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_8_box_name">
+		<text>Boa caixa de suprimentos</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_box_descr">
+		<text>Joguei a mercadoria dentro do baú - vou pegá-la mais tarde</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_box_name">
+		<text>Esconderijo temporário</text>
+	</string>
+	<string id="st_mil_smart_terrain_5_6_box_descr">
+		<text>Escondi as coisas no carro bem debaixo dos narizes da Freedom, não tive tempo para procurar um lugar melhor</text>
+	</string>
+	<string id="st_mil_smart_terrain_5_6_box_name">
+		<text>Esconderijo secreto no carro</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0000_descr">
+		<text>Dizem que um famoso stalker morreu, e ninguém pegou sua mercadoria ainda.</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0000_name">
+		<text>Coisas do stalker morto</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_descr">
+		<text>Dizem que há uma arca na garagem com uma tonelada de itens valiosos</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_name">
+		<text>Tesouro na garagem</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0001_descr">
+		<text>Dizem que há uma arca no jardim de infância com uma tonelada de itens valiosos</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0001_name">
+		<text>Velho esconderijo secreto</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0002_descr">
+		<text>Eles enterraram Fang em Pripyat debaixo de um monumento. Deixaram todos os seus bens com ele - não é correto tirar dos mortos.</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0002_name">
+		<text>Suprimentos do Fang</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0006_descr">
+		<text>A última coisa que sabiam sobre ele era que ele era o único sobrevivente do Scorcher. Ele deixou todos os suprimentos em algum velho supermercado e foi embora. Tudo não correu como planejado, e esse foi o melhor líder da Freedom em toda a história.</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0006_name">
+		<text>Armazenagem do líder da Freedom</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0001_descr">
+		<text>A cruz está a caminho do Scorcher, ele não foi mais longe, escondeu tudo debaixo dela.</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0001_name">
+		<text>O tesouro do Murk</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0002_descr">
+		<text>Alguns stalkers morreram aqui, e suas coisas ainda estão por perto, ninguém consegue chegar até elas</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0002_name">
+		<text>Equipamentos do stalker morto</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0003_descr">
+		<text>Dizem que há um cofre semi-enterrado na floresta e há muitas coisas boas dentro</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0003_name">
+		<text>Bens no cofre</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0000_descr">
+		<text>Disseram para não voarem sobre o Scorcher, e veja o que aconteceu. Eles pousaram no meio da floresta, e é improvável que alguém tenha sobrevivido. Era para conseguirmos as coisas que estavam com eles.</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0000_name">
+		<text>Pacote para Duty</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_descr">
+		<text>Dizem que os suprimentos da facção, que estavam tentando chegar ao centro da Zona, ainda estão sob a radiação do Scorcher. Nenhum deles retornou, e os suprimentos permaneceram lá esperando que alguém os pegue.</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_name">
+		<text>Suprimentos do grupo imprudente</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0005_descr">
+		<text>Dizem que o líder de alguma ex-facção se perdeu aqui, e que havia uma quantidade valiosa de itens com ele.</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0005_name">
+		<text>Itens do líder da antiga facção</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_descr">
+		<text>Escondi a mochila atrás da placa de ferro</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_name">
+		<text>Mochila escondida</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0001_descr">
+		<text>Escondi as coisas debaixo da cruz</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0001_name">
+		<text>Esconderijo secreto sob a cruz</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0002_descr">
+		<text>Escondi uma coisinha no baú, debaixo da casinha. Não se deve esquecer disso.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0002_name">
+		<text>Baú sob a casa pequena</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0003_descr">
+		<text>Eu estava prestes a enfiar a mochila debaixo dos degraus, quando aqueles imbecis apareceram. Cara, como eu vou recuperá-la?</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0003_name">
+		<text>Mochila do stalker</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0004_descr">
+		<text>Há um cofre meio enterrado no canto atrás da árvore. É onde está todo o meu equipamento, por enquanto.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0004_name">
+		<text>Esconderijo secreto atrás da árvore</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0005_descr">
+		<text>Eles esconderam tudo em uma arca na garagem que tomaram durante a incursão.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0005_name">
+		<text>Esconderijo secreto na garagem</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0006_descr">
+		<text>Escondi algumas coisas no baú atrás do estande</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0006_name">
+		<text>Baú oculto</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0007_descr">
+		<text>Enfiei a mochila em um buraco. Parece imperceptível de cima.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0007_name">
+		<text>Mochila no esconderijo secreto</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0008_descr">
+		<text>Escondi a pequena arca em um local seguro</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0008_name">
+		<text>Baú em um local seguro</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0024_descr">
+		<text>Minha mochila está bem embaixo do teto. Está lá para um dia chuvoso.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0024_name">
+		<text>O esconderijo secreto do stalker</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0009_descr">
+		<text>Dizem que há um cofre naquela casinha, e que há algo dentro dele</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0009_name">
+		<text>Cofre na casa</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0010_descr">
+		<text>Escondi na casa, em um cano. Cuidado, tudo está fora de controle.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0010_name">
+		<text>Esconderijo secreto na tubulação</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0011_descr">
+		<text>Pegue o que falamos do baú. Normalmente ninguém olha lá dentro</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0011_name">
+		<text>Baú oculto</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0012_descr">
+		<text>Escondi debaixo da cruz em uma rua lateral</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0012_name">
+		<text>Esconderijo secreto sob a cruz</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0013_descr">
+		<text>Esconderam os suprimentos extras sob o concreto na rua do canteiro de obras</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0013_name">
+		<text>Esconderijo secreto debaixo do concreto</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0014_descr">
+		<text>Para o caso de precisarmos fugir rapidamente, colocamos os itens na arca no canteiro de obras.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0014_name">
+		<text>Esconderijo secreto do sortudo</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0015_descr">
+		<text>Escondi em uma das ruas laterais no canteiro de obras</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0015_name">
+		<text>Esconderijo</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0016_descr">
+		<text>Enfiei tudo num tubo - vou pegar mais tarde</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0016_name">
+		<text>Esconderijo na tubulação</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0017_descr">
+		<text>Escondi medicamentos em uma arca não muito longe do canteiro de obras</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0017_name">
+		<text>Arca com medicamentos</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0018_descr">
+		<text>Arrastei a caixa para dentro da cabine do guindaste</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0018_name">
+		<text>Caixa no guindaste</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0019_descr">
+		<text>Escondi minhas mercadorias em um bueiro, no canto.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0019_name">
+		<text>Esconderijo secreto no bueiro</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0020_descr">
+		<text>Fui atrás de um artefato e entrei em uma anomalia. Mal consegui andar e deixei cair a mochila no canto.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0020_name">
+		<text>A mochila largada</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0021_descr">
+		<text>Enfiei a caixa bem embaixo do telhado junto à torre para que ninguém notasse.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0021_name">
+		<text>Pequena caixa sob o teto</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0022_descr">
+		<text>Escondemos o que encontramos na tubulação não muito longe do local da construção.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0022_name">
+		<text>Escondido na tubulação</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0025_descr">
+		<text>Deixei a mochila no guindaste</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0025_name">
+		<text>Mochila</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0023_descr">
+		<text>Joguei todas as mercadorias no tronco. Não pense que eles vão encontrar.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0023_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="st_val_smatr_terrain_4_0_box_descr">
+		<text>Atirei minhas coisas para dentro do tubo. Vou buscá-las mais tarde.</text>
+	</string>
+	<string id="st_val_smatr_terrain_4_0_box_name">
+		<text>Esconderijo na tubulação</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0013_descr">
+		<text>Coloquei a caixa no esconderijo secreto - é um lugar confiável</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0013_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0002_descr">
+		<text>Deixei a mochila em um prédio abandonado. Ótimo, ninguém está por perto.</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0002_name">
+		<text>A mochila deixada para trás</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0029_descr">
+		<text>Joguei minhas coisas em um baú sem descrição. Vou pegar mais tarde</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0029_name">
+		<text>Baú indistinto</text>
+	</string>
+	<string id="st_val_smatr_terrain_7_6_box_descr">
+		<text>Escondi minhas coisas no carro bem debaixo do nariz dos bandidos, não tive tempo para procurar um lugar melhor</text>
+	</string>
+	<string id="st_val_smatr_terrain_7_6_box_name">
+		<text>Esconderijo secreto no carro</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_4_box_descr">
+		<text>Armazenei minhas coisas atrás das garagens</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_4_box_name">
+		<text>Mochila atrás das garagens</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_5_box_descr">
+		<text>Escondi a mochila em uma cabine, bem atrás da sucata de ferro</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_5_box_name">
+		<text>Mochila com o saque</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_6_box_descr">
+		<text>As coisas estão escondidas no carro não muito longe do território. A radiação não é muito alta.</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_6_box_name">
+		<text>O saque está no carro</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_5_box_descr">
+		<text>Dizem que lá tem coisas boas de alguém, mas não conseguem chegar até elas por causa da radiação.</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_5_box_name">
+		<text>Velha mochila</text>
+	</string>
+	<string id="st_yan_smart_terrain_1_6_box_descr">
+		<text>Dizem que aqui há um esconderijo secreto de algum grupo. Eu só me pergunto como eles chegaram aqui com a radiação?</text>
+	</string>
+	<string id="st_yan_smart_terrain_1_6_box_name">
+		<text>Esconderijo secreto de um grupo</text>
+	</string>
+	<string id="st_yan_recover_item_2_corpse_descr">
+		<text>Um outro stalker voluntário se descuidou porque o protótipo não o protegia bem da radiação. Ele só conseguiu chegar no meio do caminho, mas ficou por lá. Sakharov quer fazer medições mais precisas, mas eu não vou, senão eu mesmo acabo ficando lá.</text>
+	</string>
+	<string id="st_yan_recover_item_2_corpse_name">
+		<text>Mochila do testador</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_4_box_descr">
+		<text>Dizem que há equipamentos de algum stalker, mas não há como chegar lá por causa da radiação.</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_4_box_name">
+		<text>Velho esconderijo secreto</text>
+	</string>
+	<string id="st_yan_smart_terrain_6_4_box_descr">
+		<text>Dizem que há algum cofre aqui, mas não há como chegar até lá por causa da radiação.</text>
+	</string>
+	<string id="st_yan_smart_terrain_6_4_box_name">
+		<text>Baú com mercadorias</text>
+	</string>
+</string_table>

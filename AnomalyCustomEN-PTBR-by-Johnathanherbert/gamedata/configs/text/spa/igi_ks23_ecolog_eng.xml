@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<string id="st_wpn_igi_ks23_ecolog">
+		<text>KS-23 "Zarabatana"</text>
+	</string>
+
+	<string id="st_wpn_igi_ks23_ecolog_descr">
+		<text>Carabina de cano liso modificada, arma policial multifuncional projetada para controle de multidões, força seletiva, influência mental e química em infratores. O rifle é operado usando um guarda-mão deslizante, que está rigidamente conectado ao ferrolho aprimorado. Diferentemente do projeto básico, o cano é travado durante o disparo pela rotação do ferrolho. O mecanismo de disparo é do tipo gatilho. A munição é alimentada por um carregador de três tiros, localizado abaixo do cano.
+
+			%c[d_purple] • %c[ui_gray_2] Massa: %c[ui_gray_1]3,85 kg\n
+			%c[d_purple] • %c[ui_gray_2] Comprimento: %c[ui_gray_1]1040 mm\n
+			%c[d_purple] • %c[ui_gray_2] Comprimento do cano: %c[ui_gray_1]510 mm\n
+			%c[d_purple] • %c[ui_gray_2] Cartucho: %c[ui_gray_1]Dardo\n
+			%c[d_purple] • %c[ui_gray_2] Calibre: %c[ui_gray_1]23 mm\n
+			%c[d_purple] • %c[ui_gray_2] Ação: %c[ui_gray_1]Bombeamento\n
+			%c[d_purple] • %c[ui_gray_2] Alcance efetivo: %c[ui_gray_1]até 100 m\n
+			%c[d_purple] • %c[ui_gray_2] Alcance máximo: %c[ui_gray_1]150 m\n
+			%c[d_purple] • %c[ui_gray_2] Sistema de alimentação: %c[ui_gray_1]Tubo sob o cano que comporta 3 cartuchos, mais um cartucho na câmara.\n
+			%c[d_purple] • %c[ui_gray_2] Mira: %c[ui_gray_1]Luneta integrada de 3.4x\n</text>
+	</string>
+
+	<string id="ammo_23_igi_eco">
+		<text>Dardo 23 mm</text>
+	</string>
+
+	<string id="ammo_23_igi_eco_s">
+		<text>Dardo 23 mm</text>
+	</string>
+
+	<string id="ammo_23_eco_descr">
+		<text>Esta munição foi desenvolvida pelo Instituto de Pesquisa ChAZ de acordo com o pedido especial dos Professores Herman e Ozersky, após uma série bem-sucedida de estudos no centro da Zona em 2012. É um dardo de calibre 23mm com uma ampola preenchida com cristais líquidos orgânicos sintetizados sob forte vácuo. Devido à extrema complexidade e alto custo de fabricação, estes dardos são altamente valorizados pelos grupos de pesquisa implantados no território do ChAZ. Sua única desvantagem é a construção extremamente frágil, exigindo manuseio cuidadoso.</text>
+	</string>
+
+	<string id="igi_task_text_cmnt_tracking_shot_title">
+		<text>Farol da Ciência</text>
+	</string>
+	<string id="igi_task_text_cmnt_tracking_shot_job_descr">
+		<text>Jovem, você gostaria de contribuir para a ciência? Estamos à beira de uma descoberta extraordinária no campo da pesquisa genética! Temos os dados básicos para criar a Teoria do Comportamento de Mutantes do ChAZ. Em resumo: nossa pesquisa é baseada na informação genética do comportamento de cada organismo vivo no planeta. Dito isso, sim, temos um trabalho para você. Você terá que viajar até um determinado local e localizar as espécies mutantes que queremos. Além disso, você receberá equipamento registrado na forma de um rifle especial com mira telescópica e alguns dardos de seringa para marcar o alvo. Novamente, para marcar, mas n?o para matar. Ap?s a conclus?o da tarefa, voc? dever? devolver o rifle e os proj?teis. Observe que esta muni??o n?o ? muni??o real. Esta ? uma pe?a valiosa ?nica feita sob encomenda no Instituto de Pesquisa ChAZ e a dist?ncia do tiro ? muito importante. Ent?o tenho um pedido convincente para marcar os alvos na maior dist?ncia poss?vel, caso contr?rio a c?psula contendo a subst?ncia pode quebrar e n?o conseguir marcar o organismo mutante.</text>
+	</string>
+	<string id="igi_task_text_cmnt_tracking_shot_descr">
+		<text>O chefe dos cientistas me deu o trabalho de atirar com uma muni??o especial, 
+			me dando um rifle e dardos l?quidos especiais.
+			Sou contratualmente obrigado a me deslocar de acordo com as coordenadas fornecidas. 
+			Preciso marcar uma esp?cie mutante e tentar n?o mat?-la.
+			O chefe acrescentou: Quanto maior a dist?ncia do tiro, maior a probabilidade de que a c?psula dentro do dardo permane?a intacta.</text>
+	</string>
+	<string id="igi_task_text_cmnt_tracking_shot_finish">
+		<text>Bom trabalho, stalker.</text>
+	</string>
+
+</string_table>

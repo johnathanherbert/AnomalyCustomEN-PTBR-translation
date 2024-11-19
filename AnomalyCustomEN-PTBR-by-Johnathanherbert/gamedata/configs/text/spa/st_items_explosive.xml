@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert-->
+
+<!--
+	Itens explosivos + Minas
+-->
+
+<string_table>
+
+	<string id="st_mine_name">
+		<text>Mina antipessoal dispersa PFM-1</text>
+	</string>
+	<string id="st_mine_descr">
+		<text>O PFM-1 (nome da OTAN: "papagaio verde") era uma mina antipessoal do Exército Vermelho, usada principalmente durante a invasão soviética do Afeganistão. Seu uso extensivo durante o conflito causou muitas baixas civis, especialmente entre crianças, já que as minas espalhadas aleatoriamente eram frequentemente confundidas com brinquedos devido à sua forma e cor familiares. Por esse motivo, o PFM-1 ganhou um apelido sinistro: "Assassino de crianças". Desde então, a mina foi substituída por modelos mais novos. No entanto, como aconteceu com diversos outros armamentos "aposentados", um grande número dessas minas chegou à Zona, tornando-se seu principal explosivo para armadilhas. A mina é altamente valorizada principalmente por sua funcionalidade, facilidade de uso, tamanho compacto e baixo peso, enquanto sua principal desvantagem é uma quantidade relativamente pequena de material explosivo: seu poder é muitas vezes insuficiente para matar um Stalker fortemente blindado com uma única explosão. Por esse motivo, a mina deve ser usada em combinação com outros materiais explosivos e atua como um dispositivo de ignição. Se não estiver armada, a mina não detonará, mesmo quando atingida com uma arma.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item militar\n
+		%c[d_blue] • %c[ui_gray_2] mina antipessoal\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de disparo: %c[ui_gray_1]pressão\n
+		%c[d_purple] • %c[ui_gray_2] poder de explosão: %c[ui_gray_1]pequeno\n
+		%c[d_purple] • %c[ui_gray_2] raio de explosão: %c[ui_gray_1]2.2 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]nenhum\n
+		%c[d_purple] • %c[ui_gray_2] número médio de fragmentos: %c[ui_gray_1]nenhum\n
+		%c[d_purple] • %c[ui_gray_2] atraso de explosão: %c[ui_gray_1]nenhum\n
+		</text>
+	</string>
+	
+	<string id="st_ied_rpg">
+		<text>Dispositivo explosivo improvisado (baseado na ogiva OG-7V)</text>
+	</string>
+	<string id="st_ied_rpg_descr">
+		<text>Dispositivo explosivo improvisado baseado na ogiva OG-7V e partes de uma bateria de carro. Parece que foi transportado por algum tempo e aparenta que vai explodir a qualquer momento. Felizmente, o mecanismo de disparo garante que não explodirá, a menos que seja atingido diretamente por uma bala ou submetido a outra força física potente. Na Zona, os IEDs são bastante populares e os Stalkers os utilizam para diversos fins, desde obter acesso a áreas fechadas até emboscadas. Eles também são frequentemente colocados ao lado de minas para ampliar bastante o poder da explosão. O IED pode ser efetivamente ocultado, tornando-o praticamente invisível para todos.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item militar\n
+		%c[d_blue] • %c[ui_gray_2] imperceptível quando colocado no chão\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de disparo: %c[ui_gray_1]proximidade\n
+		%c[d_purple] • %c[ui_gray_2] poder de explosão: %c[ui_gray_1]alto\n
+		%c[d_purple] • %c[ui_gray_2] raio de explosão: %c[ui_gray_1]7.8 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]56 m\n
+		%c[d_purple] • %c[ui_gray_2] número médio de fragmentos: %c[ui_gray_1]440 (estilhaços)\n
+		%c[d_purple] • %c[ui_gray_2] atraso de explosão: %c[ui_gray_1]nenhum\n
+		</text>
+	</string>
+	
+	<string id="st_ied">
+		<text>Dispositivo explosivo improvisado (baseado em produtos químicos)</text>
+	</string>
+	<string id="st_ied_descr">
+		<text>Dispositivo explosivo improvisado produzido a partir de várias substâncias químicas, com um dispositivo de ignição elétrico quebrado e em um recipiente de esferas de aço. Os produtos químicos utilizados no dispositivo produzem um odor intenso e são altamente tóxicos. Este IED é significativamente mais poderoso que uma versão mais comum do OG-7V. Na Zona, os IEDs são bastante populares e os Stalkers os utilizam para diversos fins, desde obter acesso a áreas fechadas até emboscadas. Eles também são frequentemente colocados ao lado de minas para ampliar bastante o poder da explosão. O IED pode ser efetivamente ocultado, tornando-o praticamente invisível para todos.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item militar\n
+		%c[d_blue] • %c[ui_gray_2] imperceptível quando colocado no chão\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de disparo: %c[ui_gray_1]proximidade\n
+		%c[d_purple] • %c[ui_gray_2] poder de explosão: %c[ui_gray_1]muito alto\n
+		%c[d_purple] • %c[ui_gray_2] raio de explosão: %c[ui_gray_1]12.9 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]74 m\n
+		%c[d_purple] • %c[ui_gray_2] número médio de fragmentos: %c[ui_gray_1]580 (esferas de aço)\n
+		%c[d_purple] • %c[ui_gray_2] atraso de explosão: %c[ui_gray_1]nenhum\n
+		</text>
+	</string>
+	
+	<string id="st_balon_gas">
+		<text>Botijão de gás</text>
+	</string>
+	<string id="st_balon_gas_descr">
+		<text>\n\n
+		%c[d_red]AVISO: Explode com o impacto\n\n
+		%c[ui_gray_1]Este botijão de suporte de gás é um tanque de armazenamento intermediário feito para qualquer gás industrial, antes do engarrafamento sob pressão. Na Zona, esses tanques geralmente contêm uma composição de metano, propano, etano e butano, e podem ser usados para cozinhar ou aquecer, bem como para fins de combate. Após disparos diretos, o recipiente pode inflamar-se e, após um curto período de tempo, pode ocorrer uma rápida liberação de uma quantidade considerável de energia, fazendo com que o gás no botijão se expanda instantaneamente e resultando em uma explosão retardada, mas poderosa, com estilhaços de metal indo na direção de qualquer um em sua volta. Esses botijões foram utilizados como arma nas brigas entre facções da Zona, matando muitos e paralisando outros. Se esvaziado, o botijão pode ser utilizado para reparos de armaduras.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] contém: %c[ui_gray_1] gás natural refinado\n
+		%c[d_green] • %c[ui_gray_2] combustível de cozinha de qualidade\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de disparo: %c[ui_gray_1]impacto de bala\n
+		%c[d_purple] • %c[ui_gray_2] poder de explosão: %c[ui_gray_1]muito alto\n
+		%c[d_purple] • %c[ui_gray_2] raio de explosão: %c[ui_gray_1]6.4 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]36 m\n
+		%c[d_purple] • %c[ui_gray_2] número médio de fragmentos: %c[ui_gray_1]28 (fragmentos de metais pesados)\n
+		%c[d_purple] • %c[ui_gray_2] atraso de explosão: %c[ui_gray_1]~2 segundos\n
+		</text>
+	</string>
+
+	<string id="st_balon_gas_empty">
+		<text>Botijão de gás (vazio)</text>
+	</string>
+	<string id="st_balon_gas_empty_descr">
+		<text>Este botijão de suporte de gás é um tanque de armazenamento intermediário feito para qualquer gás industrial, antes do engarrafamento sob pressão. Na Zona, esses tanques geralmente contêm uma composição de metano, propano, etano e butano, e podem ser usados para cozinhar ou aquecer, bem como para fins de combate. Agora está vazio, mas você ainda pode usá-lo na manutenção de trajes.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		</text>
+	</string>
+	
+	<string id="st_metalcan_powder">
+		<text>Lata explosiva</text>
+	</string>
+	<string id="st_metalcan_powder_descr">
+		<text>\n\n
+		%c[d_red]AVISO: Explode com o impacto\n\n
+		%c[ui_gray_1]Uma lata de metal pequena e pesada preenchida com uma mistura de produtos químicos explosivos industriais, parafusos e porcas, além de pólvora preta recuperada de munições antigas. Uma armadilha mortal notória projetada por um grupo de bandidos russos conhecidos como "os Espadachins" e vendida a vários grupos de bandidos que operam na Zona. Após disparos diretos, a lata explode instantaneamente com parafusos de metal e produtos químicos corrosivos estourando em várias direções. Ninguém em sã consciência deve baixar a guarda ao planejar fazer uso dessa arma mortal. Você também pode usar as partes metálicas da lata para manutenção de roupas de emergência.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de disparo: %c[ui_gray_1]impacto de bala\n
+		%c[d_purple] • %c[ui_gray_2] poder de explosão: %c[ui_gray_1]fraco\n
+		%c[d_purple] • %c[ui_gray_2] raio de explosão: %c[ui_gray_1]1.8 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]14 m\n
+		%c[d_purple] • %c[ui_gray_2] número médio de fragmentos: %c[ui_gray_1]77 (pequenos pedaços de metal)\n
+		%c[d_purple] • %c[ui_gray_2] atraso de explosão: %c[ui_gray_1]nenhum\n
+		</text>
+	</string>
+	
+	<string id="st_jerrycan_item">
+		<text>Galão de combustível</text>
+	</string>
+	
+	<string id="st_jerrycan_fuel">
+		<text>Galão de combustível</text>
+	</string>
+	<string id="st_jerrycan_fuel_descr">
+		<text>\n\n
+		%c[d_red]AVISO: Explode com o impacto\n\n
+		%c[ui_gray_1]Um grande galão de metal cheio de gasolina E95. Foram trazidos para a Zona em grandes quantidades pelos militares ucranianos para seus veículos blindados. Inicialmente, eles cumpriram seu objetivo, mas após o segundo desastre de Chernobyl, por razões ainda desconhecidas, não estavam mais operacionais. Enquanto alguns Stalkers ainda estão tentando fazer os destroços funcionarem novamente, outros encontraram formas alternativas de utilizar os galões, como explosivos improvisados. Ao ser atingido diretamente, o recipiente pegará fogo e explodirá após um pequeno atraso. Embora seja pesado, é extremamente poderoso, podendo ser letal mesmo que o alvo use as armaduras mais pesadas. Por outro lado, a explosão costuma ser tão potente que o assassino se torna a própria vítima, por isso é melhor usar esses galões com cautela. Há rumores de que um Stalker veterano chamado Yuya uma vez salvou sua pele atraindo um Pseudogiant para uma armadilha com galão. Ele esvaziou sua Makarov e o gigante pegou fogo com um rugido que foi ouvido em todo o território de Jupiter.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] contém: %c[ui_gray_1] gasolina E95\n
+		%c[d_green] • %c[ui_gray_2] combustível de cozinha de qualidade\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de disparo: %c[ui_gray_1]impacto de bala\n
+		%c[d_purple] • %c[ui_gray_2] poder de explosão: %c[ui_gray_1]alto\n
+		%c[d_purple] • %c[ui_gray_2] raio de explosão: %c[ui_gray_1]5.6 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]28 m\n
+		%c[d_purple] • %c[ui_gray_2] número médio de fragmentos: %c[ui_gray_1]39 (fragmentos de metais pesados)\n
+		%c[d_purple] • %c[ui_gray_2] atraso de explosão: %c[ui_gray_1]~3 segundos\n
+		</text>
+	</string>
+
+	<string id="st_jerrycan_fuel_empty">
+		<text>Galão de combustível (vazio)</text>
+	</string>
+	<string id="st_jerrycan_fuel_empty_descr">
+		<text>Galão de metal vazio. Só pode ser utilizado como material para fins de reparos básicos de equipamento ou vendido aos comerciantes.\n \n
+		%c[ui_gray_3]CARACTERÍSTICAS:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		</text>
+	</string>
+	
+</string_table>

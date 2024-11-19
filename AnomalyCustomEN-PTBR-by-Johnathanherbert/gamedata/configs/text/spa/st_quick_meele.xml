@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por Johnathanherbert -->
+<string_table>
+	<string id="kb_grp_mods">
+		<text>Teclas atribuídas ao mod</text>
+	</string>
+
+	<string id="kb_quickmeele">
+		<text>Ataque corpo a corpo rápido</text>
+	</string>
+
+	<string id="kb_tp_companion">
+		<text>Teletransportar companheiro</text>
+	</string>	
+</string_table>

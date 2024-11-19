@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+    <string id="st_hawaiian_gas">
+        <text>Já provou meu famoso churrasco havaiano? Ok, é só shashlik. Mas precisamos de combustível para cozinhar e manter as luzes acesas por aqui, então se você tiver algum gás, farei bom uso dele.</text>
+    </string>
+
+    <string id="st_nitro_parts">
+        <text>Tem alguma peça de rádio ou rádios velhos? Gosto de mexer com eles no meu tempo livre. Além disso, ter algumas comunicações funcionando é muito útil, dado o tamanho desta área. Vou te dar algumas coisas do meu estoque em troca.</text>
+    </string>
+    <string id="st_cardan_vodka">
+        <text>Parei de beber há um tempo, mas ainda tenho um enorme estoque de álcool dos meus dias em Zaton. Eu tinha um cliente que, embora tenha me ajudado a sair do vício, garantiu que eu tivesse muitas garrafas. Pode me encontrar algo diferente para beber?</text>
+    </string>
+    <string id="st_herman_parts">
+        <text>Você conhece meu colega Sakharov? Ele iniciou um programa bem-sucedido de troca de suprimentos médicos por partes de mutantes. Acabamos de receber nossa remessa hoje, então estou feliz em anunciar uma extensão do programa em Jupiter.</text>
+    </string>
+
+    
+
+</string_table>

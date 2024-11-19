@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+<string id="st_wpn_akgold">
+		<text>AK Dourado</text>
+	</string>
+	<string id="st_wpn_akgold_descr">
+		<text>Apresentando o AK Dourado, uma obra-prima revolucionária da engenharia de armas de fogo. Este rifle possui um característico carregador de tambor duplo, com uma impressionante capacidade de 70 cartuchos de poderosa munição 7,62 x 39 mm. Seu design elegante e poder de fogo excepcional fazem dele uma joia cobiçada tanto por entusiastas quanto por operadores de armas de fogo. Com sua capacidade e confiabilidade incomparáveis, o AK Dourado redefine o que é possível no campo de batalha, oferecendo uma combinação sem precedentes de poder de fogo e resistência para aqueles que exigem o melhor em seu arsenal.\n \n</text>
+	</string>
+
+<string id="st_mag_akgold">
+		<text>Carregador de tambor duplo dourado 7,62 x 39 mm</text>
+	</string>
+	<string id="st_mag_akgold_descr">
+		<text>Carregador de tambor duplo com capacidade para 70 cartuchos de munição 7,62 x 39 mm banhada a ouro.\n \n</text>
+	</string>	
+	
+</string_table>

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por Johnathanherbert -->
+ 
+<string_table>
+	<string id="ui_mcm_menu_fftd">
+		<text>Viagem Rápida Justa</text>
+	</string>
+
+	<string id="st_fftd_mapspot_estdur">
+		<text>ao menos</text>
+	</string>
+
+	<string id="st_fftd_mapspot_meters">
+		<text>m</text>
+	</string>
+
+	<string id="ui_mcm_menu_gen">
+		<text>Geral</text>
+	</string>
+
+	<string id="ui_mcm_menu_ftcfg">
+		<text>Viagem Rápida</text>
+	</string>
+
+	<string id="ui_mcm_menu_bpcfg">
+		<text>Viagem com Mochila</text>
+	</string>
+
+	<string id="st_pda_backpack_travel_to">
+		<text>Viajar com Mochila</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_skillsystem_enabled">
+		<text>Ativar integração com sistema de habilidades do Haruka</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_haruka_enabled_desc">
+		<text>Se o mod Haruka's Skill System estiver instalado e esta opção estiver habilitada, o FFTD levará em consideração o multiplicador de velocidade de movimento de sua habilidade de resistência e ajustará os tempos de viagem de acordo. Por exemplo, um multiplicador de 1,15 reduziria todos os tempos de viagem rápida em aproximadamente 15%.\n \nSe o Skill System não estiver instalado, esta configuração será inútil.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_usedisguisefix">
+		<text>Usar correção para sistema de disfarces?</text>
+	</string>
+
+	<string id="ui_mcm_fftd_useoldcalcs">
+		<text>Usar a fórmula de distância não modificada do Anomaly?</text>
+	</string>
+
+	<string id="ui_mcm_fftd_mpm">
+		<text>Minutos de tempo de jogo decorridos por 100 metros percorridos</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_enabled">
+		<text>Atraso aleatório ativado para duração da viagem?</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_hours_min">
+		<text>Se ativado, mínimo de horas adicionadas</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_hours_max">
+		<text>Se ativado, máximo de horas adicionadas</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_minutes_min">
+		<text>Se ativado, mínimo de minutos adicionados</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_minutes_max">
+		<text>Se ativado, máximo de minutos adicionados</text>
+	</string>
+
+	<string id="ui_mcm_header_loc_travel">
+		<text>Viajar dentro da mesma região</text>
+	</string>
+
+	<string id="ui_mcm_header_map_travel">
+		<text>Viajar para outra região</text>
+	</string>
+
+	<string id="st_fftd_rub">
+		<text>Ru</text>
+	</string>
+
+	<string id="st_fftd_toopoor">
+		<text>Você não tem condições de pagar a passagem</text>
+	</string>
+
+	<string id="st_fftd_mapspot_guideto">
+		<text>Contratar um guia para</text>
+	</string>
+
+	<string id="st_fftd_farepaid_guide">
+		<text>Você ligou para um guia veterano próximo e pagou %s para levá-lo ao seu destino.</text>
+	</string>
+
+	<string id="st_fftd_guides_ignored">
+		<text>Não há guias dispostos a vir a esse tipo de lugar só para buscá-lo.</text>
+	</string>
+
+	<string id="ui_mcm_menu_gtcfg">
+		<text>Viagem Guiada</text>
+	</string>
+
+	<string id="ui_mcm_fftd_cost_coef">
+		<text>Custo em rublos por metro percorrido</text>
+	</string>
+
+	<string id="ui_mcm_fftd_pause_stats">
+		<text>Pausar as estatísticas de sobrevivência durante a viagem?</text>
+	</string>
+
+	<string id="st_fftd_notyet">
+		<text>%s não estará disponível durante %s</text>
+	</string>
+
+	<string id="st_fft_hour">
+		<text>hora</text>
+	</string>
+	<string id="st_fft_hours">
+		<text>horas</text>
+	</string>
+	<string id="st_fft_minute">
+		<text>minuto</text>
+	</string>
+	<string id="st_fft_minutes">
+		<text>minutos</text>
+	</string>
+	<string id="st_fft_second">
+		<text>segundo</text>
+	</string>
+	<string id="st_fft_seconds">
+		<text>segundos</text>
+	</string>
+
+	<string id="st_fftd_travelname_ft">
+		<text>Viagem Rápida</text>
+	</string>
+
+	<string id="st_fftd_travelname_bp">
+		<text>Viagem com Mochila</text>
+	</string>
+
+	<string id="st_fftd_travelname_gt">
+		<text>Viagem Guiada</text>
+	</string>
+
+	<string id="st_fftd_ftsystem">
+		<text>Sistema de Viagem Rápida</text>
+	</string>
+
+	<string id="st_fftd_guides_far">
+		<text>Não há guias próximos o suficiente para responder.</text>
+	</string>
+
+	<string id="st_fftd_enemy_guides">
+		<text>Os únicos guias por aqui são inimigos da sua facção atual.</text>
+	</string>
+
+	<string id="st_fftd_guides_none">
+		<text>Nenhum guia está respondendo às suas mensagens.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_enabled_desc">
+		<text>Se habilitado para este tipo de viagem, um atraso aleatório pode ser adicionado a cada viagem de acordo com as configurações abaixo. Uma configuração de 0-2 horas e 0-59 minutos imitará exatamente o comportamento básico do Anomaly, se é isso que você deseja.</text>
+	</string>	
+
+	<string id="ui_mcm_fftd_pause_stats_desc">
+		<text>Se ativado, a maioria das estatísticas de sobrevivência (fome, sede) serão fixas durante este tipo de viagem.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_enabled">
+		<text>Contratar guias do mapa PDA</text>
+	</string>
+
+	<string id="ui_mcm_fftd_ftcfg_travel_cooldown">
+		<text>Tempo de espera para viagens rápidas</text>
+	</string>
+
+	<string id="ui_mcm_fftd_bpcfg_travel_cooldown">
+		<text>Tempo de espera da viagem com mochila</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_travel_cooldown">
+		<text>Tempo de espera da viagem guiada</text>
+	</string>
+
+	<string id="ui_mcm_fftd_ftcfg_travel_cooldown_desc">
+		<text>Você deve aguardar esses segundos de tempo real entre viagens rápidas. Para desativar esse recurso, defina-o como zero.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_bpcfg_travel_cooldown_desc">
+		<text>Você deve esperar esses segundos de tempo real entre as viagens com mochila. Para desativar esse recurso, defina-o como zero.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_travel_cooldown_desc">
+		<text>Você deve aguardar esses segundos de tempo real entre as viagens guiadas. Para desativar esse recurso, defina-o como zero.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_add_travel_time">
+		<text>Os guias demoram um pouco para chegar</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_add_travel_time_desc">
+		<text>Se habilitado, o tempo de viagem levará em conta cálculos de quanto tempo o guia leva para viajar do seu ponto de origem até onde o jogador está.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_local_only">
+		<text>Os guias são apenas locais</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_local_only_desc">
+		<text>Se ativado, os guias só estarão disponíveis se houver algum fora da região atual.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_guides_loyal">
+		<text>Os guias são leais à sua facção</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_guides_loyal_desc">
+		<text>Se ativado, os guias se recusarão a fazer negócios com jogadores inimigos de sua facção. Porém, os guias farão vista grossa se o jogador estiver bem disfarçado.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_shared_cooldown">
+		<text>Todos os tipos de viagem compartilham o tempo de espera</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_shared_cooldown_desc">
+		<text>Se esta opção estiver ativada, os tempos de espera de todos os tipos de viagem serão vinculados, ou seja, quando um for ativado, todos serão ativados. Por exemplo, viajar com mochila também acionará filas, se houver, para viagens rápidas e viagens guiadas.\n \nSe desativado, cada tipo de viagem monitora seu próprio tempo de espera separadamente, se aplicável.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_debuglogs_enabled">
+		<text>Habilitar logs de depuração</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_allow_debug_travel">
+		<text>Permitir viajar para pontos de depuração</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_allow_debug_travel_desc">
+		<text>Se executado no modo de depuração, o Anomaly vanilla permite viagens rápidas para stalker, marcadores e outros pontos de depuração que geralmente não são destinos válidos. Isso pode ser inconveniente, pois esses marcadores podem atrapalhar e fazer com que você se teletransporte para o lugar errado, como atrás do estalajadeiro ou de outro comerciante. Por padrão, a FFT os filtra.\n \nAtivar esta opção restaurará o comportamento básico. A menos que você esteja testando algo ou esteja preso em uma região e precise sair, é recomendado deixar essa opção sempre desabilitada.</text>
+	</string>
+
+	<string id="ui_mcm_header_ft">
+		<text>Ajustes de viagem rápida normal</text>
+	</string>
+
+	<string id="ui_mcm_header_ftsub">
+		<text>Esta é a forma padrão de viagem rápida, controlada por todas as configurações de viagem rápida do Anomaly. Se uma opção disser "viagem rápida" em vez de "mochila" ou "guiada", use as configurações desta página.</text>
+	</string>
+
+	<string id="ui_mcm_header_bp">
+		<text>Ajustes de viagem rápida com mochila</text>
+	</string>
+
+	<string id="ui_mcm_header_bpsub">
+		<text>A mochila permite que você faça viagens rápidas para esconderijos de mochilas e também é gerenciada nas configurações de mochila do Anomaly. Ele exibirá os nomes apropriados para os esconderijos criados após a instalação do FFT.</text>
+	</string>
+
+	<string id="ui_mcm_header_gt">
+		<text>Configurações de viagem guiada no PDA</text>
+	</string>
+
+	<string id="ui_mcm_header_gtsub">
+		<text>As viagens guiadas são exclusivas da FFT e permitem a contratação de um guia veterano para acompanhá-lo até o seu destino. Você deve pagá-los, mas os guias devem levar suprimentos para a viagem. Suas estatísticas de sobrevivência serão pausadas durante a viagem (configuráveis abaixo) e virão procurá-lo mesmo se você estiver ferido ou sobrecarregado, ignorando essas duas opções. No entanto, existem certos lugares onde nem mesmo o dinheiro o fará ir.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_allow_pin_travel">
+		<text>Permitir viagens para marcadores rápidos? (requer PAW)</text>
+	</string>
+
+	<string id="ui_mcm_fftd_allow_pin_travel_desc">
+		<text>Se habilitados para este tipo de viagem, os marcadores rápidos podem ser usados como destinos para viagens rápidas. Viajar para os favoritos requer o mod Personal Adjustable Waypoint, e esta configuração não terá efeito se não estiver instalada.\n \nIsso só é permitido para marcadores rápidos porque eles só podem ser colocados em locais que o jogador possa alcançar.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_getpaw">
+		<text>O recurso de viagem para marcadores requer o mod Personal Adjustable Waypoint: \n https://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma</text>
+	</string>
+
+	<string id="ui_mcm_fftd_usedisguisefix_desc">
+		<text>Um bug no Anomaly vanilla torna os disfarces inúteis se você viajar rapidamente perto de NPCs com a passagem do tempo ativada. Esta opção corrige o bug desativando a suspeita de tempo nas configurações do traje até que o timeskip termine. Isto nunca deve ser desabilitado, exceto em casos de detecção de bugs.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_useoldcalcs_desc">
+		<text>No vanilla Anomaly, os cálculos de distância só funcionam corretamente na mesma região. Cálculos de viagens para outras regiões costumam dar resultados estranhos e sem sentido. A FFT substitui este método por um cálculo global de distâncias.\n \nO método vanilla é ruim e você nunca deve habilitá-lo, mas é por motivos de compatibilidade se você realmente precisar dele.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_cost_coef_desc">
+		<text>Por padrão, apenas a visita guiada custa dinheiro. Opcionalmente, você pode definir que os outros dois tipos de viagem também tenham custo e, se esse valor for maior que zero, eles usarão os mesmos cálculos da viagem guiada.</text>
+	</string>
+
+	<string id="st_fftd_farepaid_noguide">
+		<text>Tarifa de viagem rápida paga: %s</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_ignore_status">
+		<text>Os guias ignoram os estados "lesado" e "sobrecarregado"</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_ignore_status_desc">
+		<text>Se ativado, a Viagem Guiada ignora as configurações que impedem a viagem rápida se o jogador estiver sangrando, irradiado ou sobrecarregado. Isso representa que os guias estão dispostos a lhe prestar os primeiros socorros ou ajudá-lo a carregar parte de sua carga.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_combat_dist">
+		<text>Distância de combate de NPC</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_combat_dist_desc">
+		<text>A distância máxima na qual o jogador é considerado "em combate" para fins de bloqueio de viagens rápidas.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_combat_timeout">
+		<text>Espera de combate de NPC</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_combat_timeout_desc">
+		<text>Se um inimigo não tiver visto o jogador durante esses segundos, isso não conta mais para fins de bloqueio de viagem rápida.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_use_warfare_fix">
+		<text>Usar correção para o mod Warfare Alife Overhaul</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_use_warfare_fix_desc">
+		<text>Se isto estiver habilitado e o Warfare estiver ativo, a FFT irá pular a tentativa de adicionar ícones de viagem rápida ao mapa. Se os ícones do mapa ou menus de contexto não funcionarem corretamente com o mod Warfare Alife Overhaul instalado, tente habilitá-lo.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_allow_open_bp">
+		<text>Permitir abrir mochilas do mapa</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_allow_open_bp_desc">
+		<text>Ativar esta opção reativará um recurso básico que permite abrir uma mochila de qualquer lugar da mesma região. Por motivos de equilíbrio, isso está desabilitado por padrão.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gear_dmg_factor">
+		<text>Multiplicador de dano ao estado do equipamento</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gear_dmg_factor_desc">
+		<text>Ajusta o multiplicador para a quantidade de dano de estado aplicado a todo o equipamento do jogador durante uma viagem rápida. Quanto mais você avança, mais desgaste haverá.\n \nValores de 1 ou 2 são recomendados para dificuldade "normal", enquanto a configuração máxima de 11 é muito extrema para qualquer jogo normal.\n \nDefinir como zero desativa esse recurso para esse tipo de viagem.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_cond_dmg_mode">
+		<text>Características de danos ao estado do equipamento</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_cond_dmg_mode_desc">
+		<text>Todos os equipamentos: A perda de estado se aplica a todos os equipamentos equipados \n Aleatório: A perda de estado se aplica a um item equipado escolhido aleatoriamente \n Armadura: A perda de estado se aplica a armaduras e capacetes equipados \n Armas: A perda de estado se aplica a armas equipadas \n Desligado: Desativa todas as perdas de estado de equipamento para todos os tipos de viagem, independentemente de suas configurações individuais \n</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_disabled">
+		<text>desabilitado</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_all">
+		<text>Todo o equipamento</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_random">
+		<text>Aleatório</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_armor">
+		<text>Armaduras</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_weapons">
+		<text>Armas</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_minimum_health">
+		<text>Saúde mínima para viajar</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_minimum_health_desc">
+		<text>Se o jogador normalmente não puder viajar se estiver irradiado ou sangrando, ele também não poderá viajar se sua saúde estiver abaixo dessa porcentagem. Definir como zero desativa esse recurso.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_minimum_satiety">
+		<text>Saciedade mínima para viajar</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_minimum_satiety_desc">
+		<text>Se o jogador normalmente não puder viajar se estiver irradiado ou sangrando, ele também não poderá viajar se seu nível de "saciedade" (fome/sede) estiver abaixo desta porcentagem. Definir como zero desativa esse recurso.</text>
+	</string>
+
+</string_table>

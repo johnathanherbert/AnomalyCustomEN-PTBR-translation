@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+	Traduzido por johnathanherbert
+-->
+
+<string_table>
+	
+    <string id="st_wpn_kriss">
+		<text>KRISS Vector</text>
+	</string>
+	<string id="st_wpn_kriss_descr">
+		<text>O KRISS Vector é uma família de submetralhadoras modernas desenvolvidas pela empresa americana KRISS USA. Elas utilizam um sistema não convencional de retardo do ferrolho combinado com um design em linha para reduzir o recuo sentido e a elevação da boca da arma. O Vector atira com uma taxa cíclica incrivelmente alta de 1200 disparos por minuto, mas o mecanismo de redução de recuo o torna fácil de controlar. Na Zona, é utilizado por grupos mercenários e solitários que precisam de uma arma compacta e leve para uso como PDW, mas devido à sua taxa de disparo extremamente alta, também é usada como arma para caça de mutantes - mesmo uma rajada curta pode enviar muitas balas ao alvo, aumentando a chance de acertos críticos.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n
+		%c[d_purple] • %c[ui_gray_2] Supressor compatível com calibre .45</text>
+	</string>
+	
+	<string id="st_wpn_kriss_cust">
+		<text>KRISS Vector (personalizado)</text>
+	</string>	
+	<string id="st_wpn_kriss_cust_descr">
+		<text>O KRISS Vector é uma família de submetralhadoras modernas desenvolvidas pela empresa americana KRISS USA. Elas utilizam um sistema não convencional de retardo do ferrolho combinado com um design em linha para reduzir o recuo sentido e a elevação da boca da arma. O Vector atira com uma taxa cíclica incrivelmente alta de 1200 disparos por minuto, mas o mecanismo de redução de recuo o torna fácil de controlar. Na Zona, é utilizado por grupos mercenários e solitários que precisam de uma arma compacta e leve para uso como PDW, mas devido à sua taxa de disparo extremamente alta, também é usada como arma para caça de mutantes - mesmo uma rajada curta pode enviar muitas balas ao alvo, aumentando a chance de acertos críticos.\n \n
+		%c[ui_gray_2]ACESSÓRIOS: \n		
+		%c[d_purple] • %c[ui_gray_2] Supressor dedicado calibre .45 (permanente)</text>
+	</string>
+	
+</string_table>

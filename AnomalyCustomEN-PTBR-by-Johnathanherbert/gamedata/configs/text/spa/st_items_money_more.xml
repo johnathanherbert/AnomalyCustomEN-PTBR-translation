@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>	
+	<string id="st_money_low">
+		<text>Pequeno maço de rublos</text>
+	</string>
+	<string id="st_money_low_desc">
+		<text>Um maço de notas pequenas, provavelmente tirado de algum caixa de mercearia. \n</text>
+	</string>
+
+	<string id="st_money_med">
+		<text>Maço de rublos</text>
+	</string>
+	<string id="st_money_med_desc">
+		<text>Maço médio de rublos com valor monetário moderado a alto. As notas ainda estão novas. \n</text>
+	</string>
+	<string id="st_money_high">
+		<text>Grande maço de rublos</text>
+	</string>
+	<string id="st_money_high_desc">
+		<text>Um grande maço de rublos que vale muito. Será que veio de um assalto a banco? \n</text>
+	</string>
+	<string id="st_money_fat">
+		<text>Maço gordo de rublos</text>
+	</string>
+	<string id="st_money_fat_desc">
+		<text>Um maço gordo de dinheiro. Isso é o suficiente para colocar um alvo na sua cabeça. \n</text>
+	</string>
+	<string id="st_money_card_low">
+		<text>Cartão de débito</text>
+	</string>
+	<string id="st_money_card_low_desc">
+		<text>Cartão bancário roubado de algum stalker pobre. Às vezes, grandes compras são feitas eletronicamente na Zona por questões de segurança; este é um cartão comum e provavelmente não tem muito dinheiro na conta.</text>
+	</string>
+	<string id="st_money_card_med">
+		<text>Cartão de Crédito</text>
+	</string>
+	<string id="st_money_card_med_desc">
+		<text>Cartão de crédito de uma empresa de empréstimos internacional. Embora essas empresas tenham uma boa proteção contra fraudes, é possível fazer algumas transações inteligentes para tirar algum dinheiro antes que eles descubram.</text>
+	</string>
+	<string id="st_money_card_high">
+		<text>Cartão Executivo</text>
+	</string>
+	<string id="st_money_card_high_desc">
+		<text>Um cartão ocidental bem sofisticado. Como outros cartões de crédito, esses tipos de cartões têm proteção sofisticada contra fraudes - no entanto, os proprietários desses cartões costumam fazer compras frívolas e ridículas, então é bem fácil escapar com muito dinheiro. Não que eles se importem, de qualquer forma - melhor garantir sua sobrevivência do que ser desperdiçado em outra garrafa de champanhe ou acompanhante.</text>
+	</string>
+	
+	<string id="st_use_money1">
+		<text>sacar</text>
+	</string>
+	<string id="st_use_money2">
+		<text>contar tudo</text>
+	</string>
+	<string id="st_use_money3">
+		<text>fazer chover</text>
+	</string>
+	<string id="st_use_money4">
+		<text>pegar a grana</text>
+	</string>
+	<string id="st_use_money_card">
+		<text>cometer fraude</text>
+	</string>
+</string_table>

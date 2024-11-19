@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_af_ah_o1">
+		<text>Amostra Anômala "Ômega"</text>
+	</string>
+	<string id="st_af_ah_o1_descr">
+		<text>Um artefato quase formado, consistindo em uma liga composta principalmente de Ferro, Bismuto, Cádmio e Níquel. Criado em anomalias de fogo. Não possui propriedades úteis e a maioria dos stalkers o considera como sucata comum. A única característica notável deste objeto é sua forma peculiar de toróide. Devido a traços de radiação, não é adequado como lembrança fora da Zona e não possui valor significativo.</text>
+	</string>	
+
+	<string id="st_af_ah_o2">
+		<text>Amostra Anômala "Ômega"</text>
+	</string>
+	<string id="st_af_ah_o2_descr">
+		<text>Um artefato quase formado, consistindo em uma liga composta principalmente de Ferro, Bismuto, Cádmio e Níquel. Criado em anomalias de fogo, não possui propriedades úteis e a maioria dos stalkers o vê como sucata comum. A única característica notável deste objeto é sua forma peculiar de toróide. Devido a traços de radiação, não é adequado como lembrança fora da zona e não possui valor significativo.</text>
+	</string>	
+
+	<string id="st_af_ah_h1">
+		<text>Amostra Anômala "Esponja"</text>
+	</string>
+	<string id="st_af_ah_h1_descr">
+		<text>Uma substância verde pálida sem forma definida e sem propriedades úteis. Este artefato muda aleatoriamente entre um estado sólido e semi-líquido, o que torna difícil seu manuseio e armazenamento. Diferentemente de artefatos similares, como "Alma", a gosma secretada por este artefato não tem efeitos positivos nem negativos no corpo humano.</text>
+	</string>	
+
+	<string id="st_af_ah_h2">
+		<text>Amostra Anômala "Esponja"</text>
+	</string>
+	<string id="st_af_ah_h2_descr">
+		<text>Uma substância verde pálida sem forma definida e sem propriedades úteis. Este artefato muda aleatoriamente entre um estado sólido e semi-líquido, o que torna difícil seu manuseio e armazenamento. Diferentemente de artefatos similares, como "Alma", a gosma secretada por este artefato não tem efeitos positivos nem negativos no corpo humano, exceto pelos traços de radiação contidos nele.</text>
+	</string>	
+
+	<string id="st_af_ah_g1">
+		<text>Amostra Anômala "Fácil"</text>
+	</string>
+	<string id="st_af_ah_g1_descr">
+		<text>Um aglomerado de argila ressecada e detritos orgânicos. A separação de pedaços individuais do material parece impossível, devido à presença de algum agente aglutinante desconhecido e incrivelmente forte. Alguns cientistas propuseram que o artefato é mantido unido por anomalias gravitacionais contidas em seu interior, no entanto isso ainda precisa ser comprovado. O contador Geiger mal emite som quando aproximado deste estranho artefato.</text>
+	</string>	
+
+	<string id="st_af_ah_g2">
+		<text>Amostra Anômala "Fácil"</text>
+	</string>
+	<string id="st_af_ah_g2_descr">
+		<text>Um aglomerado de argila ressecada e detritos orgânicos. A separação de pedaços individuais do material parece impossível, devido à presença de algum agente aglutinante desconhecido e incrivelmente forte. Alguns cientistas propuseram que o artefato é mantido unido por anomalias gravitacionais contidas em seu interior, no entanto isso ainda precisa ser comprovado. O contador Geiger mal emite som quando aproximado deste estranho artefato.</text>
+	</string>	
+
+	<string id="st_af_ah_e1">
+		<text>Amostra Anômala "Souvenir"</text>
+	</string>
+	<string id="st_af_ah_e1_descr">
+		<text>Um fragmento de Quartzo Silício com pureza notável, variando de 99,5% a 99,9%, formado exclusivamente em anomalias elétricas. Devido à sua falta de propriedades úteis, este belo artefato não parece alcançar um alto preço na zona. No entanto, colecionadores e cientistas pagarão um alto preço por esta peça única.</text>
+	</string>	
+
+	<string id="st_af_ah_e2">
+		<text>Amostra Anômala "Souvenir"</text>
+	</string>
+	<string id="st_af_ah_e2_descr">
+		<text>Um fragmento de Quartzo Silício com pureza notável, variando de 99,5% a 99,9%, formado exclusivamente em anomalias elétricas. Devido à sua falta de propriedades úteis, este belo artefato não parece alcançar um alto preço na zona. No entanto, colecionadores e cientistas pagarão um alto preço por esta peça única.</text>
+	</string>	
+
+	<string id="st_af_ah_s1">
+		<text>Artefato Artificial "Aroth-8"</text>
+	</string>
+	<string id="st_af_ah_s1_descr">
+		<text>Um artefato experimental e instável, criado por meios artificiais. Onde e sob quais circunstâncias foi formado, é desconhecido. Parece melhorar o processo natural de cura do corpo, no entanto libera fortes rajadas de radiação-? durante o processo. Não é aconselhável permanecer próximo a este artefato por períodos prolongados.</text>
+	</string>	
+
+	<string id="st_af_ah_f1">
+		<text>Pedra Falante</text>
+	</string>
+	<string id="st_af_ah_f1_descr">
+		<text>Um artefato nunca antes visto com propriedades notáveis. Parece ser de origem orgânica e é muito simétrico, uma propriedade incomum para artefatos encontrados na Zona. Aumenta a resistência estrutural e tênsil de qualquer material que esteja próximo e, ao colocá-lo próximo ao ouvido, você jura poder ouvir vozes sussurrando de forma ininteligível.</text>
+	</string>	
+
+	<string id="st_af_ah_r1">
+		<text>Amostra Anômala "Cogumelo"</text>
+	</string>
+	<string id="st_af_ah_r1_descr">
+		<text>Um artefato encontrado apenas na Floresta Morta ao sul do Laboratório X-9 e contendo principalmente matéria vegetal. Acredita-se que os fortes campos psi aos quais foi submetido durante sua formação influenciaram fortemente a forma e propriedades deste artefato. Devido a este fato, oferece uma oportunidade única de estudo dos efeitos desses fenômenos ainda não compreendidos.</text>
+	</string>	
+
+	<string id="st_af_ah_r2">
+		<text>Amostra Anômala "Cogumelo"</text>
+	</string>
+	<string id="st_af_ah_r2_descr">
+		<text>Um artefato encontrado apenas na Floresta Morta ao sul do Laboratório X-9 e contendo principalmente matéria vegetal. Acredita-se que os fortes campos psi aos quais foi submetido durante sua formação influenciaram fortemente a forma e propriedades deste artefato. Devido a este fato, oferece uma oportunidade única de estudo dos efeitos desses fenômenos ainda não compreendidos.</text>
+	</string>	
+
+	<string id="st_af_ah_r3">
+		<text>Amostra Anômala "Cogumelo"</text>
+	</string>
+	<string id="st_af_ah_r3_descr">
+		<text>Um artefato encontrado apenas na Floresta Morta ao sul do Laboratório X-9 e contendo principalmente matéria vegetal. Acredita-se que os fortes campos psi aos quais foi submetido durante sua formação influenciaram fortemente a forma e propriedades deste artefato. Devido a este fato, oferece uma oportunidade única de estudo dos efeitos desses fenômenos ainda não compreendidos.</text>
+	</string>	
+	<string id="st_af_ah_r4">
+		<text>Amostra Anômala "Cogumelo"</text>
+	</string>
+	<string id="st_af_ah_r4_descr">
+		<text>Um artefato encontrado apenas na Floresta Morta ao sul do Laboratório X-9 e contendo principalmente matéria vegetal. Acredita-se que os fortes campos psi aos quais foi submetido durante sua formação influenciaram fortemente a forma e propriedades deste artefato. Devido a este fato, oferece uma oportunidade única de estudo dos efeitos desses fenômenos ainda não compreendidos.</text>
+	</string>	
+	<string id="st_af_ah_r5">
+		<text>Amostra Anômala "Cogumelo"</text>
+	</string>
+	<string id="st_af_ah_r5_descr">
+		<text>Um artefato encontrado apenas na Floresta Morta ao sul do Laboratório X-9 e contendo principalmente matéria vegetal. Acredita-se que os fortes campos psi aos quais foi submetido durante sua formação influenciaram fortemente a forma e propriedades deste artefato. Devido a este fato, oferece uma oportunidade única de estudo dos efeitos desses fenômenos ainda não compreendidos.</text>
+	</string>	
+	
+	<string id="st_kovalev_pda_name">
+		<text>Laptop de Kovalev</text>
+	</string>
+
+	<string id="st_kovalev_pda_descr">
+		<text>O laptop contém dados do estudo de campo mais recente de Kovalev sobre as áreas anômalas ao redor do Instituto de Pesquisa Agroprom. Entre os arquivos há um mapa com as localizações exatas das anomalias que preciso investigar.</text>
+	</string>	
+	
+	<string id="st_pirogov_pda_name">
+		<text>PDA do Assistente de Pesquisa</text>
+	</string>
+
+	<string id="st_pirogov_pda_descr">
+		<text>O PDA de um stalker falecido que ajudou o candidato Pirogov a colocar protótipos nas anomalias ao redor do Lixão. Contém as localizações restantes que devo escanear.</text>
+	</string>		
+	
+	<string id="st_strelok_pda_name">
+		<text>PDA do Stalker Falecido</text>
+	</string>
+
+	<string id="st_strelok_pda_descr">
+		<text>O PDA do stalker falecido que conseguiu mapear com sucesso as anomalias na Floresta Vermelha, mas foi emboscado pelo Monolith em seu caminho de volta aos cientistas. Tem sangue seco por toda a tela e alguns dos botões parecem não funcionar.</text>
+	</string>		
+
+	<string id="st_chernov_pda_name">
+		<text>Operação "Arco-Íris" Relatório de Pesquisa Nº 9: "Sobre a formação de artefatos"</text>
+	</string>
+
+	<string id="st_chernov_pda_descr">
+		<text>Um conjunto de papéis do laboratório X-19. A maioria das páginas está úmida e apenas a página de título ainda está legível. No entanto, algumas imagens e diagramas sobreviveram e mostram que os artefatos foram de alguma forma "cultivados" em árvores na floresta ao sul do complexo X-19.</text>
+	</string>		
+		
+	<string id="st_vorobushkin_pda_name">
+		<text>Módulo de Memória VNZ "Círculo"</text>
+	</string>
+
+	<string id="st_vorobushkin_pda_descr">
+		<text>Um módulo de memória antigo mas robustamente construído, recuperado do abandonado Complexo de Antenas Krug. Restaurado e reparado pelo Prof. Vorobushkin, contém um espectrograma das emissões anômalas ao redor da estação com um mapa detalhado de suas fontes.</text>
+	</string>	
+	
+	<string id="ah_gramota_info">
+		<text>Carta de Recomendação</text>
+	</string>
+
+	<string id="ah_gramota_desc">
+		<text>Carta de agradecimento personalizada, reconhecendo meus serviços à comunidade científica, assinada pessoalmente pelo Professor Skabinsky. Também inclui uma recomendação para empregar o portador deste documento como Pesquisador de Campo Executivo Sênior no Instituto Científico de Pesquisa da Área Anômala de Chernobyl.</text>
+	</string>	
+</string_table>

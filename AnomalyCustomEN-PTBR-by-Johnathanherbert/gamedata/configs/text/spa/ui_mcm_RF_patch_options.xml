@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="ui_mcm_RF_package_patch_title">
+		<text>Opções do pacote receptor RF</text>
+	</string>
+	
+	<string id="ui_mcm_menu_RF_package_patch">
+		<text>Opções do pacote receptor RF</text>
+	</string>
+	
+	<string id="ui_mcm_RF_package_patch_reminders">
+		<text>Lembrete exibido ao:</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_transition">
+		<text>Cada transição para área externa</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_local">
+		<text>Transição para área do pacote</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_never">
+		<text>Sem lembretes</text>
+	</string>
+	
+	<string id="ui_mcm_RF_package_patch_upgrades">
+		<text>Itens de melhoria fornecidos</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_vanilla">
+		<text>Itens de melhoria padrão</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_streamlined">
+		<text>Itens de melhoria otimizados do Arti</text>
+	</string>
+	
+	<string id="ui_mcm_RF_package_patch_unpacking">
+		<text>Modo de desempacotamento:</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_manual_unpack">
+		<text>Opção manual de desempacotamento com clique direito</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_auto_unpack">
+		<text>Desempacotamento automático ao pegar</text>
+	</string>
+	
+</string_table>

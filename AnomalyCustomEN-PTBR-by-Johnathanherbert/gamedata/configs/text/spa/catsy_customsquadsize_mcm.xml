@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_customsquadsize">
+		<text>Tamanho Personalizado do Esquadrão</text>
+	</string>
+
+	<string id="ui_mcm_customsquadsize_maxsquadsize">
+		<text>Número Máximo de Acompanhantes</text>
+	</string>
+
+	<string id="ui_mcm_customsquadsize_maxsquadsize_folkhero">
+		<text>Número Máximo de Acompanhantes com a Conquista «Herói do Povo»</text>
+	</string>
+
+</string_table>

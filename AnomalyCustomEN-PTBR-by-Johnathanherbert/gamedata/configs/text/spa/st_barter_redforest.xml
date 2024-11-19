@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+    <string id="st_forester_artifacts">
+        <text>Minhas costas estão doendo muito. Eu poderia usar um ou dois artefatos quentes para aliviar. Você poderia me trazer algumas coisas?</text>
+    </string>
+    <string id="st_forester_artifacts_done">
+        <text>Ahh, isso é muito melhor. Por favor, aceite isso pelo seu trabalho.</text>
+    </string>
+
+    <string id="st_forester_tea">
+        <text>Nada supera uma xícara de chá em uma noite fria de outono. Meu amigo Beard no Skadovsk faz uma bebida especial - vou te dar esta espingarda complicada em troca. Tenho meu rifle de caça confiável e não preciso de mais nada.</text>
+    </string>
+
+    <string id="st_forester_salmon">
+        <text>Sinto muita falta do sabor das carnes defumadas. Vou trocar esta arma que encontrei de um grupo estranho de homens por um pouco de salmão e linguiça. Não posso usar isso de qualquer maneira, nunca vi esse tipo de munição na minha vida.</text>
+    </string>
+
+    <string id="st_forester_pills">
+        <text>Está ficando mais difícil para mim dormir como um homem velho. Você pode me trazer algum remédio? Vou te dar esta estranha pistola que usa balas muito pequenas.</text>
+    </string>
+
+</string_table>

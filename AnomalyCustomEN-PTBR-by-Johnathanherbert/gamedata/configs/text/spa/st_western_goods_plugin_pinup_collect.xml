@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Autor(es) Original(is) : NLTP_ASHES                                                                         -->
+<!--    Editado : N/A                                                                                               -->
+<!--    Data : 11/11/2023                                                                                           -->
+<!--    Licença : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)         -->
+<!--                                                                                                                 -->
+<!--    Arquivo de tradução para a integração do addon Pinup Collector no Western Goods.                            -->
+<!--                                                                                                                 -->
+<!--=================================================================================================================-->
+<string_table>
+
+    <string id="st_wg_tear_page">
+        <text>Arrancar página</text>
+    </string>
+
+    <!-- Páginas da revista PLAYBOY (Chloe Khan) -->
+    <string id="st_pinup_wg_porn_mag_1_artist">
+        <text>"Chloe Khan (Foto)"</text>
+    </string>
+
+    <string id="st_pinup_wg_porn_mag_1_desc">
+        <text>"Uma página arrancada de uma revista adulta, estrelando Chloe Khan."</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_1_1">
+        <text>PLAYBOY (Chloe Khan) Página 52</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_1_2">
+        <text>PLAYBOY (Chloe Khan) Página 53</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_1_3">
+        <text>PLAYBOY (Chloe Khan) Página 54</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_1_4">
+        <text>PLAYBOY (Chloe Khan) Página 55</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_1_5">
+        <text>PLAYBOY (Chloe Khan) Página 56</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_1_6">
+        <text>PLAYBOY (Chloe Khan) Página 57</text>
+    </string>
+
+    <!-- Páginas da revista PLAYBOY (Nicole Whitehead) -->
+    <string id="st_pinup_wg_porn_mag_2_artist">
+        <text>"Nicole Whitehead (Foto)"</text>
+    </string>
+
+    <string id="st_pinup_wg_porn_mag_2_desc">
+        <text>"Uma página arrancada de uma revista adulta, estrelando Nicole Whitehead."</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_1">
+        <text>PLAYBOY (Nicole Whitehead) Página 94</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_2">
+        <text>PLAYBOY (Nicole Whitehead) Página 95</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_3">
+        <text>PLAYBOY (Nicole Whitehead) Página 96</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_4">
+        <text>PLAYBOY (Nicole Whitehead) Página 97</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_5">
+        <text>PLAYBOY (Nicole Whitehead) Página 98</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_6">
+        <text>PLAYBOY (Nicole Whitehead) Página 99</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_7">
+        <text>PLAYBOY (Nicole Whitehead) Página 100</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_8">
+        <text>PLAYBOY (Nicole Whitehead) Página 101</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_9">
+        <text>PLAYBOY (Nicole Whitehead) Página 102</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_2_10">
+        <text>PLAYBOY (Nicole Whitehead) Página 103</text>
+    </string>
+
+    <!-- Páginas da revista PLAYBOY (Carrie Stevens) -->
+    <string id="st_pinup_wg_porn_mag_3_artist">
+        <text>"Carrie Stevens (Foto)"</text>
+    </string>
+
+    <string id="st_pinup_wg_porn_mag_3_desc">
+        <text>"Uma página arrancada de uma revista adulta, estrelando Carrie Stevens."</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_1">
+        <text>PLAYBOY (Carrie Stevens) Página 99</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_2">
+        <text>PLAYBOY (Carrie Stevens) Página 100</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_3">
+        <text>PLAYBOY (Carrie Stevens) Página 101</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_4">
+        <text>PLAYBOY (Carrie Stevens) Página 102</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_5">
+        <text>PLAYBOY (Carrie Stevens) Página 103</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_6">
+        <text>PLAYBOY (Carrie Stevens) Página 104</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_7">
+        <text>PLAYBOY (Carrie Stevens) Página 105</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_8">
+        <text>PLAYBOY (Carrie Stevens) Página 106</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_9">
+        <text>PLAYBOY (Carrie Stevens) Página 107</text>
+    </string>
+
+    <string id="pinup_wg_porn_mag_3_10">
+        <text>PLAYBOY (Carrie Stevens) Página 108</text>
+    </string>
+
+</string_table>

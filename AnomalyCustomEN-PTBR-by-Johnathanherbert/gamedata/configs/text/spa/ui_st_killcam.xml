@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+    KillCam
+    Generated with AnomalyModCreator
+-->
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_killcam_title">
+		<text>Câmera de Morte</text>
+	</string>
+	<string id="ui_mcm_menu_killcam">
+		<text>Câmera de Morte</text>
+	</string>
+
+	<string id="ui_mcm_killcam_enableDebug">
+		<text>Ativar Depuração</text>
+	</string>
+
+	<string id="ui_mcm_killcam_killCamTime">
+		<text>Duração da Câmera de Morte</text>
+	</string>
+	<string id="ui_mcm_killcam_killCamTimeFactor">
+		<text>Fator de Tempo da Câmera de Morte</text>
+	</string>
+	<string id="ui_mcm_killcam_killCamDistance">
+		<text>Distância da Câmera de Morte</text>
+	</string>
+	<string id="ui_mcm_killcam_killCamElevation">
+		<text>Elevação da Câmera de Morte</text>
+	</string>
+	<string id="ui_mcm_killcam_killCamSpeed">
+		<text>Velocidade de Órbita da Câmera de Morte</text>
+	</string>
+
+	<string id="ui_mcm_killcam_killCamSmoothForward">
+		<text>Suavização de Entrada da Câmera de Morte</text>
+	</string>
+	<string id="ui_mcm_killcam_killCamSmoothBackward">
+		<text>Suavização de Retorno da Câmera de Morte</text>
+	</string>
+	<string id="ui_mcm_killcam_killCamCooldown">
+		<text>Tempo de Recarga da Câmera de Morte</text>
+	</string>
+	<string id="ui_mcm_killcam_killCamChance">
+		<text>Chance de Ativar a Câmera de Morte</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!-- traduzido por johnathanherbert -->
+
+<string_table>
+	<!-- Level name -->
+	<string id="grimwood">
+		<text>Grimwood</text>
+	</string>
+
+	<!-- Saídas do nível -->
+	<string id="space_restrictor_to_grim_desc">
+		<text>Para Grimwood</text>
+	</string>
+
+	<!-- Purchase routes -->
+	<string id="st_route_grim">
+		<text>Grimwood</text>
+	</string>
+
+	<!-- Dynamic news -->
+	<string id="st_dyn_news_grimwood">
+		<text>Grimwood</text>
+	</string>
+
+
+	<!-- Anomaly zones -->
+	<string id="st_grim_1_anomaly_spot_1_name">
+		<text>Anomalia Bosque Psi</text>
+	</string>
+
+	<string id="st_grim_4_anomaly_spot_1_name">
+		<text>Anomalia Corona</text>
+	</string>
+
+	<string id="st_grim_5_anomaly_spot_1_name">
+		<text>Anomalia Balanço</text>
+	</string>
+
+	<string id="st_grim_7_anomaly_spot_1_name">
+		<text>Anomalia Lago de Geleia</text>
+	</string>
+
+	<string id="st_grim_11_anomaly_spot_1_name">
+		<text>Anomalia Rede de Escalada</text>
+	</string>
+
+	<string id="st_grim_12_anomaly_spot_1_name">
+		<text>Anomalia Úlcera</text>
+	</string>
+
+	<string id="st_grim_13_anomaly_spot_1_name">
+		<text>Anomalia do Massacre</text>
+	</string>
+
+	<string id="st_grim_15_anomaly_spot_1_name">
+		<text>Anomalia Estigma</text>
+	</string>
+
+</string_table>

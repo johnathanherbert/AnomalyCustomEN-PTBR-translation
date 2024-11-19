@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="st_hide_flesh2_name">
+		<text>Pele de Flesh (Transmutada)</text>
+	</string>
+	<string id="st_hide_flesh2_descr">
+		<text>Pele de Flesh imbuída com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutada\n
+		%c[d_cyan] • %c[ui_gray_2] Pele de mutante aprimorada\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+	
+	<string id="st_hide_boar2_name">
+		<text>Pele de Javali (Transmutada)</text>
+	</string>
+	<string id="st_hide_boar2_descr">
+		<text>Pele de Javali imbuída com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutada\n
+		%c[d_cyan] • %c[ui_gray_2] Pele de mutante aprimorada\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+	<string id="st_hide_chimera2_name">
+		<text>Pele de Quimera (Transmutada)</text>
+	</string>
+	<string id="st_hide_chimera2_descr">
+		<text>Pele de Quimera imbuída com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutada\n
+		%c[d_cyan] • %c[ui_gray_2] Pele de mutante aprimorada\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+	<string id="st_hide_pseudogiant2_name">
+		<text>Pele de Pseudogigante (Transmutada)</text>
+	</string>
+	<string id="st_hide_pseudogiant2_descr">
+		<text>Pele de Pseudogigante imbuída com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutada\n
+		%c[d_cyan] • %c[ui_gray_2] Pele de mutante aprimorada\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+	<string id="st_hide_psy_dog2_name">
+		<text>Pelo de Cão Psi (Transmutado)</text>
+	</string>
+	<string id="st_hide_psy_dog2_descr">
+		<text>Pelo de Cão Psi imbuído com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutado\n
+		%c[d_cyan] • %c[ui_gray_2] Pelo de mutante aprimorado\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+	<string id="st_hide_pseudodog2_name">
+		<text>Pelo de Pseudocão (Transmutado)</text>
+	</string>
+	<string id="st_hide_pseudodog2_descr">
+		<text>Pelo de Pseudocão imbuído com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutado\n
+		%c[d_cyan] • %c[ui_gray_2] Pelo de mutante aprimorado\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+	<string id="st_hide_burer2_name">
+		<text>Pele de Burer (Transmutada)</text>
+	</string>
+	<string id="st_hide_burer2_descr">
+		<text>Pele de Burer imbuída com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutada\n
+		%c[d_cyan] • %c[ui_gray_2] Pele de mutante aprimorada\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+	<string id="st_hide_controller2_name">
+		<text>Couro Cabeludo de Controlador (Transmutado)</text>
+	</string>
+	<string id="st_hide_controller2_descr">
+		<text>Couro cabeludo de Controlador imbuído com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutado\n
+		%c[d_cyan] • %c[ui_gray_2] Pele de mutante aprimorada\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+	<string id="st_hide_bloodsucker2_name">
+		<text>Pele de Sanguessuga (Transmutada)</text>
+	</string>
+	<string id="st_hide_bloodsucker2_descr">
+		<text>Pele de Sanguessuga imbuída com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutada\n
+		%c[d_cyan] • %c[ui_gray_2] Pele de mutante aprimorada\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+	<string id="st_hide_psysucker2_name">
+		<text>Pele de Psysucker (Transmutada)</text>
+	</string>
+	<string id="st_hide_psysucker2_descr">
+		<text>Pele de Psysucker imbuída com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutada\n
+		%c[d_cyan] • %c[ui_gray_2] Pele de mutante aprimorada\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+	<string id="st_hide_lurker2_name">
+		<text>Pele de Lurker (Transmutada)</text>
+	</string>
+	<string id="st_hide_lurker2_descr">
+		<text>Pele de Lurker imbuída com artefatos através do processo de transmutação para melhorar ainda mais suas propriedades protetoras e aumentar sua durabilidade.\n \n
+		%c[ui_gray_2]PROPRIEDADES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutada\n
+		%c[d_cyan] • %c[ui_gray_2] Pele de mutante aprimorada\n
+		%c[d_cyan] • %c[ui_gray_2] Propriedades melhoradas\n
+		%c[d_cyan] • %c[ui_gray_2] Efeitos aditivos\n
+		</text>
+	</string>
+
+</string_table>

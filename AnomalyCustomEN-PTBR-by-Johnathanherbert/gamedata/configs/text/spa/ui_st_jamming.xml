@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="kb_unjam">
+		<text>Recarregar, desbloquear arma, remover PDA</text>
+	</string>
+	<string id="ui_st_misfire">
+		<text>Falha de disparo!</text>
+	</string>
+	<string id="ui_st_jam">
+		<text>Arma travada!</text>
+	</string>
+	<string id="ui_st_superjam">
+		<text>Arma gravemente travada!</text>
+	</string>
+	<string id="ui_st_nothing">
+		<text>Nada para destravar</text>
+	</string>
+	<string id="ui_st_unjam">
+		<text>Arma destravada com sucesso</text>
+	</string>
+	<string id="ui_st_functional">
+		<text>Arma operacional</text>
+	</string>
+	<string id="ui_st_oldjam">
+		<text>Você está usando carregadores anômalos. Não guarde a arma. Recarregue-a.</text>
+	</string>
+	<string id="ui_st_unjam_fail">
+		<text>Não está funcionando, não quer sair...</text>
+	</string>
+	<string id="ui_st_parts_damage">
+		<text>A arma sofreu danos em seus componentes internos</text>
+	</string>
+	<string id="st_news_parts_alreadygood">
+		<text>Não é necessário trocar a peça</text>
+	</string>
+	<string id="ui_st_heat1">
+		<text>, está quente</text>
+	</string>
+	<string id="ui_st_heat2">
+		<text>, está muito quente!</text>
+	</string>
+	<string id="ui_st_heat3">
+		<text>, está extremamente quente!</text>
+	</string>
+	<string id="st_unjam">
+		<text>Destravar</text>
+	</string>
+	<string id="st_news_parts_success">
+		<text>Peça trocada com sucesso:</text>
+	</string>
+	<string id="st_news_parts_fail">
+		<text>%c[d_red]A arma já possui uma peça em melhor estado</text>
+	</string>
+	<string id="st_news_parts_incompatible">
+		<text>%c[d_red]A peça não é compatível com a arma</text>
+	</string>
+	<string id="st_news_parts_barrel">
+		<text>%c[d_red]Os canos não podem ser trocados em campo</text>
+	</string>
+	<string id="st_news_parts_rusty">
+		<text>%c[d_red]A arma está muito enferrujada para ser desmontada</text>
+	</string>
+	<string id="st_news_dis_items">
+		<text>%c[d_red]É necessária uma ferramenta de desmontagem adequada</text>
+	</string>
+	<string id="st_news_fieldstrip">
+		<text>Peças removidas:</text>
+	</string>
+	<string id="st_news_cleaned">
+		<text>Peça limpa:</text>
+	</string>
+	<string id="ui_mcm_menu_wpo">
+		<text>WPO</text>
+	</string>
+	<string id="ui_mcm_wpo_title">
+		<text>Configuração de Revisão de Peças de Armas</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity">
+		<text>Palavrões</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity_desc">
+		<text>Ativa diálogos com palavrões após uma falha</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity_timeout">
+		<text>Desativar spam de palavrões</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity_timeout_desc">
+		<text>Adiciona uma pausa ao bloqueador de palavrões se estiver ativado. Só se você odeia diversão.</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity_language">
+		<text>Idioma dos palavrões</text>
+	</string>
+	<string id="ui_mcm_wpo_jamchance">
+		<text>Coeficiente de probabilidade de travamento</text>
+	</string>
+	<string id="ui_mcm_wpo_jamchance_desc">
+		<text>A probabilidade de suas armas travarem</text>
+	</string>
+	<string id="ui_mcm_wpo_superjam">
+		<text>Ativar travamentos críticos</text>
+	</string>
+	<string id="ui_mcm_wpo_superjam_desc">
+		<text>Ativa ou desativa os travamentos críticos intensos. Travamentos críticos são aqueles que exigem a remoção da munição para serem consertados.</text>
+	</string>
+	<string id="ui_mcm_wpo_simplejam">
+		<text>Ejetar carregadores em travamento crítico</text>
+	</string>
+	<string id="ui_mcm_wpo_simplejam_desc">
+		<text>Se ativado, recarregar uma arma em travamento crítico ejetará o carregador. Sem precisar mexer no inventário!</text>
+	</string>
+	<string id="ui_mcm_wpo_threshold">
+		<text>Limite de condição para danos em peças</text>
+	</string>
+	<string id="ui_mcm_wpo_threshold_desc">
+		<text>Condição da arma em que seu uso pode danificar as peças. Quanto menor o valor, menos peças serão danificadas.</text>
+	</string>
+	<string id="ui_mcm_wpo_cleancoef">
+		<text>Multiplicador de limpeza de armas por técnicos</text>
+	</string>
+	<string id="ui_mcm_wpo_cleancoef_desc">
+		<text>Ajuste do preço cobrado pelos técnicos para limpar armas</text>
+	</string>
+	<string id="ui_mcm_wpo_verbosity">
+		<text>Nível de detalhamento das mensagens</text>
+	</string>
+	<string id="ui_mcm_wpo_verbosity_desc">
+		<text>Detalhamento das mensagens de travamento no HUD. Existem três níveis:\nNenhum: Apenas os travamentos são alertados.\nNormal (recomendado): Você será notificado quando sua arma travar e quando for destravada.\nCompleto: Igual ao Normal, mas você também será informado sobre travamentos críticos e danos às peças.</text>
+	</string>
+	<string id="ui_mcm_wpo_minpart">
+		<text>Condição mínima para vender peças</text>
+	</string>
+	<string id="ui_mcm_wpo_minpart_desc">
+		<text>Condição mínima que TODAS as peças de uma arma devem ter para poderem ser vendidas. Se uma arma tiver UMA ÚNICA peça abaixo desta condição, ela será bloqueada para venda. Configure como 0 para desativar.</text>
+	</string>
+	<string id="ui_mcm_wpo_fun">
+		<text>Nível de diversão</text>
+	</string>
+	<string id="ui_mcm_wpo_title">
+		<text>Revisão de Peças de Armas</text>
+	</string>
+	<string id="ui_mcm_lst_eng">
+		<text>Inglês</text>
+	</string>
+	<string id="ui_mcm_lst_rus">
+		<text>Russo</text>
+	</string>
+	<string id="ui_mcm_lst_verbosity_none">
+		<text>Nenhum</text>
+	</string>
+	<string id="ui_mcm_lst_verbosity_normal">
+		<text>Normal</text>
+	</string>
+	<string id="ui_mcm_lst_verbosity_full">
+		<text>Completo</text>
+	</string>
+	<string id="ui_mcm_lst_no">
+		<text>Duty</text>
+	</string>
+	<string id="ui_mcm_lst_yes">
+		<text>Loners</text>
+	</string>
+	<string id="ui_mcm_lst_ofc">
+		<text>Freedom</text>
+	</string>
+	<string id="ui_mcm_wpo_debug">
+		<text>Registros de depuração</text>
+	</string>
+	<string id="ui_mcm_wpo_debug_desc">
+		<text>Os registros de depuração mostram informações adicionais no console</text>
+	</string>
+	<string id="ui_mcm_wpo_babymode">
+		<text>Modo fácil</text>
+	</string>
+	<string id="ui_mcm_wpo_babymode_desc">
+		<text>Desativa completamente os travamentos das peças. Para que instalar este mod se você vai ativar esta opção?</text>
+	</string>
+	<string id="ui_mcm_wpo_newdrops">
+		<text>Ativar sistema alternativo de drops para peças</text>
+	</string>
+	<string id="ui_mcm_wpo_newdrops_desc">
+		<text>Calcula os drops de peças com uma nova fórmula. A chance de obter peças boas é ajustada pela condição da arma e por um peso oculto adicional. Isso torna o jogo mais desafiador com pesos suficientemente baixos. Para usar o método antigo, desative esta opção.</text>
+	</string>
+	<string id="ui_mcm_wpo_newdropschance">
+		<text>Chance de obter peças boas com sistema alternativo</text>
+	</string>
+	<string id="ui_mcm_wpo_degradation">
+		<text>Degradação na chuva</text>
+	</string>
+	<string id="ui_mcm_wpo_degradation_desc">
+		<text>Velocidade com que a arma se deteriora na chuva</text>
+	</string>
+	<string id="st_field_strip">
+		<text>Desmontar</text>
+	</string>
+	<string id="st_field_strip_fail">
+		<text>Esta arma não tem peças para remover</text>
+	</string>
+	<string id="ui_st_missing">
+		<text>Esta arma está com peças faltando</text>
+	</string>
+	<string id="article_wpo">
+		<text>Manutenção de Armas</text>
+	</string>
+	<string id="article_wpo_text">
+		<text>%c[pda_green]PP. FF.%c[ui_gray_1]\n\n
+1. Por que minha arma trava em 100%?\n
+R. Suas peças estão danificadas. Verifique o status delas.\n
+2. Como é aberto?\n
+R. Pressione a tecla usar duas vezes ou clique com o botão direito na arma no inventário e clique na opção de desencaixotar.\n
+3. Por que perco status ao trocar peças?\n
+R. Você precisa lubrificar a arma novamente. Isso não acontece abaixo de 60%. Use o Leatherman para reduzir a perda ou uma bancada para eliminá-la completamente.\n
+4. Por que os técnicos não consertam minhas peças?\n
+R. As peças devem ser raspadas. Você pode comprar peças do técnico ou usar um kit de conserto de armas. Esta é a principal mecânica de longevidade do WPO.\n\n
+A revisão de peças de armas muda drasticamente como a manutenção de armas funciona em Anomaly. Leia este guia com atenção para entender tudo.\n\n
+%c[pda_green]I. Peças e Manutenção%c[ui_gray_1]\n\n
+• Agora é mais fácil manter o status geral da arma (a barra de status com a qual você está acostumado). O mecânico irá restaurá-lo para 60% por um custo menor. Todos os itens de reparo de armas são muito mais eficientes.\n
+• As peças das armas devem ser mantidas. Você pode ver rapidamente o status das peças da arma passando o mouse sobre elas.\n
+• A cor do texto indica o status:\n
+%c[d_red]• Ausente\n
+%c[d_orange]• Danificado e não pode ser limpo\n
+%c[pda_yellow]• Sujo e pode ser limpo%c[ui_gray_1]\n
+• As peças da arma podem ser removidas desmontando a arma. Isso remove todos os componentes, exceto o cano.\n
+• As peças também podem ser substituídas manualmente arrastando e soltando. %c[d_red]OBSERVE QUE ISSO REDUZ O STATUS DA ARMA SE EXCEDER 60%. Tenha um Leatherman disponível para reduzir esse impacto.%c[ui_gray_1]\n
+• As peças das armas também podem ser substituídas gratuitamente em uma bancada se você tiver o kit de reparo correto. %c[pda_yellow]Esta é uma das duas maneiras de trocar o cano.\n\n
+%c[pda_green]II. Travamentos e Danos às Peças%c[ui_gray_1]\n\n
+• As peças têm cinco níveis de dano: %c[d_red]quebrado%c[ui_gray_1], %c[d_red]danificado%c[ui_gray_1], %c[d_orange]desgastado%c[ui_gray_1], %c[0,250,250,0]sujo%c[ui_gray_1], %c[d_green]funcional%c[ui_gray_1].\n
+• Quanto mais danificadas estiverem as peças, maior será a probabilidade de sofrer uma falha.\n
+• Existem três tipos de falhas: falha de ignição, travamento e travamento grave.\n
+• A falha de ignição e o travamento podem ser resolvidos retirando a arma.\n
+• O travamento grave requer a remoção do carregador antes de consertar o travamento.\n
+• Os canos não contribuem para a probabilidade de travamento. No entanto, canos sujos ou piores reduzem o dano da arma em até 50%.\n
+• Disparar uma arma com estado menor que 85% (por padrão, isso pode ser alterado no %c[pda_yellow]MCM: Limite de condição para danos em peças%c[ui_gray_1]) tem chance de danificar suas peças.\n
+• Disparar uma arma sob chuva forte a desgastará mais rapidamente.\n
+• Disparar uma arma por muito tempo causa superaquecimento, resultando em mais interferências e degradação mais rápida.\n\n
+%c[pda_green]III. Mudanças na Economia%c[ui_gray_1]\n\n
+• Ter um kit de limpeza permitirá limpar peças sujas de armas (condição acima de 60%). Isso também restaura 10% do status.\n
+• Ter um kit de reparo permitirá que você troque peças com um menu de clique direito. Isso usa uma carga e restaura 10% do status. %c[pda_yellow]Esta é a outra maneira de trocar o cano.%c[ui_gray_1]\n
+• Os técnicos venderão peças de armas aleatoriamente por um preço alto.\n
+• Peças de armas acima de 60% podem ser reparadas com limas, baquetas ou ferramentas multiuso.\n
+• Peças de armas acima de 10% podem ser reparadas com um kit de ferramentas muito caro disponível nos comerciantes.\n\n
+Para quaisquer outros problemas, informe-nos para arti#3278 no Discord. Não costumo ler os comentários do ModDB.</text>
+	</string>
+	<string id="st_partskit">
+		<text>Kit de reparo de peças</text>
+	</string>
+	<string id="st_partskit_descr">
+		<text>Um conjunto de ferramentas muito avançadas, incluindo microlimas, epóxi para metal soldado a frio, preparação de banhos eletrolíticos e diversos lubrificantes, destilados de gasolina e outros solventes. Essas ferramentas podem transformar o motor de um Lada no motor de uma Ferrari, sem falar no que podem fazer com os componentes de uma arma. Apenas as peças mais destruídas não poderão ser restauradas com este kit. No entanto, a preparação deste kit é extremamente complexa e, por isso, só é vendido em quantidades muito pequenas pelos técnicos da Zona.\n\n</text>
+	</string>
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+	<string id="st_damage_missing">
+		<text>Ausente</text>
+	</string>
+	<string id="st_damage_0">
+		<text>Quebrado:</text>
+	</string>
+	<string id="st_damage_1">
+		<text>Danificado:</text>
+	</string>
+	<string id="st_damage_2">
+		<text>Desgastado:</text>
+	</string>
+	<string id="st_damage_3">
+		<text>Sujo:</text>
+	</string>
+	<string id="st_damage_4">
+		<text>Funcional:</text>
+	</string>
+	<string id="st_damage_5">
+		<text>Funcional:</text>
+	</string>
+	<string id="st_wpo_replace_parts">
+		<text>Manter peças</text>
+	</string>
+	<string id="st_wpo_replace">
+		<text>Substituir</text>
+	</string>
+	<string id="st_wpo_clean">
+		<text>Limpar</text>
+	</string>
+	<string id="st_wpo_remove">
+		<text>Remover</text>
+	</string>
+	<string id="st_name_trigger">
+		<text>gatilho</text>
+	</string>
+	<string id="st_name_spring">
+		<text>mola de recuo</text>
+	</string>
+	<string id="st_name_barrel">
+		<text>cano</text>
+	</string>
+	<string id="st_name_bolt_carrier">
+		<text>porta-ferrolho</text>
+	</string>
+	<string id="st_name_bolt">
+		<text>ferrolho</text>
+	</string>
+	<string id="st_name_gas_tube">
+		<text>sistema de gases</text>
+	</string>
+	<string id="st_name_extractor">
+		<text>extrator</text>
+	</string>
+	<string id="st_name_ejector">
+		<text>ejetor</text>
+	</string>
+	<string id="st_name_pump">
+		<text>ferrolho</text>
+	</string>
+	<string id="st_name_hammers">
+		<text>cão</text>
+	</string>
+	<string id="st_name_chock">
+		<text>acelerador</text>
+	</string>
+	<string id="st_name_all">
+		<text>tudo</text>
+	</string>
+	<string id="st_name_issues">
+		<text>ESTADO:</text>
+	</string>
+</string_table>

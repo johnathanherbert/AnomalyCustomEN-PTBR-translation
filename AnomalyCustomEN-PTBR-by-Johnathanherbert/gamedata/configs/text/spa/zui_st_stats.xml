@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!--Traduzido por johnathanherbert-->
+<string_table>
+	<string id="st_stat_dmg">
+		<text>Dano</text>
+	</string>
+	<string id="st_stat_rpm">
+		<text>RPM</text>
+	</string>
+</string_table>

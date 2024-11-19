@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+
+<!--
+- @ Versão: SCREEN SPACE SHADERS - ATUALIZAÇÃO 17
+- @ Descrição: Chuva - strings MCM
+- @ Autor: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<string_table>
+
+	<!-- Título da Chuva -->
+	<string id="ui_mcm_ssfx_module_rain_title">
+		<text>Chuva - Configurações</text>
+	</string>
+
+	<!-- Configurações da Chuva -->
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_quality_mcm">
+		<text>Qualidade de renderização</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_quality_mcm_desc">
+		<text>BAIXA: Renderização básica de refração. - MÉDIA: Renderização básica mais descarte de refração incorreta. - ALTA: Refração completa com amostra extra de reflexão.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_speed_mcm">
+		<text>Velocidade da chuva</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_speed_mcm_desc">
+		<text>Velocidade da queda.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_len_mcm">
+		<text>Comprimento da gota</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_len_mcm_desc">
+		<text>Comprimento da gota de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_width_mcm">
+		<text>Largura da gota</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_width_mcm_desc">
+		<text>Largura da gota de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_alpha_mcm">
+		<text>Transparência da chuva</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_alpha_mcm_desc">
+		<text>Transparência do efeito geral.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_brightness_mcm">
+		<text>Brilho da chuva</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_brightness_mcm_desc">
+		<text>Intensidade do brilho da cor base da gota de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_refraction_mcm">
+		<text>Refração da chuva</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_refraction_mcm_desc">
+		<text>Intensidade do efeito de refração.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_reflection_mcm">
+		<text>Reflexo da chuva</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_reflection_mcm_desc">
+		<text>Transparência do efeito de reflexo.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_alpha_mcm">
+		<text>Transparência dos respingos</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_alpha_mcm_desc">
+		<text>Transparência dos respingos de chuva.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_refraction_mcm">
+		<text>Refração dos respingos</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_refraction_mcm_desc">
+		<text>Intensidade da refração dos respingos de chuva.</text>
+	</string>
+
+</string_table>

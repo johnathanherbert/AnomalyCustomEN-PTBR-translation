@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+
+	<!-- MENSAGENS DO PDA -->
+
+	<string id="tb_anon_sender">
+		<text>"Anônimo"</text>
+	</string>
+
+	<!-- MENSAGENS DO PDA -->
+
+	<string id="tb_sooner_rf">
+		<text>Quanto mais cedo você conseguir um Receptor RF, mais cedo poderemos ajudar... se pudermos.</text>
+	</string>
+
+
+	<string id="tb_package_can_be_found">
+		<text>Um pacote pode ser encontrado em algum lugar em </text>
+	</string>
+
+	<string id="tb_use_rf_on_freq">
+		<text>, use um Receptor RF na frequência </text>
+	</string>
+
+	<string id="tb_mhz_to_search">
+		<text> MHz para procurá-lo.</text>
+	</string>
+
+
+	<string id="tb_dont_forget">
+		<text>Não se esqueça daquele pacote em </text>
+	</string>
+
+	<string id="tb_freq_was_on">
+		<text>, a frequência estava em </text>
+	</string>
+
+	<string id="tb_the_mhz">
+		<text> MHz.</text>
+	</string>
+
+	<!-- TEXTOS DE LOCALIZAÇÃO APROXIMADA -->
+
+	<string id="tb_loc_n_r">
+		<text>a região norte de </text>
+	</string>
+	<string id="tb_loc_ne_r">
+		<text>a região nordeste de </text>
+	</string>
+	<string id="tb_loc_e_r">
+		<text>a região leste de </text>
+	</string>
+	<string id="tb_loc_se_r">
+		<text>a região sudeste de </text>
+	</string>
+	<string id="tb_loc_s_r">
+		<text>a região sul de </text>
+	</string>
+	<string id="tb_loc_sw_r">
+		<text>a região sudoeste de </text>
+	</string>
+	<string id="tb_loc_w_r">
+		<text>a região oeste de </text>
+	</string>
+	<string id="tb_loc_nw_r">
+		<text>a região noroeste de </text>
+	</string>
+
+	<!-- NOMES DOS NÍVEIS -->
+
+	<string id="tb_loc_mar">
+		<text>os Grandes Pântanos</text>
+	</string>
+	<string id="tb_loc_dsc">
+		<text>Darkscape</text>
+	</string>
+	<string id="tb_loc_esc">
+		<text>o Cordão</text>
+	</string>
+	<string id="tb_loc_gar">
+		<text>Lixão</text>
+	</string>
+	<string id="tb_loc_agr">
+		<text>Agroprom</text>
+	</string>
+	<string id="tb_loc_val">
+		<text>o Vale Escuro</text>
+	</string>
+	<string id="tb_loc_bar">
+		<text>Rostok</text>
+	</string>
+	<string id="tb_loc_ros">
+		<text>o Território Selvagem</text>
+	</string>
+	<string id="tb_loc_mil">
+		<text>os Armazéns do Exército</text>
+	</string>
+	<string id="tb_loc_yan">
+		<text>Yantar</text>
+	</string>
+	<string id="tb_loc_cit">
+		<text>a Cidade Morta</text>
+	</string>
+	<string id="tb_loc_lim">
+		<text>Limansk</text>
+	</string>
+	<string id="tb_loc_rad">
+		<text>Radar</text>
+	</string>
+	<string id="tb_loc_red">
+		<text>a Floresta Vermelha</text>
+	</string>
+	<string id="tb_loc_pri">
+		<text>Pripyat</text>
+	</string>
+	<string id="tb_loc_aes1">
+		<text>CNPP Sul</text>
+	</string>
+	<string id="tb_loc_aes2">
+		<text>CNPP Norte</text>
+	</string>
+	<string id="tb_loc_gen">
+		<text>os Geradores</text>
+	</string>
+	<string id="tb_loc_zat">
+		<text>Zaton</text>
+	</string>
+	<string id="tb_loc_jup">
+		<text>Júpiter</text>
+	</string>
+	<string id="tb_loc_out">
+		<text>os Arredores</text>
+	</string>
+	<string id="tb_loc_trc">
+		<text>o Cemitério de Caminhões</text>
+	</string>
+	<string id="tb_loc_pol">
+		<text>o Prado</text>
+	</string>
+	<string id="tb_loc_dbg">
+		<text>o Nível de Depuração</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+
+	<string id="ui_mcm_beef_nvg_title">
+		<text>Configurações de NVG do Beef</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_title_2">
+		<text>Compatibilidade com Miras 2D Baseadas em Shader</text>
+	</string>
+	
+	<string id="ui_mcm_menu_beef_nvg">
+		<text>NVG do Beef</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_keybind_nv_up">
+		<text>Aumentar brilho do NVG</text>
+	</string>
+	<string id="ui_mcm_beef_nvg_keybind_nv_down">
+		<text>Diminuir brilho do NVG</text>
+	</string>
+	<string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+		<text>O ganho máximo que pode ser aplicado aos NVGs</text>
+	</string>
+	<string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+		<text>Valores mais altos permitem mais 'brilho', embora eventualmente atinja um limite. Recomenda-se configurar baseado no clima cloudy_dark_2 à meia-noite.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+		<text>O ganho mínimo que pode ser aplicado aos NVGs</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+		<text>Valores mais baixos permitem diminuir mais os NVGs - valores muito baixos até permitirão usar os NVGs durante o dia.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+		<text>Um deslocamento aplicado ao brilho do mundo</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+		<text>1.0 mantém o brilho do mundo como está, valores maiores multiplicam o brilho do mundo (mas não as fontes de luz).</text>
+	</string>
+
+	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+		<text>O limite para estouros de luz</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+		<text>Geralmente recomendado manter em 0.1, mas pode ser aumentado para reduzir levemente o estouro em fontes de luz. 
+		Este valor escala com o ganho do NVG para que ganhos mais altos tenham mais estouro e ganhos mais baixos tenham menos estouro.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+		<text>Pode usar NVG ao Mirar:</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+		<text>Se esta caixa estiver marcada, você pode manter seus NVGs ligados ao mirar. Se estiver desmarcada, seu personagem desativará os NVGs ao levantar a arma.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+		<text>NVGs permanecem ligados ao ver o PDA:</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+		<text>Se esta caixa estiver desmarcada, seus NVGs desativam automaticamente ao olhar seu PDA.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+		<text>Configuração de Tubos Gen 1: (Padrão tubo único centralizado)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+		<text>Escolha o número de tubos para NVGs Gen 1.</text>
+	</string>
+
+	<string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+		<text>Configuração de Tubos Gen 2: (Padrão dois tubos centralizados)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+		<text>Escolha o número de tubos para NVGs Gen 2.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+		<text>Configuração de Tubos Gen 3: (Padrão quatro tubos centralizados)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+		<text>Escolha o número de tubos para NVGs Gen 3.</text>
+	</string>
+
+	<string id="ui_mcm_lst_single_centered">
+		<text>Tubo único, Centralizado</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_left">
+		<text>Tubo único, Lado Esquerdo</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_right">
+		<text>Tubo único, Lado Direito</text>
+	</string>
+	
+	<string id="ui_mcm_lst_dual_centered">
+		<text>Dois Tubos, Centralizados</text>
+	</string>
+	
+	<string id="ui_mcm_lst_quad_centered">
+		<text>Quatro Tubos, Centralizados</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+		<text>Fundo do Overlay Gen 1: (Padrão Sem Overlay)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+		<text>Escolha qual overlay de fundo você deseja</text>
+	</string>
+
+	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+		<text>Fundo do Overlay Gen 2: (Padrão Overlay Desfocado)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+		<text>Escolha qual overlay de fundo você deseja</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+		<text>Fundo do Overlay Gen 3: (Padrão Overlay Desfocado)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+		<text>Escolha qual overlay de fundo você deseja</text>
+	</string>
+	
+	<string id="ui_mcm_lst_blurred_background">
+		<text>Overlay Desfocado</text>
+	</string>
+	
+	<string id="ui_mcm_lst_black_background">
+		<text>Overlay Preto</text>
+	</string>
+	
+	<string id="ui_mcm_lst_image_overlay">
+		<text>(N?o implementado) Overlay de Imagem</text>
+	</string>
+	
+	<string id="ui_mcm_lst_clear_vision">
+		<text>Sem Overlay (visão clara)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_shader_scope_compat">
+		<text>Se você tem Miras 2D Baseadas em Shader, marque esta caixa</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+		<text>Basicamente, devido à mágica dos shaders, se você tem Miras 2D Baseadas em Shader, precisa marcar esta caixa. Caso contrário, não marque esta caixa.</text>
+	</string>
+	
+</string_table>

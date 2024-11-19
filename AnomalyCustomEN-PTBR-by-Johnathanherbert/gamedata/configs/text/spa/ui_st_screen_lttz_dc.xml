@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<string id="st_lttz_pri_eidolon_message">
+		<text>Eu posso perceber você. Eu vejo você, eu ouço você. Onde quer que você vá. Você não passará.</text>
+	</string>
+	<string id="st_lttz_war_stitch_message">
+		<text>Droga, claro que a porta está trancada. Sabe, o código da entrada dos fundos era 26041986, talvez seja o mesmo aqui. Tente usar.</text>
+	</string>
+	<string id="st_lttz_mil_radogost_message">
+		<text>Posso sentir sua presença, stalker. Venha até mim, precisamos conversar.</text>
+	</string>
+	<string id="st_lttz_x18_stitch_message">
+		<text>Por queeee... você não... me ajudooou?</text>
+	</string>
+	<string id="st_lttz_x18_rogue_message">
+		<text>Morra, inimigo do Monolith!</text>
+	</string>
+	<string id="st_lttz_x18_degtyarev_message">
+		<text>Você não passa de um maldito traidor.</text>
+	</string>
+	<string id="st_lttz_x18_strelok_message">
+		<text>Você me traiu.</text>
+	</string>
+	<string id="st_lttz_x18_eidolon_message">
+		<text>Oh, poderoso Monolith. Mesmo na morte, eu sirvo. Eterno.</text>
+	</string>
+	<string id="st_lttz_x18_chernobog_message">
+		<text>Mesmo do além-túmulo, eu lançarei a luz de Vyraj... sobre este mundo pecaminoso.</text>
+	</string>
+	<string id="st_lttz_x18_dark_presence_message">
+		<text>MORRA!</text>
+	</string>
+</string_table>

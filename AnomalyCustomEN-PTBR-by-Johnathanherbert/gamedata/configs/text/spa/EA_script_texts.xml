@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="ui_mcm_menu_EA_settings">
+		<text>Configurações FDDA</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_animations">
+		<text>Habilitar animações FDDA</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_backpack_addon">
+		<text>Habilitar animações de mochila</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_crouch_toggle_backpack_addon">
+		<text>Habilitar animação de agachamento para mochila</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot">
+		<text>Habilitar animações de loot de mutante</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_item_anim">
+		<text>Habilitar animação de pickup de itens</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot_desc">
+		<text>Nota: automaticamente desliga se as animações FDDA estão desativadas</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist">
+		<text>Distância de pickup de itens</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist_desc">
+		<text>Padrão - 0.12, valor recomendado para corrigir o bug do addon de revólveres - 0.3-0.5</text>
+	</string>
+	
+	<string id="st_EA_ladder_item_not_allowed">
+      <text>Suas mãos estão ocupadas agora</text>
+    </string>
+
+</string_table>

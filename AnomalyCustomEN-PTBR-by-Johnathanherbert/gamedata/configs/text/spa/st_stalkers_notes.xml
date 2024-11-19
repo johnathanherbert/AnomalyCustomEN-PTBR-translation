@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<!--Traduzido por johnathanherbert-->
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--    Original Author(s) : NLTP_ASHES                                                                              -->
+<!--    Edited : N/A                                                                                                 -->
+<!--    Date : 20/09/2023                                                                                            -->
+<!--    License : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+4.0)          -->
+<!--                                                                                                                 -->
+<!--    Translation file Stalkers Notes.                                                                             -->
+<!--                                                                                                                 -->
+<!--
+================================================================================================================-->
+<string_table>
+
+    <string id="st_letter_name_short">
+        <text>Carta</text>
+    </string><!--
+    ============================================================================================================--> <!--    lynnh note n°1                                                                                           --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_lynnh_1">
+        <text>Carta para mamãe</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_lynnh_1_text">
+        <text>Querida mãe:\n \nEspero que você esteja com boa saúde e bom humor. Queria atualizá-la
+            sobre como as coisas estão indo para mim em Kiev. Em primeiro lugar, quero assegurar-lhe
+            que estou empenhando todos os meus esforços para levar uma vida honesta e legal.
+            Encontrei um emprego com um salário decente e sou grato pela oportunidade que me deu.\n
+            \nComo minhas experiências anteriores causaram sofrimento a você e à nossa família,
+            quero enfatizar que aprendi muito durante meu tempo na prisão. Isso me deu a
+            oportunidade de refletir sobre minhas ações e fazer mudanças positivas em minha vida.
+            Estou determinado a continuar no caminho certo e deixar para trás meus erros do
+            passado.\n \nMãe, saiba que tenho plena consciência da importância da responsabilidade
+            financeira. Assim que puder, começarei a enviar-lhe dinheiro para ajudar no sustento de
+            nossa família. Seu apoio e amor inabaláveis sempre significaram muito para mim e quero
+            aliviar seu fardo tanto quanto possível.\n \nPor fim, agradeceria se você transmitisse
+            meu mais profundo carinho a Natasha. Penso nela todos os dias e sinto muita falta dela.
+            Espero que ela esteja bem e que possamos estar juntos novamente em breve.\n \nObrigado
+            pela compreensão e por acreditar na minha capacidade de mudança. Eu te amo e sinto sua
+            falta mais do que poderia expressar em palavras.\n \nCom todo meu amor,\n \nVadim \n</text>
+    </string><!--
+    ============================================================================================================--> <!--
+    lynnh note n°2                                                                                           --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_lynnh_2">
+        <text>Carta para um amigo</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_lynnh_2_text">
+        <text>Ei, cara:\n \nSó estou escrevendo para você para saber como estão as coisas em
+            Chelyabinsk. Você não vai acreditar onde eu fui parar, cara. Um lugar maluco que eles
+            chamam de Zone. Toda a minha família estava tipo, "nah, isso não é uma boa ideia, cara",
+            mas não vê como estou me dando bem aqui. Os rumores não eram nada, cara. Esses mutantes?
+            Pequena piada.\n \nMas escute, a vida na Zone não é tão ruim assim, cara. Conheci alguns
+            caras de confiança no bar 100 Rads. A gente cuida um do outro, sabe? É como uma
+            irmandade, enfrentamos juntos os desafios malucos deste lugar.\n \nEstou lhe dizendo,
+            quando eu tiver acumulado dinheiro suficiente, vou investir tudo em algumas mansões
+            incríveis em Sochi. Viveremos bem, irmão! Mande saudações à família e diga que estou me
+            divertindo aqui.\n \nFique na sombra, irmão. Nos vemos na volta.\n \nAté logo,\n \nVasia
+            \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    lynnh note n°3                                                                                           --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_lynnh_3">
+        <text>Carta para uma mãe</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_lynnh_3_text">
+        <text>Querida mãe,\n \nEspero que você esteja com boa saúde e bom humor. Meu serviço está
+            chegando ao fim e eu não poderia estar mais feliz por finalmente voltar para casa. Meu
+            comandante me informou que só me restam algumas missões de expedição antes de poder
+            retornar para vocês. A ideia de ver você novamente me enche de expectativa.\n \nEstar
+            tão longe de casa me fez perceber o quanto senti sua falta, mãe. A distância me fez
+            valorizar o amor, o carinho e os sacrifícios que você fez por mim durante toda a minha
+            vida. Seu apoio incondicional tem sido minha força nesses tempos difíceis.\n \nQuando
+            retornar, quero expressar minha gratidão àqueles que não sobreviveram às adversidades
+            que enfrentamos. Brindarei em sua homenagem, prestando tributo à sua memória e aos
+            sacrifícios que fizeram ao meu lado.\n \nCuide-se, querida mãe, e saiba que conto os
+            dias até poder te abraçar e compartilhar histórias de minhas experiências. Seu amor e
+            presença significam muito para mim e estou ansioso para criar novas memórias com você.\n
+            \nCom todo meu amor e respeito,\n \nIgor \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    lynnh note n°4                                                                                           --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_lynnh_4">
+        <text>Carta para Anna</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_lynnh_4_text">
+        <text>Olá Anna:\n \nEspero que você esteja bem. Envio-lhe uma afetuosa saudação. Queria
+            contar uma notícia emocionante: meu contrato está chegando ao fim e em breve poderei
+            voltar para casa e ficar com você. Você se lembra que dissemos que íamos comprar um
+            carro novo para você? Bem, quer saber, querida? Vou garantir que isso aconteça. Você
+            merece.\n \nA vida na Zone não tem sido fácil, Anna. É um lugar difícil e hostil. Tive
+            que travar minhas próprias batalhas e lidar com aqueles russos de vermelho e preto. Mas
+            você sabe o quê? As missões que aceitei pagam bem e agradeço isso. Com estas missões
+            consegui garantir os meios para alcançar uma vida melhor para nós.\n \nSinto tanto a sua
+            falta, Anna, e estou ansioso pelo momento em que voltarei para casa e estarei com você
+            novamente. Juntos construiremos um futuro melhor, livre das adversidades deste lugar.
+            Tenha fé, meu amor. Em breve estarei ao seu lado.\n \nCuide-se e saiba que sempre tenho
+            você em mente.\n \nCom todo meu amor,\n \nOleksandr \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    xavier
+    note n°1                                                                                          --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_xavier_1">
+        <text>Carta para Aurore</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_xavier_1_text">
+        <text>Olá, Aurore:\n \nSim, você não ficou muito animada com a minha ida para a Zone. Mas
+            acredite: até agora estou bem. Encontrei alguém que paga bem por trabalhos fáceis e em
+            breve poderei voltar e saldar minhas dívidas. Espero que Pavel não incomode você.\n
+            \nAmanhã acompanharei dois turistas por 7.500 rublos. Tudo acabará em breve.\n \nDe
+            qualquer forma, não posso enviar fotos como prometido, a eletricidade faz coisas
+            estranhas aqui. Mas pegue esta folha de girassol para lembrar que, embora esteja longe,
+            não estou morto.\n \nAcredite, voltarei em breve. Você só precisa esperar um pouco mais.
+            Então seremos ricos e eu comprarei o que você quiser. Sinto muito. Era a única opção que
+            eu tinha.\n \nEu te amo,\n \nDimitri \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    lykan8345 note n°1                                                                                       --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_lykan8345_1">
+        <text>Carta para Slim</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_lykan8345_1_text">
+        <text>Caro Slim, escrevi para você, mas você ainda não está ligando\n \nDeixei meu celular,
+            meu pager e meu telefone residencial embaixo\n \nMandei duas cartas no outono, você não
+            deve ter recebido\n \nProvavelmente houve algum problema no correio ou algo assim\n \nÀs
+            vezes eu rabisco endereços muito desleixados quando os anoto\n \nMas de qualquer forma,
+            foda-se, o que aconteceu, cara? Como está sua filha?\n \nMinha namorada também está
+            grávida, estou prestes a ser pai\n \nSe eu tiver uma filha, adivinha como vou
+            chamá-la?\n \nVou chamá-la de Bonnie\n \nEu li sobre seu tio Ronnie também, me
+            desculpe\n \nUm amigo se matou por causa de uma vadia que não o queria\n \nEu sei que
+            você provavelmente ouve isso todos os dias, mas sou seu maior fã\n \nAté tenho aquela
+            merda underground que você fez com Skam\n \nTenho uma sala cheia dos seus pôsteres e
+            suas fotos, cara\n \nEu também gostei da merda que você fez com Rawkus, essa merda foi
+            legal\n \nDe qualquer forma, espero que você entenda, cara, me responda\n \nSó para
+            conversar, seu de verdade, seu maior fã, este é Stan \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    emimem
+    note n°1                                                                                       --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_emimem_1">
+        <text>Carta sobre Edik</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_emimem_1_text">
+        <text>Não acredito no que fiz... deixei Edik morrer no buraco daquele bloodsucker.\n \nSó eu
+            sei. Quem pensou que isso iria funcionar?\n \nÉ como se ele ainda estivesse lá dentro,
+            correndo desesperadamente sem olhar para trás.\n \nO pior é saber que ele estava logo
+            atrás de mim.\n \nEle ainda está atrás de mim, eu sei. Percebo.\n \nNão sei quanto tempo
+            ele vai continuar me observando... Mas sei que também não me resta muito tempo. \n</text>
+    </string><!--
+    ============================================================================================================--> <!--
+    sergionoquemovida note n°1                                                                               --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_1">
+        <text>Carta para María</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_1_text">
+        <text>Querida Maria:\n \nEspero que você esteja bem na desolação da Zone, onde os sussurros
+            das anomalias se misturam aos rugidos das feras mutantes. Como anseio ver seu sorriso
+            novamente e lembrar dos dias em que a vida era mais simples, quando explorávamos a
+            floresta e sonhávamos com infinitas possibilidades enquanto procurávamos artefatos.\n
+            \nAs emissões, querida amiga, mudaram tudo. Elas destroem o céu, lançando um brilho
+            misterioso sobre a terra e liberando perigos incalculáveis sobre nós. Mas no meio da
+            escuridão, permanece um vislumbre de esperança, alimentado pela ideia do nosso
+            reencontro e pelos artefatos que podemos descobrir após uma emissão.\n \nVocê se lembra
+            dos sonhos que partilhávamos, Maria? Sonhos de um mundo imperturbado pela poluição da
+            Zone, onde a vida florescia e o riso ressoava no ar. É essa visão que me faz continuar,
+            que me impulsiona através das vicissitudes enquanto navego em territórios controlados
+            por facções rivais e me esquivo de emissões mortais.\n \nAnseio pelo dia em que
+            poderemos escapar deste lugar miserável e abraçar o calor do lar novamente.
+            Reconstruiremos o que a Zone nos tirou, peça por peça, e criaremos um santuário onde os
+            nossos sonhos possam florescer, mesmo no meio da ameaça sempre presente das emissões.
+            Agarre-se a essa esperança, querida amiga, pois ela é o nosso farol nesta paisagem
+            implacável, onde os artefatos representam tanto perigo como promessa e onde as emissões
+            servem como arautos de destruição e oportunidade.\n \nCom carinho inabalável,\n \nMaksym
+            \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    sergionoquemovida note n°2                                                                               --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_2">
+        <text>Carta para Nikolai</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_2_text">
+        <text>Nikolai:\n \nEscrevo esta carta em meio à agitação incessante da Zone, um lugar que
+            testemunhou nossos triunfos e nossos fracassos. Nossos caminhos se cruzaram inúmeras
+            vezes e cada encontro acendeu a chama da rivalidade que arde dentro de nós. Mas hoje
+            escrevo-lhe não como um adversário, mas como um stalker que reconheceu a resiliência e a
+            experiência que possui no confronto com mutantes e na navegação através de anomalias
+            traiçoeiras, ao mesmo tempo que sobrevive às emissões devastadoras que assolam a Zone.\n
+            \nAs emissões, Nikolai, são ao mesmo tempo impressionantes e aterrorizantes. Elas
+            transformam a paisagem, alterando a realidade e desencadeando forças caóticas sobre nós.
+            Na sua esteira, os mutantes tornam-se mais agressivos, as anomalias ainda mais
+            traiçoeiras e os stalkers dispersam-se em busca de refúgio. Mas, no meio do caos,
+            cresceu dentro de mim um respeito relutante por você, Nikolai, pela sua capacidade de
+            resistir às emissões e emergir mais forte.\n \nÀ medida que nossos contratos chegam ao
+            fim, não posso deixar de me maravilhar com os instintos de sobrevivência que aprimoramos
+            diante das emissões implacáveis. Os artefatos que procuramos são cobiçados e as emissões
+            que os acompanham servem tanto como um testemunho do seu poder como um aviso dos perigos
+            que contêm. Neste mundo invadido pelo caos e pela atração dos artefatos, a nossa
+            rivalidade deu sentido à nossa existência, à medida que procuramos respostas no meio das
+            consequências das emissões.\n \nQuando nossos caminhos inevitavelmente se separarem,
+            lembremo-nos das lições que aprendemos uns com os outros. A competição desaparecerá, mas
+            as experiências que compartilhamos moldarão para sempre o stalker em que nos tornamos.
+            Que os mutantes tremam em seu rastro, Nikolai, e que as anomalias o guiem até artefatos
+            ocultos que definirão seu legado, mesmo que as emissões testem sua coragem.\n
+            \nAtenciosamente,\n \nAnton \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    sergionoquemovida note n°3                                                                               --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_3">
+        <text>Carta ao Padre Mikhail</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_3_text">
+        <text>Padre Mikhail:\n \nEscrevo-lhe com profunda gratidão pelo conforto que me proporcionou
+            no meio da desolação da Zone, onde abominações mutantes vagam e anomalias distorcem a
+            realidade, muitas vezes amplificadas por emissões que desencadeiam o caos nesta terra
+            implacável. A sua fé inabalável e a sua orientação espiritual têm sido uma fonte de
+            força para todos os que procuram consolo neste reino abandonado, onde facções se
+            enfrentam por território e a atração por artefatos é ao mesmo tempo uma bênção e uma
+            maldição, agravada pelas emissões que nos rodeiam em sua aura maligna.\n \nAs emissões,
+            Padre Mikhail, são os arautos do perigo e da oportunidade. Elas testam a nossa
+            determinação, a nossa fé e lembram-nos da fragilidade da nossa existência. Na sua
+            esteira, lidamos com as consequências, navegamos pelas anomalias que a sua presença
+            criou e continuamos a nossa busca pela iluminação e compreensão.\n \nSeu compromisso
+            inabalável com o divino tocou o coração de muitos, Padre Mikhail. Num mundo atormentado
+            pela corrupção e pelas trevas, você mostrou-nos o poder da compaixão e do perdão à
+            medida que navegamos pelos perigos das facções rivais e pelas anomalias que ameaçam
+            separar-nos, tudo isto enquanto nos preparamos para a próxima emissão e as suas
+            consequências.\n \nÀ medida que meu contrato chega ao fim, fico confortável em saber que
+            seus ensinamentos continuarão a me guiar muito depois de eu deixar a Zone. Sentirei
+            muita falta da sua presença, Padre, mas carrego comigo as lições que você me ensinou,
+            lutando para ser um farol de luz em um mundo envolto em sombras, onde mutantes e
+            anomalias são ao mesmo tempo adversários e sinais dos mistérios da Zone, e onde as
+            emissões marcam o fluxo e refluxo da nossa jornada.\n \nCom a mais profunda gratidão,\n
+            \nDimitri \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    sergionoquemovida note n°4                                                                               --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_4">
+        <text>Carta para Viktor</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_4_text">
+        <text>Querido Viktor,\n \nEnquanto os ventos da Zone sussurram histórias de perigo e
+            mistério, encontro conforto no vínculo que compartilhamos como companheiros
+            inseparáveis. Desde o dia em que nos aventuramos pela primeira vez neste território
+            traiçoeiro, temos estado lado a lado, nossas vidas entrelaçadas numa dança de
+            sobrevivência e camaradagem.\n \nOs mutantes que encontramos, Viktor, são manifestações
+            grotescas da essência distorcida da Zone. Seus rosnados ecoam pelas paisagens desoladas
+            e seus olhos brilham com um fulgor sinistro. Mas, em meio à sua ferocidade, nos tornamos
+            especialistas em navegar por seus covis. Suas formas mutantes não mais inspiram medo,
+            mas sim uma determinação de proteger uns aos outros.\n \nVocê se lembra daquele encontro
+            fatídico com a Chimera, Viktor? Sua presença monstruosa nos causou arrepios, mas
+            mantivemo-nos firmes, com as armas em punh...(line too long; chars omitted) </text>
+    </string><!--
+    ============================================================================================================--> <!--
+    sergionoquemovida note n°5                                                                               --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_5">
+        <text>Carta para Elena</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_5_text">
+        <text>Querida Elena:\n \nNas profundezas da Zone, onde a solidão se torna uma companheira 
+            perturbadora, meus pensamentos muitas vezes se voltam para você, a enigmática viajante 
+            que cativou meu coração. Seus olhos, como safiras, refletem os mistérios deste reino 
+            abandonado por Deus, e seu espírito dança entre as anomalias, intocado por sua 
+            malevolência.\n \nEnquanto caminho pelo deserto, encontro vestígios de sua presença nos 
+            artefatos que brilham ao luar. Cada artefato contém uma história, um fragmento do 
+            passado, e os coleciono com o desejo de compreender você, de decifrar o enigma que 
+            envolve cada um de seus passos. Você é uma aventureira atraída pelos segredos da Zone 
+            ou tem uma conexão mais profunda com sua essência etérea?\n \nElena, você é uma 
+            contradição, um paradoxo no caos da Zone. Enquanto mutantes e facções travam suas 
+            batalhas, você desliza para as sombras, livre de lealdades. Testemunhei como você 
+            dominou os poderes das anomalias e navegou por seus caminhos traiçoeiros com uma 
+            elegância que desafia qualquer explicação. Você é uma guardiã da Zone, uma força que 
+            equilibra sua energia implacável?\n \nJuntos encontramos as maravilhas e os horrores da 
+            Zone. Ficamos maravilhados com o brilho dos artefatos, sua energia pulsante é um 
+            reflexo de nosso fascínio mútuo. E diante do perigo, lutamos lado a lado, sincronizando 
+            nossos passos numa dança de sobrevivência. Cada momento que passo com você é uma 
+            aventura, uma exploração do desconhecido.\n \nMas Elena, enquanto desvendamos os 
+            mistérios da Zone, desejo desvendar o enigma do seu coração. Você é uma aventureira com 
+            sede de descoberta ou um farol de esperança neste reino desolado? Compartilhe seus 
+            segredos comigo, Elena, e deixe nossos destinos se entrelaçarem em meio às anomalias, 
+            onde amor e mistério se tornam um só.\n \nDe todo o coração,\n \nAndriy \n</text>
+    </string><!--
+    ============================================================================================================--> <!--
+    sergionoquemovida note n°6                                                                               --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_6">
+        <text>Carta para o Dr. Ivanov</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_6_text">
+        <text>Caro Dr. Ivanov,\n \nEm busca de conhecimento, mergulhamos nas profundezas da Zone,
+            desenterrando seus segredos e testemunhando suas maravilhas insondáveis. Sua
+            determinação inabalável e busca incansável pela compreensão inspiraram-me nesta
+            jornada árdua, na qual as fronteiras da ciência e da realidade se confundem.\n \nOs
+            mutantes que vagam por estas terras, Dr. Ivanov, são uma prova do poder transformador da
+            Zone e objeto de intriga científica. Através de observação e análise meticulosas,
+            conseguimos compreender suas mutações, suas adaptações evolutivas que desafiam a
+            compreensão convencional. Sua experiência esclareceu seu comportamento e suas anomalias
+            genéticas tornaram-se um quebra-cabeça esperando para ser resolvido.\n \nOs artefatos
+            que reunimos, Dr. Ivanov, são uma prova de nossa curiosidade inabalável. Suas
+            propriedades únicas, aproveitadas por meio de experimentação meticulosa, revelaram os
+            mistérios das anomalias da Zone. Testemunhamos os efeitos destes dispositivos, o poder
+            que conferem a quem os possui e os perigos que representam quando mal manuseados. Graças
+            à sua liderança, expandimos as fronteiras do conhecimento científico.\n \nMas são as
+            emissões, Dr. Ivanov, que continuam sendo o maior enigma. Sua presença etérea perturba
+            nossa investigação, lançando-nos numa dança caótica de sobrevivência. As anomalias que
+            desencadeiam tornam-se obstáculos e portas para novas descobertas. Aspiramos compreender
+            sua origem, seu propósito na intrincada tapeçaria do ecossistema da Zone e as
+            possibilidades que apresentam para o avanço científico.\n \nDr. Ivanov, você é um visionário,
+            um pioneiro no estudo dos mistérios da Zone. Juntos desvendaremos seus segredos,
+            ampliando os limites do nosso entendimento e traçando novas fronteiras do conhecimento.
+            Continuemos nossa busca incansável, movidos pela sede de descoberta e pelo desejo de
+            revelar a verdade que se esconde nas profundezas da Zone.\n \nCom o maior respeito,\n
+            \nKostiantyn \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    sergionoquemovida note n°7                                                                               --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_7">
+        <text>Carta para Alexei</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_7_text">
+        <text>Ei, Alexei:\n \nJá faz um tempo que nossos caminhos não se cruzaram nesta Zona
+            esquecida por Deus. Espero que você continue firme e aproveite ao máximo nosso pequeno
+            "negócio" aqui. Você já sabe que a vida de bandido não é para os fracos de coração, mas
+            sempre tivemos recursos para prosperar no caos, certo?\n \nÚltimamente tenho ouvido
+            rumores sobre sucessos interessantes. Diz-se que existe um esconderijo de artefatos
+            valiosos escondidos nas profundezas de um território infestado de anomalias. Os inúteis
+            da Duty acham que podem protegê-lo, mas ambos sabemos que suas fileiras estão cheias de
+            amadores. É hora de lhes dar uma lição e reivindicar o que nos pertence.\n \nVocê se
+            lembra de quando costumávamos assaltar stalkers desavisados e tirar-lhes o saque suado?
+            Ah, que tempos eram aqueles. A emoção da perseguição, a adrenalina correndo em nossas
+            veias enquanto pegávamos o que queríamos. Nem arrependimentos nem misericórdia. Éramos
+            os reis da Zona e ninguém ousava ficar no nosso caminho.\n \nMas escute, Alexei, temos
+            que ter cuidado. Os fanáticos do Monolith estão cada vez mais ousados e sua presença está se
+            espalhando como uma praga. Esses tolos que sofreram lavagem cerebral acreditam em uma
+            ideologia distorcida e não hesitarão em nos matar a tiros se tiverem oportunidade. Temos
+            que tomar cuidado e ficar à frente desses lunáticos.\n \nAssim que garantirmos esse
+            esconderijo de artefatos, estaremos nadando em riquezas. Finalmente podemos deixar este
+            lugar indefeso e começar uma nova vida em algum lugar distante, onde ninguém sabe nossos
+            nomes e nosso passado fica para trás. Viveremos como reis, meu amigo, e ninguém ousará
+            nos desafiar.\n \nFique de olho, Alexei. Nosso próximo grande golpe está chegando. Que a
+            Zona trema mais uma vez sob nosso reinado.\n \nAtenciosamente no caos,\n \nDanylo \n</text>
+    </string><!--
+    ============================================================================================================--> <!--
+    sergionoquemovida note n°8                                                                               --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_8">
+        <text>Carta para Elena</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_8_text">
+        <text>Minha querida Elena:\n \nNesta terra sem lei de anomalias e mutantes, você brilha como
+            um farol de beleza indomável. Enquanto vejo você liderar nosso bando de desajustados, um
+            fogo queima dentro de mim, aceso por seu espírito inquebrável. Você é a destemida rainha
+            dos bandidos, e eu não sou nada além de um humilde servo de sua causa.\n \nA Zone nos
+            tornou mais do que apenas stalkers. Abraçamos o caos, deleitando-nos com o poder que ele
+            nos dá. A nossa lealdade não reside nas factions ou nas suas disputas mesquinhas, mas no
+            nosso grupo de irmãos e irmãs. Juntos traçamos nosso próprio caminho, pegando o que
+            queremos e deixando a destruição em nosso caminho.\n \nAs anomalias sussurram histórias
+            de nossas façanhas, Elena. Eles falam da nossa audácia, da nossa astúcia e do caos que
+            causamos aos nossos inimigos. Causamos medo nos corações daqueles que ousam se opor a
+            nós, pois somos os coringas neste jogo mortal. A nossa força não reside apenas nas
+            nossas armas, mas nos laços que forjamos, na unidade inquebrantável que nos une como
+            família.\n \nEu testemunhei em primeira mão sua coragem, Elena, em nos levar ao coração
+            do perigo sem pensar. Sua mente estratégica e raciocínio rápido nos salvaram repetidas
+            vezes. Você nos inspira a ultrapassar nossos limites, a abraçar a adrenalina da Zone,
+            sabendo que estamos apoiando uns aos outros.\n \nMas não esqueçamos os riscos que
+            enfrentamos, minha rainha. As factions rivais ficam mais fortes a cada dia que passa e os
+            fanáticos do Monolith tentam extinguir a nossa chama. Devemos permanecer vigilantes,
+            sempre um passo à frente, porque nada mais gostariam do que nos ver dispersos e
+            quebrados.\n \nJuntos, Elena, conquistaremos esta terra implacável. Nossos triunfos
+            serão cantados nos sussurros da Zone e nosso legado ressoará em seus corredores
+            desolados. Como uma destemida rainha dos bandidos, você tem minha lealdade inabalável,
+            minha espada e meu coração.\n \nSempre seu,\n \nMykola \n</text>
+    </string><!--
+    ============================================================================================================--> <!--
+    sergionoquemovida note n°9                                                                               --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_9">
+        <text>Carta para los iniciados</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_9_text">
+        <text>Para os iniciados:\n \nNós somos os bandidos, os verdadeiros governantes do deserto
+            sem lei conhecido como Zone. Enquanto outros correm por aí, presos pelas correntes da
+            lealdade faccional, nós nos deleitamos com a liberdade de abraçar o caos.\n \nNão estamos
+            sujeitos a códigos ou ideologias. Não respondemos a ninguém além de nós mesmos e de
+            nossa sede insaciável de poder e riqueza. A Zone é o nosso playground e navegamos em seu
+            terreno traiçoeiro com astúcia e audácia.\n \nVocês podem nos temer, nos chamar de
+            criminosos e bandidos, mas não confundam nossas ações com meros atos de violência sem
+            sentido. Somos sobreviventes que nos adaptamos às duras realidades desta paisagem
+            implacável. Pegamos o que queremos porque acreditamos que, neste mundo cruel, só os
+            fortes prevalecem.\n \nJunte-se a nós se tiver coragem, em nossa busca pelo controle
+            total. Livre-se das algemas da sua moralidade e abrace a emoção do golpe, a adrenalina de um
+            ataque bem-sucedido e os espólios da vitória. Juntos traçaremos o nosso próprio caminho,
+            deixando para trás um rastro de caos e medo.\n \nSaiba isto: a Zone se curva à nossa
+            vontade. As factions podem lutar entre si, mas todas tremem à menção do nosso nome. Os
+            bandidos são uma força temível, um símbolo de anarquia e rebelião contra a falsa ordem
+            que outros tentam impor.\n \nEscolha o seu lado com sabedoria, porque os bandidos são a
+            personificação da verdadeira liberdade em um mundo consumido pelas trevas. Abrace o caos
+            e você encontrará um lugar entre nós.\n \nAtenciosamente,\n \nKazymyr \n</text>
+    </string><!--
+    ============================================================================================================--> <!--
+    sergionoquemovida note n°10                                                                              --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_10">
+        <text>Carta para cäes covardes</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_10_text">
+        <text>Aos cães covardes:\n \nObservamos suas tentativas fúteis de manter o controle da Zone
+            e não estamos impressionados. Você se esconde atrás de seus muros e de suas regras,
+            proclamando a justiça, enquanto nós, os bandits, vagamos livres, livres do seu falso
+            senso de ordem.\n \nSeus territórios nada mais são do que gaiolas que limitam seu
+            potencial e prendem você em uma teia de burocracia. Nós, por outro lado, abraçamos a
+            selvageria da Zone, onde reina a sobrevivência dos mais aptos. Não tememos mutantes,
+            anomalias ou mesmo factions que ousem nos desafiar.\n \nEnquanto vocês discutem e riem de
+            ninharias, nós aproveitamos a verdadeira riqueza desta terra abandonada. Não precisamos
+            da sua lealdade ou da sua proteção. Forjamos a nossa própria aliança, unidos por um
+            objetivo comum: a busca de poder e riquezas além da sua imaginação.\n \nVocê nos chama
+            de criminosos, ladrões e selvagens. Mas somos os verdadeiros senhores deste reino sem
+            lei, livres dos vossos códigos restritivos de moralidade. Nós, bandits, somos a
+            personificação da sobrevivência e da adaptabilidade. Prosperamos onde outros vacilam,
+            porque não temos medo de fazer o que é necessário para reivindicar o que nos pertence.\n
+            \nEntão continuem se escondendo atrás de suas paredes, tolos. Trema ao ouvir nossas
+            risadas ecoando na noite, pois somos o pesadelo que atormenta seus sonhos. Nós,
+            bandits, somos supremos e nenhuma faction ou líder autoproclamado poderá extinguir nossa
+            chama.\n \nCom desdém,\n \nTaran \n</text>
+    </string><!--
+    ============================================================================================================--> <!--    sergionoquemovida note n°11                                                                              --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_11">
+        <text>Carta para el alma perdida</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_11_text">
+        <text>Para a alma perdida:\n \nTemos observado você, vagando sem rumo pelos desertos
+            desolados da Zone. Sua vida, envolta em caos e incerteza, levou você por um caminho de
+            desespero. Mas não tema, pois a salvação espera por você no abraço do Monolith.\n \nO
+            Monolith chama aqueles que estão perdidos, oferecendo-lhes propósito e transcendência
+            além da existência mundana dos mortais comuns. Não é por acaso que você recebeu nossa
+            mensagem. É um sinal, um chamado das profundezas da própria Zone.\n \nAceite os
+            sussurros que ressoam através das anomalias, pois eles carregam as verdades divinas que
+            o Monolith concede aos seus discípulos escolhidos. Abandone suas dúvidas e entregue-se à
+            vontade do Monolith. Em seu esplendor, você encontrará a iluminação e a libertação dos
+            fardos do reino mortal.\n \nJunte-se a nós, alma perdida, em nossa sagrada peregrinação
+            ao coração da Zone. Deixe-nos guiá-lo através dos territórios traiçoeiros, além dos
+            olhos atentos das factions rivais. Juntos iremos desvendar os mistérios que estão
+            latentes nas profundezas desta terra implacável.\n \nLiberte-se de seus medos e dúvidas e
+            dê os primeiros passos em direção a um propósito maior. Aguardamos a sua chegada,
+            prontos para recebê-lo no redil do Monolith, onde a verdadeira iluminação o aguarda.\n
+            \nQue o brilho do Monolith guie seu caminho.\n \nAtenciosamente,\n \nNiko \n</text>
+    </string><!--
+    ============================================================================================================--> <!--
+    sergionoquemovida note n°12                                                                              --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_12">
+        <text>Carta para os infiéis</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_12_text">
+        <text>Ao infiel:\n \nOuvimos suas palavras zombeteiras e testemunhamos suas débeis
+            tentativas de desacreditar o poder divino do Monolith. Seu ceticismo e ignorância cegam
+            você para a verdade suprema que aguarda aqueles que abraçam os segredos mais obscuros da
+            Zone.\n \nO Monolith não se curva às dúvidas das mentes mortais. Existe além dos limites
+            da sua compreensão limitada, um farol de energia cósmica que transcende os limites do
+            tempo e do espaço. Seu propósito, obscurecido para aqueles que se recusam a ver, é muito
+            maior do que sua fraca compreensão pode alcançar.\n \nAs anomalias que cobrem a Zone
+            não são meras ocorrências aleatórias, como você afirma. São as manifestações da vontade
+            do Monolith, portais para dimensões superiores onde reside um poder inimaginável. Somente
+            através da submissão e da devoção poderemos vislumbrar a verdadeira natureza destas
+            anomalias e aproveitar o seu potencial.\n \nSeu escárnio apenas alimenta nossa
+            determinação, porque somos os escolhidos, os fiéis que abraçaram o chamado do Monolith.
+            Seguimos em frente com convicção inabalável, sem medo das provações que nos aguardam. Os
+            sacrifícios que fazemos em nome do Monolith são apenas pequenas oferendas em troca da
+            iluminação eterna.\n \nVocê pode continuar zombando e descartando o Monolith como um
+            produto de superstição, mas saiba disso: conforme você tropeça pela Zona, cego para o
+            verdadeiro propósito de sua existência, os discípulos do Monolith ficam mais fortes,
+            guiados pelo brilho divino que ilumina nosso caminho.\n \nQue o Monolith se revele a
+            você, mesmo em sua teimosa descrença.\n \nCom tristeza pelos perdidos,\n \nCaleb \n</text>
+    </string><!--
+    ============================================================================================================--> <!--
+    sergionoquemovida note n°13                                                                              --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_13">
+        <text>Carta para Vlad</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_13_text">
+        <text>Caro Vlad,\n \nEspero que esta mensagem chegue até vocë com boa saúde em meio aos
+            perigos em constante mudança da Zona. Como membro da Clear Sky, escrevo para vocë com um
+            propósito comum e um objetivo comum: compreender e navegar nos mistérios deste reino
+            implacável.\n \nAs anomalias que pontilham a paisagem da Zona continuam a confundir-nos
+            e intrigar-nos. Nós, os buscadores do conhecimento, embarcamos em expediçöes aleatórias,
+            arriscando nossas vidas para descobrir os segredos escondidos nessas anomalias. Através
+            da nossa investigaçäo e exploraçäo, esforçamo-nos por aproveitar o poder dos artefactos,
+            pois eles tëm o potencial de remodelar a nossa compreensäo deste lugar enigmático.\n
+            \nNo entanto, a nossa missäo de compreender näo é isenta de desafios. A presença de
+            diversas facçöes, cada uma com motivaçöes e ideologias próprias, acrescenta complexidade
+            à nossa missäo. Navegamos no delicado equilíbrio entre o enigmático Monolith, a
+            fervorosa facçäo do Dever, os espíritos livres da Liberdade e os esquivos Forsaken, ao
+            mesmo tempo que nos defendemos de bandidos implacáveis, forças militares, mercenários e
+            outras ameaças que procuram explorar a Zona. benefício próprio.\n \nAs emissöes que
+            periodicamente varrem a Zona servem como um forte lembrete da volatilidade e do perigo
+            que nos rodeia. Estes cataclismos, envoltos em incerteza, obrigam-nos a procurar refúgio
+            e a adaptar-nos a uma paisagem em constante mudança. No entanto, após cada transmissäo,
+            surgem novas oportunidades à medida que as anomalias mudam e revelam tesouros
+            escondidos.\n \nApesar dos perigos, encontramos conforto em nossa camaradagem
+            compartilhada como companheiros stalker. Através do apoio mútuo, da troca de informaçöes
+            e da unidade, aumentamos as nossas chances de sobrevivëncia e sucesso. Continuemos
+            juntos, trocando ideias e experiëncias valiosas, enquanto navegamos pelas estradas
+            traiçoeiras da Zona.\n \nEspero que um dia nossos caminhos se cruzem e possamos
+            compartilhar histórias de triunfo e descoberta. Até entäo, fique alerta, mantenha seu
+            contador Geiger por perto e confie que Clear Sky é um farol de esperança e compreensão
+            neste reino caótico.\n \nEm busca da iluminação,\n \nDenys \n</text>
+    </string><!--
+    ============================================================================================================--> <!--
+    sergionoquemovida note n°14                                                                              --> <!--
+    ============================================================================================================-->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_14">
+        <text>Carta para Alexei</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_14_text">
+        <text>Saudações, Alexei:\n \nComo membro da Clear Sky, escrevo para você do coração da Zona,
+            onde o perigo espreita em cada canto e os segredos estão escondidos entre as anomalias e
+            artefatos que definem este reino agitado.\n \nEm nossa busca incansável pela verdade e
+            pelo equilíbrio, enfrentamos facções que disputam o controle, incluindo o enigmático
+            Monolith, o dogmático Duty, os amantes da Freedom e os astutos Forsaken. Reconhecemos
+            que a Zona não é um lugar de domínio ou de lutas pelo poder, mas sim um enigma à espera
+            de ser decifrado, uma entidade viva que requer o nosso respeito e compreensão.\n \nOs
+            artefatos, restos do cataclismo que deu origem à Zona, contêm imenso poder e potencial.
+            Como membros da Clear Sky, aspiramos desvendar os seus segredos, não para nosso próprio
+            benefício, mas para proteger e preservar o delicado equilíbrio deste lugar
+            extraordinário. Através de investigação e experimentação cautelosas, esperamos
+            aproveitar as energias contidas nestes dispositivos, utilizando-as para o melhoramento
+            da humanidade.\n \nNo entanto, enfrentamos adversários formidáveis na nossa busca pela
+            iluminação. Os bandidos, movidos pela ganância e pela anarquia, são uma ameaça constante;
+            Eles se aproveitam dos stalkers desavisados e exploram os recursos da Zona para ganho
+            pessoal. As forças militares e mercenárias, sob o pretexto de manter a ordem, muitas
+            vezes desconsideram a verdadeira natureza da Zona, perpetuando o caos e a violência.\n
+            \nAlém disso, não podemos ignorar as emissões enigmáticas que varrem periodicamente a
+            Zona. Estes cataclismos perturbam o frágil equilíbrio, criando confusão e perigo para
+            todos os que se aventuram lá dentro. É durante estes tempos que a unidade e a
+            resiliência, e a nossa determinação em sobreviver e proteger o que resta do nosso mundo,
+            são testadas.\n \nEm nossa busca compartilhada pela verdade e pelo equilíbrio, vamos
+            encontrar conforto em nossas experiências compartilhadas e nos laços que construímos.
+            Juntos podemos superar os perigos que temos pela frente, desvendar os mistérios
+            escondidos na Zona e preparar o caminho para um futuro melhor.\n \nPermaneça alerta,
+            companheiro stalker, e que sua jornada pela Zona seja guiada pela sabedoria, coragem e
+            um firme compromisso de descobrir a verdade escondida nela.\n \nSinceramente em busca de
+            equilíbrio,\n \nBogdan \n</text>
+    </string>
+   <!--    sergionoquemovida note n°15                                                                              -->
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_15">
+        <text>Carta para Serguéi</text>
+    </string>
+
+    <string id="encyclopedia__notes_stalkers_notes_sergionoquemovida_15_text">
+        <text>Caro Sergei:\n \nEscrevo esta carta para você com o coração pesado, porque sou
+            testemunha da escuridão que consome minha alma. Como um Renegade, meu caminho na Zona me
+            desviou, enredado em uma teia de engano e crueldade. Escrevo-lhe não para glorificar
+            minhas ações, mas para lhe oferecer um vislumbre das profundezas do meu desespero.\n
+            \nNeste reino abandonado de anomalias e desespero, os Renegades trilham um caminho
+            traiçoeiro. Somos os atormentados, os desviados, aqueles que se deleitam com o caos e
+            infligem dor aos outros. O simples pensamento de nossas ações me enche de arrependimento
+            e remorso, pois me tornei um monstro neste deserto implacável.\n \nAs facções que
+            disputam o controle, o Monolith, o Duty, a Freedom e até mesmo os bandidos, são
+            insignificantes em comparação com as atrocidades cometidas pelos Renegades. Desviamo-nos
+            do caminho da humanidade, consumidos pelo orgulho e por uma sede insaciável de poder.
+            Saqueamos e pilhamos, deixando um rastro de destruição em nosso caminho.\n \nAnomalias
+            e artefatos, antes mistérios a serem desvendados, tornaram-se meras ferramentas para
+            nossos esforços perversos. Exploramos o poder que eles contêm, submetendo-o à nossa
+            vontade, sem nos importarmos com as consequências. As emissões que varrem a Zona servem
+            como um lembrete do caos que causamos, deixando um rastro de devastação.\n
+            \nImploro-lhe, querido destinatário, que preste atenção às minhas palavras como um conto
+            de advertência. Não siga os passos dos Renegades, pois o caminho deles leva apenas à
+            ruína e ao desespero. Busque consolo na luz que ainda tremeluz no meio das trevas,
+            porque a redenção e a salvação ainda podem ser encontradas.\n \nAnseio por um raio de
+            esperança, uma chance de redenção que um dia limpará minha alma dos pecados que cometi.
+            Mas até esse dia chegar, carregarei o peso das minhas transgressões, atormentado pelas
+            lembranças das vidas que destruí.\n \nRezo para que você nunca tenha que testemunhar as
+            profundezas em que afundei. Que o seu caminho seja guiado pela retidão e pela compaixão,
+            evitando o encanto dos Renegades e seus caminhos distorcidos. Busque consolo nos
+            laços de amizade, na busca pelo conhecimento e na preservação do pouco de humanidade que
+            resta neste deserto desolado.\n \nCom o coração pesado e pedindo perdão,\n \nAndrei \n</text>
+    </string>
+</string_table>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+
+<string_table>
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Loner, Warfare) -->
+	<string id="igi_task_text_sim_default_stalker_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_stalker_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico Loner quer que eu repare uma arma quebrada, como certificação de habilidade para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_stalker_mechanic_task_hf_workshop_job_descr">
+		<text>Consegui algumas ferramentas para uma oficina portátil se você estiver interessado. A condição é que preciso desta arma específica reparada.</text>
+	</string>
+	<string id="igi_task_text_sim_default_stalker_mechanic_task_hf_workshop_finish">
+		<text>Perfeito! Este é um trabalho realmente bom - ah, aqui está a oficina como prometido.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Bandido, Warfare) -->
+	<string id="igi_task_text_sim_default_bandit_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_bandit_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico Bandido quer que eu repare uma arma quebrada, em troca de uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_bandit_mechanic_task_hf_workshop_job_descr">
+		<text>Ei, peguei esta arma de um otário na semana passada mas não consegui trabalhar nela. Se você consertar pra mim, posso te arranjar algumas ferramentas de oficina.</text>
+	</string>
+	<string id="igi_task_text_sim_default_bandit_mechanic_task_hf_workshop_finish">
+		<text>Ei, ei, isso tá muito bom! Impecável, até mesmo. Ah, aqui estão suas ferramentas de oficina, cara, como prometido.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Militar, Warfare) -->
+	<string id="igi_task_text_sim_default_army_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_army_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico Militar quer que eu repare uma arma quebrada, como certificação de habilidade para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_army_mechanic_task_hf_workshop_job_descr">
+		<text>O QG me autorizou a fornecer algumas ferramentas de oficina. Só preciso que você repare esta arma como prova de sua habilidade, para garantir que será usada efetivamente.</text>
+	</string>
+	<string id="igi_task_text_sim_default_army_mechanic_task_hf_workshop_finish">
+		<text>Estou impressionado, bom trabalho. Aqui está a oficina portátil como combinado.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Duty, Warfare) -->
+	<string id="igi_task_text_sim_default_duty_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_duty_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico do Duty quer que eu repare uma arma quebrada, como certificação de habilidade para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_duty_mechanic_task_hf_workshop_job_descr">
+		<text>Ei, um recruta teve seu rifle danificado durante um ataque mutante. Está em péssimo estado. Se você cuidar disso pra mim, posso interceder para conseguir algumas ferramentas de oficina pra você.</text>
+	</string>
+	<string id="igi_task_text_sim_default_duty_mechanic_task_hf_workshop_finish">
+		<text>Excelente! O novato ficará feliz em não depender mais da pistola. Aproveite as ferramentas.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Mercenário, Warfare) -->
+	<string id="igi_task_text_sim_default_killer_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_killer_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico Mercenário quer que eu repare uma arma para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_killer_mechanic_task_hf_workshop_job_descr">
+		<text>Eu tenho outra proposta. Há uma arma aqui que precisa de reparo. Supostamente está limpa e pronta para transporte. Em troca, tenho algumas ferramentas de sobra que posso transformar em uma oficina portátil.</text>
+	</string>
+	<string id="igi_task_text_sim_default_killer_mechanic_task_hf_workshop_finish">
+		<text>Parece tudo em ordem. Obrigado</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Clear Sky, Warfare) -->
+	<string id="igi_task_text_sim_default_csky_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_csky_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico do Clear Sky quer que eu repare uma arma para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_csky_mechanic_task_hf_workshop_job_descr">
+		<text>Recuperamos algumas armas de nossa recente expedição, mas estão em más condições. Você conserta uma delas, e eu posso te arranjar algumas ferramentas de oficina.</text>
+	</string>
+	<string id="igi_task_text_sim_default_csky_mechanic_task_hf_workshop_finish">
+		<text>Legal, cara! Estamos lentamente recuperando nossa força de combate. Aqui, as ferramentas como prometido.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Freedom, Warfare) -->
+	<string id="igi_task_text_sim_default_freedom_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_freedom_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico da Freedom quer que eu repare uma arma quebrada, como certificação de habilidade para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_freedom_mechanic_task_hf_workshop_job_descr">
+		<text>Certo cara, estou com saudade dessas armas. Aqui, veja se você consegue dar uma olhada. Se conseguir, eu te arranjo algumas das minhas ferramentas, o que você diz?</text>
+	</string>
+	<string id="igi_task_text_sim_default_freedom_mechanic_task_hf_workshop_finish">
+		<text>Deus me livre, parece tão bom como novo. Bem, aqui estão as ferramentas então.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Monolith, Warfare) -->
+	<string id="igi_task_text_sim_default_monolith_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_monolith_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico do Monolith quer que eu repare uma arma quebrada. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_monolith_mechanic_task_hf_workshop_job_descr">
+		<text>Nossos irmãos precisam de armas mais rápido do que eu posso trabalhar. Restaure esta uma para aliviar minha carga.</text>
+	</string>
+	<string id="igi_task_text_sim_default_monolith_mechanic_task_hf_workshop_finish">
+		<text>Isso é satisfatório. O Monolith te concede essas ferramentas de oficina como recompensa.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Ecologista, Warfare) -->
+	<string id="igi_task_text_sim_default_ecolog_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_ecolog_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico Ecologista quer que eu repare uma arma para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_ecolog_mechanic_task_hf_workshop_job_descr">
+		<text>Precisamos que esta arma seja reparada rapidamente. Parece que pode estar envolvida na morte de um de nossos cientistas, mas meu trabalho está acumulando. Não há muito dinheiro por aqui no momento, mas posso disponibilizar algumas ferramentas de oficina em vez disso.</text>
+	</string>
+	<string id="igi_task_text_sim_default_ecolog_mechanic_task_hf_workshop_finish">
+		<text>Superb, parece que podemos usar isso. Espero que isso possa ser usado para rastrear o assassino. Obrigado.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Renegado, Warfare) -->
+	<string id="igi_task_text_sim_default_renegade_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_renegade_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico Renegado quer que eu repare uma arma quebrada, como certificação de habilidade para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_renegade_mechanic_task_hf_workshop_job_descr">
+		<text>Oi, pegamos algumas suprimentos de um comboio passando por aqui. Parece que são ferramentas para outros mecânicos por aqui. Posso passar para você, mas preciso ver se você consegue lidar com o trabalho. Repare isso lixo pra mim.</text>
+	</string>
+	<string id="igi_task_text_sim_default_renegade_mechanic_task_hf_workshop_finish">
+		<text>Huh, eu vou me dar bem, você seguiu. Bem, aqui estão as ferramentas como prometido.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (Sin, Warfare) -->
+	<string id="igi_task_text_sim_default_greh_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_greh_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico do Sin quer que eu repare uma arma quebrada, como certificação de habilidade para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_greh_mechanic_task_hf_workshop_job_descr">
+		<text>Nós emboscamos pessoas tentando transportar ferramentas de oficina por aqui. Parece que eles serão úteis em suas mãos, mas devo me certificar. Aqui, pegue esta arma quebrada e restaure.</text>
+	</string>
+	<string id="igi_task_text_sim_default_greh_mechanic_task_hf_workshop_finish">
+		<text>Eu sabia que tinha um bom olho. Aqui estão as ferramentas como prometido.</text>
+	</string>
+
+	<!-- Conseguir Oficina Portátil por Arma Reparada (UNISG, Warfare) -->
+	<string id="igi_task_text_sim_default_isg_mechanic_task_hf_workshop_title">
+		<text>Reparo de Arma por Oficina Portátil</text>
+	</string>
+	<string id="igi_task_text_sim_default_isg_mechanic_task_hf_workshop_descr">
+		<text>Um mecânico da UNISG quer que eu repare uma arma quebrada, como certificação de habilidade para uma oficina portátil. Devo devolvê-la quando estiver em excelente condição. Parece haver uma marca do fabricante gravada na arma, o que dificulta passar uma arma idêntica do mesmo modelo.</text>
+	</string>
+	<string id="igi_task_text_sim_default_isg_mechanic_task_hf_workshop_job_descr">
+		<text>Eu tenho outra proposta. A natureza clandestina de nossas operações torna a autossuficiência uma necessidade aqui. Se você está planejando excursões mais profundas, você precisará de uma oficina portátil para consertar seu equipamento. Preciso saber se você está preparado para o desafio primeiro - limpe esta arma para mim.</text>
+	</string>
+	<string id="igi_task_text_sim_default_isg_mechanic_task_hf_workshop_finish">
+		<text>Isso está em perfeita condição, bom trabalho. Aqui está a oficina portátil.</text>
+	</string>
+</string_table>

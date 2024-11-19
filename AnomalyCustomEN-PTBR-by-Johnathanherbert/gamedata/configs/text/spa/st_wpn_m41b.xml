@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!-- Traduzido por johnathanherbert -->
+<string_table>
+	<string id="st_wpn_m41b">
+		<text>Mauser m/41B</text>
+	</string>
+	<string id="st_wpn_m41b_descr">
+		<text>O rifle de precisão sueco m/41B, também conhecido como Gevär m/41B, é um famoso rifle de ferrolho com uma longa história no serviço militar sueco. Desenvolvido em meados do século XX, esta arma de precisão é conhecida pela sua excepcional precisão e confiabilidade. Possui um cano pesado distinto e operação estilo Mauser, tornando-o uma escolha favorita entre os atiradores. O m/41B tornou-se conhecido como um símbolo das proezas da engenharia de armas de fogo sueca e é uma prova do compromisso do país em produzir rifles militares de primeira linha.\n \n%c[0,255,255,255]CARACTERÍSTICAS:\n
+%c[d_cyan] • %c[0,255,255,255]Origem: %c[ui_gray_1]Suécia \n
+%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Carl Gustaf \n</text>
+	</string>
+</string_table>
