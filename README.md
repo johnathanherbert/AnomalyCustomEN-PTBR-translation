@@ -1,0 +1,1 @@
+# AnomalyCustomEN-PTBR-translation
