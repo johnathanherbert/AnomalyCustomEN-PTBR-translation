@@ -22,19 +22,19 @@ Uma tradução completa e profissional do mod Anomaly Custom para Português do 
 ## 🖼️ Demonstração
 
 <p align="center">
-  <img src="./assets/unknown_2024.11.19-00.02.png" alt="Exemplo de Diálogo" width="400"/>
+  <img src="../assets/unknown_2024.11.19-00.02.png" alt="Exemplo de Diálogo" width="400"/>
   <br>
   <em>Tradução completa do menu do jogo</em>
 </p>
 
 <p align="center">
-  <img src="./assets/unknown_2024.11.19-00.15.png" alt="Interface Traduzida" width="400"/>
+  <img src="../assets/unknown_2024.11.19-00.15.png" alt="Interface Traduzida" width="400"/>
   <br>
   <em>Interface do usuário traduzida mantendo nomes originais de itens e armamentos</em>
 </p>
 
 <p align="center">
-  <img src="./assets/unknown_2024.11.19-00.13.png" alt="Inventário Traduzido" width="400"/>
+  <img src="../assets/unknown_2024.11.19-00.13.png" alt="Inventário Traduzido" width="400"/>
   <br>
   <em>Sistema de inventário com descrições em português</em>
 </p>
@@ -60,11 +60,6 @@ Uma tradução completa e profissional do mod Anomaly Custom para Português do 
 Encontrou um erro ou quer ajudar a melhorar a tradução? 
 - Abra uma [Issue](https://github.com/seu-usuario/AnomalyCustomEN-PTBR-translation/issues)
 
-## 📈 Progresso da Revisão
-
-<p align="center">
-  <img src="./assets/revision-progress.png" alt="Gráfico de Progresso" width="600"/>
-</p>
 
 ## 📝 Notas de Atualização
 
@@ -87,7 +82,7 @@ Se você gostou do projeto e deseja contribuir:
 **Chave Pix:** `016508d2-3500-4f82-9b67-07a9c7710861`
 
 <p align="center">
-  <img src="./assets/qrcode.jpeg" alt="QR Code Pix" width="150"/>
+  <img src="../assets/qrcode.jpeg" alt="QR Code Pix" width="150"/>
 </p>
 
 </details>
